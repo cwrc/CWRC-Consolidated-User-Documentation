@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_yyc_4ld_nw">
+    <title>Visualize a single document (manual)</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Navigate to the document page within CWRC.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the Manage tab.</cmd>
+            </step>
+            <step>
+                <cmd>Click on Bagit.</cmd>
+            </step>
+            <step>
+                <cmd>Copy the URL from the results page.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to <xref href="http://voyant-tools.org" format="html" scope="external"></xref></cmd>
+            </step>
+            <step>
+                <cmd>Paste the URL into the upload box and click on "Reveal".</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
