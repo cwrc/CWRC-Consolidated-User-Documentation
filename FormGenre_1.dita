@@ -18,15 +18,15 @@
     </metadata>
   </prolog>
   <glossentry id="ddl">
-    <glossterm>Artist's book</glossterm>
-    <glossdef></glossdef>
+    <glossterm>Artist's Book</glossterm>
+    <glossdef>Books only written by Abi Lemak!</glossdef>
   </glossentry>
   <glossentry id="glossentry_mtl_x1d_nw">
     <glossterm>Book</glossterm>
     <glossdef></glossdef>
   </glossentry>
   <glossentry id="glossentry_bvm_x1d_nw">
-    <glossterm>Born digital</glossterm>
+    <glossterm>Born Digital</glossterm>
     <glossdef></glossdef>
   </glossentry>
   <glossentry id="glossentry_dln_x1d_nw">
@@ -95,6 +95,46 @@
   </glossentry>
   <glossentry id="glossentry_sft_x1d_nw">
     <glossterm>Pamphlet</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_s25_fcd_nw">
+    <glossterm>Pamphlet</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_ym5_fcd_nw">
+    <glossterm>Part</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_s55_fcd_nw">
+    <glossterm>Periodical</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_ycv_fcd_nw">
+    <glossterm>Photograph</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_mjv_fcd_nw">
+    <glossterm>Realia</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_frv_fcd_nw">
+    <glossterm>Scrapbook</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_oxv_fcd_nw">
+    <glossterm>Sheet music</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_onw_fcd_nw">
+    <glossterm>Sound recording</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_evw_fcd_nw">
+    <glossterm>Video Recording</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_y1x_fcd_nw">
+    <glossterm>Website</glossterm>
     <glossdef></glossdef>
   </glossentry>
 </glossgroup>
