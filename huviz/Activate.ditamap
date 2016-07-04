@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Graph Nodes</title>
+ <topicref href="Activate_Concept.dita"></topicref>
+ <topicref href="Activate_Manually.dita"></topicref>
+</map>

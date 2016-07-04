@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_msq_lxh_v5">
+    <title>Activate Manually</title>
+    <shortdesc>Graph nodes using the "drag and drop" method with the following steps.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-03-02"></revised>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context></context>
+        <steps>
+            <step>
+                <cmd>Click and hold the node, illuminating the circular green shelf.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae551d3f1-370b-4b0c-b8ef-d1bd008b84e8/datastream/OBJ/view" id="image_vw5_spm_2v" align="left"></image></cmd>
+            </step>
+            <step>
+                <cmd>Drag and drop the node inside the circle.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Afaf3510f-d100-48cc-bd97-2ef4fd853b44/datastream/OBJ/view" id="image_qfm_bqm_2v" align="left"></image></cmd>
+            </step>
+        </steps>
+        <result>Node has linked with a Hub and is now in an Active state.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A968d07bf-e429-4525-b214-bba1365f7e16/datastream/OBJ/view" id="image_pqg_3qm_2v" align="left"></image><note>In the previous example, the node was dragged into the central Graph from the Shelf. However, a node can also be Activated by dragging it from the Discard bin.</note></result>
+    </taskbody>
+    <related-links>
+        <link href="Activate_Concept.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+    </related-links>
+</task>

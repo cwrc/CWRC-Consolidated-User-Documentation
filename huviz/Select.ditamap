@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Select Nodes</title>
+ <topicref href="Select_Concept.dita"></topicref>
+ <topicref href="Select_Identify.dita"></topicref>
+ <topicref href="Select_Manually.dita"></topicref>
+ <topicref href="Select_All.dita"></topicref>
+ <topicref href="Select_Set_Class.dita"></topicref>
+ <topicref href="Select_BySearch.dita"></topicref>
+</map>

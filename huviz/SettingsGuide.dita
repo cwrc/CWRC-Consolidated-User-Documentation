@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ox3_m2z_1v">
+ <title>Settings Tab</title>
+ <shortdesc>Adjust the appearance of the graph using the Settings Tab.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A44a9d41b-477a-404f-aefa-3518b47c3643/datastream/OBJ/view" id="image_xp5_ffn_2v" align="center"></image></shortdesc>
+ <conbody>
+  <note>When working with large datasets, adjust the <b>Shelf Radius</b>, <b>Fisheye Zoom </b>and <b>Fisheye Radius</b> to separate the distance between nodes and "zoom in" on individual nodes.</note>
+  <table frame="all" rowsep="1" colsep="1" id="table_oqv_x2z_1v">
+   <title>SETTINGS REFENCE GUIDE</title>
+   <tgroup cols="2">
+    <colspec colname="c1" colnum="1" colwidth="1*"></colspec>
+    <colspec colname="c2" colnum="2" colwidth="5.09*"></colspec>
+    <thead>
+     <row>
+      <entry>ELEMENT</entry>
+      <entry>DESCRIPTION</entry>
+     </row>
+    </thead>
+    <tbody>
+     <row>
+      <entry><b>Focused Label Mag</b></entry>
+      <entry>Adjust <i>font size</i> of <i>Node labels</i> in <i>hover</i> mode.</entry>
+     </row>
+     <row>
+      <entry><b>Selected Node Mag</b></entry>
+      <entry>Adjust <i>size</i> of <i>Selected Nodes;</i> helps user see which Nodes will be effected by actions in the CommandsTab.</entry>
+     </row>
+     <row>
+      <entry><b>Node Radius</b></entry>
+      <entry>Adjust <i>size</i> of <i>All Nodes</i> for easier viewing.</entry>
+     </row>
+     <row>
+      <entry><b>Label Size (EM)</b></entry>
+      <entry>Adjust <i>font size</i> of <i>All Node labels</i>.</entry>
+     </row>
+     <row>
+      <entry><b>Snippet Body (EM)</b></entry>
+      <entry>Adjust <i>font size </i>of <i>text body </i>in Snippet Window.</entry>
+     </row>
+     <row>
+      <entry><b>Snippet Triple (EM)</b></entry>
+      <entry>Adjust <i>font size</i> of <i>Triple</i> (statement describing the subject, object and predicate); the Triple appears as a title above the text body in Snippet Window.</entry>
+     </row>
+     <row>
+      <entry><b>Charge (-)</b></entry>
+      <entry>Adjust the <i>attraction and repulsion between graphed nodes</i>, similar to a magnetic charge.</entry>
+     </row>
+     <row>
+      <entry><b>Gravity</b></entry>
+      <entry>Controls whether graphed nodes are <i>fixed</i> in the centre OR <i>float free</i>.</entry>
+     </row>
+     <row>
+      <entry><b>Shelf Radius</b></entry>
+      <entry>Adjust <i>Shelf circumference</i>; controls the size of the orbit containing ungraphed Nodes.</entry>
+     </row>
+     <row>
+      <entry><b>Fisheye Zoon</b></entry>
+      <entry>Control <i>magnification strength </i>of cursor.</entry>
+     </row>
+     <row>
+      <entry><b>Fisheye Radius</b></entry>
+      <entry>Control <i>magnification scope</i> of cursor; increased scope provides immersive 3D view of graph.</entry>
+     </row>
+     <row>
+      <entry><b>Link Distance</b></entry>
+      <entry>Adjust <i>length of links</i> between graphed Nodes.</entry>
+     </row>
+     <row>
+      <entry><b>Link Thickness</b></entry>
+      <entry>Adjust <i>thickness of links</i> between graphed Nodes</entry>
+     </row>
+     <row>
+      <entry><b>Line Edge Weight</b></entry>
+      <entry>Increases the <i>variation in link thickness</i> according to the <i>number of shared connections</i>, with thicker lines havin a higher Edge count.</entry>
+     </row>
+     <row>
+      <entry><b>Sway Fraction</b></entry>
+      <entry>Adjust the <i>curvature of links</i> to seperate or collapse multiple Edges.</entry>
+     </row>
+     <row>
+      <entry><b>Snippet Count on Edge Labels (on/off)</b></entry>
+      <entry>Display the <i>number of connections </i>in the Edge label.</entry>
+     </row>
+    </tbody>
+   </tgroup>
+  </table>
+ </conbody>
+</concept>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/ilovan/Documentation/temp/webhelp/CWRC-Writer?><?workdir-uri file:/Users/ilovan/Documentation/temp/webhelp/CWRC-Writer/?><?path2project ../?><?path2project-uri ../?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="reference_ibn_hrg_rp" ditaarch:DITAArchVersion="1.2" domains="(topic reference)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic       reference/reference " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="reference:1;3:38">
+  <title class="- topic/title " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="title:1;4:10">CWRC Entity system</title>
+  <shortdesc class="- topic/shortdesc " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="shortdesc:1;5:14">The editor allows you to add entities to your document that include RDF and XML
+    tags.</shortdesc>
+  <refbody class="- topic/body        reference/refbody " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="refbody:1;7:12">
+    <section class="- topic/section " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="section:1;8:14">
+      <title class="- topic/title " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="title:2;9:14">Understanding the CWRC entity system</title>
+      <p class="- topic/p " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="p:1;10:10">The editor is now hooked up to the CWRC entity system. Lookup of all named entities (i.e.
+        person,s, organizations, places, and titles) from within CWRC is now available, as well as
+        lookup in the authoritative linked data sources.</p>
+      <p class="- topic/p " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="p:2;13:10">The external VIAF list of authorities, produced from national and major research libraries
+        around the world, is used to link persons, organizations and titles, while GeoNames and
+        GoogleGeocode are employed in a similar capacity for place entities. More such authoritative
+        sources will be added in future. </p>
+      <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Adc5f2705-686a-4dfa-bbb8-9eb3e52dc1d5/datastream/OBJ/view" id="image_hzl_nsg_rp" align="center" class="- topic/image " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="image:1;19:47"/>
+      <p class="- topic/p " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="p:3;20:10">It is now possible to add a new entity to the CWRC collection if the
+        person/organization/place/title you are tagging is not found in either of these sets. From
+        the entity lookup pop-up, you can click on the button to create a new entity and you will be
+        taken to a pop-up that allows you to enter the appropriate information. Once created, the
+        new entity will be a reference in your tag/annotations and thereafter you will be able to
+        select it from the CWRC entity list for future tags/annotations.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A2a5d3c08-7525-4fd6-967f-ba0a68215488/datastream/OBJ/view" id="image_qpn_btg_rp" align="center" height="6in" width="4in" class="- topic/image " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="image:2;27:74"/></p>
+      <p class="- topic/p " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="p:4;28:10">This new feature of CWRC Writer allows you to seamlessly integrate your documents with the
+        semantic web, which is described in more detail in the documents reference below. To avoid
+        ambiguities when tagging named entities, you can also look up and see exactly what linked
+        data you are adding to your document. Clicking on the small black information circle beside
+        an entity option creates a pop-up with a URL. If you open that URL in a new tab you can now
+        see exactly what information you are adding to your document.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A72d62eaf-9189-49ce-bf32-d7d848cc0cd5/datastream/OBJ/view" id="image_gls_rtg_rp" align="center" height="4in" width="6in" class="- topic/image " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="image:3;35:74"/></p>
+      <p class="- topic/p " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="p:5;36:10">For more information on the lookups available in CWRC-Writer, see the links below. </p>
+      <p class="- topic/p " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="p:6;37:10">VIAF: <xref href="https://viaf.org" format="html" scope="external" class="- topic/xref " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="xref:1;37:78"><?ditaot gentext?>https://viaf.org</xref></p>
+      <p class="- topic/p " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="p:7;38:10">GeoNames: <xref href="http://www.geonames.org" format="html" scope="external" class="- topic/xref " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="xref:2;38:89"><?ditaot gentext?>http://www.geonames.org</xref></p>
+      <p class="- topic/p " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="p:8;39:10">GoogleGeocode: <xref href="https://developers.google.com/maps/documentation/geocoding/" format="html" scope="external" class="- topic/xref " xtrf="/Users/ilovan/Documentation/CWRC-Writer/CWRC_Entity_System.dita" xtrc="xref:3;40:43"><?ditaot gentext?>https://developers.google.com/maps/documentation/geocoding/</xref></p>
+    </section>
+  </refbody>
+</reference>

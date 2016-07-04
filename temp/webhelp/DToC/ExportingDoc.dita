@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/ilovan/Documentation/temp/webhelp/DToC?><?workdir-uri file:/Users/ilovan/Documentation/temp/webhelp/DToC/?><?path2project ../?><?path2project-uri ../?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_tdb_hp5_ht" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " class="- topic/topic task/task " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="title:1;4:12">Exporting your document</title>
+    <taskbody class="- topic/body task/taskbody " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="taskbody:1;5:15">
+        <steps class="- topic/ol task/steps " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="steps:1;6:16">
+            <step class="- topic/li task/step " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="step:1;7:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="cmd:1;8:22">Click on the gear icon in the top right corner of the text column.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A7f8ef19f-1c73-4a7b-ae75-0022944f13e9/datastream/OBJ/view" id="image_n53_tp5_ht" align="center" class="- topic/image " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="image:1;11:63"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="step:2;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="cmd:2;14:22">Select the “Export” button at the bottom of the popup. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A2e873ad1-b53c-4420-9a7a-6cbfd362abfe/datastream/OBJ/view" id="image_aww_yp5_ht" align="center" class="- topic/image " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="image:2;16:63"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="step:3;18:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="cmd:3;19:22">A second popup appears with a URL for your document. Click on “URL”
+                    (highlighted in blue) to open your document in a new window. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A69298ae8-a575-45cf-a866-cd955ced0129/datastream/OBJ/view" id="image_afv_bq5_ht" align="center" class="- topic/image " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="image:3;23:63"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="step:4;25:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="cmd:4;26:22">Click on “OK”, you will now have two versions of your document open. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links class="- topic/related-links " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="related-links:1;30:20">
+        <link href="OverviewDToC.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="link:1;31:41" type="reference"><?ditaot gentext?><linktext class="- topic/linktext ">Overview of Dynamic Table of Context</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">The Dynamic Table of Context (DToC) lets users reveal information about their text that     is not necessarily discovered when reading, such as word frequencies. DToC also allows users to     customize their document with annotations and adding tags. </desc></link>
+        <link href="SettingsRef.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="link:2;32:40" type="reference"><?ditaot gentext?><linktext class="- topic/linktext ">Settings</linktext></link>
+        <link href="DigitalPubRef.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/DToC/ExportingDoc.dita" xtrc="link:3;33:42" type="reference"><?ditaot gentext?><linktext class="- topic/linktext ">Digital publication options</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">DToC provides different features to share and save your document for future     use.</desc></link>
+    </related-links>
+</task>

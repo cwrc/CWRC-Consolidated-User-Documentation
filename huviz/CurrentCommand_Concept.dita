@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_oxr_pbh_x5">
+ <title>Current Command</title>
+ <shortdesc>The Current Command box acts as a prompt to notify the user which elements need to be selected to execute a command.</shortdesc>
+ <conbody>
+  <p>The elements of a command are represented by the formula: <b>Verb + Set/Class</b>. This formula is displayed in the Current Command box, located near the top of the Commands Tab. The Current Command box automatically updates when the user selects these elements from the Verb + Set/Class boxes.</p>
+  <p>If an element has not been Selected, it will display the greyed out formula Verb + Set/Class to indicate these elments are empty and prompt the user to choose them.</p>
+  <p>The Verb element and Set/Class element can be entered in <i>any order</i> - it does not matter which element is picked first - but <i>both</i> need to be present for the action to take place.  </p>
+  <example>"Label" + Set/Class indicates that the Verb label has been selected. Set/Class is blank indicating that the user needs to choose this elements to execute the command.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A44a189be-7705-4a97-814d-bf1891fab375/datastream/OBJ/view" id="image_mdv_b31_cv"></image></example>
+ </conbody>
+ <related-links>
+  <link href="Reference_CommandsTab.dita"></link>
+  <link href="Command_Execute_Verbs.dita"></link>
+ </related-links>
+</concept>

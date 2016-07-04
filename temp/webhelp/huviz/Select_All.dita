@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/ilovan/Documentation/temp/webhelp/huviz?><?workdir-uri file:/Users/ilovan/Documentation/temp/webhelp/huviz/?><?path2project ../?><?path2project-uri ../?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_hwl_tnc_w5" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)   " class="- topic/topic task/task " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="title:1;4:12">Select All</title>
+    <shortdesc class="- topic/shortdesc " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="shortdesc:1;5:16">The All function is used to perform actions on all nodes at the same time.</shortdesc>
+    <prolog product="CWRC-Writer" class="- topic/prolog " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="prolog:1;6:35">
+        <author class="- topic/author " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="author:1;7:17">Chelsea Miya</author>
+        <copyright class="- topic/copyright " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="copyright:1;8:20">
+            <copyryear year="2014" class="- topic/copyryear " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="copyryear:1;9:36"/>
+            <copyrholder class="- topic/copyrholder " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="copyrholder:1;10:26">Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="critdates:1;12:20">
+            <created date="2016-02-03" class="- topic/created " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="created:1;13:40"/>
+            <revised modified="2016-02-03" class="- topic/revised " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="revised:1;14:44"/>
+        </critdates>
+        <metadata product="stand-alone" class="- topic/metadata " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="metadata:1;16:41">
+            <audience audience="novice" class="- topic/audience " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="audience:1;17:41"/>
+            <audience audience="CWRCMember" class="- topic/audience " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="audience:2;18:45"/>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="taskbody:1;21:15">
+        <context class="- topic/section task/context " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="context:1;22:18">
+            <p class="- topic/p " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="p:1;23:16">When using the select All function, executing a Verb will effect <i class="+ topic/ph hi-d/i " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="i:1;23:84">all nodes in the orginal dataset.</i> This includes nodes that are Hidden or Discarded. As such, the All function can be used to recall nodes that have been rendered temporarily invisible and cannot be dragged by into the graph manually.</p>
+        </context>
+        <steps-unordered id="steps-unordered_a1s_bqc_w5" class="- topic/ul task/steps-unordered " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="steps-unordered:1;25:58">
+            <step class="- topic/li task/step " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="step:1;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="cmd:1;27:22">Click All, located at the top of the Sets bar. <image href="http://beta.cwrc.ca/islandora/object/cwrc%3A4093fddd-d217-4b3a-8c03-5f03891686a8/datastream/OBJ/view" id="image_adc_s4t_w5" placement="break" align="center" class="- topic/image " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="image:1;27:239"/></cmd>
+                <info class="- topic/itemgroup task/info " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="info:1;28:23">The Sets bar will highlight in full, indicating that all nodes will be affected. Under Current Command, the "Sets/Classes" element will change to "All."</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="step:2;30:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="cmd:2;31:22">Click on the desired Verb to execute the action.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+    <related-links class="- topic/related-links " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="related-links:1;35:20">
+        <link href="Select_Concept.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="link:1;36:42" type="concept"><?ditaot gentext?><linktext class="- topic/linktext ">Select</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Use the Select function to choose which nodes to execute a command on.</desc></link>
+        <link href="Select_Manually.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="link:2;37:43" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Select Manually</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Select nodes by hand with the following steps.</desc></link>
+        <link href="Select_Set_Class.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="link:3;38:44" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Select by Set or Class</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Select nodes by Set or Class using the Commands Tab.</desc></link>
+        <link href="Select_BySearch.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="link:4;39:43" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Select by Search</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Select nodes using the Like bar to perform a text search.</desc></link>
+        <link href="Reference_CommandsTab.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="link:5;40:49" type="concept"><?ditaot gentext?><linktext class="- topic/linktext ">Using the Commands Tab</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Working directly in the Graph using the "drag and drop" technique involves fewer steps. However, working from the Commands Tab has multiple benefits.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3550c158-99dd-49a7-9313-72694d3672b6/datastream/OBJ/view" align="center" class="- topic/image " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="image:1;5:332"/></desc></link>
+        <link href="Command_Execute_Verbs.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Select_All.dita" xtrc="link:6;41:49" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Execute Verbs in Commands Tab</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">In the Commands Tab, actions are automatically executed when a selected Set or Class type is combined with a Verb.</desc></link>
+    </related-links>
+</task>

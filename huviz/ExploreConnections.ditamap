@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Explore Connections</title>
+ <topicref href="Edges_Concept.dita"></topicref>
+ <topicref href="ViewEdges.dita"></topicref>
+ <topicref href="View_Snippet.dita"></topicref>
+ <topicref href="Graph_EdgeType.dita"></topicref>
+</map>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/ilovan/Documentation/temp/webhelp/huviz?><?workdir-uri file:/Users/ilovan/Documentation/temp/webhelp/huviz/?><?path2project ../?><?path2project-uri ../?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_jsz_xvc_w5" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="/Users/ilovan/Documentation/huviz/Activate_Concept.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="/Users/ilovan/Documentation/huviz/Activate_Concept.dita" xtrc="title:1;4:10">Activate</title>
+  <shortdesc class="- topic/shortdesc " xtrf="/Users/ilovan/Documentation/huviz/Activate_Concept.dita" xtrc="shortdesc:1;5:14">The Activate function drags nodes into the graph.</shortdesc>
+  <body class="- topic/body " xtrf="/Users/ilovan/Documentation/huviz/Activate_Concept.dita" xtrc="body:1;6:9">
+    <p class="- topic/p " xtrf="/Users/ilovan/Documentation/huviz/Activate_Concept.dita" xtrc="p:1;7:8">Once Activated, nodes will automatically attach to Hub nodes by way of shared links.</p>
+    <p class="- topic/p " xtrf="/Users/ilovan/Documentation/huviz/Activate_Concept.dita" xtrc="p:2;8:8">Nodes can be Activated either manually or using the Command Tab.</p>
+  </body>
+  <related-links class="- topic/related-links " xtrf="/Users/ilovan/Documentation/huviz/Activate_Concept.dita" xtrc="related-links:1;10:18">
+    <link href="Activate_Manually.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Activate_Concept.dita" xtrc="link:1;11:41" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Activate Manually</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Graph nodes using the "drag and drop" method with the following steps.</desc></link>
+    <link href="Command_Execute_Verbs.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Activate_Concept.dita" xtrc="link:2;12:45" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Execute Verbs in Commands Tab</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">In the Commands Tab, actions are automatically executed when a selected Set or Class type is combined with a Verb.</desc></link>
+  </related-links>
+</topic>

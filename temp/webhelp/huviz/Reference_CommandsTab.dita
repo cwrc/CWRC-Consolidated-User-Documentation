@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/ilovan/Documentation/temp/webhelp/huviz?><?workdir-uri file:/Users/ilovan/Documentation/temp/webhelp/huviz/?><?path2project ../?><?path2project-uri ../?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_gfy_xkd_w5" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="title:1;4:9">Using the Commands Tab</title>
+ <shortdesc class="- topic/shortdesc " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="shortdesc:1;5:13">Working directly in the Graph using the "drag and drop" technique involves fewer steps. However, working from the Commands Tab has multiple benefits.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3550c158-99dd-49a7-9313-72694d3672b6/datastream/OBJ/view" id="image_c5h_3wm_2v" align="center" class="- topic/image " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="image:1;5:332"/></shortdesc>
+ <prolog product="CWRC-Writer" class="- topic/prolog " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="prolog:1;6:32">
+  <author class="- topic/author " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="author:1;7:11">Chelsea Miya</author>
+  <copyright class="- topic/copyright " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="copyright:1;8:14">
+   <copyryear year="2014" class="- topic/copyryear " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="copyryear:1;9:27"/>
+   <copyrholder class="- topic/copyrholder " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="copyrholder:1;10:17">Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+  </copyright>
+  <critdates class="- topic/critdates " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="critdates:1;12:14">
+   <created date="2016-02-03" class="- topic/created " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="created:1;13:31"/>
+   <revised modified="2016-03-02" class="- topic/revised " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="revised:1;14:35"/>
+  </critdates>
+  <metadata product="stand-alone" class="- topic/metadata " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="metadata:1;16:35">
+   <audience audience="novice" class="- topic/audience " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="audience:1;17:32"/>
+   <audience audience="CWRCMember" class="- topic/audience " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="audience:2;18:36"/>
+  </metadata>
+ </prolog>
+ <conbody class="- topic/body  concept/conbody " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="conbody:1;21:11">
+  <ul id="ul_ly3_5nd_w5" class="- topic/ul " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="ul:1;22:26">
+   <li class="- topic/li " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="li:1;23:8">Certain commands, like Label and Hide, cannot be executed manually. The Commands Tab gives users access to the full range of tools.</li>
+   <li class="- topic/li " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="li:2;24:8">Users also have more control over how those tools are implemented. For example, when Working manually, only a single node or node cluster can be manipulated at a given time. In the Commands Tab, users have the option to filter nodes by type. </li>
+  </ul>
+ </conbody>
+ <related-links class="- topic/related-links " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="related-links:1;27:17">
+  <link href="Reference_Graph.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="link:1;28:37" type="concept"><?ditaot gentext?><linktext class="- topic/linktext ">Using the Graph</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">The quickest and most intuitive way to manipulate the dataset is directly in the graph.</desc></link>
+  <link href="CurrentCommand_Concept.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="link:2;29:44" type="concept"><?ditaot gentext?><linktext class="- topic/linktext ">Current Command</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">The Current Command box acts as a prompt to notify the user which elements need to be selected to execute a command.</desc></link>
+  <link href="Command_Execute_Verbs.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Reference_CommandsTab.dita" xtrc="link:3;30:43" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Execute Verbs in Commands Tab</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">In the Commands Tab, actions are automatically executed when a selected Set or Class type is combined with a Verb.</desc></link>
+ </related-links>
+</concept>

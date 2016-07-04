@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>HuViz Documentation</title>
+ <topichead navtitle="Welcome to HuViz">
+ <topicref href="Welcome.ditamap" format="ditamap"></topicref></topichead>
+ <topichead navtitle="Getting Started">
+  <topicref href="Getting_Started_HuViz.ditamap" format="ditamap"></topicref></topichead>
+ <topichead navtitle="Explore Connections">
+  <topicref href="ExploreConnections.ditamap" format="ditamap"></topicref></topichead>
+ <topichead navtitle="Customize Appearance">
+  <topicref href="SettingsGuide.dita"></topicref>
+ </topichead>
+</map>
