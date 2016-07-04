@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_p2y_qld_nw">
+    <title>View Project Homepages</title>
+    <shortdesc>Project homepages display the project's description and can include a link to the entire collection, featured items from the collection, external links to the project's website and/or social media page, list of sponsors, director(s) names, as well as an About Me page that lists the project's contact information.</shortdesc>
+    <taskbody>
+        <context>
+            <note>Projects are created by CWRC administrators, who assign associated members of CWRC the role of Project Editor to enable them to edit their project pages. Projects must be approved by the CWRC Research Board. If you wish to propose a project please fill out the application form at the following <xref href="https://docs.google.com/forms/d/1nhlWbD1nosQucxmyCu8gNM6izZkgSZiBncb3CLRT0Zk/viewform" format="html" scope="external">link</xref>.</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open CWRC in your browser. Link <xref href="http://beta.cwrc.ca/" format="html" scope="external">here</xref>.</cmd>
+            </step>
+            <step>
+                <cmd>Select login, and enter in your Username and password.</cmd>
+                <info>Access to login is located on the top right corner of the browser.</info>
+            </step>
+            <step>
+                <cmd>You will be directed to the view page for your user profile, where you can see Projects I belong to. Among the items in this list, select the project that you wish to access.</cmd>
+                <info>This will redirect you to the Project Homepage. The title of the project should display near the top of the page.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
