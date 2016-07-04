@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nxj_cmd_nw">
+    <title>Visualize a Collection (manual)</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <note type="caution">Note that at present all the documents to be visualized in Voyant need to come from a single collection. Sub-collections will not be visualized.</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Create or identify the collection that you want to visualize.</cmd>
+                <info>Remember that you can select a large collection and then work with subsets of it within Voyant.</info>
+            </step>
+            <step>
+                <cmd>Navigate to the collection within CWRC.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the Manage tab.</cmd>
+            </step>
+            <step>
+                <cmd>Click on Bagit.</cmd>
+            </step>
+            <step>
+                <cmd>Copy the URL from the results page.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to <xref href="http://voyant-tools.org" format="html" scope="external"></xref></cmd>
+            </step>
+            <step>
+                <cmd>Paste the URL into the upload box and click on "Reveal".</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="../Introduction_to_Creating_Collections.dita#topic_o4m_14d_nw"></link>
+    </related-links>
+    </task>
