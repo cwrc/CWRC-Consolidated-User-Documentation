@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Exploring DToC</title>
+ <topicref href="NavigateToC.dita"/>
+ <topicref href="NavDocModel.dita"/>
+ <topicref href="NavTextArea.dita"/>
+ <topicref href="FilteringIndexTagsStats.dita"/>
+ <topicref href="SearchFullText.dita"/>
+ <topicref href="FilteringChapter.dita"/>
+ <topicref href="SortingWordFreq.dita"/>
+ <topicref href="ViewWordFrequ.dita"/>
+ <topicref href="ViewStatsChpCollection.dita"/>
+ <topicref href="FavWords.dita"/>
+ <topicref href="ExportingDoc.dita"/>
+ <topicref href="LoginAnnotationAuthentication.dita"/>
+ <topicref href="CommentingText.dita"/>
+ <topicref href="CuratingTags.dita"/>
+</map>

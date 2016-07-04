@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_js2_l3g_c5">
+    <title>Logging in to the annotator</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the Annotation tab or “Export” button within the annotation tab to
+                    produce an “Annotator Authentication” popup.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3daaf89c-16dc-4188-9ace-2e23c49782b2/datastream/OBJ/view"
+                        id="image_mhq_w3g_c5" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Click on the “Annotator Login” button.</cmd>
+            </step>
+            <step>
+                <cmd>If you have an account, login, if you don't follow the instructions provided by
+                        “AnnotateIt.”<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab8ce6bdc-1241-4ffa-8c3f-06962746f8f8/datastream/OBJ/view"
+                        id="image_s4q_bjg_c5" align="center" scale="85"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A4ed9ce15-e431-4233-b988-299b220d1a58/datastream/OBJ/view"
+                        id="image_zrt_3jg_c5" align="center" scale="85"/>
+                </cmd>
+            </step>
+            <step>
+                <cmd>Once you have an account with “AnnotateIt” bookmark the site to your browser
+                    bookmark bar. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5972f6cb-b418-4edf-bdbe-8cb490ebcd17/datastream/OBJ/view"
+                        id="image_qcp_pjg_c5" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Reload your DToC document and click on the “AnnotateIt” bookmark on your
+                    bookmark bar. </cmd>
+            </step>
+            <step>
+                <cmd>Begin to annotate your document in the text area.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="OverviewDToC.dita"/>
+        <link href="LeftColumnDToC.dita"/>
+        <link href="CommentingText.dita"/>
+        <link href="CuratingTags.dita"/>
+    </related-links>
+</task>

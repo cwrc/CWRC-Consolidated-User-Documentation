@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xlf_knn_ht">
+    <title>Adding an index to your XML document</title>
+    <shortdesc>DToC is best configured for documents that have indexes. </shortdesc>
+    <taskbody>
+        <steps id="steps_smr_p3p_ht">
+            <step>
+                <cmd>Open up your XML document.</cmd>
+            </step>
+            <step>
+                <cmd>Open up a new div at the end of your XML file; add a ‘type’ attribute called
+                    ‘index’.  <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A58797064-d306-4fbc-867b-95e77b356402/datastream/OBJ/view"
+                        id="image_pkv_ksp_ht" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Under the &lt;div> tag add a &lt;list> tag. </cmd>
+                <info>DToC expects the index to have a particular structure: list > item > ref.
+                    Essentially, what you are creating is an indexed list; the TEI tags mentioned
+                    above allow you to structure the list’s hierarchy. </info>
+            </step>
+            <step>
+                <cmd>Within the &lt;list> tag add the &lt;item> tag. Each &lt;item> tag wraps around
+                    each index entry (it’s content is the index term). </cmd>
+            </step>
+            <step>
+                <cmd>Add a &lt;ref> tag to the items in the list. </cmd>
+                <info>The &lt;ref> tag has a target attribute, whose value is a space separated list
+                    of paragraph XML IDs. The &lt;ref> tag references the paragraph in the body
+                    text. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0a4ac238-ce00-44e2-be20-5a16873f9471/datastream/OBJ/view"
+                        id="image_lns_vsp_ht" align="center"/></info>
+            </step>
+            <step>
+                <cmd>Begin to add your index terms between the item/ref tags. The index contain
+                    terms for all the sections (or chapters) of your document. </cmd>
+                <info>The index can be simple or complex depending on your document and/or the
+                    effort that you put in to it. For example, the sections below detail how you can
+                    cross reference the index or add sub terms within an index theme. </info>
+            </step>
+            <step>
+                <cmd>Now note all the paragraph XML ids that the terms are found in. It may be
+                    helpful to write this down before you begin creating your index, or you can add
+                    the XML ids to your index as you go.</cmd>
+            </step>
+            <step>
+                <cmd>Add the XML ids (from the paragraph(s) or other tags) in the target attribute
+                    of the &lt;ref> tag. If there are multiple XML ids related to the index term,
+                    separate these with a space. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad2a60e54-7e4c-4d74-91fe-2c47f51ac35f/datastream/OBJ/view"
+                        id="image_dxv_kjp_ht" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Save your document.</cmd>
+                <info>Once you have uploaded your document to DToC it will look like this:<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A68b073ff-025b-440b-ab6e-ac177a8068d4/datastream/OBJ/view"
+                        id="image_z43_yjp_ht" align="center"/></info>
+            </step>
+        </steps>
+        <example>
+            <p>The index term “Sherlock” is located in four in the paragraphs of the document. </p>
+            <p>Record/Note the paragraphs that contain the index term. In this case, the index term
+                is located in the third, fourth, fifth, and sixth paragraphs. These paragraphs are
+                in a small document and have been assigned their own XML ids by the author/creator. </p>
+            <p>Those paragraphs are assigned “P3”, “P4”, “P5”, and “P6”. </p>
+            <p>Within the ref tag add the “target” attribute. Then add the paragraph XML ids within
+                the target quotation marks. If there are multiple paragraphs that contain this
+                keyword separate them with a space. </p>
+            <image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac562b021-1da8-4480-b01b-66f9e59512ad/datastream/OBJ/view"
+                id="image_fw2_15p_ht" align="center"/>
+        </example>
+    </taskbody>
+    <related-links>
+        <link href="CreatingXMLDoc.dita#task_nlg_4dn_ht"/>
+        <link href="AddingXMLidsSmallDoc.dita#task_lgt_m5p_ht"/>
+        <link href="AddingXMLidsOxygen.dita#task_vqx_qyp_ht"/>
+        <link href="IndexSubheadings.dita#task_vks_qnq_ht"/>
+        <link href="CrossReferenceIndex.dita#task_upv_ypt_ht"/>
+        <link href="UploadDocDToC.dita#task_grd_sqt_ht"/>
+        <link href="UploadTextURL.dita#task_stp_1wt_ht"/>
+        <link href="OverviewDToC.dita#reference_bfm_blm_lt"/>
+        <link href="XMLTemplatesRef.dita#reference_vx1_1pk_nt"/>
+    </related-links>
+</task>

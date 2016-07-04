@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_d5b_vjg_c5">
+    <title>Curating tags</title>
+    <shortdesc>The left column has a list of the tags found in the document. You can add new tags to
+        the list, those that are found in your XML document or not. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the “Settings” menu in the top right corner.</cmd>
+            </step>
+            <step>
+                <cmd>Select the “Curator” option under the “Mode” drop down menu. Click "OK."<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0e63e3bc-45c6-43fd-9c07-07af8672ee67/datastream/OBJ/view"
+                        id="image_a5y_vmh_c5" align="center"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A9a5a4759-8128-40ee-a3c6-c6d1deb791ca/datastream/OBJ/view"
+                        id="image_rbk_pcq_c5" align="center"/></cmd>
+                
+            </step>
+            <step>
+                <cmd>Select the “Add” button option at the bottom of the column.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aec3e459a-139b-4e9d-9b06-68505fec29f8/datastream/OBJ/view"
+                        id="image_mz5_gnh_c5" align="center"/>
+                </cmd>
+            </step>
+            <step>
+                <cmd>Enter in the XML tag in the right drop down menu and the label you would like
+                    to see accompany it. For example, in the “Tag/Path” column you would put ‘quote’
+                    and in the left column put in ‘quote’ or ‘quotation.’<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af1080c41-e9ae-4344-987b-83dccee3b029/datastream/OBJ/view"
+                        id="image_bqc_wnh_c5" align="center"/></cmd>
+                <info>For more information about adding different types of tags see the "Left Column
+                    of Dynamic Table of Context" reference document. </info>
+            </step>
+            <step importance="optional">
+                <cmd>If you would like to delete a tag or view where the tags are located in the
+                    “Table of Contents” or “Text Area.” Select one of other two options at the
+                    bottom of the page.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Adeec4e7e-a2e8-4808-95fa-5f944c556dfb/datastream/OBJ/view"
+                        id="image_jkw_k4h_c5" align="center"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="OverviewDToC.dita"/>
+        <link href="LeftColumnDToC.dita"/>
+        <link href="SettingsRef.dita"/>
+    </related-links>
+</task>

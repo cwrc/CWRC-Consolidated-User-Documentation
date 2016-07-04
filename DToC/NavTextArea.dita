@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sn5_fl5_ht">
+    <title>Navigating the text area</title>
+    <shortdesc>The text is separated into chapters, sections, or articles by the XML document. The
+        text area loads individual sections, so the whole document will not appear unless there are
+        no text divisions in the document. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Scroll to the bottom of the text in the text area. </cmd>
+            </step>
+            <step>
+                <cmd>Click on "Next Chapter" or "Previous Chapter" to navigate through the document
+                        sections.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aea4959ab-0d4b-4864-8edf-975cdf176efe/datastream/OBJ/view"
+                        id="image_hzk_jm5_ht" align="center"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="OverviewDToC.dita"/>
+        <link href="TableOfContents.dita"/>
+        <link href="LeftColumnDToC.dita"/>
+        <link href="UploadDocDToC.dita"/>
+        <link href="UploadTextURL.dita#task_stp_1wt_ht"/>
+        <link href="NavigateToC.dita"/>
+        <link href="NavDocModel.dita"/>
+        <link href="FilteringIndexTagsStats.dita"/>
+        <link href="SearchFullText.dita"/>
+        <link href="FilteringChapter.dita"/>
+        <link href="SortingWordFreq.dita"/>
+        <link href="ViewWordFrequ.dita"/>
+        <link href="ViewStatsChpCollection.dita"/>
+        <link href="FavWords.dita"/>
+        <link href="LoginAnnotationAuthentication.dita"/>
+        <link href="CommentingText.dita"/>
+        <link href="CuratingTags.dita"/>
+    </related-links>
+</task>

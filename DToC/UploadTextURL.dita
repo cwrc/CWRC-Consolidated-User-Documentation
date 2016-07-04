@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_stp_1wt_ht">
+    <title>Uploading text and URLs into DToC</title>
+    <shortdesc>Some features will be unavailable using this method (like the index). </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Paste your text or an URL into the text box located on the front page of DToC.
+                        <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A17ab3198-9fcf-4061-b772-dc380065d96c/datastream/OBJ/view"
+                        id="image_znb_bc5_ht" align="center" scale="85"/></cmd>
+            </step>
+            <step>
+                <cmd>Click on the “Reveal” button located right below the text box. This opens the
+                    document in DToC. </cmd>
+            </step>
+            <step>
+                <cmd>Begin to work with your text.</cmd>
+                <info importance="high">Using this method, you will not have an index, tags or
+                    search functionality (even if you paste in an XML document). The table of
+                    contents and the document model will also not work. However, you will be able to
+                    see information in the stats column (term frequency).<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa16ad38e-869c-4383-8123-848e0fde03dc/datastream/OBJ/view"
+                        id="image_xs4_fc5_ht" align="center" scale="85"/></info>
+                <info>This image displays the simple XML template uploaded using the copy and paste
+                    text box (with tags) instead of the XPath method. </info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="CreatingXMLDoc.dita#task_nlg_4dn_ht"/>
+        <link href="AddingXMLidsSmallDoc.dita#task_lgt_m5p_ht"/>
+        <link href="AddingXMLidsOxygen.dita#task_vqx_qyp_ht"/>
+        <link href="AddingXMLIndex.dita#task_xlf_knn_ht"/>
+        <link href="IndexSubheadings.dita#task_vks_qnq_ht"/>
+        <link href="CrossReferenceIndex.dita#task_upv_ypt_ht"/>
+        <link href="UploadDocDToC.dita#task_grd_sqt_ht"/>
+        <link href="OverviewDToC.dita#reference_bfm_blm_lt"/>
+        <link href="XMLTemplatesRef.dita#reference_vx1_1pk_nt"/>
+    </related-links>
+</task>

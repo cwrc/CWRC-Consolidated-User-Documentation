@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ubh_c45_ht">
+    <title>Searching the full text</title>
+    <shortdesc>The search box is autocomplete-enabled. If you don't use that function (e.g. you
+        continue to type your word or phrase without selecting a term from the drop down list) your
+        search may not work if it has a spelling error or extra space. </shortdesc>
+    <taskbody>
+        <context>
+            <p>If you have selected a chapter from the Table of Contents then your search will only
+                be conducted within that chapter. If you would like to conduct a full text search
+                make sure that none of the chapters/sections are selected. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Type in the word(s) that you are searching for. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3781fd6d-9e49-4c20-8dd6-6b9b05ac2776/datastream/OBJ/view"
+                        id="image_zyp_xk4_c5" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>DToC displays the location of the word you are looking for in the table of
+                    content and document model. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A4a29aba5-51e8-408b-93eb-bb83e3c5340f/datastream/OBJ/view"
+                        id="image_cm3_zk4_c5" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>To restart your search choose the “Clear” button located at the top of the
+                    document model. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="OverviewDToC.dita"/>
+        <link href="TableOfContents.dita"/>
+        <link href="LeftColumnDToC.dita"/>
+        <link href="NavigateToC.dita"/>
+        <link href="NavDocModel.dita"/>
+        <link href="NavTextArea.dita"/>
+        <link href="FilteringIndexTagsStats.dita"/>
+        <link href="FilteringChapter.dita"/>
+        <link href="SortingWordFreq.dita"/>
+        <link href="ViewWordFrequ.dita"/>
+        <link href="ViewStatsChpCollection.dita"/>
+        <link href="FavWords.dita"/>
+    </related-links>
+</task>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_upv_ypt_ht">
+    <title>Creating cross referencing index terms</title>
+    <shortdesc>Cross referencing allows you to draw connections between terms found in different
+        sections or chapters of your document. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Make sure you have XML ids attached to your ‘item’ tags in the index.</cmd>
+            </step>
+            <step>
+                <cmd>Below the ‘item’ ‘ref’ tags add a ‘list’ tag.</cmd>
+            </step>
+            <step>
+                <cmd>Add a ‘head’ tag below the newly created list tag. </cmd>
+            </step>
+            <step>
+                <cmd>Within the ‘head’ tag add a ‘hi’ tag. To the ‘hi’ tag add the ‘rend’ attribute,
+                    the value of the ‘rend’ will be “italic” (see below). Between the ‘hi’ tag add
+                    “See also” or something of that effect. Close out the ‘head’ tag after the ‘hi’
+                    tag. </cmd>
+                <info>The 'hi' tag "Highlights" the "See also" term.</info>
+            </step>
+            <step>
+                <cmd>Now add the ‘item’ tag(s) to the list (below the closed of ‘head’ tag). The
+                    ‘ref’ tag target attribute will contain the XML id or ids that of different
+                    index terms that you would like to cross reference. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5bd49dc2-c859-463a-ab66-1a5ad485abda/datastream/OBJ/view"
+                        id="image_vbt_4qt_ht" align="center"/></cmd>
+                <info>You can add as many items to this section as you would like. </info>
+            </step>
+            <step>
+                <cmd>Close out the list tag. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="CreatingXMLDoc.dita#task_nlg_4dn_ht"/>
+        <link href="AddingXMLidsSmallDoc.dita#task_lgt_m5p_ht"/>
+        <link href="AddingXMLidsOxygen.dita#task_vqx_qyp_ht"/>
+        <link href="AddingXMLIndex.dita#task_xlf_knn_ht"/>
+        <link href="IndexSubheadings.dita#task_vks_qnq_ht"/>
+        <link href="UploadDocDToC.dita#task_grd_sqt_ht"/>
+        <link href="UploadTextURL.dita#task_stp_1wt_ht"/>
+        <link href="OverviewDToC.dita#reference_bfm_blm_lt"/>
+        <link href="XMLTemplatesRef.dita#reference_vx1_1pk_nt"/>
+    </related-links>
+</task>

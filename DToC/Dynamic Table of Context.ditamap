@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Dynamic Table of Context</title>
+ <topichead navtitle="Getting to know DToC">
+  <topicref href="Getting%20to%20know%20DToC.ditamap" format="ditamap"/>
+ </topichead>
+  <topichead navtitle="Exploring DToC">
+  <topicref href="ExploringDToC.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="Creating and uploading DToC documents">
+  <topicref href="CreatingUploadingDToCDoc.ditamap" format="ditamap"/>
+ </topichead>
+
+</map>

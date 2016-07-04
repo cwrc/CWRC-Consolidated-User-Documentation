@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vks_qnq_ht">
+    <title>Creating index subheadings</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Nest a ‘list’ tag within an ‘item’ tag. </cmd>
+                <info>An example index:<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acf2f34c0-3eca-405d-b089-4f90e3a07902/datastream/OBJ/view"
+                        id="image_uqs_l4q_ht" align="center"/></info>
+            </step>
+            <step>
+                <cmd>Within the 'list' tag add an 'item' tag. So the breadcrumb trail would be
+                    item>lists>item(s). Each 'item' tag wraps around each index entry (it’s content
+                    is the index term). </cmd>
+            </step>
+            <step>
+                <cmd>Step 3: Add a &lt;ref> tag to the items in the list. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0a4ac238-ce00-44e2-be20-5a16873f9471/datastream/OBJ/view"
+                        id="image_jvw_v4q_ht" align="center"/></cmd>
+                <info>The 'ref' tag has a target attribute, its value is a space separated list of
+                    paragraph XML IDs. The 'ref' tag references the paragraphs in the body text. </info>
+            </step>
+            <step>
+                <cmd>Begin to add your index terms between the item/ref tags. </cmd>
+            </step>
+            <step>
+                <cmd>Add the XML ids (from the paragraph(s) or other tags) in the target attribute
+                    of the &lt;ref> tag. If there are multiple XML ids related to the index term,
+                    separate these with a space. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8fbe56d7-7625-43f5-a6dd-5e76080987ee/datastream/OBJ/view"
+                        id="image_yyr_gpq_ht" align="center"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="CreatingXMLDoc.dita#task_nlg_4dn_ht"/>
+        <link href="AddingXMLidsSmallDoc.dita#task_lgt_m5p_ht"/>
+        <link href="AddingXMLidsOxygen.dita#task_vqx_qyp_ht"/>
+        <link href="AddingXMLIndex.dita#task_xlf_knn_ht"/>
+        <link href="CrossReferenceIndex.dita#task_upv_ypt_ht"/>
+        <link href="UploadDocDToC.dita#task_grd_sqt_ht"/>
+        <link href="UploadTextURL.dita#task_stp_1wt_ht"/>
+        <link href="OverviewDToC.dita#reference_bfm_blm_lt"/>
+        <link href="XMLTemplatesRef.dita#reference_vx1_1pk_nt"/>
+    </related-links>
+</task>

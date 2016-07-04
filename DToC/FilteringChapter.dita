@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_agp_3q5_ht">
+    <title>Filtering by chapter</title>
+    <shortdesc>When you move between different tabs in the left column they will not be filtered by
+        the Chapter you have selected in the previous column. However, when you return to the
+        initial tab, the chapter filter will remain selected. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the "Index" or "Tags" tab in the left column. </cmd>
+            </step>
+            <step>
+                <cmd>Choose the “Filter by Chapter” drop down menu. Select the chapter you would
+                    like a closer examination of. This will narrow down the index terms to those
+                    found in the selected chapter.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0a145304-a5b4-4ce6-b8e4-4b68d81d5c85/datastream/OBJ/view"
+                        id="image_tx5_tq5_ht" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>You can then select an index term or tag to see where they are located in the
+                    selected chapter. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A9f298835-8fb5-4c76-8ab4-0aa4980c6307/datastream/OBJ/view"
+                        id="image_mj5_hr5_ht" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>To reset the filter, click again on the “Filter by Chapter” drop down menu and
+                    unselect the chapter you have selected. Or click on the "Clear" button above the
+                    document model. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad1f6457a-6762-425d-ba6b-2ad92929a9aa/datastream/OBJ/view"
+                        id="image_ucd_vr5_ht" align="center"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="OverviewDToC.dita"/>
+        <link href="LeftColumnDToC.dita"/>
+        <link href="FilteringIndexTagsStats.dita"/>
+        <link href="SearchFullText.dita"/>
+        <link href="SortingWordFreq.dita"/>
+        <link href="ViewWordFrequ.dita"/>
+        <link href="ViewStatsChpCollection.dita"/>
+        <link href="FavWords.dita"/>      
+        <link href="LoginAnnotationAuthentication.dita"/>
+        <link href="CommentingText.dita"/>
+        <link href="CuratingTags.dita"/>
+    </related-links>
+</task>

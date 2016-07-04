@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_grd_sqt_ht">
+    <title>Uploading your XML document to DToC</title>
+    <shortdesc>DToC requires XPath information to upload original XML documents. These may changes
+        depending on how you have structured your document. The below information is for a XML
+        document that follows the template structure, but we have noted how you can change the XPath
+        information to match your document. </shortdesc>
+    <taskbody>
+        <context>
+            <p><b id="docs-internal-guid-0c04f230-b780-c2c2-1820-f0adf02f9bb8"><xref
+                        href="http://voyant-tools.org/?skin=dtc" format="html" scope="external"
+                        >http://voyant-tools.org/?skin=dtc</xref></b></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open up the settings in the homepage of DToC. This option is represented by a
+                    gear in the top right corner of the “Add Text” box. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af4390d6e-710a-4404-8636-727f1ad94f09/datastream/OBJ/view"
+                        id="image_bl4_y5t_ht" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Change the “Input Format” to TEI.</cmd>
+            </step>
+            <step>
+                <cmd>Enter this XPath information into the corresponding areas (in the info section
+                    below).</cmd>
+                <info><ul id="ul_cqm_2sb_d5">
+                        <li><b id="docs-internal-guid-3ed5bf13-3fd8-edca-c34f-9df6d994468c">XPath to
+                                Content: </b>*</li>
+                        <li><b id="docs-internal-guid-3ed5bf13-3fd9-2e8f-dbe5-3a2264ca4327">XPath to
+                                Author: </b>//*[local-name()='head']//*[local-name()='author']</li>
+                        <li><b id="docs-internal-guid-3ed5bf13-3fd9-794e-5723-65614935b8a0">XPath to
+                                Title: </b>//*[local-name()='head']//*[local-name()='title']</li>
+                        <li><b id="docs-internal-guid-3ed5bf13-3fd9-d80d-c2bd-f62aaf8a6392">XPath to
+                                Documents: </b>//*[local-name()='div'
+                            and('chapter'=@*[local-name()='type'] or
+                            'forward'=@*[local-name()='type'] or
+                            'index'=@*[local-name()='type'])]</li>
+                    </ul>DToC splits the XML into "documents" based on XPath criteria that is
+                    provided when importing the file into DToC. The "XPath to document" section
+                    assumes that your document is organized into chapter(s), a forward, and an
+                    index. You may have to configure the XPath to document section if your document
+                    has additional structure components (such as an afterword). <p>Each chapter
+                        should have author and title info. When importing, you can provide XPaths to
+                        these values, relative to the parent chapter.</p>To add an after word, you
+                    would need to add this expression to the larger
+                        chain:<p>‘afterword’=@*[local-name()=’type’]</p><p>The XPath to Documents
+                        chain would now look like:</p><p>//*[local-name()='div'
+                        and('chapter'=@*[local-name()='type'] or 'forward'=@*[local-name()='type']
+                        or ‘afterword’=@*[local-name()=’type’] or
+                        'index'=@*[local-name()='type'])]</p><p>For more information on XPaths see
+                            http://www.w3schools.com/xsl/xpath_intro.asp<image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A5e77e9e1-7684-46f2-960d-fb0237827ca6/datastream/OBJ/view"
+                            id="image_fpx_cvt_ht" align="center"/></p></info>
+            </step>
+            <step importance="optional">
+                <cmd>Click "OK".</cmd>
+            </step>
+            <step importance="optional">
+                <cmd>Click on the “Upload” button in the lower right corner.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac04bb2fc-9e16-4b9b-a01f-0250c4b773ae/datastream/OBJ/view"
+                        id="image_d2l_gvt_ht" align="center"/></cmd>
+            </step>
+            <step importance="optional">
+                <cmd>A popup appears. Click on the “Add” option at the top of the popup. <image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad57f925e-9f84-478a-a2be-7e5fb62a2394/datastream/OBJ/view"
+                        id="image_f5c_mvt_ht" align="center"/></cmd>
+            </step>
+            <step importance="optional">
+                <cmd>Select the XML document on your computer that you would like to upload to DToC.
+                        <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa0388b1c-cc31-4d88-9b83-8e7f69c42372/datastream/OBJ/view"
+                        id="image_bhj_pvt_ht" align="center"/></cmd>
+                <info>If you accidentally uploaded the wrong document click on the left icon (the
+                    red delete symbol) and upload the correct document. Or you can upload more than
+                    one document, but only one with be “Revealed.” </info>
+            </step>
+            <step importance="optional">
+                <cmd>Once the document appears in the upload popup, click on “Reveal.” Voyant will
+                    process your document. Once it is finished processing your document, DToC will
+                    open with your XML document uploaded. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acdf28d4c-1788-429b-bbe1-e7c3a7fa6efa/datastream/OBJ/view"
+                        id="image_ecp_tvt_ht" align="center" scale="85"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="CreatingXMLDoc.dita#task_nlg_4dn_ht"/>
+        <link href="AddingXMLidsSmallDoc.dita#task_lgt_m5p_ht"/>
+        <link href="AddingXMLidsOxygen.dita#task_vqx_qyp_ht"/>
+        <link href="AddingXMLIndex.dita#task_xlf_knn_ht"/>
+        <link href="IndexSubheadings.dita#task_vks_qnq_ht"/>
+        <link href="CrossReferenceIndex.dita#task_upv_ypt_ht"/>
+        <link href="UploadTextURL.dita#task_stp_1wt_ht"/>
+        <link href="OverviewDToC.dita#reference_bfm_blm_lt"/>
+        <link href="XMLTemplatesRef.dita#reference_vx1_1pk_nt"/>
+    </related-links>
+</task>

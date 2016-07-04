@@ -1,0 +1,71 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en-us" lang="en-us">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="copyright" content="(C) Copyright 2005"/>
+<meta name="DC.rights.owner" content="(C) Copyright 2005"/>
+<meta name="DC.Type" content="task"/>
+<meta name="DC.Title" content="Creating cross referencing index terms"/>
+<meta name="abstract" content="Cross referencing allows you to draw connections between terms found in different sections or chapters of your document."/>
+<meta name="description" content="Cross referencing allows you to draw connections between terms found in different sections or chapters of your document."/>
+<meta name="DC.Relation" scheme="URI" content="IndexSubheadings.html"/>
+<meta name="DC.Relation" scheme="URI" content="UploadDocDToC.html"/>
+<meta name="DC.Relation" scheme="URI" content="CreatingXMLDoc.html#task_nlg_4dn_ht"/>
+<meta name="DC.Relation" scheme="URI" content="AddingXMLidsSmallDoc.html#task_lgt_m5p_ht"/>
+<meta name="DC.Relation" scheme="URI" content="AddingXMLidsOxygen.html#task_vqx_qyp_ht"/>
+<meta name="DC.Relation" scheme="URI" content="AddingXMLIndex.html#task_xlf_knn_ht"/>
+<meta name="DC.Relation" scheme="URI" content="IndexSubheadings.html#task_vks_qnq_ht"/>
+<meta name="DC.Relation" scheme="URI" content="UploadDocDToC.html#task_grd_sqt_ht"/>
+<meta name="DC.Relation" scheme="URI" content="UploadTextURL.html#task_stp_1wt_ht"/>
+<meta name="DC.Relation" scheme="URI" content="OverviewDToC.html#reference_bfm_blm_lt"/>
+<meta name="DC.Relation" scheme="URI" content="XMLTemplatesRef.html#reference_vx1_1pk_nt"/>
+<meta name="DC.Format" content="XHTML"/>
+<meta name="DC.Identifier" content="task_upv_ypt_ht"/>
+<link rel="stylesheet" type="text/css" href="commonltr.css"/>
+<title>Creating cross referencing index terms</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/commonltr.css"><!----></link><link type="text/css" href="oxygen-webhelp/resources/skins/mobile/jquery.mobile-1.4.0/jquery.mobile-1.4.0.min.css" rel="stylesheet"><!----></link><link type="text/css" href="oxygen-webhelp/resources/skins/mobile/toc.css" rel="stylesheet"><!----></link><link type="text/css" href="oxygen-webhelp/resources/skins/mobile/topic.css" rel="stylesheet"><!----></link><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-1.8.2.min.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/browserDetect.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/skins/mobile/topic.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/skins/mobile/toc.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/skins/mobile/jquery.mobile-1.4.0/jquery.mobile-1.4.0.min.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/skins/mobile/jquery.mobile-1.4.0/jquery.mobile.nestedlists.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/search/htmlFileList.js" charset="utf-8"><!----></script><script type="text/javascript" src="oxygen-webhelp/search/htmlFileInfoList.js" charset="utf-8"><!----></script><script type="text/javascript" src="oxygen-webhelp/search/nwSearchFnt.js" charset="utf-8"><!----></script><script type="text/javascript" src="oxygen-webhelp/search/stemmers/en_stemmer.js" charset="utf-8"><!----></script><script type="text/javascript" src="oxygen-webhelp/search/index-1.js" charset="utf-8"><!----></script><script type="text/javascript" src="oxygen-webhelp/search/index-2.js" charset="utf-8"><!----></script><script type="text/javascript" src="oxygen-webhelp/search/index-3.js" charset="utf-8"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/localization/strings.js" charset="utf-8"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/localization.js" charset="utf-8"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/parseuri.js" charset="utf-8"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/log.js"><!----></script></head>
+<body><div data-content-theme="c" data-role="page" lang="en-us"><div data-role="header" data-position="fixed" data-theme="c"><h1 class="pageHeader">Creating cross referencing index terms</h1><div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="ui-btn-left"><a href="index.html" data-role="button" title="Home" data-icon="home" rel="external" data-iconpos="notext"> </a></div><div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="ui-btn-right" data-role="controlgroup" data-iconpos="notext" data-type="horizontal"><a href="IndexSubheadings.html" data-icon="arrow-l" data-role="button" data-iconpos="notext" class="prevPage" title="Previous" data-direction="reverse"> </a><a href="UploadDocDToC.html" data-icon="arrow-r" data-role="button" data-iconpos="notext" title="Next" class="nextPage"> </a></div></div><div data-role="content" class="content"><h1 class="title topictitle1">Creating cross referencing index terms</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Cross referencing allows you to draw connections between terms found in different
+        sections or chapters of your document. </p>
+
+        <ol class="ol steps"><li class="li step stepexpand">
+                <span class="ph cmd">Make sure you have XML ids attached to your ‘item’ tags in the index.</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Below the ‘item’ ‘ref’ tags add a ‘list’ tag.</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Add a ‘head’ tag below the newly created list tag. </span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Within the ‘head’ tag add a ‘hi’ tag. To the ‘hi’ tag add the ‘rend’ attribute,
+                    the value of the ‘rend’ will be “italic” (see below). Between the ‘hi’ tag add
+                    “See also” or something of that effect. Close out the ‘head’ tag after the ‘hi’
+                    tag. </span>
+                <div class="itemgroup info">The 'hi' tag "Highlights" the "See also" term.</div>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Now add the ‘item’ tag(s) to the list (below the closed of ‘head’ tag). The
+                    ‘ref’ tag target attribute will contain the XML id or ids that of different
+                    index terms that you would like to cross reference. <br/><div class="imagecenter"><img class="image imagecenter" id="task_upv_ypt_ht__image_vbt_4qt_ht" src="http://beta.cwrc.ca/islandora/object/cwrc%3A5bd49dc2-c859-463a-ab66-1a5ad485abda/datastream/OBJ/view"/></div><br/></span>
+                <div class="itemgroup info">You can add as many items to this section as you would like. </div>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Close out the list tag. </span>
+            </li>
+</ol>
+
+    </div>
+
+    <div class="related-links"> 
+        <div class="relinfo"> 
+          <h4><strong>Related tasks</strong></h4><ul class="ullinks" data-role="listview"><li class="related_link"><a href="CreatingXMLDoc.html#task_nlg_4dn_ht" data-ajax="false" data-transition="slide" class="navheader_parent_path" title="In the Dynamic Table of Contexts (DToC) users can upload their own XML text. These XML documents need to be specially formatted in order to fully take advantage of DToC." onclick="return true;">Creating an XML document for the Dynamic Table of Contexts</a></li><li class="related_link"><a href="AddingXMLidsSmallDoc.html#task_lgt_m5p_ht" data-ajax="false" data-transition="slide" class="navheader_parent_path" title="DToC uses XML ids as index locators; every index item is associated with one or more paragraph (as opposed to pages in print indexes)." onclick="return true;">Adding XML ids to your document manually</a></li><li class="related_link"><a href="AddingXMLidsOxygen.html#task_vqx_qyp_ht" data-ajax="false" data-transition="slide" class="navheader_parent_path" title="This option is best for large DToC documents. The downside of using oXygen to insert IDs is that they are not human readable. It may be worth using the tool, if you are able to use a script to transform the ID pattern." onclick="return true;">Adding XML ids with oXygen</a></li><li class="related_link"><a href="AddingXMLIndex.html#task_xlf_knn_ht" data-ajax="false" data-transition="slide" class="navheader_parent_path" title="DToC is best configured for documents that have indexes." onclick="return true;">Adding an index to your XML document</a></li><li class="related_link"><a href="IndexSubheadings.html#task_vks_qnq_ht" data-ajax="false" data-transition="slide" class="navheader_parent_path" title="Creating index subheadings" onclick="return true;">Creating index subheadings</a></li><li class="related_link"><a href="UploadDocDToC.html#task_grd_sqt_ht" data-ajax="false" data-transition="slide" class="navheader_parent_path" title="DToC requires XPath information to upload original XML documents. These may changes depending on how you have structured your document. The below information is for a XML document that follows the template structure, but we have noted how you can change the XPath information to match your document." onclick="return true;">Uploading your XML document to DToC</a></li><li class="related_link"><a href="UploadTextURL.html#task_stp_1wt_ht" data-ajax="false" data-transition="slide" class="navheader_parent_path" title="Some features will be unavailable using this method (like the index)." onclick="return true;">Uploading text and URLs into DToC</a></li></ul></div>
+<div class="relinfo"> 
+          <h4><strong>Related reference</strong></h4><ul class="ullinks" data-role="listview"><li class="related_link"><a href="OverviewDToC.html#reference_bfm_blm_lt" data-ajax="false" data-transition="slide" class="navheader_parent_path" title="The Dynamic Table of Context (DToC) lets users reveal information about their text that is not necessarily discovered when reading, such as word frequencies. DToC also allows users to customize their document with annotations and adding tags." onclick="return true;">Overview of Dynamic Table of Context</a></li><li class="related_link"><a href="XMLTemplatesRef.html#reference_vx1_1pk_nt" data-ajax="false" data-transition="slide" class="navheader_parent_path" title="Please feel free to download the DToC XML template or ignore it, depending on your XML expertise and/or adventurous spirit." onclick="return true;">XML templates</a></li></ul></div>
+</div>
+</div><div data-role="footer" data-theme="c"><div class="footer">WebHelp output generated by<a href="http://www.oxygenxml.com" target="_blank" onclick="return true;"> oXygen <span class="xmlauthor">XML Author</span></a></div></div></div></body>
+</html>

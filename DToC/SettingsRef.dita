@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_vmk_cqk_nt">
+  <title>Settings</title>
+  <refbody>
+    <section>
+      <p>“Settings” is located in the upper right corner of DToC and is represented by a small gear
+          icon.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A7f8ef19f-1c73-4a7b-ae75-0022944f13e9/datastream/OBJ/view"
+          id="image_g4r_4qk_nt" align="center"/></p>
+      <p>
+        <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A2e873ad1-b53c-4420-9a7a-6cbfd362abfe/datastream/OBJ/view"
+          id="image_afm_wqk_nt" align="center"/>
+      </p>
+      <p>Setting Options:<ul id="ul_gt5_hqk_nt">
+          <li>Chapter Titles: Allow you to either view the “Full Titles” (default option) or as
+            “Condensed Titles with Pop-up” in the Table of Contents.</li>
+          <li>Freq. Info in Reader: Allows users to choose to view the word frequency information in
+            the text area. When you hover your cursor over a word in the reader column the frequency
+            of said word appears in a small popup.</li>
+          <li>Mode: This changes how you view the Tags column. The two options are “Default” or
+            “Curator.” The “Curator” option organizes tags by two headings “Label” and “Tag/Path”
+            (see image below). The “Curator” option allows you to add your own tags to the
+            document.</li>
+          <li>Export: The “Export” option is used to create and preserve a link to the curated
+            version of your document (See Digital Publication linked below). <image
+              placement="break"
+              href="http://beta.cwrc.ca/islandora/object/cwrc%3A25bba05a-f8c7-44cb-b3b4-7ff9700a5eaa/datastream/OBJ/view"
+              id="image_d4s_rqk_nt" align="center"/></li>
+        </ul></p>
+    </section>
+  </refbody>
+  <related-links>
+    <link href="OverviewDToC.dita"/>
+    <link href="TableOfContents.dita"/>
+    <link href="LeftColumnDToC.dita"/>
+    <link href="XMLTemplatesRef.dita"/>
+    <link href="DigitalPubRef.dita"/>
+    <link href="UploadDocDToC.dita"/>
+    <link href="UploadTextURL.dita#task_stp_1wt_ht"/>
+    <link href="ExportingDoc.dita"/>
+    <link href="CuratingTags.dita"/>
+  </related-links>
+</reference>

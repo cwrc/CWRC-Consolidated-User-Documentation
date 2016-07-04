@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Creating and Uploading DToC documents</title>
+ <topicref href="CreatingXMLDoc.dita"/>
+ <topicref href="AddingXMLidsSmallDoc.dita"/>
+ <topicref href="AddingXMLidsOxygen.dita"/>
+ <topicref href="AddingXMLIndex.dita"/>
+ <topicref href="IndexSubheadings.dita"/>
+ <topicref href="CrossReferenceIndex.dita"/>
+ <topicref href="UploadDocDToC.dita"/>
+ <topicref href="UploadTextURL.dita"/>
+</map>

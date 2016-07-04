@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en-us" lang="en-us">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="copyright" content="(C) Copyright 2005"/>
+<meta name="DC.rights.owner" content="(C) Copyright 2005"/>
+<meta name="DC.Type" content="task"/>
+<meta name="DC.Title" content="Creating Index Subheadings"/>
+<meta name="abstract" content="You can organize a group of indexes together under a subheading. You can add another list tag within the established list (anywhere in the list is fine)."/>
+<meta name="description" content="You can organize a group of indexes together under a subheading. You can add another list tag within the established list (anywhere in the list is fine)."/>
+<meta name="DC.Relation" scheme="URI" content="CreatingXMLDoc.html#task_nlg_4dn_ht"/>
+<meta name="DC.Relation" scheme="URI" content="AddingXMLidsSmallDoc.html#task_lgt_m5p_ht"/>
+<meta name="DC.Relation" scheme="URI" content="AddingXMLidsOxygen.html#task_vqx_qyp_ht"/>
+<meta name="DC.Relation" scheme="URI" content="AddingXMLIndex.html#task_xlf_knn_ht"/>
+<meta name="DC.Relation" scheme="URI" content="CrossReferenceIndex.html#task_upv_ypt_ht"/>
+<meta name="DC.Relation" scheme="URI" content="UploadDocDToC.html#task_grd_sqt_ht"/>
+<meta name="DC.Relation" scheme="URI" content="UploadTextURL.html#task_stp_1wt_ht"/>
+<meta name="DC.Relation" scheme="URI" content="OverviewDToC.html#reference_bfm_blm_lt"/>
+<meta name="DC.Relation" scheme="URI" content="XMLTemplatesRef.html#reference_vx1_1pk_nt"/>
+<meta name="DC.Format" content="XHTML"/>
+<meta name="DC.Identifier" content="task_vks_qnq_ht"/>
+<link rel="stylesheet" type="text/css" href="commonltr.css"/>
+<title>Creating Index Subheadings</title>
+</head>
+<body id="task_vks_qnq_ht">
+
+
+    <h1 class="title topictitle1">Creating Index Subheadings</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">You can organize a group of indexes together under a subheading. You can add another
+        list tag within the established list (anywhere in the list is fine).</p>
+
+        <ol class="ol steps"><li class="li step stepexpand">
+                <span class="ph cmd">Nest a ‘list’ tag within an ‘item’ tag. </span>
+                <div class="itemgroup info">An example index:<br/><div class="imagecenter"><img class="image imagecenter" id="task_vks_qnq_ht__image_uqs_l4q_ht" src="http://beta.cwrc.ca/islandora/object/cwrc%3Acf2f34c0-3eca-405d-b089-4f90e3a07902/datastream/OBJ/view"/></div><br/></div>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Within the 'list' tag add an 'item' tag. So the breadcrumb trail would be
+                    item&gt;lists&gt;item(s). Each 'item' tag wraps around each index entry (it’s content
+                    is the index term). </span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Step 3: Add a &lt;ref&gt; tag to the items in the list. <br/><div class="imagecenter"><img class="image imagecenter" id="task_vks_qnq_ht__image_jvw_v4q_ht" src="http://beta.cwrc.ca/islandora/object/cwrc%3A0a4ac238-ce00-44e2-be20-5a16873f9471/datastream/OBJ/view"/></div><br/></span>
+                <div class="itemgroup info">The 'ref' tag has a target attribute, its value is a space seperated list of
+                    paragraph XML IDs. The 'ref' tag references the paragraphs in the body text. </div>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Begin to add your index terms between the item/ref tags. </span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Now note all the paragraphs that your terms are found in. It may be helpful to
+                    write this down before you begin creating your index, or you can add the XML ids
+                    to your index as you go. </span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Add the XML ids (from the paragraph(s) or other tags) in the target attribute
+                    of the &lt;ref&gt; tag. If there are multiple XML ids related to the index term,
+                    separate these with a space. <br/><div class="imagecenter"><img class="image imagecenter" id="task_vks_qnq_ht__image_yyr_gpq_ht" src="http://beta.cwrc.ca/islandora/object/cwrc%3A8fbe56d7-7625-43f5-a6dd-5e76080987ee/datastream/OBJ/view"/></div><br/></span>
+            </li>
+</ol>
+
+    </div>
+
+    <div class="related-links"><div class="relinfo reltasks"><strong>Related tasks</strong><br/>
+<div><a class="link" href="CreatingXMLDoc.html#task_nlg_4dn_ht" title="In the Dynamic Table of Contexts (DToC) users can upload their own XML text. These XML documents need to be specially formatted in order to fully take advantage of DToC.">Creating an XML document for the Dynamic Table of Contexts</a></div>
+<div><a class="link" href="AddingXMLidsSmallDoc.html#task_lgt_m5p_ht" title="DToC uses XML ids as index locators; every index item is associated with one or more paragraph (as opposed to pages in print indexes). You will need to add XML ids to your 'p' tags in order to create a link between the index items and their reference ids.">Adding XML ids to your document manually</a></div>
+<div><a class="link" href="AddingXMLidsOxygen.html#task_vqx_qyp_ht" title="In larger XML documents, you can use oXygen to add multiple &lt;div&gt; and &lt;p&gt; ids. oXygen (text editor) has a tool that allows you to automatically generate XML IDs.">Adding XML ids with oXygen</a></div>
+<div><a class="link" href="AddingXMLIndex.html#task_xlf_knn_ht" title="Once you have created your XML document and have added XML ids to your paragraph and div tags, you can add an index of terms at the bottom of your page.">Adding an Index to your XML Document</a></div>
+<div><a class="link" href="CrossReferenceIndex.html#task_upv_ypt_ht" title="In DToC you can cross reference your index. This allows you to draw connections between terms found in different sections or chapters of your document.">Creating Cross Referencing Index terms</a></div>
+<div><a class="link" href="UploadDocDToC.html#task_grd_sqt_ht" title="Uploading the document that you have created into the Dynamic Table of Contexts involves adjusting XPath settings in DToC.">Uploading your XML document to DToC</a></div>
+<div><a class="link" href="UploadTextURL.html#task_stp_1wt_ht" title="If you do not have an XML document document, DToC allows you to upload text or URLs. Some features will be unavailable using this method (like the index).">Uploading Text and URLs into DToC</a></div>
+</div>
+<div class="relinfo relref"><strong>Related reference</strong><br/>
+<div><a class="link" href="OverviewDToC.html#reference_bfm_blm_lt" title="The Dynamic Table of Context (DToC) provides users with an unique way to view, organize, and filter their texts.">Overview of Dynamic Table of Context</a></div>
+<div><a class="link" href="XMLTemplatesRef.html#reference_vx1_1pk_nt" title="Templates are available to provide users with two different XML document templates for quick convenience.">XML Templates</a></div>
+</div>
+</div>
+
+</body>
+</html>

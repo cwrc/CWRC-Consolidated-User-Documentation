@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sf1_z25_ht">
+    <title>Navigating the document model</title>
+    <shortdesc>The Document Model is a deconstructed version of your document. Each section of grey
+        lines represents a different section/chapter/article within the document. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on a section in the document model.</cmd>
+                <info>The table of contents and the title at the top of text column will tell you
+                    what section you've selected.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A6d9f6cb6-5d0f-4cd7-a17c-64eb92e7a04a/datastream/OBJ/view"
+                        id="image_c4d_2j5_ht" align="center"/></info>
+            </step>
+            <step>
+                <cmd>Work with the "Index," "Tags," and "Stats" columns and see what lines are
+                    highlighted. </cmd>
+            </step>
+            <step>
+                <cmd>When you are done working with the Document model or would like to start a new
+                    search, click on the "Clear" button at the top of the Document Model. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="OverviewDToC.dita"/>
+        <link href="TableOfContents.dita"/>
+        <link href="LeftColumnDToC.dita"/>
+        <link href="UploadDocDToC.dita"/>
+        <link href="UploadTextURL.dita#task_stp_1wt_ht"/>
+        <link href="NavDocModel.dita"/>
+        <link href="NavTextArea.dita"/>
+        <link href="FilteringIndexTagsStats.dita"/>
+        <link href="SearchFullText.dita"/>
+        <link href="FilteringChapter.dita"/>
+        <link href="SortingWordFreq.dita"/>
+        <link href="ViewWordFrequ.dita"/>
+        <link href="ViewStatsChpCollection.dita"/>
+        <link href="FavWords.dita"/>
+        <link href="LoginAnnotationAuthentication.dita"/>
+        <link href="CommentingText.dita"/>
+        <link href="CuratingTags.dita"/>
+    </related-links>
+</task>

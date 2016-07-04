@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nlg_4dn_ht">
+    <title>Creating an XML document for the Dynamic Table of Contexts</title>
+    <shortdesc>In the Dynamic Table of Contexts (DToC) users can upload their own XML text. These
+        XML documents need to be specially formatted in order to fully take advantage of DToC. </shortdesc>
+    <taskbody>
+        <context>
+            <p>If you would like to follow along with these instructions you can download a template
+                here: <xref
+                    href="http://cwrc.ca/templates/DToC_Document_Template.xml"
+                    format="html" scope="external"
+                    >http://cwrc.ca/templates/DToC_Document_Template.xml</xref></p>
+            <p>You can open this template in oXygen, TextEdit, TextWrangler, etc. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open an application that allows you to create an XML document (oXygen,
+                    TextWrangler, Textedit, etc.). Our documentation here uses the Oxygen XML editor
+                        <xref href="http://www.oxygenxml.com/" format="html" scope="external"
+                        >http://www.oxygenxml.com/</xref></cmd>
+            </step>
+            <step>
+                <cmd> Enter the XML declaration and TEI P5 schema definition<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad2aece60-4a43-48b2-8225-3a2e86a01398/datastream/OBJ/view"
+                        id="image_p24_kxn_c5" align="center" scale="85"/></cmd>
+                
+            </step>
+            <step>
+                <cmd>Add informations to your TEI header.</cmd>
+                <info>The TEI Header helps you to define the title, publication information, and
+                    source information about the document you are working on.</info>
+            </step>
+            <step>
+                <cmd>In the body section of your document, wrap div tags around each of your
+                    chapters (or sections that you want to be separately itemized within the table
+                    of contents). These &lt;div> tags should include a ‘type’ attribute with the
+                    value of ‘chapter’   &lt;div type='chapter'></cmd>
+                <info>You define the div tags into chapters so that the different chapters will
+                    appear in the Table of Contents feature in the DToC (see images below). This is
+                    optional, if you don’t have multiple chapters you don't need this option.
+                    However, if you do and do not include this ‘type’ attribute then the chapters
+                    will blur together into one section of text. All the div tags in the template
+                    are predefined with "type='chapter'.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A23ad9b2a-0917-4f3c-a4c6-92c00c708b04/datastream/OBJ/view"
+                        id="image_odg_4gn_ht" align="center"/></info>
+            </step>
+            <step>
+                <cmd>At the top of each chapter div, add the chapter’s author and title information
+                    (see image above). <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa3fffb29-edd3-4150-9049-91c41f3dcd3a/datastream/OBJ/view"
+                        id="image_o1f_1gn_ht" align="center"/></cmd>
+                <info>We have used TEI’s "head" tag to distinguish the headers from the body text;
+                    we have also wrapped it in a bibliographic element. This ensures that any
+                    information in a ‘head’ tag will appear in the Table of Content and at the top
+                    of the text column depending on what chapter is being examined. <image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5491f662-8261-42ba-a04c-a49379e10e46/datastream/OBJ/view"
+                        id="image_dzp_bhn_ht" align="center" scale="85"/></info>
+            </step>
+            <step>
+                <cmd>Begin marking up your document. Here is an example of a simple XML document
+                    that DToC will accept. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae5c68101-74c5-46b8-8582-426be714ef6f/datastream/OBJ/view"
+                        id="image_djl_mhn_ht" align="center"/></cmd>
+                <info>This document only has one chapter associated with it and no index. If you
+                    would like to add additional chapters, see below. For more information about
+                    adding an index see the “Adding an index” linked below.</info>
+            </step>
+            <step importance="optional">
+                <cmd> If you would like to add additional chapters, copy the tags and text between
+                    and including the &lt;div> tags and paste that information below the last
+                    &lt;div> tag. Then begin to fill in the information for your next chapter.
+                        <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A22b13354-ef15-4006-b2c0-628e474af8da/datastream/OBJ/view"
+                        id="image_dp4_c3n_ht" align="center"/></cmd>
+            </step>
+            <step importance="optional">
+                <cmd>You can now continue to mark up your text with XML tags (e.g. event, place,
+                    organization, etc.). These tags will appear in the Tags column on the left side
+                    of the DToC tool. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2730f29d-dba5-47e0-a9e4-93e575007e45/datastream/OBJ/view"
+                        id="image_mqg_m3n_ht" align="center"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="AddingXMLidsSmallDoc.dita#task_lgt_m5p_ht"/>
+        <link href="AddingXMLidsOxygen.dita#task_vqx_qyp_ht"/>
+        <link href="AddingXMLIndex.dita#task_xlf_knn_ht"/>
+        <link href="IndexSubheadings.dita#task_vks_qnq_ht"/>
+        <link href="CrossReferenceIndex.dita#task_upv_ypt_ht"/>
+        <link href="UploadDocDToC.dita#task_grd_sqt_ht"/>
+        <link href="UploadTextURL.dita#task_stp_1wt_ht"/>
+        <link href="OverviewDToC.dita#reference_bfm_blm_lt"/>
+        <link href="XMLTemplatesRef.dita#reference_vx1_1pk_nt"/>
+    </related-links>
+</task>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mmf_cv5_ht">
+    <title>Sorting word frequencies</title>
+    <shortdesc>You can customize how you view word frequencies in DToC by different organizational
+        headings and by how the words are displayed under those headings. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the heading you would like to view the list of words organized by.  </cmd>
+            </step>
+            <step>
+                <cmd>Select how you would like the word frequencies to be organized by choosing one
+                    of the options available from the drop down menu. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Abef2fa15-a5dc-4992-a6b9-2270c724aeb7/datastream/OBJ/view"
+                        id="image_xvz_wbv_c5" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>You can add more options by clicking on the black arrow menu option that
+                    appears beside the organization headings when you hover your mouse over it. This
+                    brings up a drop down menu, select the “Column” option that displays another
+                    drop down menu filled with additional heading options.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A26b88836-41ba-4fc2-9113-09ea53fff8e8/datastream/OBJ/view"
+                        id="image_wrg_t1v_c5" align="center"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="OverviewDToC.dita"/>
+        <link href="TableOfContents.dita"/>
+        <link href="LeftColumnDToC.dita"/>
+        <link href="FilteringIndexTagsStats.dita"/>
+        <link href="SearchFullText.dita"/>
+        <link href="FilteringChapter.dita"/>
+        <link href="ViewWordFrequ.dita"/>
+        <link href="ViewStatsChpCollection.dita"/>
+        <link href="FavWords.dita"/>
+    </related-links>
+</task>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en-us" lang="en-us">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="copyright" content="(C) Copyright 2005"/>
+<meta name="DC.rights.owner" content="(C) Copyright 2005"/>
+<meta name="DC.Type" content="task"/>
+<meta name="DC.Title" content="Uploading your XML document to DToC"/>
+<meta name="abstract" content="Uploading the document that you have created into the Dynamic Table of Contexts involves adjusting XPath settings in DToC."/>
+<meta name="description" content="Uploading the document that you have created into the Dynamic Table of Contexts involves adjusting XPath settings in DToC."/>
+<meta name="DC.Relation" scheme="URI" content="CreatingXMLDoc.html#task_nlg_4dn_ht"/>
+<meta name="DC.Relation" scheme="URI" content="AddingXMLidsSmallDoc.html#task_lgt_m5p_ht"/>
+<meta name="DC.Relation" scheme="URI" content="AddingXMLidsOxygen.html#task_vqx_qyp_ht"/>
+<meta name="DC.Relation" scheme="URI" content="AddingXMLIndex.html#task_xlf_knn_ht"/>
+<meta name="DC.Relation" scheme="URI" content="IndexSubheadings.html#task_vks_qnq_ht"/>
+<meta name="DC.Relation" scheme="URI" content="CrossReferenceIndex.html#task_upv_ypt_ht"/>
+<meta name="DC.Relation" scheme="URI" content="UploadTextURL.html#task_stp_1wt_ht"/>
+<meta name="DC.Relation" scheme="URI" content="OverviewDToC.html#reference_bfm_blm_lt"/>
+<meta name="DC.Relation" scheme="URI" content="XMLTemplatesRef.html#reference_vx1_1pk_nt"/>
+<meta name="DC.Format" content="XHTML"/>
+<meta name="DC.Identifier" content="task_grd_sqt_ht"/>
+<link rel="stylesheet" type="text/css" href="commonltr.css"/>
+<title>Uploading your XML document to DToC</title>
+</head>
+<body id="task_grd_sqt_ht">
+
+
+    <h1 class="title topictitle1">Uploading your XML document to DToC</h1>
+
+    
+    <div class="body taskbody"><p class="shortdesc">Uploading the document that you have created into the Dynamic Table of Contexts
+        involves adjusting XPath settings in DToC. </p>
+
+        <div class="section context">
+            <p class="p"><strong class="ph b" id="task_grd_sqt_ht__docs-internal-guid-0c04f230-b780-c2c2-1820-f0adf02f9bb8"><a class="xref" href="http://voyant-tools.org/?skin=dtc" target="_blank">http://voyant-tools.org/?skin=dtc</a></strong></p>
+
+        </div>
+
+        <ol class="ol steps"><li class="li step stepexpand">
+                <span class="ph cmd">Open up the settings in the homepage of DToC. This option is represented by a
+                    gear in the top right corner of the “Add Text” box. <br/><div class="imagecenter"><img class="image imagecenter" id="task_grd_sqt_ht__image_bl4_y5t_ht" src="http://beta.cwrc.ca/islandora/object/cwrc%3Af4390d6e-710a-4404-8636-727f1ad94f09/datastream/OBJ/view"/></div><br/></span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Change the “Input Format” to TEI.</span>
+            </li>
+<li class="li step stepexpand">
+                <span class="ph cmd">Enter this XPath information into the corresponding areas:<br/><div class="imagecenter"><img class="image imagecenter" id="task_grd_sqt_ht__image_t2s_ktt_ht" src="http://beta.cwrc.ca/islandora/object/cwrc%3Aeda7b2c7-c86c-4716-bf8f-ea5eba980eef/datastream/OBJ/view"/></div><br/></span>
+                <div class="itemgroup info">DToC accepts an URL, a local file, or a string as input. DToC splits the XML
+                    into "documents" based on XPath criteria that is provided when importing the
+                    file into DToC. What we've used in the past is an XPath that matches &lt;div
+                    type="chapter"&gt; and &lt;div type="index"&gt;. It assumes that all documents (except
+                    for the last) are chapters. The last document is assumed to be the index for the
+                    entire XML file.<p class="p">Each chapter should have author and title info. When
+                        importing, you can provide XPaths to these values, relative to the parent
+                        chapter.</p>
+<p class="p">For more information on XPaths see <a class="xref" href="http://www.w3schools.com/xsl/xpath_intro.asp" target="_blank">http://www.w3schools.com/xsl/xpath_intro.asp</a></p>
+</div>
+            </li>
+<li class="li step stepexpand"><strong>Optional: </strong>
+                <span class="ph cmd">The XPath to document section assumes that your document is organized into
+                    chapter(s), a forward, and an index. You may have to configure the XPath to
+                    document section if your document has additional structure components (such as
+                    an afterword). </span>
+                <div class="itemgroup info">To add an after word, you would need to add this expression to the larger
+                        chain:<p class="p">‘afterword’=@*[local-name()=’type’]</p>
+<p class="p">The Xpath to Documents
+                        chain would now look like:</p>
+<p class="p">//*[local-name()='div'
+                        and('chapter'=@*[local-name()='type'] or 'forward'=@*[local-name()='type']
+                        or ‘afterword’=@*[local-name()=’type’] or
+                            'index'=@*[local-name()='type'])]<br/><div class="imagecenter"><img class="image imagecenter" id="task_grd_sqt_ht__image_fpx_cvt_ht" src="http://beta.cwrc.ca/islandora/object/cwrc%3A5e77e9e1-7684-46f2-960d-fb0237827ca6/datastream/OBJ/view"/></div><br/></p>
+</div>
+            </li>
+<li class="li step stepexpand"><strong>Optional: </strong>
+                <span class="ph cmd">Click "OK".</span>
+            </li>
+<li class="li step stepexpand"><strong>Optional: </strong>
+                <span class="ph cmd">Click on the “Upload” button in the lower right corner of the “Add texts”
+                        box.<br/><div class="imagecenter"><img class="image imagecenter" id="task_grd_sqt_ht__image_d2l_gvt_ht" src="http://beta.cwrc.ca/islandora/object/cwrc%3Ac04bb2fc-9e16-4b9b-a01f-0250c4b773ae/datastream/OBJ/view"/></div><br/></span>
+            </li>
+<li class="li step stepexpand"><strong>Optional: </strong>
+                <span class="ph cmd">A popup appears. Click on the “Add” option at the top of the popup. <br/><div class="imagecenter"><img class="image imagecenter" id="task_grd_sqt_ht__image_f5c_mvt_ht" src="http://beta.cwrc.ca/islandora/object/cwrc%3Ad57f925e-9f84-478a-a2be-7e5fb62a2394/datastream/OBJ/view"/></div><br/></span>
+            </li>
+<li class="li step stepexpand"><strong>Optional: </strong>
+                <span class="ph cmd">Select the XML document on your computer that you would like to upload to DToC.
+                        <br/><div class="imagecenter"><img class="image imagecenter" id="task_grd_sqt_ht__image_bhj_pvt_ht" src="http://beta.cwrc.ca/islandora/object/cwrc%3Aa0388b1c-cc31-4d88-9b83-8e7f69c42372/datastream/OBJ/view"/></div><br/></span>
+                <div class="itemgroup info">If you accidently uploaded the wrong document click on the left icon (with the
+                    red delete symbol) and upload the correct document. Or you can upload more than
+                    one document, but only one with be “Revealed.” </div>
+            </li>
+<li class="li step stepexpand"><strong>Optional: </strong>
+                <span class="ph cmd">Once the document appears in the upload popup, click on “Reveal.” Voyant will
+                    process your document. Once it is finished processing your document, DToC will
+                    open with your XML document uploaded. <br/><div class="imagecenter"><img class="image imagecenter" id="task_grd_sqt_ht__image_ecp_tvt_ht" src="http://beta.cwrc.ca/islandora/object/cwrc%3Acdf28d4c-1788-429b-bbe1-e7c3a7fa6efa/datastream/OBJ/view" height="NaN" width="NaN"/></div><br/></span>
+            </li>
+</ol>
+
+    </div>
+
+    <div class="related-links"><div class="relinfo reltasks"><strong>Related tasks</strong><br/>
+<div><a class="link" href="CreatingXMLDoc.html#task_nlg_4dn_ht" title="In the Dynamic Table of Contexts (DToC) users can upload their own XML text. These XML documents need to be specially formatted in order to fully take advantage of DToC.">Creating an XML document for the Dynamic Table of Contexts</a></div>
+<div><a class="link" href="AddingXMLidsSmallDoc.html#task_lgt_m5p_ht" title="DToC uses XML ids as index locators; every index item is associated with one or more paragraph (as opposed to pages in print indexes). You will need to add XML ids to your 'p' tags in order to create a link between the index items and their reference ids.">Adding XML ids to your document manually</a></div>
+<div><a class="link" href="AddingXMLidsOxygen.html#task_vqx_qyp_ht" title="In larger XML documents, you can use oXygen to add multiple &lt;div&gt; and &lt;p&gt; ids. oXygen (text editor) has a tool that allows you to automatically generate XML IDs.">Adding XML ids with oXygen</a></div>
+<div><a class="link" href="AddingXMLIndex.html#task_xlf_knn_ht" title="Once you have created your XML document and have added XML ids to your paragraph and div tags, you can add an index of terms at the bottom of your page.">Adding an Index to your XML Document</a></div>
+<div><a class="link" href="IndexSubheadings.html#task_vks_qnq_ht" title="You can organize a group of indexes together under a subheading. You can add another list tag within the established list (anywhere in the list is fine).">Creating Index Subheadings</a></div>
+<div><a class="link" href="CrossReferenceIndex.html#task_upv_ypt_ht" title="In DToC you can cross reference your index. This allows you to draw connections between terms found in different sections or chapters of your document.">Creating Cross Referencing Index terms</a></div>
+<div><a class="link" href="UploadTextURL.html#task_stp_1wt_ht" title="If you do not have an XML document document, DToC allows you to upload text or URLs. Some features will be unavailable using this method (like the index).">Uploading Text and URLs into DToC</a></div>
+</div>
+<div class="relinfo relref"><strong>Related reference</strong><br/>
+<div><a class="link" href="OverviewDToC.html#reference_bfm_blm_lt" title="The Dynamic Table of Context (DToC) provides users with an unique way to view, organize, and filter their texts.">Overview of Dynamic Table of Context</a></div>
+<div><a class="link" href="XMLTemplatesRef.html#reference_vx1_1pk_nt" title="Templates are available to provide users with two different XML document templates for quick convenience.">XML Templates</a></div>
+</div>
+</div>
+
+</body>
+</html>

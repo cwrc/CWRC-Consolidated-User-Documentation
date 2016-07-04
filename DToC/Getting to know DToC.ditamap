@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Getting to Know DToC</title>
+ <topicref href="OverviewDToC.dita"/>
+ <topicref href="TableOfContents.dita"/>
+ <topicref href="LeftColumnDToC.dita"/>
+ <topicref href="XMLTemplatesRef.dita"/>
+ <topicref href="SettingsRef.dita"/>
+ <topicref href="DigitalPubRef.dita"/>
+</map>

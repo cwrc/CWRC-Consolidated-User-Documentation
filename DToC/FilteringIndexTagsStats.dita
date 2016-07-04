@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sbr_nm5_ht">
+    <title>Filtering index terms, tags, and stats</title>
+    <shortdesc>The search feature narrows down terms automatically as you type, whether they have
+        the specific combination of letters you are typing anywhere in the word (not just if the
+        word starts with the letters you are typing). </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Type the term or tag that you would like to locate in the list. You can search
+                    for terms or tags found in a specific chapter by selecting an option from the
+                    “Filter by Chapter” drop down menu. The Stats column search filter is located at
+                    the bottom of the column.</cmd>
+                <info>You can search for terms or tags found in a specific chapter by selecting an
+                    option from the “Filter by Chapter” drop down menu. The Stats column search
+                    filter is located at the bottom of the column.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac7383560-ce3d-432c-acd3-d8a86d4223d3/datastream/OBJ/view"
+                        id="image_obp_qn5_ht" align="center"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A406d05d6-62df-4634-99fc-8ed131351f2d/datastream/OBJ/view"
+                        id="image_vxr_tn5_ht" align="center"/></info>
+            </step>
+            <step>
+                <cmd>Type the term or tag that you would like to locate in the list. You can search
+                    for terms or tags found in a specific chapter by selecting an option from the
+                    “Filter by Chapter” drop down menu.</cmd>
+                <info>Terms are represented in orange, tags in blue, and words in purple. <image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2ebd65de-f06a-40c7-a60e-93d822274a61/datastream/OBJ/view"
+                        id="image_ybr_xn5_ht" align="center" scale="85"/></info>
+            </step>
+            <step>
+                <cmd>To restart your search choose the “Clear” button located at the top of the
+                    document model. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="OverviewDToC.dita"/>
+        <link href="LeftColumnDToC.dita"/>
+        <link href="AddingXMLidsSmallDoc.dita#task_lgt_m5p_ht"/>
+        <link href="AddingXMLidsOxygen.dita#task_vqx_qyp_ht"/>
+        <link href="AddingXMLIndex.dita#task_xlf_knn_ht"/>
+        <link href="IndexSubheadings.dita#task_vks_qnq_ht"/>
+        <link href="CrossReferenceIndex.dita#task_upv_ypt_ht"/>
+        <link href="NavigateToC.dita"/>
+        <link href="FilteringChapter.dita"/>
+        <link href="SortingWordFreq.dita"/>
+        <link href="ViewWordFrequ.dita"/>
+        <link href="ViewStatsChpCollection.dita"/>
+        <link href="FavWords.dita"/>
+        <link href="ExportingDoc.dita"/>
+        <link href="LoginAnnotationAuthentication.dita"/>
+        <link href="CommentingText.dita"/>
+        <link href="CuratingTags.dita"/>
+    </related-links>
+</task>

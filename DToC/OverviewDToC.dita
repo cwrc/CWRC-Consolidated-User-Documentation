@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_bfm_blm_lt">
+  <title>Overview of Dynamic Table of Context</title>
+  <shortdesc>The Dynamic Table of Context (DToC) lets users reveal information about their text that
+    is not necessarily discovered when reading, such as word frequencies. DToC also allows users to
+    customize their document with annotations and adding tags. </shortdesc>
+  <refbody>
+    <section><title>DToC tutorial video</title>
+        <object data="https://www.youtube.com/embed/rTrjRIJjdbM" width="420" height="315">
+        <param name="src" value="https://www.youtube.com/embed/rTrjRIJjdbM"/>
+        <param name="movie" value="https://www.youtube.com/embed/rTrjRIJjdbM"/>
+        <param name="allowFullScreen" value="true"/>
+        <param name="allowscriptaccess" value="always"/>
+        </object>    
+    </section>
+    <refbodydiv>
+      <section><title>DToC overview</title>
+        <p>The homepage of DToC lets users enter URLs, text, or XML documents. DToC is optimized for
+          XML documents. Users upload pre existing XML documents by selecting the gear icon in the
+          top right corner and then following the steps described in the “Upload your XML document
+          to DToC” (linked below). </p>
+        <p>Additionally, users can paste/type in a URL or non-XML text into the text box provided on
+          the first page of DToC. </p>
+        <p>Once you have enter the text, the “Reveal” button moves you into the main page of DToC.
+            <image placement="break"
+            href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad4038b5f-be18-4582-b217-90805000684f/datastream/OBJ/view"
+            id="image_vft_nmm_lt" align="center" scale="85"/></p>
+        <p>The Dynamic Tables of Contexts is divided into four columns. </p>
+        <p>The text area contains the text of the document you’ve uploaded or entered into DToC. If
+          your document has multiple sections then only the first section is visible in the text
+          area when DToC loads. Below the text, at the bottom of the column, is a “Next Chapter”
+          button (and/or a “Previous Chapter depending on what section you are viewing) that allows
+          users to navigate between different sections of a document or different components of a
+          collection.</p>
+        <p>The document model contains multiple lines that represent paragraphs of your document and
+          are divided into sections or chapters by white spaces. These lines can become highlighted
+          if they contain an index term, tag, or stat from the left column. Additionally, you can
+          click on one of the lines to move the text area to that section of the text. </p>
+        <p>The table of contents displays the multiple sections or chapters of your document in a
+          list. You can move between sections or chapters by clicking on the different titles
+          located in the Table of Contents. This will reload the text in the right column to the
+          section or chapter you’ve selected.</p>
+        <p>The left column provides you with four options to explore your text.</p>
+        <p>
+          <ul>
+            <li>The “Index” column arranges the terms alphabetically and displays the frequency of
+              different terms in your document. Your index has to follow a certain XML syntax, one
+              may want to upload a document that already has an index or to add an index to your
+              document, please read “Adding an index to your XML document” linked below.</li>
+            <li>The “Tags” column shows all the XML tags searchable in your document. By clicking on
+              the tags in the list you can see where they are situated in the sections. </li>
+            <li>The “Stats” tab displays the word frequencies in your document. You can sort the
+              stats list by heading, list order, and category. Additionally, if you want to view
+              just a few of the terms you can create a favorite list. </li>
+            <li>The “Annotations” displays any annotations made in the text area. To use this
+              function you must be logged in to the “AnnotateIt” tool (a popup prompt comes up when
+              you open this tab). </li>
+          </ul>
+        </p>
+        <p>The Table of Contents, “Index,” and “Tag” tabs are only available if you upload an XML
+          document with a structure compatible with DToC. See “Upload your XML document to DToC”
+          (linked below) for more information and one of the XML document templates to get
+          started.</p>
+      </section>
+    </refbodydiv>
+  </refbody>
+  <related-links>
+    <link href="TableOfContents.dita"/>
+    <link href="LeftColumnDToC.dita"/>
+    <link href="XMLTemplatesRef.dita"/>
+    <link href="SettingsRef.dita"/>
+    <link href="DigitalPubRef.dita"/>
+    <link href="UploadDocDToC.dita"/>
+    <link href="UploadTextURL.dita#task_stp_1wt_ht"/>
+    <link href="NavigateToC.dita"/>
+    <link href="NavDocModel.dita"/>
+    <link href="NavTextArea.dita"/>
+    <link href="FilteringIndexTagsStats.dita"/>
+    <link href="SearchFullText.dita"/>
+    <link href="FilteringChapter.dita"/>
+    <link href="SortingWordFreq.dita"/>
+    <link href="ViewWordFrequ.dita"/>
+    <link href="ViewStatsChpCollection.dita"/>
+    <link href="FavWords.dita"/>
+    <link href="CommentingText.dita"/>
+    <link href="LoginAnnotationAuthentication.dita"/>
+    <link href="CuratingTags.dita"/>
+  </related-links>
+</reference>
