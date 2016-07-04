@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="glossgroup_rjj_r1d_nw">
+  <title>FormGenre Terms</title>
+  <prolog product="CWRC-Writer">
+    <author>Abi Lemak</author>
+    <copyright>
+      <copyryear year="2014"></copyryear>
+      <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="2016-07-04"></created>
+      <revised modified="2016-07-04"></revised>
+    </critdates>
+    <metadata product="stand-alone">
+      <audience audience="novice"></audience>
+      <audience audience="CWRCMember"></audience>
+    </metadata>
+  </prolog>
+  <glossentry id="ddl">
+    <glossterm>Artist's book</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_mtl_x1d_nw">
+    <glossterm>Book</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_bvm_x1d_nw">
+    <glossterm>Born digital</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_dln_x1d_nw">
+    <glossterm>Broadside</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_mn4_x1d_nw">
+    <glossterm>Calendar</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_wx4_x1d_nw">
+    <glossterm>Chapbook</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_zgp_x1d_nw">
+    <glossterm>Collection</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_qpp_x1d_nw">
+    <glossterm>Drawing</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_cyp_x1d_nw">
+    <glossterm>Ephemera</glossterm>
+    <glossdef>Printed matter that cannot be otherwise categorized, such as bus or theatre tickets, etc.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_rgq_x1d_nw">
+    <glossterm>Fascicle</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_vnq_x1d_nw">
+    <glossterm>Film</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_owq_x1d_nw">
+    <glossterm>Letter</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_g2r_x1d_nw">
+    <glossterm>Loose-leaf</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_olr_x1d_nw">
+    <glossterm>Manuscript</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_etr_x1d_nw">
+    <glossterm>Map</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_k1s_x1d_nw">
+    <glossterm>Mimeograph or stencil</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_ijs_x1d_nw">
+    <glossterm>Newspaper</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_ups_x1d_nw">
+    <glossterm>Offprint</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_xvs_x1d_nw">
+    <glossterm>Painting</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+  <glossentry id="glossentry_sft_x1d_nw">
+    <glossterm>Pamphlet</glossterm>
+    <glossdef></glossdef>
+  </glossentry>
+</glossgroup>
