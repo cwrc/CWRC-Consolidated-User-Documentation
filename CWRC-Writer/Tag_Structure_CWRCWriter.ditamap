@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Embedding Semantic Tags with CWRC-Writer</title>
+ <topicref href="CWRCWriter_Tag_Splash.dita"/>
+ <topicref href="Tag_Selecting_Text.dita"/>
+ <topicref href="Tag_Structural.dita"/>
+ <topicref href="Delete_Tags_Editor.dita"/>
+ <topicref href="Delete_Tags_Toolbar.dita"/>
+ <topicref href="Edit_Tag_Editor.dita"/>
+ <topicref href="Edit_Tag_Structure.dita"/>
+ <topicref href="Edit_Tag_Toolbar.dita"/>
+</map>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mkg_gn2_np">
+    <title>Showing tags in editor</title>
+    <shortdesc>Show tags allows you to view all the XML tags in the document. </shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
+            <created date="2014-09-21"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata>
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the <cmdname>Settings</cmdname> button on the top right of the editor window.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0b3df7bf-2d7f-4b27-b4a7-8f94aca60e48/datastream/OBJ/view" id="image_yxz_vn2_np" align="center"></image></cmd>
+            </step>
+            <step>
+                <cmd>Click on the <cmdname>Show Tags</cmdname> check box button and click on <cmdname>OK</cmdname>. </cmd>
+                <!--<info>      
+<!-\-                    <p>
+                    <lines><b>Related Links:</b></lines>
+                    <lines><xref href="Switch_Mode.dita"></xref></lines>
+                    <lines><xref href="View_Source.dita"></xref></lines>
+                    <lines><xref href="Edit_Source.dita"></xref></lines>
+                    <lines><b>Reference Materials:</b></lines>
+                    <lines><xref href="Settings.dita"></xref></lines>
+                </p>-\->
+                </info>-->
+            </step>
+        </steps>
+        <result>This will show all the XML tags in the document.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3d08d783-d6d4-405c-8d2e-893937f5b5f0/datastream/OBJ/view" id="image_nhg_yn2_np" align="center" width="6in" height="6in"></image></result>
+    </taskbody>
+    <related-links>
+        <link href="Switch_Mode.dita#task_rzm_jl2_np"/>
+        <link href="View_Source.dita#task_l41_j42_np"/>
+        <link href="Edit_Source.dita#task_chh_dp2_np"/>
+        <link href="Settings.dita#reference_shl_y3f_np"/>
+    </related-links>
+</task>

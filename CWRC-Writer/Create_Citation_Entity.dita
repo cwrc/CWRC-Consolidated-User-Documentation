@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zl5_kt2_np">
+    <title>Creating citation entities</title>
+    <shortdesc>Tag citation is for tagging citations in the text, which may contain a loosely
+        structured bibliographic citation of which the subcomponents may or may not be explicitly
+        tagged. </shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
+            <created date="2014-09-21"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to add a citation to and right-click or
+                    use the toolbar icon. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ace6d700d-4480-4ac6-b9cb-a63ff817779e/datastream/OBJ/view"
+                        id="image_pxh_bz2_np" align="center" otherprops=""/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A67cedea5-dffb-4ae7-bae7-f6e762f23416/datastream/OBJ/view"
+                        id="image_rz4_k4v_tp" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>A pop-up will appear with a list of titles from the CWRC and VIAF entries.
+                    Choose an option and click on <cmdname>Select</cmdname>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa3eed552-9382-400b-8877-bccd1d0dd6b5/datastream/OBJ/view"
+                        id="image_uny_m4v_tp" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>A mini-editor will pop-up, enter any information that you would like in the
+                    pop-up.</cmd>
+                <info>There is a specific way to add text within tags in the mini-editor. To do
+                    this, you click the tag twice in the structure/markup tree, so that its entry is
+                    italicized (this means the tag's content is selected). You can then start
+                    typing, which will add text content to that tag. <note>When using the
+                        mini-editor you can add XML and RDF tags just like in the main editor.
+                        though the toolbar options are limited (e.g. you cannot choose to "save" or
+                        "validate" the citation). The structure and entity panels on the left mimic
+                        the structure panel in the editor and displays all the tags you added to the
+                        citation in the mini-editor.<image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A5282d109-7a53-42f0-aa73-62ad175ccb9f/datastream/OBJ/view"
+                            id="image_lrm_54v_tp" align="center" height="4in" width="6in"
+                    /></note></info>
+            </step>
+            <step>
+                <cmd>Once you have entered the text into the editor, you can begin to tag the
+                    document. Adding structural tags and entities to the document.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A4c9052e7-14fd-4fdb-b37a-d323625cc12f/datastream/OBJ/view"
+                        id="image_k1k_x4v_tp" align="center" height="4in" width="6in"/></cmd>
+            </step>
+            <step>
+                <cmd>If/When you decide to add entities to your citation, you will see a pop-up
+                    exactly like that in CWRC-Writer. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5eca006f-e9b5-4e58-905e-bdb52790b876/datastream/OBJ/view"
+                        id="image_x2x_xz2_np" align="center" height="4in" width="6in"/></cmd>
+            </step>
+            <step>
+                <cmd>Once you have finished creating the citation, click <cmdname>Select</cmdname>.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aec2129ec-eee3-4a60-9b83-69e0d9852218/datastream/OBJ/view"
+                        id="image_rsw_zz2_np" align="center" height="4in" width="6in"/></cmd>
+            </step>
+        </steps>
+        <result>You have now created a citation in your document. You can see in the image below
+            that the note appears in the document, currently the note does not format correctly in
+            CWRC-Writer. <p>
+                <image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac262e0c4-9947-4f7f-8b91-f47cf77e4e95/datastream/OBJ/view"
+                    id="image_imc_c1f_np" align="center" conref="" height="4in" width="6in"/>
+            </p><p>The resulting citation looks like this:<image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A9b48883b-28a7-458b-826c-f8a5de7096f0/datastream/OBJ/view"
+                    id="image_egf_r4v_tp" align="center"/></p>
+            <!--<p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Create_Person_Entity.dita"/></lines>
+                <lines><xref href="Create_Place_Entity.dita"/></lines>
+                <lines><xref href="Create_Date_Entity.dita"/></lines>
+                <lines><xref href="Create_Organization_Entity.dita"></xref></lines>
+                <lines><xref href="Create_Title_Entity.dita"/></lines>
+                <lines><xref href="Create_Link_Entity.dita"/></lines>
+                <lines><xref href="Create_Keyword_Entity.dita"/></lines>
+                <lines><xref href="Create_Correction_Entity.dita"/></lines>
+                <lines><xref href="Create_Note_Entity.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Toolbar.dita"></xref></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>-->
+        </result>
+    </taskbody>
+    <related-links>
+        <link href="Create_Person_Entity.dita#task_tkx_2h2_lp"/>
+        <link href="Create_Place_Entity.dita#task_fgv_wk2_lp"/>
+        <link href="Create_Date_Entity.dita#task_gdm_rm2_lp"/>
+        <link href="Create_Organization_Entity.dita#task_cn1_qkf_lp"/>
+        <link href="Create_Title_Entity.dita#task_hts_tmf_lp"/>
+        <link href="Create_Link_Entity.dita#task_dsr_rqf_lp"/>
+        <link href="Create_Keyword_Entity.dita#task_wh4_1xf_lp"/>
+        <link href="Create_Correction_Entity.dita#task_nry_4xf_lp"/>
+        <link href="Create_Note_Entity.dita#task_kbz_ht2_np"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="CWRC_Entity_System.dita#reference_ibn_hrg_rp"/>
+    </related-links>
+</task>

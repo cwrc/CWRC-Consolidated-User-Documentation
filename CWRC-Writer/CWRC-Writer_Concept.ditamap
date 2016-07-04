@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>CWRC-Writer Concepts</title>
+ <topicref href="CWRCWriter_Concept_Splash.dita"/>
+ <topicref href="Concept_XML.dita"/>
+ <topicref href="Concept_RDF.dita"/>
+ <topicref href="Concept_Named_Entity_Annotation.dita"/>
+ <topicref href="Concept_Triples.dita"/>
+</map>

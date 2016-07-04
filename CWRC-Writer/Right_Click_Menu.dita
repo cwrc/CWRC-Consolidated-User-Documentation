@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_wsn_b5g_rp">
+  <title>CWRC-Writer right-click menus</title>
+  <shortdesc>You can add tags within the editor by highlighting the text and right-clicking. This
+    will bring up a list of option available to you (adding entities, structural tags, editing,
+    etc). </shortdesc>
+  <refbody>
+    <section><title>Right click menu in the text area</title><p>
+        <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A90bef8e1-3ff2-40df-96fd-dfb1e8eeb0ea/datastream/OBJ/view"
+          id="image_orc_m5g_rp" align="center"/>
+        <lines><b>Tag Person</b> is for tagging people by name. It usually contains a proper noun or noun phrase, but can also contain pronouns or other ways of referring to someone.</lines>
+        <lines><b>Tag Place</b> is for tagging a place. It can describe both a geographical location or a setting.</lines>
+        <lines><b>Tag Date</b> is for tagging a date in the text. This tag can contain the year, month, day, or a combination of the three.</lines>
+        <lines><b>Tag Organization</b> is used to tag an organization or company.</lines>
+        <lines><b>Tag Citation</b> is for tagging citations in the text, which may contain a loosely structured bibliographic citation of which the subcomponents may or may not be explicitly tagged. </lines>
+        <lines><b>Tag Note</b> is used to tag a note or annotations.</lines>
+        <lines><b>Tag Text/Title</b> is for tagging a title or the text of any type of work.</lines>
+        <lines><b>Structure Tags</b> allows you to add XML tags to the highlighted text. You can filter tags using the search field at the top of the list.</lines>
+        <lines><b>Change Tag</b> this allows you to change  a tag (for example, turn a "lg" - line group - into a "p" - paragraph).</lines>
+        <lines><b>Edit Tag</b> this allows you to edit a tag by modifying the attributes of the tag.</lines>
+        <lines><b>Remove Tag</b> is for removing a tag.</lines>
+        <lines><b>Copy Entity</b> allows you to copy an entity, this option is only available when you highlight a pre tagged entity.</lines>
+      </p>
+    </section>
+    <section>
+      <title>Right-click menu in the structure column</title>
+      <p>In CWRC-Writer, you can add tags through the structure panel on the left side of the
+        editor. To add tags in the structure panel, select a tag and then right-click. this will
+        bring up a menu with eight options that allow you to either insert a tag, edit an existing
+        tag, or remove tags. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A87902ebb-8efa-41c4-b24b-ffa9c1753533/datastream/OBJ/view"
+          id="image_fdg_5yg_rp" align="center"
+        /><lines><b>Insert Tag Before</b> allows you to insert a tag before the tag you have right-clicked on.</lines><lines><b>Insert Tag After</b> allows you to insert a tag after the tag you have right-clicked on (skipping over any nested tags within the tag you have clicked on).</lines><lines><b>Insert Tag Inside</b> this will insert a new tag nested within the initial tag you clicked on.</lines><lines><b>Change Tag</b> this allows you to change a tag (for example, turn a "lg" - line group - into a "p" - paragraph).</lines><lines><b>Edit Tag</b> this allows you to edit a tag by modifying the attributes of the tag.</lines><lines><b>Remove Tag Only</b> allows you to remove a tag, but keep the content (text, nested tags, etc.)</lines><lines><b>Remove Content Only</b> allows you to remove the content of a tag (text, nested tags, etc.), but keep the tag.</lines><lines><b>Remove Tag and All Content</b> allows you to remove everything within a tag and the tag itself.</lines></p>
+    </section>
+    <section>
+      <title>Right-click menu in the entities column</title>
+      <p>You can edit entities by right-clicking on an entity in the entities panel on the left side
+        of the editor.</p>
+      <p>
+        <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A7c027dc7-0ff4-47cc-8344-06b655796a7a/datastream/OBJ/view"
+          id="image_iry_n1h_rp" align="center"/>
+        <lines><b>Edit Entity</b> allows you to edit the qualifying information of an entity. This will bring up a pop-up where you can change the settings.</lines>
+        <lines><b>Remove Entity</b> allows you to remove an entity, this will also remove the text that is tagged.</lines>
+        <lines><b>Copy Entity</b> allows you to copy an entity and identifying information. to paste the entity, place your cursor in the text in the editor and right-click (choose to paste the entity).</lines>
+      </p>
+    </section>
+    <section>
+      <title>Right-click menu in the relations column</title>
+      <p>The relations panel displays the relationships you've added between entities. To remove the
+        entities, right-click on the relationship you would like to delete and choose the only
+        option - Remove Relations.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae35fbb65-9a12-4a1c-8dc7-d700bdc5d134/datastream/OBJ/view"
+          id="image_vzr_pbh_rp" align="center"/></p>
+    </section>
+    </refbody>
+</reference>

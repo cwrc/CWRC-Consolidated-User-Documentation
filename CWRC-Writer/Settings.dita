@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_shl_y3f_np">
+  <title>Settings menu</title>
+  <shortdesc>The "Settings" options allow you to change the settings of your document.</shortdesc>
+  <refbody>
+    <section>
+      <title>Settings menu - general information</title>
+      <p>The settings menu is located in the top right corner of the editor.</p>
+      <p>The top half of the settings pop-up allows users to modify the font and size of the text
+        displayed in the editor panel. There are two check boxes that allow you to view the entity
+        brackets (which is preset to be on) and the show tags option. This will allow you to view
+        the XML brackets in the document.</p>
+      <p>We advise you to make both entities and tags visible by checking the two options listed
+        below, especially if you intend to work a lot with tags and entities.</p>
+      <p>The lower half of the Settings pop-up allows users to select the editor mode and the schema
+        associated with the current document (see more below).<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A0b3df7bf-2d7f-4b27-b4a7-8f94aca60e48/datastream/OBJ/view"
+          id="image_xfw_bkf_np" align="center"/></p>
+      <p>Currently, when you select "Add Schema" a pop-up appears. This allows you to add your
+        "Schema Name," "Schema URL," and "Schema CSS URL." Once you have filled in those fields,
+        click on "Add Schema." Now your schema is set in the drop-down menu. This last feature is
+        not fully developed, as the only schema currently supported is the CWRC Basic TEI schema.
+          <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A150651b3-f62d-421c-938f-22a55411f6ff/datastream/OBJ/view"
+          id="image_kyv_mkf_np" align="center"/></p>
+    </section>
+    <section>
+      <title>Settings menu - changing the editor mode</title>
+      <p>You can change the editor mode in your document at any time (NOTE: If you have overlapping
+        entities and are attempting to switch to a mode which prohibits them. The overlapping
+        entities will be discarded if you switch modes). This changes the flexibility of tags and
+        entities within your document. </p>
+      <p>XML or eXtensible Markup Language is a markup language that allows both humans and
+        computers to read the tag you assign the words. RDF or Resource Description Framework is
+        part of the World Wide Web Consortium (W3C) that allows human to tag words in phrases in a
+        markup language. </p>
+      <p>The main difference between these two forms or markup languages are that RDF allows the
+        user to overlap tags. For example, "Leonardo da Vinci" is both the name of a famous artist
+        and a place, so in mark up it would look something like this: &lt;"Name">Leonardo
+        da&lt;"Place">Vinci&lt;"/Place">&lt;"/Name">. XML does not allow the user to overlap tags so
+        that only the "Name" tag could be used. To change between XML and RDF the user has to go to
+        the <cmdname>Settings</cmdname> button in the top right corner.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A2021eabe-1e1d-42fb-b178-d4b4ad850470/datastream/OBJ/view"
+          id="image_udz_mmf_np" align="center"/></p>
+      <p>
+        <ul id="ul_i4h_gc5_tp">
+          <li>
+            <p>
+              If you are in the <b>XML no overlap</b> mode then the annotations added using editor's entity buttons will be saved as the equivalent tags within your schema, with the entity data stored in the tags attributes as far as the schema allows; the same entity annotations can also be saved in the for of RDF.
+            </p>
+          </li>
+          <li><p>In the <b>XML/RDF no overlap</b> mode the entities will be saved in the
+            form of RDF only, although the structural tags for your document will continue to take
+            the form of hierarchical XML. However, you cannot overlap the tags and entities.</p> </li>
+          <li>If you are in <b>XML/RDF overlapping entities</b> mode then your entities
+            will be saved in the for of RDF only, although the structural tags for your document
+            will continue to take the form of hierarchical XML. You can add tags and entities to the
+            document that overlap within the document. </li>
+        </ul>
+      </p>
+    </section>
+  </refbody>
+</reference>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_kx3_njh_rp">
+  <title>Copying and pasting</title>
+  <shortdesc>Copying and pasting is the easiest way to build the structure of your document. </shortdesc>
+  <refbody>
+    <section>
+      <title>Introduction to copying and pasting</title>
+      <p>You can copy and paste in multiple ways in CWRC-Writer, this includes tags, text, and
+        entities. There are multiple methods to copy and paste using your mouse's right-click
+          button.<image
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A909a2a26-1c15-443d-a49c-39ce120fd91f/datastream/OBJ/view"
+          id="image_p4r_hzq_mr"/>
+      </p>
+      <!--<p>
+        <lines><b>Related Links:</b></lines>
+        <lines><xref href="Copy_Paste_Text.dita"/></lines>
+        <lines><xref href="Copy_Paste_Single_Tag.dita"/></lines>
+        <lines><xref href="Copy_Paste_Multiple_Tags.dita"/></lines>
+        <lines><xref href="Copy_Paste_Tags.dita"/></lines>
+        <lines><xref href="View_Copied_Text.dita"/></lines>
+        <lines><xref href="Copy_Paste_Entity.dita"/></lines>
+      </p>-->
+    </section>
+  </refbody>
+  <related-links>
+    <link href="Copy_Paste_Text.dita#task_mcg_3fd_dp"/>
+    <link href="Copy_Paste_Single_Tag.dita#task_gfg_fjd_dp"/>
+    <link href="Copy_Paste_Multiple_Tags.dita#task_r4l_ykd_dp"/>
+    <link href="Copy_Paste_Tags.dita#task_t1x_nfn_jp"/>
+    <link href="View_Copied_Text.dita#task_sf3_lyg_dp"/>
+    <link href="Copy_Paste_Entity.dita#task_osz_cb2_np"/>
+  </related-links>
+</reference>

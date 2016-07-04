@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>CWRC-Writer Documentation</title>
+ <topichead navtitle="Getting started in CWRC-Writer">
+  <topicref href="Get_started_in_CWRC-Writer.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="CWRC-Writer features">
+  <topicref href="CWRCWriter_Reference.ditamap" format="ditamap"/>
+ </topichead><topichead navtitle="Copying and Pasting in CWRC-Writer">
+  <topicref href="Copy_Paste_CWRCWriter.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="Embedding Semantic Tags with CWRC-Writer">
+  <topicref href="Tag_Structure_CWRCWriter.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="Tagging Entities in CWRC-Writer">
+  <topicref href="Tag_Entity_CWRCWriter.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="CWRC-Writer concepts">
+  <mapref href="CWRC-Writer_Concept.ditamap" format="ditamap"/>
+ </topichead>
+</map>

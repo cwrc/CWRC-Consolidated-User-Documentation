@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_jjd_mk3_rp">
+  <title>Tagging RDF entities</title>
+  <shortdesc>Tagging RDF annotated entities in CWRC-Writer allows users to add semantic information
+    to certain text (person, place, etc). </shortdesc>
+  <refbody>
+    <section>
+      <title>Introduction to tagging entities</title>
+      <p>You can add annotated entities to Person, Place, Date, Organization, Event, Citation, Note,
+        Text/Title, Correction, Keyword, and Link. You can add qualifying information to the
+        entities like the attributes precision and identification. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A00802484-b576-4993-a65d-beb58164e5ed/datastream/OBJ/view"
+          id="image_rxm_nm3_rp" align="center" height="4in" width="6in"
+        ></image></p>
+      <!--<p>
+        <lines><b>Related Links:</b></lines>
+        <lines><xref href="Tag_Entity_Editor.dita"/></lines>
+        <lines><xref href="Tag_Entity_Toolbar.dita"/></lines>
+        <lines><xref href="Create_Person_Entity.dita"/></lines>
+        <lines><xref href="Create_Place_Entity.dita"/></lines>
+        <lines><xref href="Create_Date_Entity.dita"/></lines>
+        <lines><xref href="Create_Organization_Entity.dita"/></lines>
+        <lines><xref href="Create_Title_Entity.dita"/></lines>
+        <lines><xref href="Create_Link_Entity.dita"/></lines>
+        <lines><xref href="Create_Keyword_Entity.dita"/></lines>
+        <lines><xref href="Create_Correction_Entity.dita"/></lines>
+        <lines><xref href="Create_Note_Entity.dita"/></lines>
+        <lines><xref href="Create_Citation_Entity.dita"/></lines>
+        <lines><xref href="Delete_Entity_Editor.dita"/></lines>
+        <lines><xref href="Delete_Entity_Panel.dita"/></lines>
+        <lines><xref href="Delete_Entity_Toolbar.dita"/></lines>
+        <lines><xref href="Edit_Entity_Editor.dita"/></lines>
+        <lines><xref href="Edit_Entity_Panel.dita"/></lines>
+        <lines><xref href="Edit_Entity_Toolbar.dita"/></lines>
+        <lines><xref href="Add_Relations.dita"/></lines>
+        <lines><xref href="Deleting_Relations.dita"/></lines>
+      </p>-->
+    </section>
+  </refbody>
+  <related-links>
+    <link href="Tag_Entity_Editor.dita#task_qth_ghd_lp"/>
+    <link href="Tag_Entity_Toolbar.dita#task_u32_dmd_lp"/>
+    <link href="Create_Person_Entity.dita#task_tkx_2h2_lp"/>
+    <link href="Create_Place_Entity.dita#task_fgv_wk2_lp"/>
+    <link href="Create_Date_Entity.dita#task_gdm_rm2_lp"/>
+    <link href="Create_Organization_Entity.dita#task_cn1_qkf_lp"/>
+    <link href="Create_Title_Entity.dita#task_hts_tmf_lp"/>
+    <link href="Create_Link_Entity.dita#task_dsr_rqf_lp"/>
+    <link href="Create_Keyword_Entity.dita#task_wh4_1xf_lp"/>
+    <link href="Create_Correction_Entity.dita#task_nry_4xf_lp"/>
+    <link href="Create_Note_Entity.dita#task_kbz_ht2_np"/>
+    <link href="Create_Citation_Entity.dita#task_zl5_kt2_np"/>
+    <link href="Delete_Entity_Editor.dita#task_ufs_nwd_lp"/>
+    <link href="Delete_Entity_Panel.dita#task_njm_c5d_lp"/>
+    <link href="Delete_Entity_Toolbar.dita#task_tx1_lvd_lp"/>
+    <link href="Edit_Entity_Editor.dita#task_wsl_1rd_lp"/>
+    <link href="Edit_Entity_Panel.dita#task_mwk_5pd_lp"/>
+    <link href="Edit_Entity_Toolbar.dita#task_vsp_qsd_lp"/>
+    <link href="Add_Relations.dita#task_rdx_1q2_np"/>
+    <link href="Deleting_Relations.dita#task_nxb_rr2_np"/>
+  </related-links>
+</reference>

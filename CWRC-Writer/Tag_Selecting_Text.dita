@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zyn_lyk_jp">
+    <title>Adding structural tags by selecting text</title>
+    <shortdesc>In each document that you work with there is a pre-existing XML template that
+        contains the basic tags necessary for that type of document. You can add new structural tags
+        to the document easily. </shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-09"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144644-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select text that you would like to add a structural tag to. <image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A04f5db9d-7c38-4dcf-a026-36dac81d80e3/datastream/OBJ/view"
+                        id="image_ep3_zjn_jp" align="center" height="4in" width="6in"/></cmd>
+                <?oxy_insert_start author="megansellmer" timestamp="20150421T150814-0700"?>
+                <info>To insert a tag, you must first select the tag alone, and not the contents, by
+                    right/ctrl/command clicking twice. </info>
+                <?oxy_insert_end?>
+            </step>
+            <step>
+                <cmd>Choose a tag from the toolbar drop down menu and select it. <image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0587aec-1a73-4146-9783-2aa60ae52366/datastream/OBJ/view"
+                        id="image_hfs_ckn_jp" align="center" height="4in" width="6in"/></cmd>
+            </step>
+            <step>
+                <cmd>Once you select the tag you would like to add to the structure panel, a pop-up
+                    will appear. This allows you to add qualifying information to the tag. Once you
+                    have finished, click on <cmdname>OK</cmdname>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8974376d-d9cd-4bfd-865c-0bf2a34b5cf8/datastream/OBJ/view"
+                        id="image_s1y_qhv_tp" align="center"/></cmd>
+                <info>You do not have to enter any additional information you do not want to. You
+                    can just press <cmdname>OK</cmdname> as soon as you see this pop-up. </info>
+                <stepresult>You have now added a new structure tag. For example, in the image below
+                    you can see we have added a new "time" tag in the document structure, by
+                    following the above steps. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab088f060-527c-4f90-8092-555708dfdf7c/datastream/OBJ/view"
+                        id="image_tgt_mkn_jp" align="center" height="4in" width="6in"/>
+                    <!--<p>
+                        <lines><b>Related Links</b></lines>
+                        <lines><xref href="Tag_Selecting_Text.dita"/></lines>
+                        <lines><xref href="Tag_Structural.dita"/></lines>
+                        <lines><xref href="Delete_Tags_Editor.dita"/></lines>
+                        <lines><xref href="Delete_Tags_Toolbar.dita"/></lines>
+                        <lines><b>Reference Materials:</b></lines>
+                        <lines><xref href="Toolbar.dita"></xref></lines>
+                    </p>-->
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T145711-0700"?>
+    <related-links>
+        <link href="#task_zyn_lyk_jp"/>
+        <link href="Tag_Structural.dita#task_d22_zcl_jp"/>
+        <link href="Delete_Tags_Editor.dita#task_chk_nkl_jp"/>
+        <link href="Delete_Tags_Toolbar.dita#task_pbd_5ll_jp"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+    </related-links>
+    <?oxy_insert_end?>
+</task>
+
+
+
+<?oxy_options track_changes="on"?>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>CWRC-Writer features</title>
+ <topicref href="CWRCWriter_Reference_Splash.dita"/>
+ <topicref href="Settings.dita"/>
+ <topicref href="Navigation_Columns.dita"/>
+ <topicref href="Toolbar.dita"/>
+ <topicref href="CWRC_Entity_System.dita"/>
+ <topicref href="Right_Click_Menu.dita"/>
+</map>

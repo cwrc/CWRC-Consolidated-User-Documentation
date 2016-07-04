@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_q2x_vgl_jp">
+    <?oxy_comment_start author="ilovan" timestamp="20140915T011141-0600" comment="metadata missing"?>
+    <title><?oxy_comment_end?><?oxy_delete author="ilovan" timestamp="20140915T010809-0600" content="How to delete text in the editor"?><?oxy_insert_start author="ilovan" timestamp="20140915T010809-0600"?>Delete text<?oxy_insert_end?></title>
+    <shortdesc>CWRC-Writer templates open with pre-existing text. It may be easier to first delete the text (but not the tags) before adding your own text to the document. </shortdesc>
+    <taskbody>
+        <?oxy_delete author="ilovan" timestamp="20140915T011206-0600" content="&lt;context&gt;&lt;p/&gt;&lt;/context&gt;"?>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to delete in the document.<image placement="break" href="DITA_images_Megan/DeleteTextHighlightText.png" id="image_aj2_vhl_jp" align="center" height="3in" width="5in"></image></cmd>
+            </step>
+            <step>
+                <?oxy_insert_start author="ilovan" timestamp="20140915T011856-0600"?>
+                <note type="caution">Do not delete the highlighted text, this can delete the text and the structure tag.There currenty are inconsistencies with the editor that we are working to fix.</note>
+                <?oxy_insert_end?>
+                <cmd>Begin to type in the text you would like to enter.</cmd>
+                <info><?oxy_delete author="ilovan" timestamp="20140915T011924-0600" content="Do not delete the highlighted text, this can delete the text and the structure tag. There currently are inconsistencies with the editor that we are working to fix."?><image placement="break" href="DITA_images_Megan/DeleteTextNewTitle.png" id="image_ddh_d3l_jp" align="center" height="3in" width="5in"></image><b>Option: </b>You can also delete text manually by placing your cursor in the document and using your delete/backspace button on your keyboard. </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
+<?oxy_options track_changes="on"?>

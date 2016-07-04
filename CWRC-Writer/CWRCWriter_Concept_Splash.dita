@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ujl_scc_zp">
+  <title>Introduction to CWRC-Writer Concepts</title>
+  <shortdesc>We have included overall concepts in our CWRC-Writer documentation as background
+    information for the user. this includes information on XML, RDF, Named Entity Annotation, and
+    Relations/Triples. </shortdesc>
+  <refbody>
+    <section>
+      <title>Introduction to CWRC-Writer</title>
+      <p>The Canadian Writing Research Collaboratory (CWRC) is developing an in-browser text markup
+        editor (CWRC-Writer) for use by collaborative scholarly editing projects. </p>
+      <p>Features of CWRC-Writer</p>
+      <p>
+        <ul id="ul_rch_vdc_zp">
+          <li>Web based<ul id="ul_ep5_l2c_zp">
+              <li>removes need to buy, install, and configure editing software</li>
+              <li>based on TinyMCE, a JavaScript editor using jQuery to extend functionality</li>
+            </ul></li>
+          <li>Close-to-WYSIWYG editing and enrichment of scholarly texts with meaningful visual
+            representational of markup</li>
+          <li>Combines eXtensible Markup Language (XML) and Resource Description Framework (RDF).
+              <ul id="ul_clc_52c_zp">
+              <li>XML markup support crucial for DH community</li>
+              <li>RDF increasingly in use in DH projects;supports standoff and overlapping
+                annotation of named entities, notes, etc.</li>
+              <li>ability to combine TEI markup with RDF for named entities and annotations.</li>
+              <li>ability to export using "weavers" that recombine plain text, the XML, and the RDF
+                (including TEI-compliant XML)</li>
+            </ul></li>
+          <li>Flexible Design<ul id="ul_kbw_cfc_zp">
+              <li>can be dropped into existing web frameworks</li>
+              <li>works with external services for e.g. entity management and validation</li>
+              <li>documentation open-source (github) code allows adoption and modification.<image
+                  placement="break"
+                  href="http://beta.cwrc.ca/islandora/object/cwrc%3A84a008e8-69be-4cd0-8d8d-fc8ffd62803f/datastream/OBJ/view"
+                  id="image_k1t_pfc_zp" align="center" height="5in" width="5in"/><image
+                  placement="break"
+                  href="http://beta.cwrc.ca/islandora/object/cwrc%3A495fd428-dbc3-48f9-8115-9aae4ac7fe08/datastream/OBJ/view"
+                  id="image_bv1_1gc_zp" align="center" height="4in" width="6in"/></li>
+            </ul></li>
+        </ul>
+      </p>
+    </section>
+  </refbody>
+</reference>

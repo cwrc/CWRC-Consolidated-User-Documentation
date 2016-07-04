@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_n23_ycc_zp">
+ <title>Resource Description Framework (RDF)</title>
+ <shortdesc>CWRC-Writer allows users to markup their document with Resource Description Framework
+  (RDF). In this document, we provide an overall description of RDF. </shortdesc>
+ <conbody>
+  <p></p>
+  <section>
+   <title>What is RDF?</title>
+   <p>The Resource Description Framework (RDF) was developed under the World Wide Web Consortium
+        (W3C). It is used to detail resources on the web. RDF is suitable for CWRC-Writer because it
+        is written in XML. XML allows RDF to be processed by web operation systems, because RDF is
+        not human readable in its raw form (?(.</p>
+   <p>The resources described by RDF can include people, places, object, and/or documents. RDF information added to the document can
+     be published across the web. Another term for this is “Linked Data”, and the user can follow
+     this information to other document and sources of information. This allows you to seamlessly
+     integrate your documents with the semantic web.</p>
+   <p>In CWRC-Writer you can add RDF resources to person, place, date, organization, citation, note,
+        title, correction, keyword, and link from the toolbar. When you select one of these options
+        a pop-up appears and you can linked data to the entity annotation. You can do this by lookup
+        of named entities from within CWRC, as well as lookup in authoritative linked data sources.
+        The external VIAF list of authorities, produced from national and major research libraries
+        around the world, is used to link persons, organizations and titles, while GeoNames is
+        employed in a similar capacity for place entities. More such authoritative sources will be
+        added in future.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Adc5f2705-686a-4dfa-bbb8-9eb3e52dc1d5/datastream/OBJ/view"
+          id="image_c5p_1bd_zp" align="center"/></p>
+   <p>RDF is useful for CWRC-Writer because it allows you to semantically add information between datasets. This allows users to
+     travel through threads of information linked together by RDF. </p>
+  </section>
+  <section>
+   <title>Related Links:</title>
+   <p><b>Websites:</b><ul id="ul_pf3_ykc_zp">
+    <li>World Wide Web Consortium (W3C) Semantic Web. (n.d.). Resource Description Framework (RDF).
+      Retrieved November 1, 2014, from <xref href="http://www.w3.org/RDF/" format="html"
+       scope="external">http://www.w3.org/RDF/</xref></li>
+   </ul><ul id="ul_wyk_2lc_zp">
+    <li>World Wide Web Consortium (W3C) Schools. (n.d.). Introduction to RDF. Retrieved
+     November 1, 2014, from <xref
+      href="http://www.w3schools.com/webservices/ws_rdf_intro.asp" format="html"
+      scope="external">http://www.w3schools.com/webservices/ws_rdf_intro.asp</xref></li>
+   </ul></p>
+   <p><b>Documents:</b><ul id="ul_qdj_nlc_zp">
+    <li><xref href="Concept_RDF.dita"></xref></li>
+    <li><xref href="Concept_Named_Entity_Annotation.dita"></xref></li>
+    <li><xref href="Concept_XML.dita"></xref></li>
+    <li><xref href="CWRC_Entity_System.dita"></xref></li>
+    <li><xref href="Toolbar.dita"></xref></li>
+    <li><xref href="CWRCWriter_Entity_Splash.dita"></xref></li>
+   </ul></p>
+   <p><b>Further Reading:</b><ul id="ul_jsp_tlc_zp">
+    <li>Miller, E. (1998). An Introduction to the Resource Description Framework. D-Lib
+     Magazine, 4(5). Retrieved from <xref href="http://www.dlib/may98/miller/05miller.html"
+      format="html" scope="external">http://www.dlib/may98/miller/05miller.html</xref></li>
+    <li>Berners-Lee, T. (n.d.). Linked Data - Design Issues. Retrieved November 1, 2014, from
+     <xref href="http://www.w3.org/DesignIssues/LinkedData.html" format="html"
+      scope="external">http://www.w3.org/DesignIssues/LinkedData.html</xref></li>
+    <li>Introducing Linked Data And The Semantic Web. (n.d.). Retrieved November 1, 2014, from
+     <xref href="http://www.linkeddatatools.com/semantic-web-basics" format="html"
+      scope="external">http://www.linkeddatatools.com/semantic-web-basics</xref></li>
+   </ul></p>
+  </section>
+ </conbody>
+</concept>

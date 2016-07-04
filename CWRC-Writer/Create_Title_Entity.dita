@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hts_tmf_lp">
+    <title>Creating a new text/title entity</title>
+    <shortdesc>The "Tag Text/Title" entity is for tagging a title or the text of any type of
+        work</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to tag as a "Text/Title." Click on the
+                    toolbar or right-click options (see images below).<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5586d97a-63d3-4432-9b93-5901df64ec24/datastream/OBJ/view"
+                        id="image_tzw_qzw_mp" align="center"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab586ea3f-9c3b-439f-8049-1fe5ab5b167a/datastream/OBJ/view"
+                        id="image_qhv_dnv_tp" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Try to find the text/title you are tagging in the CWRC or VIAF.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A6bdf6045-1d11-4263-a4bb-357b12ba54c2/datastream/OBJ/view"
+                        id="image_rtb_bnv_tp" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>If your entry is not in the CWRC entity lookup system you have the option to
+                    create your own. To do this click on <cmdname>Create New Title</cmdname> button at the bottom of
+                    that page.</cmd>
+            </step>
+            <step>
+                <cmd>An "Add Text/Title" pop-up appear, fill it out (see info below) and click
+                    <cmdname>OK</cmdname>.</cmd>
+                <info>The only mandatory field is the Title name, though there are many other areas
+                    that you can fill out.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac9fb39f8-4fc8-482b-b71b-6f4e9080fbab/datastream/OBJ/view"
+                        id="image_yk3_vmv_tp" align="center"/></info>
+            </step>
+            <step>
+                <cmd>Once you have created an text/title entry in the CWRC entity repository, you
+                    can now add more information about the tag (author, date, etc). Click on
+                        <cmdname>Save</cmdname>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A104284eb-9148-4fea-a5d0-7c0a2575b69d/datastream/OBJ/view"
+                        id="image_oxg_ymv_tp" align="center"/>
+                </cmd>
+            </step>
+        </steps>
+        <result>You have now created a new CWRC entity entry, you can use this creation the next
+            time that you go to tag this entity. <image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3Af721f2fd-b826-4fab-a39a-c334f82dc9b8/datastream/OBJ/view"
+                id="image_jrb_h4f_lp" align="center" height="4in" width="6in"/>
+            <!--<p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Create_Person_Entity.dita"/></lines>
+                <lines><xref href="Create_Place_Entity.dita"/></lines>
+                <lines><xref href="Create_Date_Entity.dita"/></lines>
+                <lines><xref href="Create_Organization_Entity.dita"></xref></lines>
+                <lines><xref href="Create_Link_Entity.dita"/></lines>
+                <lines><xref href="Create_Keyword_Entity.dita"/></lines>
+                <lines><xref href="Create_Correction_Entity.dita"/></lines>
+                <lines><xref href="Create_Note_Entity.dita"/></lines>
+                <lines><xref href="Create_Citation_Entity.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Toolbar.dita"></xref></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>-->
+        </result>
+    </taskbody>
+    <related-links>
+        <link href="Create_Person_Entity.dita#task_tkx_2h2_lp"/>
+        <link href="Create_Place_Entity.dita#task_fgv_wk2_lp"/>
+        <link href="Create_Date_Entity.dita#task_gdm_rm2_lp"/>
+        <link href="Create_Organization_Entity.dita#task_cn1_qkf_lp"/>
+        <link href="Create_Link_Entity.dita#task_dsr_rqf_lp"/>
+        <link href="Create_Keyword_Entity.dita#task_wh4_1xf_lp"/>
+        <link href="Create_Correction_Entity.dita#task_nry_4xf_lp"/>
+        <link href="Create_Note_Entity.dita#task_kbz_ht2_np"/>
+        <link href="Create_Citation_Entity.dita#task_zl5_kt2_np"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="CWRC_Entity_System.dita#reference_ibn_hrg_rp"/>
+    </related-links>
+</task>

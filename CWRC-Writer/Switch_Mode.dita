@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rzm_jl2_np">
+    <title>Switching modes</title>
+    <shortdesc>There is an option to change the different editor modes for your document. Editor
+        modes control what tagging will be allowed in your document (a combination of XML and
+        RDF).</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
+            <created date="2014-09-21"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the <cmdname>Settings</cmdname> button on the top right top of the editor<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad00e8540-afb4-427c-b391-043f7afc59a6/datastream/OBJ/view"
+                        id="image_mpb_zm2_np" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Select your preferred editor mode from the drop-down menu and click on <cmdname>OK</cmdname>.
+                    This will change the editor mode for your document. There are three editor modes
+                    in CWRC-Writer, based on the treatment of overlap.</cmd>
+                <choices id="choices_ygm_sl2_np">
+                    <choice>XML only</choice>
+                    <choice>XML and RDF (no overlap)</choice>
+                    <choice>XML and RDF (overlapping entities) </choice>
+                </choices>
+                <info>The default mode is XML and RDF - no overlap. If you wish to switch between
+                    the three options, go to "Settings" (in the top right corner), choose the option
+                    you would like to work with, click on <cmdname>OK</cmdname> and begin to work
+                    with your document. You can change the editor mode in your document at any time
+                    (NOTE: If you have overlapping entities and are attempting to switch to a mode
+                    which prohibits them. The overlapping entities will be discarded if you switch
+                    modes). <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2021eabe-1e1d-42fb-b178-d4b4ad850470/datastream/OBJ/view"
+                        id="image_lyq_4m2_np" align="center"/>
+                    <!--                    <p>
+                       <lines><b>Related Links:</b></lines>
+                       <lines><xref href="Save_Document.dita"></xref></lines>
+                       <lines><xref href="Validate_Document.dita"></xref></lines>
+                       <lines><xref href="Show_Tags.dita"></xref></lines>
+                       <lines><b>Reference Materials:</b></lines> 
+                       <lines><xref href="Settings.dita"></xref></lines>
+                            </p>-->
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="Save_Document.dita#task_gl2_tc2_lp"/>
+        <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
+        <link href="Show_Tags.dita#task_mkg_gn2_np"/>
+        <link href="Settings.dita#reference_shl_y3f_np"/>
+    </related-links>
+</task>

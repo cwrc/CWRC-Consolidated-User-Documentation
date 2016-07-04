@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Copying and Pasting in CWRC-Writer</title>
+ <topicref href="CWRCWriter_Copy_Splash.dita"/>
+ <topicref href="Copy_Paste_Text.dita"/>
+ <topicref href="Copy_Paste_Single_Tag.dita"/>
+ <topicref href="Copy_Paste_Multiple_Tags.dita"/>
+ <topicref href="Copy_Paste_Tags.dita"/>
+ <topicref href="View_Copied_Text.dita"/>
+ <topicref href="Copy_Paste_Entity.dita"/>
+</map>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_tkx_2h2_lp">
+    <title>Creating a new person entity</title>
+    <shortdesc>The "Tag Person" option is for tagging people by name. It usually contains a proper
+        noun or noun phrase, but can also contain pronouns or other ways of referring to
+        someone.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to tag as a <cmdname>Person</cmdname>.
+                    Click on the toolbar or right-click options (see images below).<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3adf859a-d833-4a77-9971-f5c25a9b0dbb/datastream/OBJ/view"
+                        id="image_t5p_pyw_mp" align="center"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Afe617d28-e61f-484c-91cf-9788eb21517a/datastream/OBJ/view"
+                        id="image_tkx_blv_tp" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Try to find the person you are tagging in the CWRC or VIAF.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af2b3f9bf-bee4-41d9-9c94-305cc85d3636/datastream/OBJ/view"
+                        id="image_mdk_2lv_tp" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>If your entry is not in the CWRC entity lookup system you have the option to
+                    create your own. To do this click on "Create New Person" button at the bottom of
+                    that page.</cmd>
+            </step>
+            <step>
+                <cmd>An "Add Person" pop-up appears, fill it out (see note) and click <cmdname>OK</cmdname>.</cmd>
+                <info>The only mandatory field is the "Person Name," though there are many other
+                    areas that you can fill out.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A261ca7fa-d5cb-47a1-bc26-554d32b75a00/datastream/OBJ/view"
+                        id="image_epv_rj2_lp" align="center" height="6in" width="4in"/></info>
+            </step>
+            <step>
+                <cmd>Once you have created a person entry in the CWRC entity repository, you can now
+                    add more information about the tag (precision, person type, etc.). Click on
+                    <cmdname>Save</cmdname>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2919b272-4c88-47cf-bf7a-cd0bbf9f5587/datastream/OBJ/view"
+                        id="image_flk_5j2_lp" align="center" height="6in" width="4in"/></cmd>
+            </step>
+        </steps>
+        <result>You have now created a new CWRC entity entry, you can use this creation the next
+            time that you go to tag this person.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A1e267644-f1df-4a3a-adec-92f9b460bd6a/datastream/OBJ/view"
+                id="image_lvq_xj2_lp" align="center" height="4in" width="6in"/>
+            <!--<p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Create_Place_Entity.dita"/></lines>
+                <lines><xref href="Create_Date_Entity.dita"/></lines>
+                <lines><xref href="Create_Organization_Entity.dita"></xref></lines>
+                <lines><xref href="Create_Title_Entity.dita"/></lines>
+                <lines><xref href="Create_Link_Entity.dita"/></lines>
+                <lines><xref href="Create_Keyword_Entity.dita"/></lines>
+                <lines><xref href="Create_Correction_Entity.dita"/></lines>
+                <lines><xref href="Create_Note_Entity.dita"/></lines>
+                <lines><xref href="Create_Citation_Entity.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Toolbar.dita"></xref></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>-->
+        </result>
+    </taskbody>
+    <related-links>
+        <link href="Create_Place_Entity.dita#task_fgv_wk2_lp"/>
+        <link href="Create_Date_Entity.dita#task_gdm_rm2_lp"/>
+        <link href="Create_Organization_Entity.dita#task_cn1_qkf_lp"/>
+        <link href="Create_Title_Entity.dita#task_hts_tmf_lp"/>
+        <link href="Create_Link_Entity.dita#task_dsr_rqf_lp"/>
+        <link href="Create_Keyword_Entity.dita#task_wh4_1xf_lp"/>
+        <link href="Create_Correction_Entity.dita#task_nry_4xf_lp"/>
+        <link href="Create_Note_Entity.dita#task_kbz_ht2_np"/>
+        <link href="Create_Citation_Entity.dita#task_zl5_kt2_np"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="CWRC_Entity_System.dita#reference_ibn_hrg_rp"/>
+    </related-links>
+</task>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gl2_tc2_lp">
+    <title>Saving your document</title>
+    <shortdesc>CWRC-Writer allows you to save documents you have created on our server as temporary
+        test files to work with. At the moment, however, we do not have individual authentication
+        setup for each user, so it's best if you do not play with each other's files: this way each
+        tester can have his/her own files to alter, add to, and so forth.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-14"/>
+            <revised modified="2014-09-21"></revised>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the <cmdname>Save</cmdname> toolbar button.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A986c575e-d233-4512-8846-d951e8503c11/datastream/OBJ/view"
+                        id="image_lj1_jxw_mp" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Enter the title of the document, and click <cmdname>Save</cmdname>.</cmd>
+                <info>Adding your initials to the beginning (e.g. MS) is a good way to indicate to
+                    others that it is a file created by another CWRC-Writer tester. You may only
+                    enter upper or lowercase letter; no numbers, spaces, or punctuation are
+                        allowed.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2967fccc-9027-4e4b-941b-cb947d50ead3/datastream/OBJ/view"
+                        id="image_bpr_xd2_lp" align="center" height="4in" width="6in"/></info>
+            </step>
+            <step>
+                <cmd>Once you clicked on <cmdname>Save</cmdname>, the document validates and is successfully
+                    saved.</cmd>
+                <info>If the document is not valid, a pop-up will appear and you will be asked if
+                    you would like to save anyway.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad9900eb9-2f1b-424e-92a7-80835d54b5e3/datastream/OBJ/view"
+                        id="image_grf_dbv_tp" align="center" height="5in" width="5in"/> 
+                   <!-- <p>
+                    <lines><b>Related Links:</b></lines>
+                    <lines><xref href="Open_Document_Menu.dita"></xref></lines>
+                    <lines><xref href="Open_Document_Toolbar.dita"></xref></lines>
+                    <lines><xref href="Write_Editor.dita"></xref></lines>
+                    <lines><xref href="Write_Text_Area.dita"></xref></lines> 
+                    <lines><xref href="Delete_Text_Structure.dita"></xref></lines>
+                    <lines><xref href="Validate_Document.dita"></xref></lines>
+                    <lines><xref href="Switch_Mode.dita"></xref></lines>
+                    <lines><xref href="Edit_Source.dita"></xref></lines>
+                    <lines><xref href="Edit_Header.dita"></xref></lines>
+                    <lines><b>Reference Materials:</b></lines>
+                    <lines><xref href="Toolbar.dita"/></lines>
+                </p>-->
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="Validate_Document.dita#task_rlb_rf2_lp"></link>
+        <link href="Open_Document_Menu.dita#task_lth_ysb_dp"/>
+        <link href="Open_Document_Toolbar.dita#task_pg2_1tm_jp"/>
+        <link href="Switch_Mode.dita#task_rzm_jl2_np"/>
+        <link href="Edit_Source.dita#task_chh_dp2_np"/>
+        <link href="Edit_Header.dita#task_sd5_tj2_np"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+    </related-links>
+</task>

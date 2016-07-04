@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xxj_4ml_jp">
+    <title>Editing tags in the editor</title>
+    <shortdesc>You can edit any of the tags that pre-exist in the template or that you have added to
+        the document. This also allows you to add contextual information to the tags in your
+        document .</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-09"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144012-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Place your cursor within the text in the tag that you would like to
+                        delete.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A04cae082-7de0-4840-a045-444c0416e53c/datastream/OBJ/view"
+                        id="image_edm_nln_jp" align="center" height="4in" width="6in"/></cmd>
+            </step>
+            <step>
+                <cmd>Right-click on the tag that contains your cursor and select the option
+                        <cmdname>Edit Tag</cmdname>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad63c3930-1011-438d-a7aa-cec27ebaf204/datastream/OBJ/view"
+                        id="image_xf5_x3v_tp" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>A pop-up will appear that allows you to add contextual information to
+                    tags.</cmd>
+                <info>The difference in the list of attributes available in the pop-up will depend
+                    on the tag that you are editing.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af937a160-f7be-4d06-ada9-f59eae6b1560/datastream/OBJ/view"
+                        id="image_lwb_bjv_tp" align="center"/></info>
+            </step>
+        </steps>
+        <result>
+            <p>Click <cmdname>OK</cmdname> and all edits made to the tag will be saved.</p>
+            <!--<p>
+                <lines><b>Related Links</b></lines>
+                <lines><xref href="Edit_Tag_Structure.dita"/></lines>
+                <lines><xref href="Edit_Tag_Toolbar.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+            </p>-->
+        </result>
+    </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T144943-0700"?>
+    <related-links>
+        <link href="Edit_Tag_Structure.dita#task_f4z_t4l_jp"/>
+        <link href="Edit_Tag_Toolbar.dita#task_bdv_znl_jp"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+    </related-links>
+    <?oxy_insert_end?>
+</task>
+
+
+
+<?oxy_options track_changes="on"?>

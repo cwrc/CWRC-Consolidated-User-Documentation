@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_rcg_k4h_rp">
+  <title>Tagging XML</title>
+  <shortdesc>The CWRC-Writer allows editors of documents to mark up or embed semantic tags in
+    documents using Extensible Markup Language (XML).</shortdesc>
+  <refbody>
+    <section><title>Introduction to tagging XML</title>CWRC-Writer uses both the terms <i>markup</i>
+      and <i>tag</i> to describe the embedding of XML (Extensible Markup Language) tags within the
+      text of a document according to a predefined structure or schema. (For a gentel introduction
+      to XML see <xref href="http://www.w3schools.com/xml/" format="html" scope="external"
+        >http://www.w3schools.com/xml/</xref>). The markup or encoding makes the tagged features of
+      the document available for search, analysis, and formatting while also ensuring that the text
+      remains in a readily preservable format.</section>
+    <section>Document templates and sample documents contain some basic tags. The exisiting markup
+      in your active document can be seen in the Markup panel. For more information see <xref
+        href="Navigation_Columns.dita"/>. You can add text to or delete it from the pre-existing
+      tags, change the tags, and/or you can add new tags. For example, in the poetry template there
+      are "lg" and "l" tags, into which you can type or copy text. <p>
+        <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0587aec-1a73-4146-9783-2aa60ae52366/datastream/OBJ/view"
+          id="image_m4h_1rh_rp" align="center" height="4in" width="6in"/>
+      </p><!--<p>
+          <lines><b>Related Links</b></lines>
+          <lines><xref href="Tag_Selecting_Text.dita"/></lines>
+          <lines><xref href="Tag_Structural.dita"/></lines>
+          <lines><xref href="Delete_Tags_Editor.dita"/></lines>
+          <lines><xref href="Delete_Tags_Toolbar.dita"/></lines>
+          <lines><xref href="Edit_Tag_Editor.dita"/></lines>
+          <lines><xref href="Edit_Tag_Structure.dita"/></lines>
+          <lines><xref href="Edit_Tag_Toolbar.dita"/></lines>
+      </p>--></section>
+  </refbody>
+  <related-links>
+    <link href="Tag_Selecting_Text.dita#task_zyn_lyk_jp"/>
+    <link href="Tag_Structural.dita#task_d22_zcl_jp"/>
+    <link href="Delete_Tags_Editor.dita#task_chk_nkl_jp"/>
+    <link href="Delete_Tags_Toolbar.dita#task_pbd_5ll_jp"/>
+    <link href="Edit_Tag_Editor.dita#task_xxj_4ml_jp"/>
+    <link href="Edit_Tag_Structure.dita#task_f4z_t4l_jp"/>
+    <link href="Edit_Tag_Toolbar.dita#task_bdv_znl_jp"/>
+  </related-links>
+</reference>

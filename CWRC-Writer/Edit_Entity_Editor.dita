@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_wsl_1rd_lp">
+    <title>Editing entities from the editor</title>
+    <shortdesc>You can add qualifying information to the RDF entity annotations added to the
+        document. This information can be edited at any time.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-28&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141007T201519-0700&quot; /&gt;"?>
+            <revised modified="2014-10-07"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the annotated text .<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A40f1e7f1-7347-4e62-af31-7c82a9f939ed/datastream/OBJ/view"
+                        id="image_nc2_5rd_lp" align="center" height="4in" width="6in"/></cmd>
+            </step>
+            <step>
+                <cmd>Right-click on the highlighted text and choose the <cmdname>Edit Tag</cmdname>
+                        option.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A1bb37020-a0aa-4693-a9dc-a011ff3367bf/datastream/OBJ/view"
+                        id="image_srs_brv_tp" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Edit any information in the pop-up you would like and click
+                        <cmdname>Save</cmdname>.</cmd>
+                <info>None of the information in the pop-up is required.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A9c237543-7aa6-4d03-a0f7-559d929380d9/datastream/OBJ/view"
+                        id="image_bpq_nqv_tp" align="center"/></info>
+            </step>
+        </steps>
+        <result>The edited information will appear in the left "Entities" column. Click on the entry
+            to see the information attached to that particular entity annotation. <image
+                placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3Abdfa3779-4d1a-4bc2-af47-b5be9b77b3be/datastream/OBJ/view"
+                id="image_xyw_lxj_rp" align="center" height="4in" width="6in"/>
+            <!--<p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Edit_Entity_Panel.dita"/></lines>
+                <lines><xref href="Edit_Entity_Toolbar.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>-->
+        </result>
+    </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T175436-0700"?>
+    <related-links>
+        <link href="Edit_Entity_Panel.dita#task_mwk_5pd_lp"/>
+        <link href="Edit_Entity_Toolbar.dita#task_vsp_qsd_lp"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="CWRC_Entity_System.dita#reference_ibn_hrg_rp"/>
+    </related-links>
+    <?oxy_insert_end?>
+</task>
+
+
+<?oxy_options track_changes="on"?>

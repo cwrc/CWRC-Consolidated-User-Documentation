@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ggj_vcc_zp">
+ <title>Extensible Markup Language (XML)</title>
+ <shortdesc>CWRC-Writer allows users to markup their document with eXtensible Markup Language (XML).
+  In this document, we provide an overall description of XML. </shortdesc>
+ <conbody>
+  <section>
+   <title>What is XML?</title>
+   <p>eXtensible Markup Language (XML) is a markup language similar to HTML and SGML. Created by the
+    World Wide Web Consortium (W3C), XML documents can be easily read by both humans and machines
+    (over the web). It allows you to markup your document with elements and the attribute that
+    follows a hierarchy of rules. <image placement="break"
+     href="http://beta.cwrc.ca/islandora/object/cwrc%3A3d08d783-d6d4-405c-8d2e-893937f5b5f0/datastream/OBJ/view"
+     id="image_mf2_4cd_zp" align="center" height="5in" width="7in"/></p>
+   <p>The rules can be set by both the structure of the document (depending on if it is a poem,
+    prose, etc.) and the schema used in the document. You can create your own schemas for your
+    document, allowing you to define your own rules and attributes of this markup. CWRC-Writer
+    allows you to upload your own schema to work with. <image placement="break"
+     href="http://beta.cwrc.ca/islandora/object/cwrc%3A150651b3-f62d-421c-938f-22a55411f6ff/datastream/OBJ/view"
+     id="image_bbn_rcd_zp" align="center"/></p>
+   <p>As previously discussed, XML consists of elements and attributes. Elements are the structure
+    tags, they allow users to markup the hierarchy of the document. Attributes ass supplemental
+    information to the elements tagged in a document. For example, if you are tagging a person, you
+    can add qualifying information to the tag, such as if that person is real or fictional and that
+    persons occupation (if any).<image placement="break"
+     href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0587aec-1a73-4146-9783-2aa60ae52366/datastream/OBJ/view"
+     id="image_jsg_2dd_zp" align="center" height="5in" width="7in"/></p>
+   <p>CWRC-Writer allows users to add the elements using a tag drop down menu in the toolbar. When
+    you add the XML elements to your document, in the preloaded TEI XML tag, you are also presented
+    with a pop-up where you can add attributes specific to that tag. For the major tags in
+    CWRC-Writer (person, place, date, organization, citation, note, title, correction, keyword, and
+    link) they have their own toolbar icons. These toolbar buttons add an XML and the corresponding
+    RDF tag to the document, yet this depend on what method of overlap you are in. Please see the
+    RDF and Overlap concepts for more information. <image placement="break"
+     href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab2c9e290-500e-4b10-8f13-43dd036b9c73/datastream/OBJ/view"
+     id="image_wfh_ldd_zp" align="center"/></p>
+  </section>
+  <section>   
+   <title>Related Links:</title>
+   <p><b>Websites:</b><ul id="ul_pf3_ykc_zp">
+    <li>World Wide Web Consortium (W3C). (Last modified 2014). Extensible Markup Language (XML).
+      Retrieved November 1, 2014, from <xref href="http://www.w3.org/XML/" format="html"
+       scope="external">http://www.w3.org/XML/</xref></li>
+   </ul><ul id="ul_wyk_2lc_zp">
+    <li>World Wide Web Consortium (W3C) Schools. (n.d.). XML tutorial. Retrieved November 1, 2014,
+      from <xref href="http://www.w3schools.com/xml/" format="html" scope="external"
+       >http://www.w3schools.com/xml/</xref></li>
+     <li>Walsh, Norman. (1998). O'Reilly: A technical introduction to XML. Retrieved November 1,
+      2014, from <xref href="http://www.xml.com/pub/a/98/10/guide0.html" format="html"
+       scope="external">http://www.xml.com/pub/a/98/10/guide0.html</xref></li>
+     <li>Birnbaum, D.J. (n.d.). What is XML and why should humanists care? An even gentler
+      introduction to XML. Retrieved November 1, 2014, from <xref
+       href="http://dh.obdurodon.org/what-is-xml.xhtml" format="html" scope="external"
+       >http://dh.obdurodon.org/what-is-xml.xhtml</xref></li>
+   </ul></p>
+   <p><b>DITA documentation:</b><ul id="ul_qdj_nlc_zp">
+    <li><xref href="Concept_RDF.dita"></xref></li>
+    <li><xref href="Concept_Triples.dita"></xref></li>
+    <li><xref href="Concept_Named_Entity_Annotation.dita"></xref></li>
+    <li><xref href="CWRC_Entity_System.dita"></xref></li>
+    <li><xref href="Toolbar.dita"></xref></li>
+    <li><xref href="CWRCWriter_Tag_Splash.dita"></xref></li>
+    <li><xref href="Settings.dita"></xref></li>
+    <li><xref href="Show_Tags.dita"></xref></li>
+   </ul></p>
+  </section>
+ </conbody>
+</concept>

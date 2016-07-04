@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_kmc_bcj_np">
+  <title>Navigation panels</title>
+  <shortdesc>There are three different tabs on the left hand side of CWRC-Writer.</shortdesc>
+  <refbody>
+    <section>
+      <title>Markup panel</title>
+      <p>The Markup panel displays the XML structure of the document. From here you can add, delete,
+        edit, and copy and paste tags in the document.</p>
+      <p>In the Markup panel, a single click right click (or control click on a Mac) selects both
+        the tag and the contents. Deleting will delete both. A double click  selects the content of
+        the tag only. Deleting deletes the text only and more text can then be typed to replace it. </p>
+      <p>
+        <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A5515c288-d210-452d-8f20-4a53f0f8509e/datastream/OBJ/view"
+          id="image_kly_jcj_np" align="center"/>
+      </p>
+    </section>
+    <section>
+      <title>Entities panel</title>
+      <p>The entities panel lets users see the entities that they have tagged in the document (date,
+        organization, title, etc). You may view the items in this tab either sequentially or by
+          category.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae8a395b8-f835-430b-888c-87eb49ee5c5e/datastream/OBJ/view"
+          id="image_nzv_tcj_np" align="center"/></p>
+    </section>
+    <section>
+      <title>Relations panel</title>
+      <p>In the relations panel you may view any relationships, which you have established between
+        entities. You can establish relationships through the <cmdname>Add Relations</cmdname>
+        button in the toolbar at the top of the page or at the bottom of this panel. You can also
+        delete relations at the bottom of the panel.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A11886a99-6abc-477d-b38e-8af1767d70ef/datastream/OBJ/view"
+          id="image_scn_gdj_np" align="center"/></p>
+    </section>
+  </refbody>
+</reference>

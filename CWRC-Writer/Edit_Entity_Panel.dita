@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mwk_5pd_lp">
+    <title>Editing entities from the entities column</title>
+    <shortdesc>You can add qualifying information to the RDF entity annotations within the document.
+        You can edit the entity annotations in the entity column on the left side of the editor.
+        This information can be edited at any time.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-28"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Right-click on the entity annotation you would like to edit. Choose the option
+                        <cmdname>Edit Entity</cmdname>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A71c8c28c-283a-4efe-96fa-81a3d56f80b6/datastream/OBJ/view"
+                        id="image_g4j_5qv_tp" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Edit any information in the pop-up you would like and click
+                        <cmdname>Save</cmdname>.</cmd>
+                <info>None of the information in the pop-up is required.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A60d01092-e41e-4dc5-a3f1-dbe8310f14f9/datastream/OBJ/view"
+                        id="image_scd_yqv_tp" align="center"/></info>
+            </step>
+        </steps>
+        <result>The edited information will appear in the left "Entities" column. Click on the entry
+            to see the information attached to that particular entity
+                annotation.<?oxy_attributes height="&lt;change type=&quot;modified&quot; oldValue=&quot;3in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T193345-0700&quot; /&gt;" width="&lt;change type=&quot;modified&quot; oldValue=&quot;5in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T193348-0700&quot; /&gt;"?><image
+                placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A575cce29-407a-41ab-bb79-982e34adbd00/datastream/OBJ/view"
+                id="image_bk4_rqd_lp" align="center" height="4in" width="6in"/>
+            <!--<p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Edit_Entity_Editor.dita"/></lines>
+                <lines><xref href="Edit_Entity_Toolbar.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>-->
+        </result>
+    </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T175255-0700"?>
+    <related-links>
+        <link href="Edit_Entity_Editor.dita#task_wsl_1rd_lp"/>
+        <link href="Edit_Entity_Toolbar.dita#task_vsp_qsd_lp"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="CWRC_Entity_System.dita#reference_ibn_hrg_rp"/>
+    </related-links>
+    <?oxy_insert_end?>
+</task>
+
+
+<?oxy_options track_changes="on"?>

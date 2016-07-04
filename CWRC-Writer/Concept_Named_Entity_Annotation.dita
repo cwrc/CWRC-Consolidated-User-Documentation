@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_gpk_bdc_zp">
+ <title>Named Entity Annotation</title>
+ <shortdesc>CWRC-Writer allows users to markup their document with Named Entity Annotations. In this
+  document, we provide an overall description of it. </shortdesc>
+ <conbody>
+  <section>
+   <title>What are Named Entity Annotations?</title>
+   <p>From the DH Poster 2012</p>
+   <p>One of the issues flagged early on was that many CWRC partner projects wanted sophisticated
+    annotations for names, places, titles, organization names, dates, citations, and events, as well
+    as great freedom for personal annotations, including overlapping annotations. There is also a
+    desire for interoperability across projects, the coordination of authority lists for these
+    entities, and the ability to harvest some annotations. </p>
+   <p>The solution is to provide an editing tool that uses a custom in-memory javascript data
+    structure, that can export structural markup that conforms to schemas such as the TEI and
+    Orlando ones, along with Open Annotation Collaboration (OAC) RDF for deeper semantic annotation
+    (using controlled authority lists and vocabulary) of references to people, places, events,
+    organizations, bibliographic material, and dates. CWRC-Writer thus supports creation of
+    structural XML and the RDF in a WYSIWYG environment (WYSIWYG in that the annotations are
+    displayed in the editor as they might appear in the public interface). The formatting of the
+    text within the editor relieves the user of the complexity of interacting directly with RDF
+    formats and even with angle brackets, though both can be viewed on demand and edited by those
+    comfortable with code. There is also provision for exporting enhanced text either as structural
+    markup combined with representations of entities as (potentially overlapping) RDF or, for those
+    who opt for hierarchical markup, entirely as nested tags.<image placement="break"
+     href="http://beta.cwrc.ca/islandora/object/cwrc%3A1ad7b40d-7b75-4353-9ca4-18b0429d5db9/datastream/OBJ/view"
+     id="image_wqx_w5c_zp" align="center"/></p>
+  </section>
+  <section>
+   <title>Related Links:</title>
+   <p><b>Websites:</b><ul id="ul_pf3_ykc_zp">
+    <li>World Wide Web Consortium (W3C) Semantic Web. (n.d.). Resource Description Framework (RDF).
+      Retrieved November 1, 2014, from <xref href="http://www.w3.org/RDF/" format="html"
+       scope="external">http://www.w3.org/RDF/</xref></li>
+   </ul><ul id="ul_wyk_2lc_zp">
+    <li>World Wide Web Consortium (W3C) Schools. (n.d.). Introduction to RDF. Retrieved November 1,
+      2014, from <xref href="http://www.w3schools.com/webservices/ws_rdf_intro.asp" format="html"
+       scope="external">http://www.w3schools.com/webservices/ws_rdf_intro.asp</xref></li>
+   </ul></p>
+   <p><b>Documents:</b><ul id="ul_qdj_nlc_zp">
+    <li><xref href="Concept_RDF.dita"></xref></li>
+    <li><xref href="Concept_Triples.dita"></xref></li>
+    <li><xref href="Concept_XML.dita"></xref></li>
+    <li><xref href="CWRC_Entity_System.dita"></xref></li>
+    <li><xref href="Toolbar.dita"></xref></li>
+    <li><xref href="CWRCWriter_Entity_Splash.dita"></xref></li>
+   </ul></p>
+   <p><b>Further Reading:</b><ul id="ul_jsp_tlc_zp">
+    <li>Miller, E. (1998). An Introduction to the Resource Description Framework. D-Lib
+     Magazine, 4(5). Retrieved from <xref href="http://www.dlib/may98/miller/05miller.html"
+      format="html" scope="external">http://www.dlib/may98/miller/05miller.html</xref></li>
+    <li>Berners-Lee, T. (n.d.). Linked Data - Design Issues. Retrieved November 1, 2014, from
+     <xref href="http://www.w3.org/DesignIssues/LinkedData.html" format="html"
+      scope="external">http://www.w3.org/DesignIssues/LinkedData.html</xref></li>
+    <li>Introducing Linked Data And The Semantic Web. (n.d.). Retrieved November 1, 2014, from
+     <xref href="http://www.linkeddatatools.com/semantic-web-basics" format="html"
+      scope="external">http://www.linkeddatatools.com/semantic-web-basics</xref></li>
+   </ul></p>
+  </section>
+ </conbody>
+</concept>

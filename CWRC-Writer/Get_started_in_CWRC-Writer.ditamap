@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Getting started in CWRC-Writer</title>
+ <topicref href="CWRCWriter_Started_Splash.dita"/>
+ <topicref href="CWRCWriter_Login_Instructions.dita"/>
+ <topicref href="Open_Document_Menu.dita"/>
+ <topicref href="Open_Document_Toolbar.dita"/>
+ <topicref href="Write_Editor.dita"/>
+ <topicref href="Write_Text_Area.dita"/>
+ <topicref href="Delete_Text_Structure.dita"/>
+ <topicref href="Save_Document.dita"/>
+ <topicref href="Validate_Document.dita"/>
+ <topicref href="Switch_Mode.dita"/>
+ <topicref href="Show_Tags.dita"/>
+ <topicref href="View_Source.dita"/>
+ <topicref href="Edit_Source.dita"/>
+ <topicref href="Edit_Header.dita"/>
+</map>

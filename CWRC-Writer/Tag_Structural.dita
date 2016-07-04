@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_d22_zcl_jp">
+    <title>Adding structural tags in the structural panel</title>
+    <shortdesc>In each document that you enter there is a pre-existing XML template that contains
+        the basic tags necessary for that type document. You can add new structural tags to the
+        document easily. </shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-09"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T143127-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select a tag in the structural panel and right click.
+                    <?oxy_insert_start author="megansellmer" timestamp="20150421T155642-0700"?>To
+                    insert a tag, you must first select the tag alone, and not the contents, by
+                    right/ctrl/command clicking twice.  <?oxy_insert_end?><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A23435fcd-d197-47d5-9e99-47d31dcd4026/datastream/OBJ/view"
+                        id="image_tsq_tkn_jp" align="center" height="4in" width="6in"/></cmd>
+                <?oxy_insert_start author="megansellmer" timestamp="20150421T150709-0700"?>
+                <info>In the Markup panel, a single click right click (or control click on a Mac)
+                    selects both the tag and the contents. Deleting will delete both. A double click
+                    selects the content of the tag only. Deleting deletes the text only and more
+                    text can then be typed to replace it. </info>
+                <?oxy_insert_end?>
+            </step>
+            <step>
+                <cmd>This will bring up a menu with three options that allow you to insert a
+                    tag.</cmd>
+                <choices id="choices_vyw_d12_lp">
+                    <choice><cmdname>Insert Tag Before</cmdname> allows you to insert a tag before
+                        the tag you have right clicked on.</choice>
+                    <choice><cmdname>Insert Tag After</cmdname> allows you to insert a tag after the
+                        tag you have right-clicked on (skipping over any nested tags within the tag
+                        you have clicked on).</choice>
+                    <choice><cmdname>Insert Tag Inside</cmdname> this will insert a new tag nested
+                        within the initial tag yo clicked on.</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Once you have selected one of the <cmdname>Insert</cmdname> options, choose a
+                    tag from the list that appears. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Afa5ad5d6-5e18-4314-be5b-c31e29cde905/datastream/OBJ/view"
+                        id="image_rjt_zhv_tp" align="center"/></cmd>
+                <info>The tags that you can select, under each <cmdname>Insert</cmdname> option, are
+                    limited to tags that are allowed (according to the schema).</info>
+            </step>
+            <step>
+                <cmd>Once you select the tag you would like to add to the structure panel a pop-up
+                    appear that allows you to add qualifying information to the tag. Once you have
+                    finished, click on <cmdname>OK</cmdname>.</cmd>
+                <info>You do not have to enter any additional information if you don't want to. You
+                    can just press <cmdname>OK</cmdname> as soon as you see this pop-up.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8974376d-d9cd-4bfd-865c-0bf2a34b5cf8/datastream/OBJ/view"
+                        id="image_p4v_vhv_tp" align="center"/></info>
+            </step>
+        </steps>
+        <result>You have now added a new structure tag. In the image below you can see we have added
+            a new "time" tag in the document structure, by following the above steps.<image
+                placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab088f060-527c-4f90-8092-555708dfdf7c/datastream/OBJ/view"
+                id="image_f3l_hln_jp" align="center" width="6in" height="4in"/>
+            <!--<p>
+            <lines><b>Related Links</b></lines>
+            <lines><xref href="Tag_Selecting_Text.dita"/></lines>
+            <lines><xref href="Tag_Structural.dita"/></lines>
+            <lines><xref href="Delete_Tags_Editor.dita"/></lines>
+            <lines><xref href="Delete_Tags_Toolbar.dita"/></lines>
+            <lines><xref href="Edit_Tag_Editor.dita"/></lines>
+            <lines><xref href="Edit_Tag_Structure.dita"/></lines>
+            <lines><xref href="Edit_Tag_Toolbar.dita"/></lines>
+            <lines><b>Reference Materials:</b></lines>
+            <lines><xref href="Navigation_Columns.dita"></xref></lines>
+            <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+        </p>-->
+        </result>
+    </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T145414-0700"?>
+    <related-links>
+        <link href="Tag_Selecting_Text.dita#task_zyn_lyk_jp"/>
+        <link href="#task_d22_zcl_jp"/>
+        <link href="Delete_Tags_Editor.dita#task_chk_nkl_jp"/>
+        <link href="Delete_Tags_Toolbar.dita#task_pbd_5ll_jp"/>
+        <link href="Edit_Tag_Editor.dita#task_xxj_4ml_jp"/>
+        <link href="Edit_Tag_Structure.dita#task_f4z_t4l_jp"/>
+        <link href="Edit_Tag_Toolbar.dita#task_bdv_znl_jp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+    </related-links>
+    <?oxy_insert_end?>
+</task>
+
+
+
+<?oxy_options track_changes="on"?>
