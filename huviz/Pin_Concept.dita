@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ktj_rwd_w5">
+  <title>Pin</title>
+  <shortdesc>The Pin function fixes or "pins" Graphed nodes in place.</shortdesc>
+  <prolog product="CWRC-Writer">
+    <author>Chelsea Miya</author>
+    <copyright>
+      <copyryear year="2014"></copyryear>
+      <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="2016-02-03"></created>
+      <revised modified="2016-02-03"></revised>
+    </critdates>
+    <metadata product="stand-alone">
+      <audience audience="novice"></audience>
+      <audience audience="CWRCMember"></audience>
+    </metadata>
+  </prolog>
+  <body>
+    <p>By default, networks of graphed nodes float freely within the central stage. However, there are times when working with a static graph is preferable.</p>
+    <p>Using the Pin function, the branches of a node network can be stretched out and fixed in place.</p>
+    <note>Only graphed nodes can be pinned. The Pin function cannot be executed on nodes that are in a shelved or discarded state.</note>
+    <note>Graphed nodes can be Pinned in any area that is not designated as part of the Shelf or Discard Bin. This includes the area both inside and outside the central ring.</note>
+  </body>
+  <related-links>
+    <link href="Pin_Manually.dita"></link>
+    <link href="Command_Execute_Verbs.dita"></link>
+  </related-links>
+</topic>

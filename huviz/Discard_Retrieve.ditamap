@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Discard and Retrieve Nodes</title>
+ <topicref href="Discard_Concept.dita"></topicref>
+ <topicref href="Discard_Manually.dita"></topicref>
+ <topicref href="Retrieve_Concept.dita"></topicref>
+ <topicref href="Retrieve_Command.dita"></topicref>
+</map>

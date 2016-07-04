@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>CWRC User manual</title>
+ <topichead navtitle="CWRC-Writer"><mapref href="CWRC-Writer/CWRCWriter_Documentation.ditamap"></mapref></topichead>
+ <topichead navtitle="Dynamic Table of Contexts"><mapref href="DToC/Dynamic%20Table%20of%20Context.ditamap"></mapref></topichead>
+ <topichead navtitle="HuViz"><mapref href="huviz/HuViz_Map.ditamap"></mapref></topichead>
+ <topichead toc="no" navtitle="Error message"><topicref href="Error.dita" ></topicref></topichead>
+</map>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_gfy_xkd_w5">
+ <title>Using the Commands Tab</title>
+ <shortdesc>Working directly in the Graph using the "drag and drop" technique involves fewer steps. However, working from the Commands Tab has multiple benefits.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3550c158-99dd-49a7-9313-72694d3672b6/datastream/OBJ/view" id="image_c5h_3wm_2v" align="center"></image></shortdesc>
+ <prolog product="CWRC-Writer">
+  <author>Chelsea Miya</author>
+  <copyright>
+   <copyryear year="2014"></copyryear>
+   <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+  </copyright>
+  <critdates>
+   <created date="2016-02-03"></created>
+   <revised modified="2016-03-02"></revised>
+  </critdates>
+  <metadata product="stand-alone">
+   <audience audience="novice"></audience>
+   <audience audience="CWRCMember"></audience>
+  </metadata>
+ </prolog>
+ <conbody>
+  <ul id="ul_ly3_5nd_w5">
+   <li>Certain commands, like Label and Hide, cannot be executed manually. The Commands Tab gives users access to the full range of tools.</li>
+   <li>Users also have more control over how those tools are implemented. For example, when Working manually, only a single node or node cluster can be manipulated at a given time. In the Commands Tab, users have the option to filter nodes by type. </li>
+  </ul>
+ </conbody>
+ <related-links>
+  <link href="Reference_Graph.dita"></link>
+  <link href="CurrentCommand_Concept.dita"></link>
+  <link href="Command_Execute_Verbs.dita"></link>
+ </related-links>
+</concept>

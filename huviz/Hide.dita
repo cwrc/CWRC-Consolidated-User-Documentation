@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ays_zth_v5">
+    <title>Hide Nodes in Commands Tab</title>
+    <shortdesc>Temporarily remove nodes from the dataset using the following steps. </shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select desired nodes, either manually or by clicking a Set or Class type.</cmd>
+            </step>
+            <step>
+                <cmd>Under Verbs, click "Hide."</cmd>
+            </step>
+        </steps>
+        <result>As a result, the Selected nodes will removed from the visualization and will no longer appear in the central Graph, Shelf or Discard Bin.</result>
+    </taskbody>
+    <related-links>
+        <link href="Hide_Concept.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+        <link href="Shelve_Concept.dita"></link>
+        <link href="Shelve_Command.dita"></link>
+    </related-links>
+</task>

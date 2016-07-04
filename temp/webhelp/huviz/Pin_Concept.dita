@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/ilovan/Documentation/temp/webhelp/huviz?><?workdir-uri file:/Users/ilovan/Documentation/temp/webhelp/huviz/?><?path2project ../?><?path2project-uri ../?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_ktj_rwd_w5" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="title:1;4:10">Pin</title>
+  <shortdesc class="- topic/shortdesc " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="shortdesc:1;5:14">The Pin function fixes or "pins" Graphed nodes in place.</shortdesc>
+  <prolog product="CWRC-Writer" class="- topic/prolog " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="prolog:1;6:33">
+    <author class="- topic/author " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="author:1;7:13">Chelsea Miya</author>
+    <copyright class="- topic/copyright " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="copyright:1;8:16">
+      <copyryear year="2014" class="- topic/copyryear " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="copyryear:1;9:30"/>
+      <copyrholder class="- topic/copyrholder " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="copyrholder:1;10:20">Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+    </copyright>
+    <critdates class="- topic/critdates " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="critdates:1;12:16">
+      <created date="2016-02-03" class="- topic/created " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="created:1;13:34"/>
+      <revised modified="2016-02-03" class="- topic/revised " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="revised:1;14:38"/>
+    </critdates>
+    <metadata product="stand-alone" class="- topic/metadata " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="metadata:1;16:37">
+      <audience audience="novice" class="- topic/audience " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="audience:1;17:35"/>
+      <audience audience="CWRCMember" class="- topic/audience " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="audience:2;18:39"/>
+    </metadata>
+  </prolog>
+  <body class="- topic/body " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="body:1;21:9">
+    <p class="- topic/p " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="p:1;22:8">By default, networks of graphed nodes float freely within the central stage. However, there are times when working with a static graph is preferable.</p>
+    <p class="- topic/p " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="p:2;23:8">Using the Pin function, the branches of a node network can be stretched out and fixed in place.</p>
+    <note class="- topic/note " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="note:1;24:11">Only graphed nodes can be pinned. The Pin function cannot be executed on nodes that are in a shelved or discarded state.</note>
+    <note class="- topic/note " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="note:2;25:11">Graphed nodes can be Pinned in any area that is not designated as part of the Shelf or Discard Bin. This includes the area both inside and outside the central ring.</note>
+  </body>
+  <related-links class="- topic/related-links " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="related-links:1;27:18">
+    <link href="Pin_Manually.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="link:1;28:36" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Pin Manually</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Pin nodes using the "drag and drop" method with the following steps.</desc></link>
+    <link href="Command_Execute_Verbs.dita" class="- topic/link " xtrf="/Users/ilovan/Documentation/huviz/Pin_Concept.dita" xtrc="link:2;29:45" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Execute Verbs in Commands Tab</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">In the Commands Tab, actions are automatically executed when a selected Set or Class type is combined with a Verb.</desc></link>
+  </related-links>
+</topic>

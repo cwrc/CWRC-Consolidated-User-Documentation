@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_h1w_1dz_1v">
+    <title>View Edges</title>
+    <shortdesc>Edges are displayed both in the Graph and in the Commands Tab.</shortdesc>
+    <taskbody>
+        <context>
+            <p>When a user hovers overtop of a connective line, a label appears indicating the nature of the relationship and the number of connections in this category.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A5a67caf4-2cb2-449b-ae66-4c8710647661/datastream/OBJ/view" id="image_xfx_511_2v" align="center"></image></p>
+            <p>Edge can also be viewed in the Commands Tab. The Edges of Selected Nodes bin contains the names of Edges (or relationship types) associated with any nodes in a Selected state.</p>
+        </context>
+    </taskbody>
+    <related-links>
+        <link href="EdgesofSelectedNodes_Concept.dita"></link>
+        <link href="View_Snippet.dita"></link>
+        <link href="Graph_EdgeType.dita"></link>
+    </related-links>
+</task>

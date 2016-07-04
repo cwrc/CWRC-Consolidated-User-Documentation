@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>How to Hide a Node</title>
+ <topicref href="Hide_Concept.dita"></topicref>
+ <topicref href="Hide.dita"></topicref>
+</map>

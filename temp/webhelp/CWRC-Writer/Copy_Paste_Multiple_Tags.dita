@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/ilovan/Documentation/temp/webhelp/CWRC-Writer?><?workdir-uri file:/Users/ilovan/Documentation/temp/webhelp/CWRC-Writer/?><?path2project ../?><?path2project-uri ../?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_r4l_ykd_dp" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)   " class="- topic/topic task/task " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="title:1;4:12">Copying and pasting multiple tags</title>
+    <shortdesc class="- topic/shortdesc " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="shortdesc:1;5:16">Copying and pasting multiple tags within CWRC-Writer is the fastest way to build up a
+        document. Whether you are adding poem lines or more notes, you can create entire sections of
+        structure in a few easy steps. </shortdesc>
+    <prolog product="CWRC-Writer" class="- topic/prolog " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="prolog:1;8:35">
+        <author class="- topic/author " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="author:1;9:17">Megan Sellmer</author>
+        <copyright class="- topic/copyright " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="copyright:1;10:20">
+            <copyryear year="2014" class="- topic/copyryear " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="copyryear:1;11:37"/>
+            <copyrholder class="- topic/copyrholder " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="copyrholder:1;12:26">Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="critdates:1;15:20">
+            <created date="2014-08-17" class="- topic/created " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="created:1;16:41"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T113908-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21" class="- topic/revised " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="revised:1;18:45"/>
+        </critdates>
+        <metadata class="- topic/metadata " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="metadata:1;20:19">
+            <audience audience="novice" class="- topic/audience " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="audience:1;21:42"/>
+            <audience audience="CWRCMember" class="- topic/audience " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="audience:2;22:46"/>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="taskbody:1;25:15">
+        <context class="- topic/section task/context " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="context:1;26:18">You can copy any tag that exists in the document and the tags that are nested below
+            it. </context>
+        <steps id="steps_pvr_ctg_dp" class="- topic/ol task/steps " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="steps:1;28:38">
+            <step class="- topic/li task/step " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="step:1;29:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="cmd:1;30:22">To copy and paste a parent tag and all the tags nested within it, the user
+                    needs to click twice on a tag (until it is bolded and italicized) and use your
+                    keyboard shortcut to copy. </cmd>
+                <info class="- topic/itemgroup task/info " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="info:1;33:23">
+                    <note class="- topic/note " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="note:1;34:27">CWRC-Writer only allows users to copy and paste using their keyboard
+                        shortcuts (Command C and V for Macs; Control C and V for P. C.s)</note>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="step:2;38:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="cmd:2;39:22"> Right-click on a tag in the structure panel and choose one of the
+                        <cmdname class="+ topic/keyword sw-d/cmdname " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="cmdname:1;40:34">Insert Options</cmdname>. Depending on which option you chose this
+                    will insert a tag, before, after, or inside the tag you have selected. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab038d694-3d00-4279-aef4-2eae4b77f0ec/datastream/OBJ/view" id="image_rz2_n3n_jp" align="center" class="- topic/image " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="image:1;44:63"/></cmd>
+                <info class="- topic/itemgroup task/info " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="info:2;45:23">To paste the tags in the document, we suggest first inserting a new tag into
+                    which you can paste.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="step:3;48:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="cmd:3;49:22">Select the tag you have just added to the document until it is bolded and
+                    italicized. Use your keyboard shortcut to paste. </cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="result:1;53:17"><lines xml:space="preserve" class="- topic/lines " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="lines:1;53:24">In the poem document you can click on a "lg" tag (until it is bolded and italicized) and use your keyboard shortcut (Command or Control C) to copy that tag.</lines><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A45610ba5-977d-468b-983c-88e64b0a5a58/datastream/OBJ/view" id="image_i1x_t3n_jp" align="center" height="3in" width="5in" class="- topic/image " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="image:2;56:80"/>
+            <lines xml:space="preserve" class="- topic/lines " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="lines:2;57:20">
+Then insert a new "lg" tag by bolding the last one in the list and choosing the right-click option <cmdname class="+ topic/keyword sw-d/cmdname " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="cmdname:2;58:109">Insert Tag After</cmdname> (in this case choosing to insert a new "lg" tag).</lines>
+            <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A1adebee4-7c06-424b-bff3-fa2ea5d263fb/datastream/OBJ/view" id="image_fgc_x3n_jp" align="center" height="4in" width="6in" class="- topic/image " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="image:3;61:80"/><lines xml:space="preserve" class="- topic/lines " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="lines:3;61:87">
+When you choose to add a "lg" tag, this will create an empty tag that you can then paste the structure into; click on the tag (until it is bolded) and paste the information in.</lines>
+            <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A40776b88-7e2c-4c9b-816f-18628e79e400/datastream/OBJ/view" id="image_aqh_cjn_jp" align="center" height="3in" width="5in" class="- topic/image " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="image:4;65:80"/> Success! You have
+            pasted tags and text in the structure, creating a new "lg" tag with nested "l" tags.
+            
+        </result>
+    </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T143311-0700"?>
+    <related-links class="- topic/related-links " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="related-links:1;79:20">
+        <link href="Copy_Paste_Single_Tag.dita#task_gfg_fjd_dp" class="- topic/link " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="link:1;80:66" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Copying and pasting a single tag</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Copying and pasting a tag allow you to duplicate structure and/or content with minimal effort. This acts as a type of shortcut tor producing content in you document. </desc></link>
+        <link href="Copy_Paste_Tags.dita#task_t1x_nfn_jp" class="- topic/link " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="link:2;81:60" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Copying and pasting text in the structure panel</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">This is how users can copy and paste text into CWRC-Writer by selecting a tag in the         structure panel.</desc></link>
+        <link href="Copy_Paste_Entity.dita#task_osz_cb2_np" class="- topic/link " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="link:3;82:62" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Copying and pasting entities in the editor</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">You can copy and paste entities in CWRC-Writer. This will let you replicate         annotations entities, so that you can have multiple instances of that tag in the document         (with the same contextual information). </desc></link>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp" class="- topic/link " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="link:4;83:66" type="reference"><?ditaot gentext?><linktext class="- topic/linktext ">CWRC-Writer right-click menus</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">You can add tags within the editor by highlighting the text and right-clicking. This     will bring up a list of option available to you (adding entities, structural tags, editing,     etc). </desc></link>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np" class="- topic/link " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Copy_Paste_Multiple_Tags.dita" xtrc="link:5;84:68" type="reference"><?ditaot gentext?><linktext class="- topic/linktext ">Navigation panels</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">There are three different tabs on the left hand side of CWRC-Writer.</desc></link>
+    </related-links>
+    <?oxy_insert_end?>
+</task><?oxy_options track_changes="on"?>

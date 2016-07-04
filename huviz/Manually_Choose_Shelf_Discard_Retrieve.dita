@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_m3k_r2d_w5">
+    <title>Choose, Shelve, Discard and Retrieve Manually:</title>
+    <shortdesc>Choose, Shelve, Discard and Retrieve nodes directly in the Graph using the "drag and drop" technique.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps id="steps_ttm_zdd_w5">
+            <step>
+                <cmd>"Click and hold" to grab the node. This will illuminate the Shelf (green ring) and the Discard bin (red dot). The space within the ring is the Graph, where nodes will automatically link to form networks.</cmd>
+            </step>
+            <step>
+                <cmd>Without releasing the mouse, drag the node to the desired area.</cmd>
+            </step>
+            <step>
+                <cmd>Release the mouse to "drop" the node and execute the action.</cmd>
+            </step>
+        </steps>
+        <postreq>Nodes can be dragged between any of the three main areas: Shelf, Discard Bin and central Graph.</postreq>
+    </taskbody>
+</task>

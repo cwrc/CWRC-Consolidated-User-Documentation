@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/ilovan/Documentation/temp/webhelp/CWRC-Writer?><?workdir-uri file:/Users/ilovan/Documentation/temp/webhelp/CWRC-Writer/?><?path2project ../?><?path2project-uri ../?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_chk_nkl_jp" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " class="- topic/topic task/task " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="title:1;4:12">Deleting tags in the editor</title>
+    <shortdesc class="- topic/shortdesc " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="shortdesc:1;5:16">The document template that you are working with may have existing tags that you do
+        not need for your document. You can easily delete these tags following these
+        steps.</shortdesc>
+    <prolog product="CWRC-Writer" class="- topic/prolog " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="prolog:1;8:35">
+        <author class="- topic/author " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="author:1;9:17">Megan Sellmer</author>
+        <copyright class="- topic/copyright " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="copyright:1;10:20">
+            <copyryear year="2014" class="- topic/copyryear " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="copyryear:1;11:37"/>
+            <copyrholder class="- topic/copyrholder " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="copyrholder:1;12:26">Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="critdates:1;15:20">
+            <created date="2014-09-14" class="- topic/created " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="created:1;16:41"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21" class="- topic/revised " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="revised:1;18:45"/>
+        </critdates>
+        <metadata product="stand-alone" class="- topic/metadata " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="metadata:1;20:41">
+            <audience audience="novice" class="- topic/audience " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="audience:1;21:42"/>
+            <audience audience="CWRCMember" class="- topic/audience " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="audience:2;22:46"/>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="taskbody:1;25:15">
+        <steps class="- topic/ol task/steps " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="steps:1;26:16">
+            <step class="- topic/li task/step " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="step:1;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="cmd:1;28:22">Place your cursor in the text that is in the tag you want to delete. OR select
+                    the tag that you would like to delete in the structure panel. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="step:2;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="cmd:2;32:22">Right-click and choose the <cmdname class="+ topic/keyword sw-d/cmdname " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="cmdname:1;32:58">Remove Tag
+                        </cmdname>option.<?oxy_attributes align="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141016T133847-0700&quot; /&gt;" placement="&lt;change type=&quot;modified&quot; oldValue=&quot;inline&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141016T133850-0700&quot; /&gt;"?><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A4dbe31c7-d2b9-4774-a62d-f5b69ef571f9/datastream/OBJ/view" id="image_rvg_l3v_tp" align="center" class="- topic/image " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="image:1;36:63"/></cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="result:1;39:17">This will delete the tag, but leave the text.
+            
+        </result>
+    </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T145257-0700"?>
+    <related-links class="- topic/related-links " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="related-links:1;49:20">
+        <link href="Delete_Tags_Toolbar.dita#task_pbd_5ll_jp" class="- topic/link " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="link:1;50:64" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Deleting tags using the CWRC-Writer toolbar</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">The document template that you are working with may have existing tags that you do         not need for your document. You can easily delete these tags following these steps. </desc></link>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp" class="- topic/link " xtrf="/Users/ilovan/Documentation/CWRC-Writer/Delete_Tags_Editor.dita" xtrc="link:2;51:66" type="reference"><?ditaot gentext?><linktext class="- topic/linktext ">CWRC-Writer right-click menus</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">You can add tags within the editor by highlighting the text and right-clicking. This     will bring up a list of option available to you (adding entities, structural tags, editing,     etc). </desc></link>
+    </related-links>
+    <?oxy_insert_end?>
+</task><?oxy_options track_changes="on"?>

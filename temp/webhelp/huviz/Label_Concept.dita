@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/ilovan/Documentation/temp/webhelp/huviz?><?workdir-uri file:/Users/ilovan/Documentation/temp/webhelp/huviz/?><?path2project ../?><?path2project-uri ../?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_nz4_tth_x5" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="title:1;4:9">Label a Node</title>
+ <shortdesc class="- topic/shortdesc " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="shortdesc:1;5:13">The Label function displays the node name.</shortdesc>
+ <prolog product="CWRC-Writer" class="- topic/prolog " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="prolog:1;6:32">
+  <author class="- topic/author " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="author:1;7:11">Chelsea Miya</author>
+  <copyright class="- topic/copyright " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="copyright:1;8:14">
+   <copyryear year="2014" class="- topic/copyryear " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="copyryear:1;9:27"/>
+   <copyrholder class="- topic/copyrholder " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="copyrholder:1;10:17">Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+  </copyright>
+  <critdates class="- topic/critdates " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="critdates:1;12:14">
+   <created date="2016-02-03" class="- topic/created " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="created:1;13:31"/>
+   <revised modified="2016-02-03" class="- topic/revised " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="revised:1;14:35"/>
+  </critdates>
+  <metadata product="stand-alone" class="- topic/metadata " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="metadata:1;16:35">
+   <audience audience="novice" class="- topic/audience " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="audience:1;17:32"/>
+   <audience audience="CWRCMember" class="- topic/audience " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="audience:2;18:36"/>
+  </metadata>
+ </prolog>
+ <conbody class="- topic/body  concept/conbody " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="conbody:1;21:11">
+  <p class="- topic/p " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="p:1;22:6">When the cursor hovers over a node, the node name will automatically appear above. To keep the labels visible at all times, execute the Verb Label in the Commands Tab.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0bb75a5d-8507-4c8b-8780-75ffd0900b39/datastream/OBJ/view" id="image_gkl_3hn_2v" align="center" class="- topic/image " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="image:1;22:343"/></p>
+ </conbody>
+ <related-links class="- topic/related-links " xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="related-links:1;24:17">
+  <link class="- topic/link " href="Command_Execute_Verbs.dita" xtrf="/Users/ilovan/Documentation/huviz/Label_Concept.dita" xtrc="link:1;25:65" type="task"><?ditaot gentext?><linktext class="- topic/linktext ">Execute Verbs in Commands Tab</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">In the Commands Tab, actions are automatically executed when a selected Set or Class type is combined with a Verb.</desc></link>
+ </related-links>
+</concept>

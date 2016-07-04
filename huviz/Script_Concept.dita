@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_t4k_gkl_w5">
+ <title>Script</title>
+ <shortdesc>The Script feature is a textual record of the sequence of commands which were performed to produce the current state of the display.</shortdesc>
+ <prolog product="CWRC-Writer">
+  <author>Chelsea Miya</author>
+  <copyright>
+   <copyryear year="2014"></copyryear>
+   <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+  </copyright>
+  <critdates>
+   <created date="2016-02-03"></created>
+   <revised modified="2016-02-03"></revised>
+  </critdates>
+  <metadata product="stand-alone">
+   <audience audience="novice"></audience>
+   <audience audience="CWRCMember"></audience>
+  </metadata>
+ </prolog>
+ <conbody>
+  <p><b><i>Coming Soon.</i></b></p>
+ </conbody>
+</concept>

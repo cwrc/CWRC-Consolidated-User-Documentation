@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Welcome to HuViz</title>
+  <topicref href="HuViz_Concept.dita"></topicref>
+ <topichead navtitle="Two Ways to Execute Commands">
+  <topicref href="Reference_Graph.dita"></topicref>
+  <topichead navtitle="Using the Commands Tab"><topicref href="CommandsTab.ditamap" format="ditamap"/></topichead>
+ </topichead>
+  <topicref href="Glossary.dita"></topicref>
+</map>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="glossgroup_mmc_vkh_x5">
+  <title>HuViz Glossary</title>
+  <prolog product="CWRC-Writer">
+    <author>Chelsea Miya</author>
+    <copyright>
+      <copyryear year="2014"></copyryear>
+      <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="2016-02-03"></created>
+      <revised modified="2016-02-03"></revised>
+    </critdates>
+    <metadata product="stand-alone">
+      <audience audience="novice"></audience>
+      <audience audience="CWRCMember"></audience>
+    </metadata>
+  </prolog>
+  <glossentry id="glossentry_chb_mlh_x5">
+    <glossterm>Activate</glossterm>
+    <glossdef>Pulls node into central graph.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_m33_plh_x5">
+    <glossterm>Class</glossterm>
+    <glossdef>Classifies nodes according to type, such as: Organization, Person and SpatialThing. </glossdef>
+  </glossentry>
+  <glossentry id="glossentry_nns_llh_x5">
+    <glossterm>Current Command</glossterm>
+    <glossdef>Verb and Set/Class types in current operation are displayed here.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_zlx_nlh_x5">
+    <glossterm>Discard</glossterm>
+    <glossdef>Removes nodes from the central Graph or Shelf and sends to Discard Bin, represented as a red dot at the bottom-right of the Stage.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_nsd_2lh_x5">
+    <glossterm>Edge</glossterm>
+    <glossdef>A connective link between two nodes, signifying a relationship. </glossdef>
+  </glossentry>
+  <glossentry id="glossentry_pln_plh_x5">
+    <glossterm>Edges of the Selected Nodes</glossterm>
+    <glossdef>Classifies the relationship between two nodes; expressed as the Predicate + Object section of the triple. For example, hasLivedConenctiontoOrganization.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_pks_ylh_x5">
+    <glossterm>Graph</glossterm>
+    <glossdef>Contains Active (graphed) nodes; located inside the circular Shelf.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_dmg_4lh_x5">
+    <glossterm>Hide</glossterm>
+    <glossdef>Temporarily removes nodes from the dataset.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_fsv_hph_x5">
+    <glossterm>Hub</glossterm>
+    <glossdef>The central node in a network. The Hub node represents the subject in a Subject-Predicate-Object RDF triple. Hub nodes are automatically dragged into the graph when an object is Activated.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_xz2_nlh_x5">
+    <glossterm>Label</glossterm>
+    <glossdef>Displays the node name.</glossdef>
+  </glossentry>
+  <glossentry id="ddl">
+    <glossterm>Node</glossterm>
+    <glossdef>A unit, such as a person, place or spatialThing, which is connected to other units. Subjects and Objects in RDF triples are visually represented as nodes.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_vfn_4lh_x5">
+    <glossterm>Pin</glossterm>
+    <glossdef>Fixes nodes in place.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_wvl_slh_x5">
+    <glossterm>Predicate</glossterm>
+    <glossdef>A statement signifying the relationship between a subject and object .</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_u1j_jlh_x5">
+    <glossterm>Reset</glossterm>
+    <glossdef>Erases commands, restoring graph to default.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_y1h_tlh_x5">
+    <glossterm>Resource Description Framework (RDF)</glossterm>
+    <glossdef>A set of rules established by the World Wide Web Consortium (W3C) used for governing the semantic web. Data is linked together through statements known as "triples" that describe information in terms of subject-predicate-object relationships.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_ojw_3lh_x5">
+    <glossterm>Script</glossterm>
+    <glossdef>Records the sequence of commands which were performed to produce the current state of the display.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_ksj_mlh_x5">
+    <glossterm>Select</glossterm>
+    <glossdef>Selects node to execute a command when used in combination with a Verb.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_qp3_hlh_x5">
+    <glossterm>Snippet</glossterm>
+    <glossdef>Contextualizes the relationship between two nodes by giving users access to relevant information from the source text.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_xrt_flh_x5">
+    <glossterm>Stage</glossterm>
+    <glossdef>Visual representation of the dataset, containing the three main areas: central Graph, Shelf and Discard Bin.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_tmd_3lh_x5">
+    <glossterm>Toolbox</glossterm>
+    <glossdef>Contains the Help, Settings, Commands and Script tabs.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_enp_nlh_x5">
+    <glossterm>Shelve</glossterm>
+    <glossdef>Removes nodes from the central Graph or Discard Bin and returns to Shelf. </glossdef>
+  </glossentry>
+  <glossentry id="glossentry_lq5_jvh_x5">
+    <glossterm>Shelf</glossterm>
+    <glossdef>Where deActivated (ungraphed) nodes are housed, represented as a green circle surrounding the central Graph.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_iss_4lh_x5">
+    <glossterm>Set</glossterm>
+    <glossdef>Classifies nodes according to current state, such as: Activated, Discarded, Graphed.</glossdef>
+  </glossentry>
+  <glossentry id="glossentry_gk2_5qh_x5">
+    <glossterm>Triple</glossterm>
+    <glossdef>Formal statement describing a relationship in terms of a subject-predicate-object.</glossdef>
+  </glossentry>
+</glossgroup>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_lfh_pbn_2v">
+ <title>How to Identify Selected Nodes</title>
+ <shortdesc>It is easy to tell the difference between Selected from Unselected nodes.</shortdesc>
+ <conbody>
+  <p>
+   <table frame="all" rowsep="1" colsep="1" id="table_ypr_vxk_w5">
+    <title>How to Tell if a Node has been Selected:</title>
+    <tgroup cols="3">
+     <colspec colname="c1" colnum="1" colwidth="1*"></colspec>
+     <colspec colname="c2" colnum="2" colwidth="3.46*"></colspec>
+     <colspec colname="c3" colnum="3" colwidth="3.54*"></colspec>
+     <thead>
+      <row>
+       <entry>Location</entry>
+       <entry>Characteristic</entry>
+       <entry>Image</entry>
+      </row>
+     </thead>
+     <tbody>
+      <row>
+       <entry>Set/Class Bins</entry>
+       <entry>
+        <ul id="ul_hf2_31h_x5">
+         <li>Selected Set types are brown</li>
+         <li>Selected Class types have a darker shade.</li>
+        </ul>
+       </entry>
+       <entry><image href="http://beta.cwrc.ca/islandora/object/cwrc%3A288c3dba-d8ed-4e2e-8885-756a50920eea/datastream/OBJ/view" id="image_rpj_szm_2v" align="center" placement="break"></image></entry>
+      </row>
+      <row>
+       <entry>Current Command Line</entry>
+       <entry>
+        <ul id="ul_g11_gyk_w5">
+         <li>If nodes were selected by type, the name of the Set or Class type will be listed.</li>
+         <li>If nodes were selected in the Graph (by manually clicking the nodes), an abreviated version of the node names will be listed.</li>
+        </ul>
+       </entry>
+       <entry><image href="http://beta.cwrc.ca/islandora/object/cwrc%3A5ad16609-033f-400b-aa15-559ef9ba0686/datastream/OBJ/view" id="image_b34_t1n_2v" align="center" placement="break"></image></entry>
+      </row>
+      <row>
+       <entry>Graph</entry>
+       <entry>
+        <ul id="ul_akx_31h_x5">
+         <li>Selected nodes will be bolded.</li>
+        </ul>
+       </entry>
+       <entry>
+        <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A4cb84867-e759-43ed-9dac-d976b5ee7ae5/datastream/OBJ/view" id="image_vb4_gcn_2v" align="center"></image>
+       </entry>
+      </row>
+     </tbody>
+    </tgroup>
+   </table>
+  </p>
+ </conbody>
+ <related-links>
+  <link href="Select_Concept.dita"></link>
+  <link href="Select_All.dita"></link>
+  <link href="Select_Manually.dita"></link>
+  <link href="Select_Set_Class.dita"></link>
+  <link href="Select_BySearch.dita"></link>
+  <link href="Reference_CommandsTab.dita"></link>
+  <link href="Command_Execute_Verbs.dita"></link>
+ </related-links>
+</concept>
