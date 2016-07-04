@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Getting started with Plot-It</title>
+ <topicref href="Introduction%20to%20PlotIt.dita"/>
+ <topicref href="Working%20with%20the%20timeline.dita"/>
+ <topicref href="Working%20with%20the%20map.dita"/>
+ <topicref href="View%20events.dita"/>
+ <topicref href="View%20events%20not%20in%20the%20map.dita"/>
+ <topicref href="ChangeViewMode.dita"/>
+ <topicref href="Search%20Plot-It.dita"/>
+ <topicref href="Filter%20Date%20by%20event%20range.dita"/>
+ <topicref href="Filter%20by%20%22Event%20type%22.dita"/>
+ <topicref href="FilterByCountry.dita"/>
+ <topicref href="Reset%20Filters.dita"/>
+ <topicref href="HideTimeline.dita"/>
+ <topicref href="HidePanel.dita"/>
+</map>

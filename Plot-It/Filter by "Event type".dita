@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lmw_c1q_5r">
+    <title>Filter by Event type</title>
+    <shortdesc>Users can narrow down what type of events appear in the timeline or the map by
+        selecting from a list on the left side of the page.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the type of events you would like to view.</cmd>
+                <info>
+                    <p>Events are categorized into five different types: bibliographical,
+                        biographical, literary, political, social, and mixed. <image
+                            placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A2e3452f0-3289-46c0-9e5f-e000e8b6d02a/datastream/OBJ/view"
+                            id="image_fyn_sbr_5r" align="center"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>If you would like to view multiple event types, check multiple checkboxes. </cmd>
+                <info>
+                    <p>The check box at the top of the “Event type” field tells
+                                the user how many of the filters have been checked.
+                        </p>
+                </info>
+            </step>
+            <step>
+                <cmd>View the events that belong in the selected event type categories in the
+                    timeline or the map.</cmd>
+                <info>
+                    <p>Once the users checks one of these options, the timeline and map will
+                        automatically narrow down the results to events that belong in that
+                            category(ies).<image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3Afd048c05-85f7-4751-91a3-514029be9b29/datastream/OBJ/view"
+                            id="image_ir2_5br_5r" align="center" scale="85"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>To reset the event type filter, uncheck the top checkbox (or individually
+                    selected boxes) or select “Reset All Filters” option above the map. <image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Adf43370d-cac6-4b6f-adee-43f38645b72a/datastream/OBJ/view"
+                        id="image_rxl_wbr_5r" align="center"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>        
+        <link href="Introduction%20to%20PlotIt.dita"/>
+        <link href="Working%20with%20the%20timeline.dita"/>
+        <link href="Working%20with%20the%20map.dita"/>
+        <link href="View%20events.dita"/>
+        <link href="View%20events%20not%20in%20the%20map.dita"/>
+        <link href="ChangeViewMode.dita"/>
+        <link href="Search%20Plot-It.dita"/>
+        <link href="Filter%20by%20%22Event%20type%22.dita"/>
+        <link href="FilterByCountry.dita"/>
+        <link href="Reset%20Filters.dita"/> 
+        <link href="SearchReference.dita"/>
+        <link href="HideTimeline.dita"/>
+        <link href="HidePanel.dita"/>
+    </related-links>
+</task>

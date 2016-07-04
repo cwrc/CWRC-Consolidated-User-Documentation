@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_knz_fxr_5r">
+  <title>Introduction to Plot-It</title>
+  <shortdesc>Welcome to Plot-It. Here we describe how to get started using Plot-It and what to look
+    out for. </shortdesc>
+  <refbody>
+    <section>
+      <p>To get started in Plot-It we suggest you familiarize yourself with the tool.<image
+          placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A7070ebc7-c0bb-4106-8e42-3d85aeb5741a/datastream/OBJ/view"
+          id="image_ujr_qyt_5r" align="center" scale="85"/></p>
+      <p>Plot-It is composed of a SIMILE Widgets timeline, a text box to view the event metadata,
+        and a Google map. Users can browse and filter the events using the options on the left side
+        of the pages. Users can also search for different events in the timeline and the
+          map.<note>If the entered events do not have place metadata they do not show up on the map.
+          If there is no date attached to the event, it will not be available in the timeline.
+        </note></p>
+      <p>
+        <note importance="urgent" type="important">For the moment Plot-It is optimized only for
+          FireFox and Chrome. </note>
+      </p>
+    </section>
+  </refbody>
+  <related-links>
+    <link href="Working%20with%20the%20timeline.dita"/>
+    <link href="Working%20with%20the%20map.dita"/>
+    <link href="View%20events.dita"/>
+    <link href="View%20events%20not%20in%20the%20map.dita"/>
+    <link href="ChangeViewMode.dita"/>
+    <link href="Search%20Plot-It.dita"/>
+    <link href="Filter%20Date%20by%20event%20range.dita"/>
+    <link href="Filter%20by%20%22Event%20type%22.dita"/>
+    <link href="FilterByCountry.dita"/>
+    <link href="Reset%20Filters.dita"/>
+    <link href="Timeline.dita"/>
+    <link href="Panel.dita"/>
+    <link href="Events.dita"/>
+    <link href="SearchReference.dita"/>
+    <link href="HideTimeline.dita"/>
+    <link href="HidePanel.dita"/>
+  </related-links>
+</reference>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fwp_khj_yr">
+    <title>Hiding the panel</title>
+    <shortdesc> If you would like to work only with the timeline, or are not interested in the
+        map/list/grid panel, you can hide that information.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the “Hide Panel” option, above map/list/grid panel on the left side of
+                    the page.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A4e7eee5d-d32b-4721-b2b6-2348a2d89edf/datastream/OBJ/view"
+                        id="image_iqb_c3j_yr" align="center"/></cmd>
+                <info>
+                    <p>Once you have hidden the panel, the legend that explains what the coloured
+                        icons refer to disappears as well. </p>
+                </info>
+            </step>
+            <step importance="optional">
+                <cmd>When you are ready to view the timeline again, select “Show Panel”. This is
+                    located below the timeline on the left side. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad796d4ba-fdb6-44a2-8973-762953909a72/datastream/OBJ/view"
+                        id="image_pmm_23j_yr" align="center"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="Working%20with%20the%20timeline.dita"/>
+        <link href="Working%20with%20the%20map.dita"/>
+        <link href="View%20events.dita"/>
+        <link href="View%20events%20not%20in%20the%20map.dita"/>
+        <link href="ChangeViewMode.dita"/>
+        <link href="Search%20Plot-It.dita"/>
+        <link href="Filter%20Date%20by%20event%20range.dita"/>
+        <link href="Filter%20by%20%22Event%20type%22.dita"/>
+        <link href="FilterByCountry.dita"/>
+        <link href="Reset%20Filters.dita"/>        
+        <link href="HideTimeline.dita"/>
+        <link href="Timeline.dita"/>
+        <link href="Panel.dita"/>
+        <link href="Events.dita"/>
+        <link href="SearchReference.dita"/>
+    </related-links>
+</task>

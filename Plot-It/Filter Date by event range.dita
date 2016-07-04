@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rm1_mwp_5r">
+    <title>Filter by Date of event range</title>
+    <shortdesc>The “Date of event range” allows users to adjust what events users see between a
+        specific period of time. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Toggle the date range using the two arrows available. The text boxes at the
+                    bottom of the page display the exact year that the arrows have settled on. </cmd>
+                <info>
+                    <p>When the user moves the white arrows along the date range, the years will
+                        automatically change in the text boxes below. Additionally, users can type
+                        the years in manually (in the text boxes). <image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A9dd97ccd-31ed-40fb-8c88-020cf7f7119a/datastream/OBJ/view"
+                            id="image_glz_zbr_5r" align="center"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>View the events that are between that date range in the timeline or the map.
+                        <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A6782595b-521e-4ec4-b135-77da70d329b9/datastream/OBJ/view"
+                        id="image_jhj_bcr_5r" align="center" scale="85"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links> 
+        <link href="Introduction%20to%20PlotIt.dita"/>
+        <link href="Working%20with%20the%20timeline.dita"/>
+        <link href="Working%20with%20the%20map.dita"/>
+        <link href="View%20events.dita"/>
+        <link href="View%20events%20not%20in%20the%20map.dita"/>
+        <link href="ChangeViewMode.dita"/>
+        <link href="Search%20Plot-It.dita"/>
+        <link href="Filter%20by%20%22Event%20type%22.dita"/>
+        <link href="FilterByCountry.dita"/>
+        <link href="Reset%20Filters.dita"/> 
+        <link href="SearchReference.dita"/> 
+        <link href="HideTimeline.dita"/>
+        <link href="HidePanel.dita"/>
+    </related-links>
+</task>

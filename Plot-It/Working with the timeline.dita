@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rxm_3qp_5r">
+    <title>Working with the timeline</title>
+    <shortdesc>The timeline displays events organized by the date they occurred. This information
+        can be navigated two different ways, by year or by decade.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the timeline section that you would like to manipulate. </cmd>
+                <info>
+                    <p>The timeline is divided into two sections. The upper section, the actual real
+                        estate of the timeline, is divided into years. The lower section, the main
+                        navigation instrument, is divided into decades.<image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A36ee28e2-268f-413e-b948-d25b5e180eb3/datastream/OBJ/view"
+                            id="image_rqn_dzt_5r" align="center" scale="85"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Toggle the timeline to the left or right.</cmd>
+                <info>
+                    <p>If you are
+                            looking for a specific event but do not know the date, you can use the
+                            search features located on the left side of Plot-It. For more
+                            information see the Searching help page linked below. </p>
+                </info>
+            </step>
+        </steps>
+        <example>
+            <p>The user would like to find information on the first Humanities Computing Journal,
+                and they know it was founded in 1966. As this information is four decades away from
+                where the timeline is currently set, the user clicks on the lower timeline section
+                and moves it left to 1966.</p>
+            <p>The user finds the blue dot that could represent the data point they are looking for
+                on the timeline and brings it into the white section of the lower timeline to focus
+                on it. They discover that is what they are looking for. </p>
+            <p>Once the users finds the specific entry in the timeline, they can click on it to find
+                out more information. This information will be displayed in the text box located
+                below the timeline.<image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A84098976-c71a-4700-be97-a0c0feca44de/datastream/OBJ/view"
+                    id="image_ign_gzt_5r" align="center" scale="85"/></p>
+            <p> </p>
+        </example>
+    </taskbody>
+    <related-links>
+    <link href="Introduction%20to%20PlotIt.dita"/>
+    <link href="Working%20with%20the%20map.dita"/>
+    <link href="View%20events.dita"/>
+    <link href="View%20events%20not%20in%20the%20map.dita"/>
+    <link href="ChangeViewMode.dita"/>
+    <link href="Search%20Plot-It.dita"/>
+    <link href="Filter%20Date%20by%20event%20range.dita"/>
+    <link href="Filter%20by%20%22Event%20type%22.dita"/>
+    <link href="FilterByCountry.dita"/>
+    <link href="Reset%20Filters.dita"/>
+    <link href="HideTimeline.dita"/>
+    <link href="HidePanel.dita"/>
+    <link href="Timeline.dita"/>
+    </related-links>
+</task>

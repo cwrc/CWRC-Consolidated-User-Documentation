@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rdn_prr_5r">
+    <title>Change view mode</title>
+    <shortdesc>The user can change the way that they view the events from the timeline. The
+        available options are a map, a list, and a grid view. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Between the map and the timeline there is the option to change the view of the
+                    events from the timeline (see image below). The options are “Map View”, “List
+                    View,” and “Grid View.” Select the option you would like.</cmd>
+                <info>
+                    <p>In the List and Grid views, the user can change the way that the information
+                        is ordered. For example, if you would like to view events ordered from
+                        earliest to latest, click on the "Date" heading in the right column. <image
+                            placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A7d698d64-52bf-4b0e-bb8d-3d57a5111fc7/datastream/OBJ/view"
+                            id="image_ynz_vrr_5r" align="center"/><image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A06729788-e366-4ff0-8aff-2f3144b64858/datastream/OBJ/view"
+                            id="image_fpd_yrr_5r" align="center" scalefit="yes" scale="85"/><image
+                            placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A11dac6ac-6ef1-41e4-8e20-3d4bdf686e30/datastream/OBJ/view"
+                            id="image_q4p_bsr_5r" align="center" scalefit="yes" scale="85"/><image
+                            placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A84704f93-85a6-4a57-814b-51250684e7e2/datastream/OBJ/view"
+                            id="image_ikc_2sr_5r" align="center" scalefit="yes" scale="85"/></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="Introduction%20to%20PlotIt.dita"/>
+        <link href="Working%20with%20the%20timeline.dita"/>
+        <link href="Working%20with%20the%20map.dita"/>
+        <link href="View%20events.dita"/>
+        <link href="View%20events%20not%20in%20the%20map.dita"/>
+        <link href="Search%20Plot-It.dita"/>
+        <link href="Filter%20Date%20by%20event%20range.dita"/>
+        <link href="Filter%20by%20%22Event%20type%22.dita"/>
+        <link href="FilterByCountry.dita"/>
+        <link href="Reset%20Filters.dita"/>
+        <link href="HideTimeline.dita"/>
+        <link href="HidePanel.dita"/>
+        <link href="Panel.dita"/>
+    </related-links>
+</task>

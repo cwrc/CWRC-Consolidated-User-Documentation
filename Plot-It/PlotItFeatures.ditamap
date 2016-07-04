@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Plot-It features</title>
+ <topicref href="Timeline.dita"/>
+ <topicref href="Panel.dita"/>
+ <topicref href="Events.dita"/>
+ <topicref href="SearchReference.dita"/>
+</map>

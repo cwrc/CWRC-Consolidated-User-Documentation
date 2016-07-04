@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ylm_hgj_yr">
+    <title>Hiding the timeline</title>
+    <shortdesc>If you are not interested in using the timeline, or would like to just focus on the
+        map/list/grid, you can hide the timeline.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the “Hide Timeline” option, above the timeline on the left side.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A60eefd55-6cd1-49f9-9d58-f3a8d117d7a9/datastream/OBJ/view"
+                        id="image_xl1_qgj_yr" align="center"/></cmd>
+            </step>
+            <step importance="optional">
+                <cmd>When you are ready to view the timeline again, select “Show Timeline”. This is
+                    located in the same upper left corner that the “Hide Timeline” option was.
+                        <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aaa3638b4-eb5d-4f41-8d27-896a517753e8/datastream/OBJ/view"
+                        id="image_mch_tgj_yr" align="center"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+    <link href="Working%20with%20the%20timeline.dita"/>
+    <link href="Working%20with%20the%20map.dita"/>
+    <link href="View%20events.dita"/>
+    <link href="View%20events%20not%20in%20the%20map.dita"/>
+    <link href="ChangeViewMode.dita"/>
+    <link href="Search%20Plot-It.dita"/>
+    <link href="Filter%20Date%20by%20event%20range.dita"/>
+    <link href="Filter%20by%20%22Event%20type%22.dita"/>
+    <link href="FilterByCountry.dita"/>
+    <link href="Reset%20Filters.dita"/>
+    <link href="HidePanel.dita"/>
+    <link href="Timeline.dita"/>
+    <link href="Panel.dita"/>
+    <link href="Events.dita"/>
+    <link href="SearchReference.dita"/>
+    </related-links>
+</task>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nmt_ftp_5r">
+    <title>Working with the map</title>
+    <shortdesc>The map feature in Plot-It allows users to view the geographical information of the
+        events found in the timeline.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the map. Users can move the map around using either their cursor
+                    or the navigation button located in the top left corner of the map. </cmd>
+                <info>
+                    <p>Users can zoom the map two ways. The first is using your mouse, you can
+                        scroll in and out of the map using smart features of your mouse. The second
+                        is using the existing zoom tools located on the left side of the map. <image
+                            placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A6008e2b4-da37-4959-941e-b62dfd71879c/datastream/OBJ/view"
+                            id="image_o2l_lvq_5r" align="center"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Play around with the map, selecting a satellite view of the map or making the
+                    map bigger using the small black arrow at the bottom of the map.</cmd>
+                <info>
+                    <p>For more information about the different map features see the “Map Reference”
+                        document linked to below. <image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3Acb7f894a-fff0-4c7d-8ea6-a394a1a4b951/datastream/OBJ/view"
+                            id="image_iq2_svq_5r" align="center"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on the events in the map. The user can then view the title and metadata
+                    of that event in the text box between the timeline and map. When you click on an
+                    event in the map a small white bubble appears (this differentiates the event you
+                    have selected from the events around it).</cmd>
+                <info>
+                    <p>The colour of the flags reflects different event types. Where there are
+                        multiple events of the same type and occurring in the same location, they
+                        are grouped together. <ul id="ul_sgb_g5p_5r">
+                            <li>
+                                <p dir="ltr">Dark Blue: bibliographical</p>
+                            </li>
+                            <li>
+                                <p dir="ltr">Green: biographical</p>
+                            </li>
+                            <li>
+                                <p dir="ltr">Yellow: literary</p>
+                            </li>
+                            <li>
+                                <p dir="ltr">Black: political</p>
+                            </li>
+                            <li>
+                                <p dir="ltr">Light Blue: social</p>
+                            </li>
+                            <li>
+                                <p dir="ltr">White: mixed<image placement="break"
+                                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8656c6c3-7b4f-4798-a9b3-6a2b32a5434a/datastream/OBJ/view"
+                                        id="image_ojm_1wq_5r" align="center"/></p>
+                            </li>
+                        </ul></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>  
+        <link href="Introduction%20to%20PlotIt.dita"/>
+        <link href="Working%20with%20the%20timeline.dita#task_rxm_3qp_5r"/>
+        <link href="View%20events.dita"/>
+        <link href="View%20events%20not%20in%20the%20map.dita"/>
+        <link href="ChangeViewMode.dita"/>
+        <link href="Search%20Plot-It.dita"/>
+        <link href="Filter%20Date%20by%20event%20range.dita"/>
+        <link href="Filter%20by%20%22Event%20type%22.dita"/>
+        <link href="FilterByCountry.dita"/>
+        <link href="Reset%20Filters.dita"/>
+        <link href="Panel.dita"/>
+    </related-links>
+</task>

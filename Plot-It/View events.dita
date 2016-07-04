@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_k2g_b5r_5r">
+    <title>View events</title>
+    <shortdesc>To learn more information about the events, click on an icon in the timeline or map.
+        The metadata/description for that event will appear in the text box located in the middle of Plot-It, and users are able to scroll through the
+        information. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Scroll through the timeline or map until you have found an event that you would
+                    like to know more about. </cmd>
+            </step>
+            <step>
+                <cmd>Click on that event to bring up the information about that event. </cmd>
+                <info>
+                    <p>When you click on one of these event points in the map, the timeline will
+                        move until that event is visible. The informational will then appear
+                        in the text box between the timeline and map. When you click on an event in the
+                        timeline, the map will move to the location of that event. <image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A33c6ad78-3051-4306-9f07-dcfc672976ca/datastream/OBJ/view"
+                            id="image_rqr_jwr_5r" align="center" scale="85"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Scroll through the event metadata to learn more about that event. Each event
+                    contains metadata that informs the user about the event. This metadata includes
+                    a label, date, location, country, description, event type and source information. </cmd>
+
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>        
+        <link href="Introduction%20to%20PlotIt.dita"/>
+        <link href="Working%20with%20the%20timeline.dita"/>
+        <link href="Working%20with%20the%20map.dita"/> 
+        <link href="View%20events%20not%20in%20the%20map.dita"/>
+        <link href="ChangeViewMode.dita"/>
+        <link href="Search%20Plot-It.dita"/>
+        <link href="Filter%20Date%20by%20event%20range.dita"/>
+        <link href="Filter%20by%20%22Event%20type%22.dita"/>
+        <link href="FilterByCountry.dita"/>
+        <link href="Reset%20Filters.dita"/>
+        <link href="HideTimeline.dita"/>
+        <link href="HidePanel.dita"/>
+        <link href="Timeline.dita"/>
+        <link href="Panel.dita"/>
+        <link href="Events.dita"/>
+    </related-links>
+</task>
