@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_r1q_wjd_gx">
+    <title>Making Changes to Project Homepages</title>
+    <shortdesc>Project homepages display the project's description and can include a link to the entire collection, featured items from the collection, external links to the project's website and/or social media page, list of sponsors, director(s) names, as well as an About Me page that lists the project's contact information.</shortdesc>
+    <taskbody>
+        <context>
+            <note>Projects are created by CWRC administrators, who assign associated members of CWRC the role of Project Editor to enable them to edit their project pages. Projects must be approved by the CWRC Research Board. If you wish to propose a project please fill out the <xref href="https://docs.google.com/forms/d/1nhlWbD1nosQucxmyCu8gNM6izZkgSZiBncb3CLRT0Zk/viewform" format="html">application form</xref>.</note>
+            <p></p>
+        </context>
+        <steps id="steps_bpt_4rd_gx">
+            <step>
+                <cmd>To change the homepage, begin by clicking Project Dashboard.</cmd>
+            </step>
+            <step>
+                <cmd>From the sidebar on the right, you can see the various editing features listed under Utilities.</cmd>
+            </step>
+            <step>
+                <cmd>For making changes to your homepage, the three options – “Add Page to Project”, “Edit Project Menu”, and “Edit Project Settings” – are the utilities that will be further discussed in detail.</cmd>
+                <info>
+                    <p><b id="docs-internal-guid-ed793f41-14b0-8a5e-0696-a4f9d69f7988">Both the “project dashboard’ and ‘edit’ button (under the project title) allow you to customize your homepage. </b></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Edit Project Settings by selecting "edit".</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
