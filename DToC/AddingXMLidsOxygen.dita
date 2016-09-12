@@ -31,14 +31,7 @@
                     the 'div' option. Click ‘OK’.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac037275e-0176-4155-9110-b30b80306f98/datastream/OBJ/view"
                         id="image_emm_2hq_ht" align="center"/></cmd>
-                <info>This tutorial focuses on the 'p' tags, however you can add XML ids to many
-                    other tags (e.g. note, list, etc). For example, if you would like to be more
-                    specific in where the index terms are located you can go through the optional
-                    step of adding keyword tags to specific index terms within paragraphs. Then add
-                    the 'keyword' tag to the list in the “ID Options.” <note importance="high">
-                        <p>If you would like to cross reference your index terms then you need to
-                            add XML ids to the ‘item’ tag. </p>
-                    </note></info>
+                <info>This tutorial focuses on the 'p' tags, however you can add XML ids to many other tags (e.g. note, list, etc). For example, if you would like to be more specific in where the index terms are located you can go through the optional step of adding keyword tags to specific index terms within paragraphs. Then add the 'keyword' tag to the list in the “ID Options.” <note importance="high">If you would like to cross reference your index terms then you need to add XML ids to the ‘item’ tag. </note></info>
             </step>
             <step>
                 <cmd>Select the entire content in the author page and click on ‘Generate IDs,’

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Project Homepages</title>
+ <topicref href="Create_ProjectHomepages.dita" audience="Project Editor"></topicref>
+</map>
