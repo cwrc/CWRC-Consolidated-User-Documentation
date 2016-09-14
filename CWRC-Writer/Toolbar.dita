@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_avh_ldj_np">
+  <title>CWRC-Writer Toolbar</title>
+  <shortdesc>At the top of the editor there is a toolbar that allows you to add, edit, and delete
+    tags and entities. </shortdesc>
+  <refbody>
+    <section>
+      <title>Toolbar icons</title>
+      <p>
+        <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab2c9e290-500e-4b10-8f13-43dd036b9c73/datastream/OBJ/view"
+          id="image_khl_12j_np" align="center"/>
+        <ul id="ul_nfq_c2j_np">
+          <li><b>Tag Menu</b> is where you go to find and apply the structural tags.</li>
+          <li><b>Tag Person</b> is for tagging people by name. It usually contains a proper noun or
+            noun phrase, but can also contain pronouns or other ways of referring to someone. </li>
+          <li><b>Tag Place</b> is for tagging a place. It can describe both a geographical location or
+            setting.</li>
+          <li><b>Tag Date</b> is for tagging a date in the text. This tag can contain the year, month, day
+            or a combination of the three.</li>
+          <li><b>Tag Event</b> is used to tag an event in the text, events are significant moments of
+            interest (currently, not working).</li>
+          <li><b>Tag Organization</b> is used to tag and organization or company.</li>
+          <li><b>Tag Citation</b> is for tagging citations in the text, which may contain a loosely
+            structured bibliographic citation of which the subcomponents may or may not be
+            explicitly tagged. When using this option a mini-editor pops up.</li>
+          <li><b>Tag Note</b> is used to tag a note or annotation. When using this option a mini-editor
+            pops up.</li>
+          <li><b>Tag Text/Title</b> is for tagging a title or the text of any type of work.</li>
+          <li><b>Tag Correction</b> is used to tag any correction you have made to the original text.</li>
+          <li><b>Tag Keyword</b> is for tagging any important keywords in your document.</li>
+          <li><b>Tag Link</b> is for tagging any links or URLs found in the document.</li>
+          <li><b>Edit Tag</b> is used to edit a tag that you have created in CWRC-Writer, by changing the
+            information assigned to the tag.</li>
+          <li><b>Remove Tag</b> is for removing any unwanted tags.</li>
+          <li><b>Add Relation</b> is for creating relationships between tags. You can create
+            relationships between the tags for Person, Place, Date, Event, Organization, Citation,
+            Note, and Title. When users create a relationship they will be asked to specify how the
+            two tags are related, for example are two different "Person tags" family, or
+            collaborators.</li>
+          <li><b>View Source</b> is for users who wish to view the raw XML or RDF code.</li>
+          <li><b>Edit Source</b> is for users who wish to edit the raw XML or RDF code. We do not suggest
+            that you use this option unless you are an expert.</li>
+          <li><b>W3C Validate</b> is a useful tool that allows users to validate their XML tags by the
+            standards of the World Wide Web Consortium (W3C).</li>
+          <li><b>Save</b> is for saving any changes you have made to your already saved documents.</li>
+          <li><b>Load allows</b> you to load a saved document or choose to load a new template without
+            going back to the main menu.</li>
+        </ul>
+      </p>
+    </section>
+  </refbody>
+</reference>

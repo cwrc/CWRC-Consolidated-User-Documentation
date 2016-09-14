@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_e5k_lbc_4v">
+    <title>Creating a document</title>
+    <shortdesc>To create CWRC-Writer compatible documents you can either upload well formed XML
+        files or create a document from existing templates. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>In your project folder (for more information click here ) click on the “Manage”
+                    tab. </cmd>
+            </step>
+            <step>
+                <cmd>Click on “Add an object to this collection”</cmd>
+            </step>
+            <step>
+                <cmd>This brings you to a form that lets you add information about the document you
+                    are either uploading or creating.</cmd>
+            </step>
+            <step>
+                <cmd>Click on next button at the bottom of the form. </cmd>
+            </step>
+            <step>
+                <cmd>This is where you choose to either upload a file or begin from a template.
+                    Choose your option. </cmd>
+            </step>
+            <step importance="optional">
+                <cmd>If you have selected to upload from file, click on “Browse.”</cmd>
+                <substeps id="substeps_z4p_1cc_4v">
+                    <substep>
+                        <cmd>Once you have found your document click on “Open.”</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select “Upload.”<image placement="break"
+                                href="http://beta.cwrc.ca/islandora/object/cwrc%3A3ad207c0-8b1c-45d3-9e7e-8a986bb19b9a/datastream/OBJ/view"
+                                id="image_ehw_2cc_4v" align="center"/></cmd>
+                        <info>Any documents that you are uploading must be well formed XML and end
+                            in .xml. If the document is not a “well formed XML” document or does not
+                            have the .xml file name extension then you cannot upload it. </info>
+                    </substep>
+                    <substep>
+                        <cmd>Select your document schema from the dropdown menu.<image
+                                placement="break"
+                                href="http://beta.cwrc.ca/islandora/object/cwrc%3A04d5e25a-69aa-457d-9351-6ad214f8a02d/datastream/OBJ/view"
+                                id="image_rby_ncc_4v" align="center"/></cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click on “Ingest” and begin to work with your document.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step importance="optional">
+                <cmd>If you have selected to open a template, click on the template option. </cmd>
+                <substeps id="substeps_yf2_scc_4v">
+                    <substep>
+                        <cmd>Choose the type of template you would like to work with. <image
+                                placement="break"
+                                href="http://beta.cwrc.ca/islandora/object/cwrc%3A69d3bfb4-d1d2-490e-9ae9-bbd60f17b829/datastream/OBJ/view"
+                                id="image_nqq_wcc_4v" align="center"/></cmd>
+                        <info>The templates are already associated with schemas so you do not have
+                            to select one. </info>
+                    </substep>
+                    <substep>
+                        <cmd>Click on “Ingest” and begin to work with your document.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
