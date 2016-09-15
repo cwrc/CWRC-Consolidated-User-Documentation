@@ -15,34 +15,36 @@
         below, especially if you intend to work a lot with tags and entities.</p>
       <p>The lower half of the Settings pop-up allows users to select the editor mode and the schema
         associated with the current document (see more below).<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A0b3df7bf-2d7f-4b27-b4a7-8f94aca60e48/datastream/OBJ/view"
-          id="image_xfw_bkf_np" align="center"/></p>
-      <p>Currently, when you select "Add Schema" a pop-up appears. This allows you to add your
-        "Schema Name," "Schema URL," and "Schema CSS URL." Once you have filled in those fields,
-        click on "Add Schema." Now your schema is set in the drop-down menu. This last feature is
-        not fully developed, as the only schema currently supported is the CWRC Basic TEI schema.
-          <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A150651b3-f62d-421c-938f-22a55411f6ff/datastream/OBJ/view"
-          id="image_kyv_mkf_np" align="center"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Acc391e56-fc77-42a7-92b4-a0843e55691c/datastream/OBJ/view"
+          id="image_cmr_xlp_hx" align="center" scalefit="yes"/></p>
+      <p>Currently, when you select <b>Add Schema</b> a pop-up appears. This allows you to add your
+          <b>Schema Name</b> and <b>Schema URL</b>. Once you have filled in those fields, click on
+          <b>Add Schema</b>. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A42cc8942-beaa-48f8-9329-f4807b0147f4/datastream/OBJ/view"
+          id="image_z4b_wnp_hx" align="center" scalefit="yes"/></p>
+      <p>Now your schema is set in the drop-down menu. <note type="attention">Use this feature
+          carefully! When you upload your XML document into CWR you must select your document
+          schema. Any changes to your schema may impact your document. </note><image
+          placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A6791fd2c-ee2a-4f9c-aa2b-00f9f4ec6954/datastream/OBJ/view"
+          id="image_jtz_rmp_hx" align="center" scalefit="yes"/></p>
     </section>
     <section>
       <title>Settings menu - changing the editor mode</title>
       <p>You can change the editor mode in your document at any time (NOTE: If you have overlapping
-        entities and are attempting to switch to a mode which prohibits them. The overlapping
-        entities will be discarded if you switch modes). This changes the flexibility of tags and
-        entities within your document. </p>
+        entities and are attempting to switch to a mode which prohibits them, your document will not
+        be valid). This changes the flexibility of tags and entities within your document. </p>
       <p>XML or eXtensible Markup Language is a markup language that allows both humans and
-        computers to read the tag you assign the words. RDF or Resource Description Framework is
-        part of the World Wide Web Consortium (W3C) that allows human to tag words in phrases in a
-        markup language. </p>
+        computers to read the tags. RDF or Resource Description Framework is part of the World Wide
+        Web Consortium (W3C) that allows human to tag words in phrases in a markup language. </p>
       <p>The main difference between these two forms or markup languages are that RDF allows the
         user to overlap tags. For example, "Leonardo da Vinci" is both the name of a famous artist
         and a place, so in mark up it would look something like this: &lt;"Name">Leonardo
         da&lt;"Place">Vinci&lt;"/Place">&lt;"/Name">. XML does not allow the user to overlap tags so
         that only the "Name" tag could be used. To change between XML and RDF the user has to go to
         the <cmdname>Settings</cmdname> button in the top right corner.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A2021eabe-1e1d-42fb-b178-d4b4ad850470/datastream/OBJ/view"
-          id="image_udz_mmf_np" align="center"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A5ee1cf8c-5b02-43d1-be7d-5ac757a7638b/datastream/OBJ/view"
+          id="image_d5b_znp_hx" align="center" scalefit="yes"/></p>
       <p>
         <ul id="ul_i4h_gc5_tp">
           <li>
@@ -58,7 +60,13 @@
             will continue to take the form of hierarchical XML. You can add tags and entities to the
             document that overlap within the document. </li>
         </ul>
+        <ul id="ul_gxs_k4p_hx">
+          <li>In the <b>RDF only</b> mode, you can annotate the document (adding tags such as
+            person, place, organization, etc.) with RDF. There will be not XML structure attachted
+            to the document. </li>
+        </ul>
       </p>
     </section>
   </refbody>
+  <related-links/>
 </reference>

@@ -37,7 +37,6 @@ localization["label.shareFrom"]="If you already have an user account for any of 
     localization["ExpandAll"]="Expand All Topics";
     localization["printThisPage"]="Print this page";
     localization["CollapseAll"]="Collapse All Topics";
-    localization["label.confirmOk"]="Completed successful!";
     localization["label.currentPwd"]="Current Password";
     localization["label.Unsaved"]="You have unsaved data";
     localization["label.captcha"]="Enter the captcha code seen below:";

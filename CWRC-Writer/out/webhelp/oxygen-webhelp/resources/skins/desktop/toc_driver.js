@@ -132,7 +132,7 @@ function loadIframe(dynamicURL) {
         debug('#frm.load');
         if (notLocalChrome) {
             debug('#frm.load 1');
-            $('#frm').contents().find('.navfooter').before('<div class="footer_separator" style="border-top: 1px solid #EEE;"><!-- --></div>').hide();
+            $('#frm').contents().find('.navfooter').before('<div style="border-top: 1px solid #EEE;"><!-- --></div>').hide();
             $('#frm').contents().find('.frames').hide();
             
             $('#frm').contents().find('a, area').click(function (ev) {
@@ -225,26 +225,20 @@ function loadIframe(dynamicURL) {
                 $(this).text($(this).text().substr(0, 30) + "...");
             }
         });
-
+        
         var width_pt = $('#productToolbar').outerWidth(true);
         var width_nl = $('#navigationLinks').outerWidth(true);
         var width_bl = width_pt - width_nl;
         var width_bla = $('#breadcrumbLinks a').outerWidth(true);
+        $('#breadcrumbLinks').width(width_bl);
         $('#productToolbar .navheader_parent_path').each(function () {
             if (width_bla > width_bl) {
-                $(this).text($(this).text().replace(/\./gi,'').substr(0, 37) + "...");
-            } else {
-                $(this).text($(this).text().replace(/\./gi,''));
+                $(this).text($(this).text().substr(0, 37) + "...");
             }
         });
-
+        
         highlightSearchTerm(searchedWords);
         resizeContent();
-        
-        // Click on navigation links without text
-	    $('.navparent,.navprev,.navnext').unbind('click').bind('click', function(){
-	        $(this).find('a').trigger('click');
-	    });
     });
 }
 

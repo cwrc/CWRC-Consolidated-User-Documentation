@@ -7,9 +7,6 @@ available in the base directory of this Oxygen Webhelp plugin.
 
 */
 
-html, body, #splitterContainer, #leftPane{
-	height: 100%;
-}
 div, td {
 font-size: 10pt;
 }
@@ -29,10 +26,6 @@ h1.topictitle1 {
 h1.topictitle1 {
     background-color:#eee;
 }
-/*Fix margins from skin builder*/
-#header #productTitle H1 {
-  margin: 0 !important;
-}
 
 /*Left pane TABs*/
 #tocMenu{
@@ -46,11 +39,9 @@ h1.topictitle1 {
 }
 
 #bck_toc{
+    background-color:#D3E1F1;
     padding:2px 0 0 0;
 }
 #bck_toc #searchBlock,#bck_toc #indexBlock, #bck_toc #contentBlock{
     border-top:1px solid #ccc;
-}
-.tool{
-	clear: both;
 }

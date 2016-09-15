@@ -68,36 +68,4 @@ $(document).ready(function () {
             window.parent.tocwin.markSelectItem(window.location.href);
         }
     }
-
-    // Click on navigation links without text 	     
-    $('.navparent,.navprev,.navnext').unbind('click').bind('click', function(){
-        $(this).find('a')[0].click();
-	});
-	
-	// Hide text of navigation links if window width less than 700px
-	var navLinks = $(".navparent a,.navprev a,.navnext a");
-	var wWidth = $(window).width();
-	if (wWidth >= 700) {
-        navLinks.show();
-    } else {
-        navLinks.hide();
-    }
-
-	/**
-     * @description Scroll to anchor. Get anchor from iframe source and scroll to this.
-     *              This is necessary because Chrome doesn't scroll to this
-     */
-    function scrollToAnchor() {
-        var anchor = window.location.hash;
-        var position = $(anchor).position();
-        if(position!==undefined) {
-            $(window).scrollTop(position.top);
-        }
-    }
-
-	/**
-     * Invoke scrollToAnchor after document is completely loaded
-     */
-    setTimeout(scrollToAnchor, 100);
-
 });
