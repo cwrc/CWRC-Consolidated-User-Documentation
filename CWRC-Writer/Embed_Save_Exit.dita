@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qmy_5jk_hx">
+    <title>Save and Exit your document</title>
+    <shortdesc>In CWRC-Writer your documents can be edited by multiple people. The “Save and Exit”
+        icon does as the title suggests and opens up the document for others to edit.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Edit or Annotate your document. </cmd>
+            </step>
+            <step>
+                <cmd>Once you have completed any changes you wish to make to the documen clikc on
+                    the the toolbar option to “Save and Exit.”</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links/>
+</task>

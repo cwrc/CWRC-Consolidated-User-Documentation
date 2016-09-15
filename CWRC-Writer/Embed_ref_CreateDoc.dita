@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_pn1_tlk_hx">
+  <title>Creating documents</title>
+  <shortdesc>You can create CWRC-Writer documents in two ways, either by uploading a file or by
+    using a pre existing template (provided by CWRC). Additionally, these options are customizable
+    to you and your project because you select which schema to use.</shortdesc>
+  <refbody>
+    <refsyn>
+      <synph>
+        <var>object</var>
+        <delim>.</delim>
+        <kwd>property</kwd>
+        <delim> = </delim>
+        <var>trueorfalse</var>
+      </synph>
+    </refsyn>
+    <properties>
+      <property>
+        <proptype>Prop name</proptype>
+        <propvalue>Prop value</propvalue>
+      </property>
+    </properties>
+    <section>
+      <title>General information</title>
+      <p>To upload a document you need to first create a folder in CWRC (please see instruction here
+        ). Then choose to to add a new document in the folder by clicking on the “Manage tab”</p>
+      <p>Users have the option to either upload a document from file or open a template provided by
+        CWRC. When following the steps to create a CWRC-Writer document you have the option to add
+        more information about the document you are creating, though the only required information
+        is the object's title.</p>
+    </section>
+    <section>
+      <title>Upload from file</title>
+      <p>Any documents that you are uploading must be well formed XML and end in .xml. If the
+        document is not a “well formed XML” document or does not have the .xml file name extension
+        then you cannot upload it.</p>
+      <p>You can customize your document by choosing the schema it follows from an drop down
+        menu.</p>
+    </section>
+    <section>
+      <title>From a template</title>
+      <p>Templates are already available from CWRC and Orlando, and are “well formed” XML documents.
+        Templates are stored in the<xref
+          href="http://beta.cwrc.ca/islandora/object/cwrc:documentTemplateCollection" format="html"
+          scope="external"> CWRC Document Template Collection</xref>. Additionally, these templates
+        already have an associated schema attached (making it easier for XML beginners).</p>
+    </section>
+  </refbody>
+  <related-links/>
+</reference>

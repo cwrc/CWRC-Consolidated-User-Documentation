@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ahl_mxj_hx">
+    <title>Annotating your document</title>
+    <shortdesc>CWRC-Writer provides users with the opportunity to annotate documents. This feature
+        is only available to users who are in the same project as the document or if the document is
+        unlocked. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the "Annotate" tab.</cmd>
+                <info importance="high"/>
+                <info>You cannot annotate your document if someone else is editing/annotating it or
+                    if it is locked (unavailable to non project members). You will see error
+                    messages (and you will remain on “View” mode).</info>
+            </step>
+            <step>
+                <cmd>Begin to annotate your document by adding person, place, organization (etc.)
+                    entities to it. </cmd>
+            </step>
+            <step>
+                <cmd>Click on “Save” or “Save and exit” if you are done annotating your document.
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links/>
+</task>

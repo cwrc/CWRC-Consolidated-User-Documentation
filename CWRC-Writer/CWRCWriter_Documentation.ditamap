@@ -19,4 +19,7 @@
  <topichead navtitle="CWRC-Writer concepts">
   <mapref href="CWRC-Writer_Concept.ditamap" format="ditamap"/>
  </topichead>
+ <topichead navtitle="Embedded CWRC-Writer">
+  <topicref href="Embedded%20CWRCWriter.ditamap" format="ditamap"/>
+ </topichead>
 </map>
