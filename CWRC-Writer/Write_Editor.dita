@@ -15,7 +15,7 @@
         <critdates>
             <created date="2014-09-09"/>
             <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112036-0700&quot; /&gt;"?>
-            <revised modified="2014-09-21"/>
+            <revised modified="2016-09-15"/>
         </critdates>
         <metadata product="">
             <audience audience="novice"></audience>
@@ -33,8 +33,8 @@
                 document without entering text, you must then double click on that "p" tag before
                 you can enter text into it. If you single click only and then write, you will delete
                 the tag.<image placement="break"
-                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A066bd305-aea9-41ac-a928-56e832fdadc9/datastream/OBJ/view"
-                    id="image_vyj_gym_jp" align="center" height="4in" width="6in"/></note>
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A3e04a035-5cae-4f40-a7cd-cd9a0a7c80bc/datastream/OBJ/view"
+                    id="image_h32_kl4_hx" scalefit="yes" scale="80" align="center"/></note>
             <!--            <p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Write_Text_Area.dita"/></lines>

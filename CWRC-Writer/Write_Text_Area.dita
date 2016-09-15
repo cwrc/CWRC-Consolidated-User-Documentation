@@ -12,7 +12,7 @@
         </copyright>
         <critdates>
             <created date="2014-08-17"></created>
-            <revised modified="2014-08-19"></revised>
+            <revised modified="2016-09-15"/>
         </critdates>
         <metadata>
             <audience audience="novice"></audience>
@@ -21,7 +21,7 @@
     </prolog>
     <taskbody>
         <context>You can begin typing text by first selecting a tag in the structure panel. This
-            allows you to make sure in exactly what tag you are writing in. <p/></context>
+            allows you to make sure in exactly what tag you are writing in. </context>
         <steps id="steps_a42_lkc_dp">
             <step>
                 <cmd>In the structure panel, double click (so that the tag is bolded and italicized)

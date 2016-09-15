@@ -16,7 +16,7 @@
             <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
             <created date="2014-09-21"/>
             <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
-            <revised modified="2014-09-21"/>
+            <revised modified="2016-09-15"/>
         </critdates>
         <metadata product="">
             <audience audience="novice"></audience>
@@ -26,10 +26,10 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Click on the <cmdname>Settings</cmdname> button on the top right top of the editor<image
-                        placement="break"
+                <cmd>Click on the <cmdname>Settings</cmdname> button on the top right top of the
+                        editor<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad00e8540-afb4-427c-b391-043f7afc59a6/datastream/OBJ/view"
-                        id="image_mpb_zm2_np" align="center"/></cmd>
+                        id="image_mpb_zm2_np" align="center" scalefit="yes"/></cmd>
             </step>
             <step>
                 <cmd>Select your preferred editor mode from the drop-down menu and click on <cmdname>OK</cmdname>.
@@ -39,16 +39,14 @@
                     <choice>XML only</choice>
                     <choice>XML and RDF (no overlap)</choice>
                     <choice>XML and RDF (overlapping entities) </choice>
+                    <choice>RDF only</choice>
                 </choices>
-                <info>The default mode is XML and RDF - no overlap. If you wish to switch between
-                    the three options, go to "Settings" (in the top right corner), choose the option
-                    you would like to work with, click on <cmdname>OK</cmdname> and begin to work
-                    with your document. You can change the editor mode in your document at any time
-                    (NOTE: If you have overlapping entities and are attempting to switch to a mode
-                    which prohibits them. The overlapping entities will be discarded if you switch
-                    modes). <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2021eabe-1e1d-42fb-b178-d4b4ad850470/datastream/OBJ/view"
-                        id="image_lyq_4m2_np" align="center"/>
+                <info>The default mode is XML and RDF - no overlap.  You can change the editor mode
+                    in your document at any time (NOTE: If you have overlapping entities and are
+                    attempting to switch to a mode which prohibits them. The overlapping entities
+                    will be discarded if you switch modes). <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5ee1cf8c-5b02-43d1-be7d-5ac757a7638b/datastream/OBJ/view"
+                        id="image_jl4_dbp_hx" align="center" scalefit="yes"/>
                     <!--                    <p>
                        <lines><b>Related Links:</b></lines>
                        <lines><xref href="Save_Document.dita"></xref></lines>

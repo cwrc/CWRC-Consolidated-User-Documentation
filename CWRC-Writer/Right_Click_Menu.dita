@@ -17,23 +17,31 @@
         <lines><b>Tag Citation</b> is for tagging citations in the text, which may contain a loosely structured bibliographic citation of which the subcomponents may or may not be explicitly tagged. </lines>
         <lines><b>Tag Note</b> is used to tag a note or annotations.</lines>
         <lines><b>Tag Text/Title</b> is for tagging a title or the text of any type of work.</lines>
-        <lines><b>Structure Tags</b> allows you to add XML tags to the highlighted text. You can filter tags using the search field at the top of the list.</lines>
+        <lines><b>Tag Correction</b> is used to tag any errors in the text and add a correction to it. </lines>
+        <lines><b>Tag Keyword</b> is used to tag keywords.</lines>
+        <lines><b>Tag Link</b> is used to tag URLs.</lines>
+        <lines><b>Structural Tags</b> allows you to add XML tags to the highlighted text. You can filter tags using the search field at the top of the list.</lines>
         <lines><b>Change Tag</b> this allows you to change  a tag (for example, turn a "lg" - line group - into a "p" - paragraph).</lines>
         <lines><b>Edit Tag</b> this allows you to edit a tag by modifying the attributes of the tag.</lines>
+        <lines><b>Split Tags</b> is used to split a tag (e.g. seperating a paragraph to form two paragraphs). </lines>
         <lines><b>Remove Tag</b> is for removing a tag.</lines>
+        <lines><b>Copy Tag and Contents</b> allows you to copy the tag and all the content (text) it contains. </lines>
+        <lines><b>Paste Tag</b> lets users paste in a tag (and its content if copied).</lines>
+        <lines><b>Convert to entity</b> appears only when you select a tag that is also a RDF annotation (like note, person, place, etc.). It will change the tag from the XML to RDF.</lines>
         <lines><b>Copy Entity</b> allows you to copy an entity, this option is only available when you highlight a pre tagged entity.</lines>
+        <lines><b>Paste Entity</b> allows you to paste in a copied entity (to move or duplicate a note entity for example).</lines>
       </p>
     </section>
-    <section>
-      <title>Right-click menu in the structure column</title>
-      <p>In CWRC-Writer, you can add tags through the structure panel on the left side of the
-        editor. To add tags in the structure panel, select a tag and then right-click. this will
-        bring up a menu with eight options that allow you to either insert a tag, edit an existing
-        tag, or remove tags. <image placement="break"
+    <section><title>Right-click menu in the structure column</title><p>In CWRC-Writer, you can add
+        tags through the structure panel on the left side of the editor. To add tags in the
+        structure panel, select a tag and then right-click. this will bring up a menu with eight
+        options that allow you to either insert a tag, edit an existing tag, or remove tags. <image
+          placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A87902ebb-8efa-41c4-b24b-ffa9c1753533/datastream/OBJ/view"
           id="image_fdg_5yg_rp" align="center"
-        /><lines><b>Insert Tag Before</b> allows you to insert a tag before the tag you have right-clicked on.</lines><lines><b>Insert Tag After</b> allows you to insert a tag after the tag you have right-clicked on (skipping over any nested tags within the tag you have clicked on).</lines><lines><b>Insert Tag Inside</b> this will insert a new tag nested within the initial tag you clicked on.</lines><lines><b>Change Tag</b> this allows you to change a tag (for example, turn a "lg" - line group - into a "p" - paragraph).</lines><lines><b>Edit Tag</b> this allows you to edit a tag by modifying the attributes of the tag.</lines><lines><b>Remove Tag Only</b> allows you to remove a tag, but keep the content (text, nested tags, etc.)</lines><lines><b>Remove Content Only</b> allows you to remove the content of a tag (text, nested tags, etc.), but keep the tag.</lines><lines><b>Remove Tag and All Content</b> allows you to remove everything within a tag and the tag itself.</lines></p>
-    </section>
+        /><lines><b>Convert to entity</b> appears only when you select a tag that is also a RDF annotation (like note, person, place, etc.). It will change the tag from the XML to RDF.</lines><lines><b>Insert Tag Before</b> allows you to insert a tag before the tag you have right-clicked on.</lines><lines><b>Insert Tag After</b> allows you to insert a tag after the tag you have right-clicked on (skipping over any nested tags within the tag you have clicked on).</lines><lines><b>Insert Tag Around</b> allows you to insert a tag that will surround the originally selected tag.</lines></p>.<b>Insert
+        Tag Inside</b> this will insert a new tag nested within the initial tag you clicked
+      on.<lines><b>Change Tag</b> this allows you to change a tag (for example, turn a "lg" - line group - into a "p" - paragraph).</lines><lines><b>Edit Tag</b> this allows you to edit a tag by modifying the attributes of the tag.</lines><lines><b>Copy Tag and Contents</b> allows you to copy the tag and all the content (text) it contains. </lines><lines><b>Remove Tag Only</b> allows you to remove a tag, but keep the content (text, nested tags, etc.)</lines><lines><b>Remove Content Only</b> allows you to remove the content of a tag (text, nested tags, etc.), but keep the tag.</lines><lines><b>Remove Tag and All Content</b> allows you to remove everything within a tag and the tag itself.</lines></section>
     <section>
       <title>Right-click menu in the entities column</title>
       <p>You can edit entities by right-clicking on an entity in the entities panel on the left side

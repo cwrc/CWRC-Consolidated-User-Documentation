@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_qmy_5jk_hx">
-    <title>Save and Exit your document</title>
+    <title>Saving your document</title>
     <shortdesc>In CWRC-Writer your documents can be edited by multiple people. The “Save and Exit”
         icon does as the title suggests and opens up the document for others to edit.</shortdesc>
     <taskbody>
@@ -10,8 +10,24 @@
                 <cmd>Edit or Annotate your document. </cmd>
             </step>
             <step>
-                <cmd>Once you have completed any changes you wish to make to the documen clikc on
-                    the the toolbar option to “Save and Exit.”</cmd>
+                <cmd>Once you have completed any changes you wish to make to the document click on
+                    the toolbar option to <b>Save</b>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acc063f9b-deec-43e4-88d0-02948f838c50/datastream/OBJ/view"
+                        id="image_xt1_st4_hx" align="center" scalefit="yes"/></cmd>
+            </step>
+            <step>
+                <cmd>Once you clicked on <cmdname>Save</cmdname>, the document validates and is
+                    successfully saved.</cmd>
+                <info>If the document is not valid, a pop-up will appear and you will be asked if
+                    you would like to save anyway.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A7bfe4a88-3000-4fc0-b8d1-8762fdd991a5/datastream/OBJ/view"
+                        id="image_r11_x54_hx" scalefit="yes" align="center"/></info>
+            </step>
+            <step>
+                <cmd importance="optional">If you would like to leave CWRC-Writer after saving your
+                    document, choose the <b>Save and Exit</b> option.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0bc78cd1-ec75-4dfa-8d9d-92f3ad55332a/datastream/OBJ/view"
+                        id="image_kw5_3v4_hx" align="center" scalefit="yes"/></cmd>
             </step>
         </steps>
     </taskbody>
