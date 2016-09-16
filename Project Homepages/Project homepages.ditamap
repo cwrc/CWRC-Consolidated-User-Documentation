@@ -2,5 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Project Homepages</title>
- <topicref href="Create_ProjectHomepages.dita" audience="Project Editor"></topicref>
+ <topicref href="View_Project%20Homepage.dita" audience="admin member project-contributor project-editor public"></topicref>
+ <topicref href="Create_ProjectHomepages.dita" audience="admin project-editor"></topicref>
+ <topicref href="Make%20Changes%20to%20Project%20Homepages.dita" audience="admin project-contributor project-editor"></topicref>
 </map>
