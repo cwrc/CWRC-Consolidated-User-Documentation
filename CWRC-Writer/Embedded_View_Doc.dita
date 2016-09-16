@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_pnr_mwj_hx">
+    <title>Viewing CWRC-Writer documents</title>
+    <shortdesc>CWRC users can view any uploaded XML documents in CWRC-Writer. If the document is
+        locked by another user, you cannot edit or annotated the document until you get the other
+        users premission. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open a tag or template in CWRC Writer.</cmd>
+                <info>
+                    <p>View is the default loading option when you open CWRC-Writer.</p>
+                </info>
+            </step>
+            <step>
+                <note>While in view mode CWRC-Writer does not allow you to change or add tags to the
+                    document.</note>
+                <cmd>View the document</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links/>
+</task>

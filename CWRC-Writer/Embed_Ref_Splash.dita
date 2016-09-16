@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_owc_hkk_hx">
+  <title>Working with CWRC-Writer in CWRC</title>
+  <shortdesc>CWRC-Writer provides three options for users to work with their documents. Users can
+    view, annotate or edit documents.</shortdesc>
+  <refbody>
+    <refsyn>
+      <synph>
+        <var>object</var>
+        <delim>.</delim>
+        <kwd>property</kwd>
+        <delim> = </delim>
+        <var>trueorfalse</var>
+      </synph>
+    </refsyn>
+    <properties>
+      <property>
+        <proptype>Prop name</proptype>
+        <propvalue>Prop value</propvalue>
+      </property>
+    </properties>
+    <section>
+      <title>General Description</title>
+      <p>CWRC-Writer provides three options for users to work with their documents. Users can view,
+        annotate or edit documents.</p>
+      <p>When working with your document in the Annotation or Edit options other people cannot work
+        with the document. If the document is locked (you don’t have permission to work with) or
+        someone is currently working with the document you will be unable to “Annotate” or “Edit”
+        and receive error messages.</p>
+      <p>If you are finished editing or annotating choose the “Save and Exit” option, this then
+        frees up the document for other team members, so that they may work with it.</p>
+    </section>
+    <section>
+      <title>Viewing a document in CWRC-Writer</title>
+      <p>CWRC-Writer provides a viewing option so that users can look at locked documents (those
+        that are not available to edit or annotate). This is the default view when users open
+        CWRC-Writer.</p>
+      <p>While in view mode CWRC-Writer does not allow you to change or add tags to the
+        document.</p>
+    </section>
+    <section>
+      <title>Annotating a document</title>
+      <p>This option allows users to work with the RDF in the document. You can add RDF annotations
+        (person, place, organization, etc.) using the toolbar.</p>
+      <p>If the document is unavailable to be annotated or someone is currently working with the
+        document you will be unable to “Annotate” your document and you will receive an error
+        message.</p>
+    </section>
+    <section>
+      <title>Editing your document</title>
+      <p>This allows users to edit the content and tags of the document. </p>
+    </section>
+  </refbody>
+  <related-links/>
+</reference>

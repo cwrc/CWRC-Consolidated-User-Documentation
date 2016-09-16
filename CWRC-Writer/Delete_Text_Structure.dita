@@ -12,7 +12,7 @@
         </copyright>
         <critdates>
             <created date="2014-09-09"/>
-            <revised modified="2014-09-21"/>
+            <revised modified="2016-09-15"/>
         </critdates>
         <metadata product="">
             <audience audience="novice"></audience>
@@ -20,16 +20,21 @@
         </metadata>
     </prolog>
     <taskbody>
-        <context/>
         <steps>
             <step>
-                <cmd>Click on the tag that contains the text you would like to delete.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Acd811f45-3411-4b10-aec4-1741cf1c786a/datastream/OBJ/view" id="image_ss3_cv5_mp" align="center" height="4in" width="6in"></image></cmd>
+                <cmd>Click on the tag that contains the text you would like to delete.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acd811f45-3411-4b10-aec4-1741cf1c786a/datastream/OBJ/view"
+                        id="image_ss3_cv5_mp" align="center" scale="80" scalefit="yes"/></cmd>
             </step>
             <step>
                 <cmd>Right-click on the selected tag and choose <cmdname>Remove Content Only</cmdname></cmd>
             </step>
         </steps>
-        <result>This will remove the content from this tag, but it will leave the tag in the document. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A637bc5d3-d8d4-4088-af51-5d5d0f7d54b2/datastream/OBJ/view" id="image_lzk_gv5_mp" align="center" height="4in" width="6in"></image>
+        <result>This will remove the content from this tag, but it will leave the tag in the
+            document. <image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A637bc5d3-d8d4-4088-af51-5d5d0f7d54b2/datastream/OBJ/view"
+                id="image_lzk_gv5_mp" align="center" scale="80" scalefit="yes"/>
             <!--            <p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Write_Editor.dita"></xref></lines>
@@ -40,7 +45,12 @@
                 <lines><b>Reference Materials:</b></lines>
                 <lines><xref href="Right_Click_Menu.dita"></xref></lines>
                 <lines><xref href="Navigation_Columns.dita"></xref></lines>
-                </p>--> <note type="note">If you would like to delete the tag and the content choose <cmdname>Remove tag and all content </cmdname>option from the right-click menu.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A094e87aa-b712-4d10-8c18-e4f36be581a9/datastream/OBJ/view" id="image_np1_fv5_mp" align="center" height="4in" width="6in"></image></note></result>
+                </p>-->
+            <note type="note">If you would like to delete the tag and the content, choose
+                    <cmdname>Remove tag and all content </cmdname>option from the right-click
+                    menu.<image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A094e87aa-b712-4d10-8c18-e4f36be581a9/datastream/OBJ/view"
+                    id="image_np1_fv5_mp" align="center" scale="80" scalefit="yes"/></note></result>
     </taskbody>
     <related-links>
         <link href="Write_Editor.dita#task_mbh_fxm_jp"/>

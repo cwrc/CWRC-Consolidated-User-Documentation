@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mbh_fxm_jp">
+    <title>Writing in the text area of CWRC-Writer with your cursor </title>
+    <shortdesc>There are multiple ways to begin writing text in CWRC-Writer. You can select a tag
+        and then begin to write, or you can place your cursor in the editor and begin to
+        type.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-09"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112036-0700&quot; /&gt;"?>
+            <revised modified="2016-09-15"/>
+        </critdates>
+        <metadata product="">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps-unordered id="steps-unordered_sqw_fsz_kp">
+            <step>
+                <cmd>Select a range of text you would like to replace or place your cursor in the editor where you would like to add text. </cmd>
+            </step>
+        </steps-unordered>
+        <result>You can then begin to write in CWRC Writer<note type="important">If you create a new
+                "p" tag in the prose document, but then decide to work on something else in the
+                document without entering text, you must then double click on that "p" tag before
+                you can enter text into it. If you single click only and then write, you will delete
+                the tag.<image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A3e04a035-5cae-4f40-a7cd-cd9a0a7c80bc/datastream/OBJ/view"
+                    id="image_h32_kl4_hx" scalefit="yes" scale="80" align="center"/></note>
+            <!--            <p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Write_Text_Area.dita"/></lines>
+                <lines><xref href="Delete_Text_Structure.dita"/></lines>
+                <lines><xref href="Save_Document.dita"/></lines>
+                <lines><xref href="Validate_Document.dita"/></lines>
+                <lines><xref href="Copy_Paste_Text.dita"/></lines>
+            </p>-->
+        </result>
+    </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T135343-0700"?>
+    <related-links>
+        <link href="Write_Text_Area.dita#task_fbh_vjc_dp"/>
+        <link href="Delete_Text_Structure.dita#task_mpf_x3l_jp"/>
+        <link href="Save_Document.dita#task_gl2_tc2_lp"/>
+        <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
+        <link href="Copy_Paste_Text.dita#task_mcg_3fd_dp"/>
+    </related-links>
+    <?oxy_insert_end?>
+</task>
+
+

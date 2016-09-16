@@ -5,25 +5,23 @@
   <shortdesc>There are three different tabs on the left hand side of CWRC-Writer.</shortdesc>
   <refbody>
     <section>
-      <title>Markup panel</title>
-      <p>The Markup panel displays the XML structure of the document. From here you can add, delete,
+      <title>Structure panel</title>
+      <p>The structure panel displays the XML markup of the document. From here you can add, delete,
         edit, and copy and paste tags in the document.</p>
-      <p>In the Markup panel, a single click right click (or control click on a Mac) selects both
-        the tag and the contents. Deleting will delete both. A double click  selects the content of
-        the tag only. Deleting deletes the text only and more text can then be typed to replace it. </p>
-      <p>
-        <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A5515c288-d210-452d-8f20-4a53f0f8509e/datastream/OBJ/view"
-          id="image_kly_jcj_np" align="center"/>
-      </p>
+      <p>In the structure panel, deleting a tag will delete both the tag and text content. A double
+        click selects the content of the tag and deleting will delete only the text (more text can
+        then be typed to replace it). </p>
+      <image placement="break"
+        href="http://beta.cwrc.ca/islandora/object/cwrc%3A6c3e996a-fd3b-49d1-9a69-c3f9411d1fac/datastream/OBJ/view"
+        id="image_h5v_kkp_hx" align="center" scalefit="yes"/>
     </section>
     <section>
       <title>Entities panel</title>
       <p>The entities panel lets users see the entities that they have tagged in the document (date,
         organization, title, etc). You may view the items in this tab either sequentially or by
           category.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae8a395b8-f835-430b-888c-87eb49ee5c5e/datastream/OBJ/view"
-          id="image_nzv_tcj_np" align="center"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Abd5296d1-7a76-4063-aa97-c3bd8347b161/datastream/OBJ/view"
+          id="image_pr3_skp_hx" align="center" scalefit="yes"/></p>
     </section>
     <section>
       <title>Relations panel</title>

@@ -947,12 +947,12 @@ input[type=button] {
 	cursor: pointer;
 }
 
-.bt_inactiv, input[disabled='disabled'], input[disabled='disabled']:HOVER {
+.bt_inactiv {
 	background-color: #efefef;
 	border-radius: 5px;
 	box-shadow: 0 1px 4px #aaa;
 	min-width: 60px;
-	color: #aaa;
+	color: #ddd;
 	text-shadow: 0 1px 0 #fff;
 	cursor: pointer;
 	padding: 6px 10px 6px 10px;

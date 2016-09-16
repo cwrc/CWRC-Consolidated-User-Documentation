@@ -10,7 +10,7 @@ available in the base directory of this Oxygen Webhelp plugin.
 @import "print.css";
 
 body {
-  background-color:transparent;
+  background-color:white;
   font-family: arial, helvetica, sans-serif;
   line-height:18px;
   font-size:12px;
@@ -115,10 +115,6 @@ h1.topictitle1 {
   margin:0 0.3em 0 0;
 }
 
-.booklibrary, .booktitlealt {
-    display:none;
-}
-
 div.rate_page{float:left; width:400px; margin:40px 0 0 0;}
 div.rate_response {color:#555; font-size:0.9em;}
 .stars {
@@ -174,8 +170,13 @@ div.footer a{text-decoration:none; color:#444}
     float:none;
 }
 .navfooter{
+  border-top:1px solid #eee;
   margin:3em 0 0 0; 
   padding:0.4em 0 0 0;
+}
+
+ul li {
+  line-height:18px;
 }
 
 div.footer span.oXygenLogo img{  
@@ -228,6 +229,7 @@ h2.title{
 }
 
 #content{
+    margin-left:1em;
     border-left:2px solid gray;
     padding-left:1em;
 }

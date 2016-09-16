@@ -16,9 +16,6 @@ html,body {
     font-size: 10pt;
 }
 
-.tab {
-    display: inline-block;
-}
 .tab span{
     float: left;
     display: inline-block;
@@ -41,25 +38,12 @@ html,body {
 #expnd a{
     display: none;
 }
-#expnd #collapseAllLink, #expnd #expandAllLink{
-    display: inline-block;
-    width:16px;
-    height:16px;
-}
-#collapseAllLink{
-    background-image: url("../img/CollapseAll16.png");
-}
-#expandAllLink{
-    background-image: url("../img/ExpandAll16.png");
-}
 
 /*Left pane TABs*/
 #tocMenu{
     clear: both;
     width: 100%;
     margin: 0 auto;
-    padding-left: 13px;
-    white-space: nowrap;
 }
 #tocMenu div{
     background-color : #eee;
@@ -74,6 +58,7 @@ html,body {
     border-top-left-radius:4px;
     border-top-right-radius:4px;
     border-bottom:0;
+    float: left;
     min-height: 1px;
     text-shadow:0 1px 0 #fff;
 }
@@ -92,7 +77,7 @@ html,body {
 }
 
 #bck_toc #searchBlock,#bck_toc #indexBlock, #bck_toc #contentBlock{
-    background-color:transparent;
+    background-color:white;
     padding-top:10px;
     vertical-align:top;
 }
@@ -114,23 +99,19 @@ html,body {
 #contentBlock,#contentBlock ul{
     padding-left: 10px;
 }
-#contentBlock {
+#contentBlock a, a.link, a.navheader_parent_path{
     text-decoration: none;
     font-size: 10pt;
     color: navy;
     font-family: arial, helvetica, tahoma, sans-serif;
     white-space: nowrap;
 }
-#contentBlock a, #contentBlock a:hover, #contentBlock a:after, #contentBlock a:active, a.link, a.navheader_parent_path{
-    text-decoration: inherit;
-    font-size: inherit;
-    color: inherit;
-    font-family: inherit;
-    white-space: inherit;
+#contentBlock a:hover{
+    background: #F2F7FD;
 }
 #contentBlock a:hover, a.link:hover, a.navheader_parent_path:hover{
     text-decoration: none;
-    color: #FF4D4D !important;
+    color: red;
 }
 .hasSubMenuClosed{
     background: url('../img/book_closed16.png') no-repeat;
@@ -300,14 +281,4 @@ a.foundResult:hover{
     border-top: 1px solid gray;
     padding-top: 1em;
     color: #999;
-}
-#customLogo{
-    display:none;
-    height: 70px;
-    width: 200px;
-    margin-top: 5px;
-    float: left;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
 }

@@ -36,8 +36,6 @@ Warranty: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRES
   4. Do not omit words between angle brackets from the title of the 
      search results.
 
-  5. Normalize search results HREFs and add '#' for no-frames webhelp
-
 */
 
 // Return true if "word1" starts with "word2"  
@@ -181,23 +179,6 @@ function SearchToc(ditaSearch_Form) {
     }
   }
   debug('End SearchToc(..)');
-
-  // START - EXM-29420
-  $('.searchresult li a').each(function () {
-      var old = $(this).attr('href');
-      var newHref = '#' + normalizeLink(old);
-      /* If with frames */
-      if (top != self) {
-          newHref = normalizeLink(old);
-      }
-      if (old == 'javascript:void(0)') {
-          $(this).attr('href', '#!_' + $(this).text());
-      } else {
-          $(this).attr('href', newHref);
-          info('alter link:' + $(this).attr('href') + ' from ' + old);
-      }
-  });
-  //END - EXM-29420
 }
 
 var stemQueryMap = new Array();  // A hashtable which maps stems to query words
@@ -214,6 +195,7 @@ function realSearch(expressionInput) {
    */
   scriptLetterTab = new Scriptfirstchar(); // Array containing the first letter of each word to look for
   var searchFor = "";       // expression in lowercase and without special caracters
+debug('sxs',scriptLetterTab);
   var wordsList = new Array(); // Array with the words to look for
   var finalWordsList = new Array(); // Array with the words to look for after removing spaces
   var linkTab = new Array();
@@ -254,7 +236,6 @@ function realSearch(expressionInput) {
   } else if(useCJKTokenizing){
     finalWordsList = cjkTokenize(wordsList);
     finalArray = finalWordsList;
-   debug('CJKTokenizing, finalWordsList: ' + finalWordsList);
   }
   if(!useCJKTokenizing){
     /**
@@ -294,7 +275,7 @@ function realSearch(expressionInput) {
     finalWordsList = removeDuplicate(finalWordsList);
   }
 
-  debug('finalWordsList  ' + finalWordsList);
+  debug('finalWordsList'+finalWordsList);
 
   if (finalWordsList.length) {
     //search 'and' and 'or' one time
@@ -452,13 +433,13 @@ function tokenize(wordsList){
   var cleanwordsList = new Array(); // Array with the words to look for
   for(var j in wordsList){
     var word = wordsList[j];
-    if(typeof stemmer != "undefined" && doStem){
+    if(typeof stemmer != "undefined" ){
       stemQueryMap[stemmer(word)] = word;
     } else {
       stemQueryMap[word] = word;
     }
   }
-  debug('scriptLetterTab in tokenize: ', scriptLetterTab);
+  debug('ss',scriptLetterTab);
   scriptLetterTab.add('s');
   //stemmedWordsList is the stemmed list of words separated by spaces.
   for (var t in wordsList) {
@@ -470,7 +451,7 @@ function tokenize(wordsList){
     }
   }
 
-  if(typeof stemmer != "undefined" && doStem){
+  if(typeof stemmer != "undefined" ){
     //Do the stemming using Porter's stemming algorithm
     for (var i = 0; i < cleanwordsList.length; i++) {
       var stemWord = stemmer(cleanwordsList[i]);

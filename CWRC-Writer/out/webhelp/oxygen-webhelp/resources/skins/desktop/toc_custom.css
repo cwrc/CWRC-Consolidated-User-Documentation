@@ -18,6 +18,7 @@ html, body {
 #header {                      
   width: 100%;
   float: left;
+  border: 1px solid #E9E3DD;
   margin: 0;
   position:relative; 
 } 
@@ -32,10 +33,10 @@ html, body {
   width: 100%;
   top:0;
   display: block;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: #eee;
   padding: 0 5px 0 5px;
 }
-#productTitle h1{
+#productTitle h1 {
     float: left;
 }
 
@@ -45,7 +46,6 @@ html, body {
   float: right;
   margin: 0.5em 1em 0 0.3em;
   padding: 5px;
-  min-width: 90px;
 }
 .framesLink img{
   padding: 0 3px 0 3px;
@@ -58,27 +58,18 @@ html, body {
  text-decoration:none;
  color:#999999;
 }
-#oldFrames {
-display: block;
-width: 16px;
-height: 16px;
-float: right;
-margin-right: 20px;
-background-image: url('../../../../oxygen-webhelp/resources/img/frames.png');
-}
 
 /* Breadcrumb & navigation links */
 #productToolbar{                           
   width: 100%;
   float: left;
-  background-color: transparent;
+  background-color: #eee;
 }
 #productToolbar #breadcrumbLinks{
-  width:auto;
   clear: both;
   float: left;    
 }
-.navheader_parent_path{
+#productToolbar #breadcrumbLinks a{
   padding: 0 2px 0 2px;
 }
 #productToolbar #navigationLinks{
@@ -88,9 +79,9 @@ background-image: url('../../../../oxygen-webhelp/resources/img/frames.png');
 }
 
 #space{
+  border-top: 1px solid #D3E1F1;
   background: #D3E1F1;
-  border: 0;
-  height: 2px;
+  border-bottom: 1px solid #D3E1F1;
   clear: both;        
 }
 table.tool td{
@@ -101,12 +92,15 @@ table.tool{
   width: 100%;  
   border-spacing: 0;
 }
-table.tool td:first-child{
-    width:1%;
+table.tool tbody td:first-child{
+  width: 25%;
+  min-width: 200px;
 }
+
 /*Left pane TABs*/
 #tocMenu{
   float: left;
+  background-color : #eee;
 }
 
 table.nav{
@@ -123,7 +117,7 @@ table.nav tbody td:last-child{
   margin: 0;
   padding: 0;        
   display: block;   
-  background: transparent;
+  background: #ffffff;
 }
 
 #leftPane {
@@ -132,7 +126,7 @@ table.nav tbody td:last-child{
   height: 100%;
   background: #fff;
   overflow: auto;
-  border:1px solid transparent !important;                
+  border:1px solid #fff;                
 }
 
 /*Contains toolbar and horizontal splitter*/
@@ -191,8 +185,8 @@ div#searchResults a{
 }
 
 #bck_toc{
-  background-color:transparent;
-  padding:0;
+  background-color:#FFF;
+  padding:0 0 0 0;
 }
 #rightPane iframe{
   float: left;

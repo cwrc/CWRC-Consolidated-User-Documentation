@@ -298,12 +298,11 @@ function resizeContent() {
     var width_nl = $('#navigationLinks').outerWidth(true);
     var width_bl = width_pt - width_nl - 20;
     var width_bla = $('#breadcrumbLinks a').outerWidth(true);
+    $('#breadcrumbLinks').width(width_bl);
 
     $('#productToolbar .navheader_parent_path').each(function () {
         if (width_bla > width_bl) {
-            $(this).text($(this).text().replace(/\./gi,'').substr(0, 37) + "...");
-        } else {
-            $(this).text($(this).text().replace(/\./gi,''));
+            $(this).text($(this).text().substr(0, 37) + "...");
         }
     });
 

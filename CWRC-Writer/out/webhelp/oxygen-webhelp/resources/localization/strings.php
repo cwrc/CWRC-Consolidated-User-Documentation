@@ -1,10 +1,7 @@
 <?php
 $translate = array();
 
-$translate["label.tc.userName"]="User";
-    $translate["label.tc.name"]="Name";
-    $translate["label.tc.email"]="E-mail";
-    $translate["label.userProfile"]="User Profile";
+$translate["label.userProfile"]="User Profile";
     $translate["noDataAvailable"]="No data available";
     $translate["label.bt_recover"]="Reset Password";
     $translate["delete"]="Delete";

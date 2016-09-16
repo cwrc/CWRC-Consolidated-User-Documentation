@@ -11,14 +11,15 @@
         example, you can use the documents linked to below, to understand how the three panels on
         the left work, or which right-click menus are available in each section of the editor.<image
           placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Af151a3a0-8e7d-449f-9662-d2148373b45c/datastream/OBJ/view"
-          id="image_vyd_42h_rp" align="center" height="4in" width="6in"/></p>
-      <lines>Links:</lines>
-      <lines><xref href="Settings.dita"/></lines>
-      <lines><xref href="Navigation_Columns.dita"/></lines>
-      <lines><xref href="Toolbar.dita"/></lines>
-      <lines><xref href="CWRC_Entity_System.dita"/></lines>
-      <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A0c5a4052-b0c4-4680-853a-94f2328d9dac/datastream/OBJ/view"
+          id="image_wcc_qqp_hx" align="center" scale="80" scalefit="yes"/></p>
     </section>
   </refbody>
+  <related-links>
+    <link href="Settings.dita"/>
+    <link href="Navigation_Columns.dita"/>
+    <link href="Toolbar.dita"/>
+    <link href="CWRC_Entity_System.dita"/>
+    <link href="Right_Click_Menu.dita"/>
+  </related-links>
 </reference>

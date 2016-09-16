@@ -14,7 +14,7 @@
             <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
             <created date="2014-09-21"/>
             <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
-            <revised modified="2014-09-21"/>
+            <revised modified="2016-09-15"/>
         </critdates>
         <metadata>
             <audience audience="novice"></audience>
@@ -24,7 +24,10 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Click on the <cmdname>Settings</cmdname> button on the top right of the editor window.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0b3df7bf-2d7f-4b27-b4a7-8f94aca60e48/datastream/OBJ/view" id="image_yxz_vn2_np" align="center"></image></cmd>
+                <cmd>Click on the <cmdname>Settings</cmdname> button on the top right of the editor
+                        window.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acc391e56-fc77-42a7-92b4-a0843e55691c/datastream/OBJ/view"
+                        id="image_sdy_bcp_hx" align="center" scalefit="yes"/></cmd>
             </step>
             <step>
                 <cmd>Click on the <cmdname>Show Tags</cmdname> check box button and click on <cmdname>OK</cmdname>. </cmd>
@@ -40,11 +43,12 @@
                 </info>-->
             </step>
         </steps>
-        <result>This will show all the XML tags in the document.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3d08d783-d6d4-405c-8d2e-893937f5b5f0/datastream/OBJ/view" id="image_nhg_yn2_np" align="center" width="6in" height="6in"></image></result>
+        <result>This will show all the XML tags in the document.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A3d08d783-d6d4-405c-8d2e-893937f5b5f0/datastream/OBJ/view"
+                id="image_nhg_yn2_np" align="center" scale="80" scalefit="yes"/></result>
     </taskbody>
     <related-links>
         <link href="Switch_Mode.dita#task_rzm_jl2_np"/>
-        <link href="View_Source.dita#task_l41_j42_np"/>
         <link href="Edit_Source.dita#task_chh_dp2_np"/>
         <link href="Settings.dita#reference_shl_y3f_np"/>
     </related-links>
