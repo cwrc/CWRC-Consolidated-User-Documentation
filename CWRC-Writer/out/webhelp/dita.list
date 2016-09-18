@@ -1,17 +1,17 @@
-#Thu Sep 15 13:38:18 PDT 2016
+#Sun Sep 18 08:53:02 PDT 2016
 copytosourcelist=
-hreftargetslist=Toolbar.dita,Right_Click_Menu.dita,Settings.dita,CWRC_Entity_System.dita,Navigation_Columns.dita,CWRCWriter_Reference_Splash.dita
+hreftargetslist=Embed_Create_Doc.dita,Embed_Annotate.dita,Embed_Ref_Splash.dita,Embedded_View_Doc.dita,Embed_ref_CreateDoc.dita,Embed_Ref_Save.dita,Embed_Save_Exit.dita
 fullditatopicfile=fullditatopic.list
-fullditatopiclist=Toolbar.dita,Right_Click_Menu.dita,Settings.dita,CWRC_Entity_System.dita,Navigation_Columns.dita,CWRCWriter_Reference_Splash.dita
+fullditatopiclist=Embed_Create_Doc.dita,Embed_Annotate.dita,Embed_Ref_Splash.dita,Embedded_View_Doc.dita,Embed_ref_CreateDoc.dita,Embed_Ref_Save.dita,Embed_Save_Exit.dita
 fullditamapandtopicfile=fullditamapandtopic.list
-fullditamapandtopiclist=Toolbar.dita,Right_Click_Menu.dita,Settings.dita,CWRCWriter_Reference.ditamap,CWRC_Entity_System.dita,Navigation_Columns.dita,CWRCWriter_Reference_Splash.dita
+fullditamapandtopiclist=Embed_Create_Doc.dita,Embed_Annotate.dita,Embed_Ref_Splash.dita,Embedded_View_Doc.dita,Embed_ref_CreateDoc.dita,Embed_Ref_Save.dita,Embed_Save_Exit.dita,Embedded CWRCWriter.ditamap
 hrefditatopicfile=hrefditatopic.list
-hrefditatopiclist=Toolbar.dita,Right_Click_Menu.dita,Settings.dita,CWRC_Entity_System.dita,Navigation_Columns.dita,CWRCWriter_Reference_Splash.dita
-user.input.file=CWRCWriter_Reference.ditamap
+hrefditatopiclist=Embed_ref_CreateDoc.dita,Embed_Ref_Save.dita,Embed_Save_Exit.dita
+user.input.file=Embedded CWRCWriter.ditamap
 subtargetsfile=subtargets.list
 fullditamapfile=fullditamap.list
 subtargetslist=
-fullditamaplist=CWRCWriter_Reference.ditamap
+fullditamaplist=Embedded CWRCWriter.ditamap
 copytotarget2sourcemaplist=
 outditafilesfile=outditafiles.list
 outditafileslist=
@@ -26,7 +26,7 @@ imagelist=
 htmlfile=html.list
 htmllist=
 canditopicsfile=canditopics.list
-canditopicslist=Toolbar.dita,Right_Click_Menu.dita,Settings.dita,CWRC_Entity_System.dita,Navigation_Columns.dita,CWRCWriter_Reference_Splash.dita
+canditopicslist=Embed_Create_Doc.dita,Embed_Annotate.dita,Embed_Ref_Splash.dita,Embedded_View_Doc.dita,Embed_ref_CreateDoc.dita,Embed_Ref_Save.dita,Embed_Save_Exit.dita
 keyreffile=keyref.list
 subjectschemefile=subjectscheme.list
 keyreflist=
