@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>CWRC documentation</title>
+ <topichead navtitle="CWRC information">
+  <topicref href="CWRC_information.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="Getting started with CWRC">
+  <topicref href="Getting%20started%20with%20CWRC.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="Project homepages">
+  <topicref href="Project%20homepages.ditamap" format="ditamap"/>
+ </topichead>
+</map>
