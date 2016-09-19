@@ -28,8 +28,8 @@
             <step>
                 <cmd>Highlight the text that you would like to add a citation to and right-click or
                     use the toolbar icon. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ace6d700d-4480-4ac6-b9cb-a63ff817779e/datastream/OBJ/view"
-                        id="image_pxh_bz2_np" align="center" otherprops=""/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A98957c73-7a64-402a-b58e-2e7baf72588e/datastream/OBJ/view"
+                        id="image_zpn_kvs_3x" align="center"/><image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A67cedea5-dffb-4ae7-bae7-f6e762f23416/datastream/OBJ/view"
                         id="image_rz4_k4v_tp" align="center"/></cmd>
             </step>
@@ -60,19 +60,19 @@
                     document. Adding structural tags and entities to the document.<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A4c9052e7-14fd-4fdb-b37a-d323625cc12f/datastream/OBJ/view"
-                        id="image_k1k_x4v_tp" align="center" height="4in" width="6in"/></cmd>
+                        id="image_k1k_x4v_tp" align="center" scale="80"/></cmd>
             </step>
             <step>
                 <cmd>If/When you decide to add entities to your citation, you will see a pop-up
                     exactly like that in CWRC-Writer. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A5eca006f-e9b5-4e58-905e-bdb52790b876/datastream/OBJ/view"
-                        id="image_x2x_xz2_np" align="center" height="4in" width="6in"/></cmd>
+                        id="image_x2x_xz2_np" align="center" scale="80"/></cmd>
             </step>
             <step>
-                <cmd>Once you have finished creating the citation, click <cmdname>Select</cmdname>.<image
-                        placement="break"
+                <cmd>Once you have finished creating the citation, click
+                        <cmdname>Select</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aec2129ec-eee3-4a60-9b83-69e0d9852218/datastream/OBJ/view"
-                        id="image_rsw_zz2_np" align="center" height="4in" width="6in"/></cmd>
+                        id="image_rsw_zz2_np" align="center" scale="80"/></cmd>
             </step>
         </steps>
         <result>You have now created a citation in your document. You can see in the image below
@@ -80,7 +80,7 @@
             CWRC-Writer. <p>
                 <image placement="break"
                     href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac262e0c4-9947-4f7f-8b91-f47cf77e4e95/datastream/OBJ/view"
-                    id="image_imc_c1f_np" align="center" conref="" height="4in" width="6in"/>
+                    id="image_imc_c1f_np" align="center" scale="80"/>
             </p><p>The resulting citation looks like this:<image placement="break"
                     href="http://beta.cwrc.ca/islandora/object/cwrc%3A9b48883b-28a7-458b-826c-f8a5de7096f0/datastream/OBJ/view"
                     id="image_egf_r4v_tp" align="center"/></p>

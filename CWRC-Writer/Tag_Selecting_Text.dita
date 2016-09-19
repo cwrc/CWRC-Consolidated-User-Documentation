@@ -28,17 +28,15 @@
                 <cmd>Select text that you would like to add a structural tag to. <image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A04f5db9d-7c38-4dcf-a026-36dac81d80e3/datastream/OBJ/view"
-                        id="image_ep3_zjn_jp" align="center" height="4in" width="6in"/></cmd>
-                <?oxy_insert_start author="megansellmer" timestamp="20150421T150814-0700"?>
+                        id="image_ep3_zjn_jp" align="center" scale="80" scalefit="yes"/></cmd>
                 <info>To insert a tag, you must first select the tag alone, and not the contents, by
                     right/ctrl/command clicking twice. </info>
-                <?oxy_insert_end?>
             </step>
             <step>
                 <cmd>Choose a tag from the toolbar drop down menu and select it. <image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0587aec-1a73-4146-9783-2aa60ae52366/datastream/OBJ/view"
-                        id="image_hfs_ckn_jp" align="center" height="4in" width="6in"/></cmd>
+                        id="image_hfs_ckn_jp" align="center" scale="80" scalefit="yes"/></cmd>
             </step>
             <step>
                 <cmd>Once you select the tag you would like to add to the structure panel, a pop-up
@@ -52,7 +50,7 @@
                     you can see we have added a new "time" tag in the document structure, by
                     following the above steps. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab088f060-527c-4f90-8092-555708dfdf7c/datastream/OBJ/view"
-                        id="image_tgt_mkn_jp" align="center" height="4in" width="6in"/>
+                        id="image_tgt_mkn_jp" align="center" scale="80" scalefit="yes"/>
                     <!--<p>
                         <lines><b>Related Links</b></lines>
                         <lines><xref href="Tag_Selecting_Text.dita"/></lines>
@@ -79,4 +77,3 @@
 
 
 
-<?oxy_options track_changes="on"?>

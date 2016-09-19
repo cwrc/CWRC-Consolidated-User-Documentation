@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map audience="admin member project-contributor project-editor public"
+ product="CWRC-Writer_integrated CWRC-Writer_standalone">
  <title>CWRC-Writer Concepts</title>
- <topicref href="CWRCWriter_Concept_Splash.dita"/>
- <topicref href="Concept_XML.dita"/>
- <topicref href="Concept_RDF.dita"/>
- <topicref href="Concept_Named_Entity_Annotation.dita"/>
- <topicref href="Concept_Triples.dita"/>
+ <topicref href="CWRCWriter_Concept_Splash.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Concept_XML.dita" audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Concept_RDF.dita" audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Concept_Named_Entity_Annotation.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Concept_Triples.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
 </map>

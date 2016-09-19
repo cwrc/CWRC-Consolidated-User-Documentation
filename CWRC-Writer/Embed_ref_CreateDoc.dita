@@ -36,7 +36,9 @@
         document is not a “well formed XML” document or does not have the .xml file name extension
         then you cannot upload it.</p>
       <p>You can customize your document by choosing the schema it follows from an drop down
-        menu.</p>
+          menu.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A6d365626-c3be-4af6-a742-b80e32c452c4/datastream/OBJ/view"
+          id="image_cnd_5hs_3x" align="center"/></p>
     </section>
     <section>
       <title>From a template</title>
@@ -44,7 +46,10 @@
         Templates are stored in the<xref
           href="http://beta.cwrc.ca/islandora/object/cwrc:documentTemplateCollection" format="html"
           scope="external"> CWRC Document Template Collection</xref>. Additionally, these templates
-        already have an associated schema attached (making it easier for XML beginners).</p>
+        already have an associated schema attached (making it easier for XML beginners).<image
+          placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A3a106c60-21cf-4523-8e57-ecc18d4c26dd/datastream/OBJ/view"
+          id="image_j24_43s_3x" align="center"/></p>
     </section>
   </refbody>
   <related-links/>

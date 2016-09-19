@@ -11,8 +11,8 @@
                 <cmd>Highlight the text that you would like to tag as a <cmdname>Person</cmdname>.
                     Click on the toolbar or right-click options (see images below).<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3adf859a-d833-4a77-9971-f5c25a9b0dbb/datastream/OBJ/view"
-                        id="image_t5p_pyw_mp" align="center"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A37ffa569-3f88-45b7-9a69-7e227b62a6e1/datastream/OBJ/view"
+                        id="image_c5l_wts_3x" align="center"/><image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Afe617d28-e61f-484c-91cf-9788eb21517a/datastream/OBJ/view"
                         id="image_tkx_blv_tp" align="center"/></cmd>
             </step>
@@ -37,9 +37,9 @@
             <step>
                 <cmd>Once you have created a person entry in the CWRC entity repository, you can now
                     add more information about the tag (precision, person type, etc.). Click on
-                    <cmdname>Save</cmdname>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2919b272-4c88-47cf-bf7a-cd0bbf9f5587/datastream/OBJ/view"
-                        id="image_flk_5j2_lp" align="center" height="6in" width="4in"/></cmd>
+                        <cmdname>Save</cmdname>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A654c69ef-32af-41ce-9e3f-6cc69671ae1d/datastream/OBJ/view"
+                        id="image_yfn_b5s_3x" align="center" scale="80"/></cmd>
             </step>
         </steps>
         <result>You have now created a new CWRC entity entry, you can use this creation the next

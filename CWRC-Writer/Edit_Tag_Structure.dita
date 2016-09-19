@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_f4z_t4l_jp">
-    <title>Editing tags in the structure
-        <?oxy_delete author="megansellmer" timestamp="20150421T154729-0700" content="menu"?><?oxy_insert_start author="megansellmer" timestamp="20150421T154729-0700"?>panel<?oxy_insert_end?></title>
+    <title>Editing tags in the structure panel</title>
     <shortdesc>You can edit any of the tags that pre-exist in the template or that you have added to
         the document. This also allows you to add contextual information through
         attributes.</shortdesc>
@@ -26,15 +25,16 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Highlight on the tag that you would like to edit.<image placement="break"
+                <cmd>Highlight the tag (by clicking on it) that you would like to edit.<image
+                        placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab5ab7809-9401-4377-9688-61864334e4fa/datastream/OBJ/view"
                         id="image_cjz_t14_jp" align="center" width="6in" height="4in"/></cmd>
             </step>
             <step>
                 <cmd>Right-click on the tag and select the option <cmdname>Edit Tag</cmdname>.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Abb96adee-7431-4219-9aa3-f0de546b2149/datastream/OBJ/view"
-                        id="image_lpb_jjv_tp" align="center"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af8f47f16-60fb-4737-ac98-02be067e653e/datastream/OBJ/view"
+                        id="image_yxz_grs_3x" align="center"/></cmd>
             </step>
             <step>
                 <cmd>A pop-up will appear that allows you to add additional information to tags. </cmd>
@@ -67,4 +67,3 @@
 
 
 
-<?oxy_options track_changes="on"?>

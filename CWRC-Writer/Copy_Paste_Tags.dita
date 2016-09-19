@@ -29,7 +29,7 @@
                 <cmd>Double click on the tag you wish to paste into in the structure panel until it
                     is bolded and italicized. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A3768978b-2f2d-4ba0-aa07-71e3b03b482c/datastream/OBJ/view"
-                        id="image_emj_13n_jp" align="center" width="6in" height="4in"/></cmd>
+                        id="image_emj_13n_jp" align="center" scale="80"/></cmd>
                 <info>
                     <note>If you use this method, you will delete all content currently in the tag
                         that you are pasting into. </note>
@@ -59,4 +59,3 @@
 </task>
 
 
-<?oxy_options track_changes="on"?>

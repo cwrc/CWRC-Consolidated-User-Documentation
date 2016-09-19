@@ -24,7 +24,7 @@
         <result>This will add a new entity in the document (you may have to delete texts as the new
             entity inserts beside any selected text).<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3Adac816e8-f109-40e9-a241-dfedcb7cc74c/datastream/OBJ/view"
-                id="image_opk_xb2_np" align="center" height="4in" width="6in"/>
+                id="image_opk_xb2_np" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Copy_Paste_Single_Tag.dita"/></lines>

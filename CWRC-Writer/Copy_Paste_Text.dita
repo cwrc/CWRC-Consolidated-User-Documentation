@@ -27,15 +27,14 @@
                 <cmd>Copy the information that you would like to paste into CWRC-Writer. <image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A0b3edc59-9923-443b-a025-461fcb6d80e9/datastream/OBJ/view"
-                        id="image_kqg_3hn_jp" align="center" height="4in" width="6in"/></cmd>
-                <info>You can copy any information from inside or outside of CWRC-Writer.
-                    <?oxy_insert_start author="megansellmer" timestamp="20150325T205039-0700"?>If
-                    you copy text from another XML document
-                    <?oxy_insert_end?><?oxy_insert_start author="megansellmer" timestamp="20150325T205148-0700"?>a<?oxy_insert_end?>ll
+                        id="image_kqg_3hn_jp" align="center" scale="80"/></cmd>
+                <info>You can copy any information from inside or outside of CWRC-Writer. If you
+                    copy text from another XML document
+                    <?oxy_insert_start author="megansellmer" timestamp="20150325T205148-0700"?>a<?oxy_insert_end?>ll
                     existing tags will be stripped out when the text is pasted into CWRC-Writer.
                         <note>CWRC-Writer only allows users to copy and paste using their keyboard
-                        shortcuts (Command C and V for Mac; Control C and V for P.
-                    C.s)</note></info>
+                        shortcuts (Command C and V for Mac; Control C and V for P. C.s) and
+                        right-click menus.</note></info>
             </step>
             <step>
                 <cmd>Activate the field you are pasting into. </cmd>

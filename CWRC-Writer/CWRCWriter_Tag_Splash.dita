@@ -11,16 +11,16 @@
       to XML see <xref href="http://www.w3schools.com/xml/" format="html" scope="external"
         >http://www.w3schools.com/xml/</xref>). The markup or encoding makes the tagged features of
       the document available for search, analysis, and formatting while also ensuring that the text
-      remains in a readily preservable format.</section>
-    <section>Document templates and sample documents contain some basic tags. The exisiting markup
+      remains in a readily preservable format.
+  <p>Document templates and sample documents contain some basic tags. The exisiting markup
       in your active document can be seen in the Markup panel. For more information see <xref
         href="Navigation_Columns.dita"/>. You can add text to or delete it from the pre-existing
       tags, change the tags, and/or you can add new tags. For example, in the poetry template there
-      are "lg" and "l" tags, into which you can type or copy text. <p>
+      are "lg" and "l" tags, into which you can type or copy text.
         <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0587aec-1a73-4146-9783-2aa60ae52366/datastream/OBJ/view"
-          id="image_m4h_1rh_rp" align="center" height="4in" width="6in"/>
-      </p><!--<p>
+          id="image_m4h_1rh_rp" align="center" scale="80" scalefit="yes"/></p>
+      <!--<p>
           <lines><b>Related Links</b></lines>
           <lines><xref href="Tag_Selecting_Text.dita"/></lines>
           <lines><xref href="Tag_Structural.dita"/></lines>

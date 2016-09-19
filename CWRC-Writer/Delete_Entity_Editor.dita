@@ -27,7 +27,7 @@
             <step>
                 <cmd>Highlight the annotated text.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A4e5baa86-5db9-4eed-9194-a68f467772bf/datastream/OBJ/view"
-                        id="image_uvx_hxd_lp" align="center" height="4in" width="6in"/></cmd>
+                        id="image_uvx_hxd_lp" align="center" scale="80"/></cmd>
             </step>
             <step>
                 <cmd>Right-click on the highlighted text and choose the <cmdname>Remove
@@ -39,15 +39,11 @@
             </step>
         </steps>
         <result>
-            <?oxy_attributes type="&lt;change type=&quot;inserted&quot; author=&quot;ilovan&quot; timestamp=&quot;20140928T233150-0600&quot; /&gt;"?>
-            <note type="caution">This will delete both the entity annotation in the left
-                column<?oxy_insert_start author="megansellmer" timestamp="20150319T165145-0700"?>,
-                but will
-                leave<?oxy_insert_end?><?oxy_delete author="megansellmer" timestamp="20150319T165143-0700" content=" and"?>
-                the annotated text in the document.</note>
+            <note type="caution">This will delete both the entity annotation in the left column, but
+                will leave the annotated text in the document.</note>
             <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A1155d498-13a9-47b0-b949-3acf2960db61/datastream/OBJ/view"
-                id="image_gtw_rxd_lp" align="center" height="4in" width="6in"/>
+                id="image_gtw_rxd_lp" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Tag_Entity_Editor.dita"/></lines>
@@ -72,4 +68,3 @@
     <?oxy_insert_end?>
 </task>
 
-<?oxy_options track_changes="on"?>

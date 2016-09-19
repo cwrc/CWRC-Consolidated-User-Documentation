@@ -25,8 +25,8 @@
                 <cmd>Highlight the text that you would like to tag as an "Organization." Click on
                     the toolbar or the right-click options (see images below).<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Adfbfd893-2a61-41a7-b1c5-0f841ed474bc/datastream/OBJ/view"
-                        id="image_qls_syw_mp" align="center"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A79fe6b6e-154f-49e6-8c60-c4a0fa743df7/datastream/OBJ/view"
+                        id="image_ewy_gvs_3x" align="center"/><image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aff90e67b-0bb8-4095-8dd8-442964f625c3/datastream/OBJ/view"
                         id="image_od3_mmv_tp" align="center"/></cmd>
             </step>
@@ -60,7 +60,7 @@
         <result>You have now created a new CWRC entity entry, you can use this creation the next
             time that you go to tag this entry.<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A090cc5d5-e5f0-4ec8-832c-e7e3cbf42ffb/datastream/OBJ/view"
-                id="image_ktr_dmf_lp" align="center" height="4in" width="6in"/>
+                id="image_ktr_dmf_lp" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Create_Person_Entity.dita"/></lines>

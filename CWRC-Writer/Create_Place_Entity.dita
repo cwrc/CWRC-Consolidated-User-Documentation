@@ -26,8 +26,8 @@
                 <cmd>Highlight the text that you would like to tag as a <cmdname>Place</cmdname>.
                     Click on the toolbar or right-click options (see image below).<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae28153a3-d5b1-42ca-ad06-889c98c8ba0d/datastream/OBJ/view"
-                        id="image_arl_lzw_mp" align="center"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3115aa2c-d7a4-4008-81f5-9c37b8b3dcf4/datastream/OBJ/view"
+                        id="image_hz3_45s_3x" align="center"/><image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A2f46a0b5-7be1-4c10-916b-cb0272de845b/datastream/OBJ/view"
                         id="image_ttr_llv_tp" align="center"/></cmd>
             </step>
@@ -47,7 +47,7 @@
                 <info>The only mandatory field is the place name, though there are many other areas
                     that you can fill out.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A88f0c37f-613a-43d6-b04a-10ad51738a76/datastream/OBJ/view"
-                        id="image_frn_2m2_lp" align="center" height="6in" width="4in"/></info>
+                        id="image_frn_2m2_lp" align="center" scale="80"/></info>
             </step>
             <step>
                 <cmd>Once you have created a place entry in the CWRC entity repository, you can now
@@ -60,7 +60,7 @@
         <result>You have now created a new CWRC entity entry, you can use this creation the next
             time that you go to tag this person.<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae0d8baa3-cdff-4ed0-9cec-2e9294e38789/datastream/OBJ/view"
-                id="image_s24_zl2_lp" align="center" height="4in" width="6in"/>
+                id="image_s24_zl2_lp" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Create_Person_Entity.dita"/></lines>

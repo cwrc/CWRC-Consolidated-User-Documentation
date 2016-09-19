@@ -33,8 +33,8 @@
             <step>
                 <cmd>Click on the <cmdname>Edit Tag</cmdname> toolbar option.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A9d059dfc-8508-4d36-86d8-9c7607726aba/datastream/OBJ/view"
-                        id="image_jbt_vzx_rp" align="center"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae6de98ea-f0e4-4ed7-8a28-c6623ca3db0f/datastream/OBJ/view"
+                        id="image_lzl_prs_3x" align="center"/></cmd>
             </step>
             <step>
                 <cmd>A pop-up will appear that allows you to add additional information to
@@ -67,4 +67,3 @@
 
 
 
-<?oxy_options track_changes="on"?>

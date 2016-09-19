@@ -25,8 +25,8 @@
             <step>
                 <cmd>Highlight the text that you would like to tag as a "Date." Click on the toolbar
                     or right-click options (see images below).<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A35c290bb-b1f8-423c-bb4b-4b0a32abc849/datastream/OBJ/view"
-                        id="image_kwq_1zw_mp" align="center"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad4cddf31-5810-4a3d-90d5-9b097f3dd333/datastream/OBJ/view"
+                        id="image_kt4_g5s_3x" align="center"/><image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac4d58c87-c780-445f-ab8b-9592f32df16a/datastream/OBJ/view"
                         id="image_bnx_tlv_tp" align="center"/></cmd>
             </step>
@@ -39,7 +39,7 @@
         </steps>
         <result>You have added a date entity tag to the document.<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A28f4d841-6671-4392-8efc-669ee4c03d6a/datastream/OBJ/view"
-                id="image_uxh_5n2_lp" align="center" height="4in" width="6in"/>
+                id="image_uxh_5n2_lp" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Create_Person_Entity.dita"/></lines>

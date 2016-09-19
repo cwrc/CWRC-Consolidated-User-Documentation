@@ -1,26 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map audience="admin member project-contributor project-editor public"
+ product="CWRC-Writer_integrated CWRC-Writer_standalone">
  <title>Tagging RDF Entities in CWRC-Writer</title>
- <topicref href="CWRCWriter_Entity_Splash.dita"/>
- <topicref href="Tag_Entity_Toolbar.dita"/>
- <topicref href="Tag_Entity_Editor.dita"/>
- <topicref href="Create_Person_Entity.dita"/>
- <topicref href="Create_Place_Entity.dita"/>
- <topicref href="Create_Date_Entity.dita"/>
- <topicref href="Create_Organization_Entity.dita"/>
- <topicref href="Create_Citation_Entity.dita"/>
- <topicref href="Create_Note_Entity.dita"/>
- <topicref href="Create_Title_Entity.dita"/>
- <topicref href="Create_Correction_Entity.dita"/>
- <topicref href="Create_Keyword_Entity.dita"/>
- <topicref href="Create_Link_Entity.dita"/>
- <topicref href="Edit_Entity_Toolbar.dita"/>
- <topicref href="Edit_Entity_Editor.dita"/>
- <topicref href="Edit_Entity_Panel.dita"/>
- <topicref href="Delete_Entity_Toolbar.dita"/>
- <topicref href="Delete_Entity_Editor.dita"/>
- <topicref href="Delete_Entity_Panel.dita"/>
- <topicref href="Add_Relations.dita"/>
- <topicref href="Deleting_Relations.dita"/>
+ <topicref href="CWRCWriter_Entity_Splash.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Tag_Entity_Toolbar.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Tag_Entity_Editor.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Create_Person_Entity.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Create_Place_Entity.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Create_Date_Entity.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Create_Organization_Entity.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Create_Citation_Entity.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Create_Note_Entity.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Create_Title_Entity.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Create_Correction_Entity.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Create_Keyword_Entity.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Create_Link_Entity.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Edit_Entity_Toolbar.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Edit_Entity_Editor.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Edit_Entity_Panel.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Delete_Entity_Toolbar.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Delete_Entity_Editor.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Delete_Entity_Panel.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Add_Relations.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Deleting_Relations.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
 </map>

@@ -30,15 +30,14 @@
                 <stepresult>
                     <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Acbb60d5a-f537-45d3-a245-3e0703ea89e7/datastream/OBJ/view"
-                        id="image_u3b_dwd_lp" align="center" height="4in" width="6in"/>
+                        id="image_u3b_dwd_lp" align="center" scale="80"/>
                 </stepresult>
             </step>
             <step>
-                <cmd>Click on the <cmdname>Remove Tag</cmdname> toolbar
-                        button.<?oxy_attributes align="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141007T201331-0700&quot; /&gt;" placement="&lt;change type=&quot;modified&quot; oldValue=&quot;inline&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141007T201334-0700&quot; /&gt;"?><image
+                <cmd>Click on the <cmdname>Remove Tag</cmdname> toolbar button.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5c839d1e-7f5b-4ef2-b7f9-15e6e64ade92/datastream/OBJ/view"
-                        id="image_y3w_qwj_rp" align="center"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A04cbd846-7333-451e-b0a1-4e2a2b3cba3e/datastream/OBJ/view"
+                        id="image_bvv_vxs_3x" align="center"/></cmd>
             </step>
         </steps>
         <result>
@@ -46,7 +45,7 @@
                 record in left column and the text tagged with it as well.</note>
             <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A8be19021-3d5a-499f-836d-2fe436b1a139/datastream/OBJ/view"
-                id="image_apq_gwd_lp" align="center" height="4in" width="6in"/>
+                id="image_apq_gwd_lp" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Tag_Entity_Editor.dita"/></lines>
@@ -74,4 +73,3 @@
 </task>
 
 
-<?oxy_options track_changes="on"?>

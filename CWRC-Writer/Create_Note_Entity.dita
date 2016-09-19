@@ -31,8 +31,8 @@
             <step>
                 <cmd>Click on the toolbar icon "Tag Note" or right-click on the text and choose
                         <cmdname>Tag Note</cmdname>. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Add38d995-c0cc-49ad-a750-a32eb9eb4558/datastream/OBJ/view"
-                        id="image_zdy_yv2_np" align="center"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3ae1b47a-b857-4e31-92c2-b538c93b5702/datastream/OBJ/view"
+                        id="image_ixn_y5s_3x" align="center"/><image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac2c9d410-afb8-4a05-b0c0-d7969685505a/datastream/OBJ/view"
                         id="image_mwy_b4v_tp" align="center"/></cmd>
             </step>
@@ -49,34 +49,33 @@
                         structure panel in the editor and displays all the tags you added to the
                         note in the mini-editor.<image placement="break"
                             href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab5a17ed9-0790-4e4a-b7f9-dabc68e7caf3/datastream/OBJ/view"
-                            id="image_vbk_24v_tp" align="center" height="4in" width="6in"
-                    /></note></info>
+                            id="image_vbk_24v_tp" align="center" scale="80"/></note></info>
             </step>
             <step>
                 <cmd>Once you have entered the text into the editor, you can begin to tag the
                     document. Adding structural tags and entities to the document. <image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aef3182c6-65df-4f36-af9c-f0ac60739315/datastream/OBJ/view"
-                        id="image_fpm_qw2_np" align="center" height="4in" width="6in"/></cmd>
+                        id="image_fpm_qw2_np" align="center" scale="80"/></cmd>
             </step>
             <step>
                 <cmd>If/When you decide to add entities to your note, a "mini-editor" will
                         popup.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aba443ffc-ad80-4e2c-b1ea-b4176dab9481/datastream/OBJ/view"
-                        id="image_un2_sw2_np" align="center" height="4in" width="6in"/></cmd>
+                        id="image_un2_sw2_np" align="center" scale="80"/></cmd>
             </step>
             <step>
-                <cmd>Once you have finished creating your note, click on <cmdname>Save</cmdname>.<image
-                        placement="break"
+                <cmd>Once you have finished creating your note, click on
+                        <cmdname>Save</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A11fb457e-2f2a-4f33-af5f-4e55fd75d80f/datastream/OBJ/view"
-                        id="image_ir3_nw2_np" align="center" height="4in" width="6in"/></cmd>
+                        id="image_ir3_nw2_np" align="center" scale="80"/></cmd>
             </step>
         </steps>
         <result>You have now created a note in your document. You can see in the image below that
             the note appears in the document, currently the note does not format correctly in the
             CWRC-Writer. <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae86a940d-f516-4721-ab89-25a98bebd395/datastream/OBJ/view"
-                id="image_jbb_kw2_np" align="center" height="4in" width="6in"/>
+                id="image_jbb_kw2_np" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Create_Person_Entity.dita"/></lines>

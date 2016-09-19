@@ -24,9 +24,9 @@
         <steps>
             <step>
                 <cmd>Highlight the text that you would like to tag as a "Link." Click on the toolbar
-                    <cmdname>Link</cmdname> icon.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A1f12630b-cf83-46a2-b677-c006a25a3a22/datastream/OBJ/view"
-                        id="image_zdk_hzw_mp" align="center"/></cmd>
+                        <cmdname>Link</cmdname> icon.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af76610d4-2c55-4c29-b0dc-b6e57c222995/datastream/OBJ/view"
+                        id="image_gvt_2xs_3x" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Write the link in the text bar, and click <cmdname>Save</cmdname>.<image
@@ -38,7 +38,7 @@
         <result>You have added a link to your document. You can access the link in either the
             document and the entities column.<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A495fd428-dbc3-48f9-8115-9aae4ac7fe08/datastream/OBJ/view"
-                id="image_jbz_pwf_lp" align="center" height="4in" width="6in"/>
+                id="image_jbz_pwf_lp" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Create_Person_Entity.dita"/></lines>

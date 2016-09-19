@@ -39,11 +39,10 @@
             </step>
         </steps>
         <result>The edited information will appear in the left "Entities" column. Click on the entry
-            to see the information attached to that particular entity
-                annotation.<?oxy_attributes height="&lt;change type=&quot;modified&quot; oldValue=&quot;3in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T193345-0700&quot; /&gt;" width="&lt;change type=&quot;modified&quot; oldValue=&quot;5in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T193348-0700&quot; /&gt;"?><image
+            to see the information attached to that particular entity annotation.<image
                 placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A575cce29-407a-41ab-bb79-982e34adbd00/datastream/OBJ/view"
-                id="image_bk4_rqd_lp" align="center" height="4in" width="6in"/>
+                id="image_bk4_rqd_lp" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Edit_Entity_Editor.dita"/></lines>
@@ -67,4 +66,3 @@
 </task>
 
 
-<?oxy_options track_changes="on"?>

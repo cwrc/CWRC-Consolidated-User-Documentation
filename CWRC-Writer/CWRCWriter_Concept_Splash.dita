@@ -33,11 +33,8 @@
               <li>works with external services for e.g. entity management and validation</li>
               <li>documentation open-source (github) code allows adoption and modification.<image
                   placement="break"
-                  href="http://beta.cwrc.ca/islandora/object/cwrc%3A84a008e8-69be-4cd0-8d8d-fc8ffd62803f/datastream/OBJ/view"
-                  id="image_k1t_pfc_zp" align="center" height="5in" width="5in"/><image
-                  placement="break"
                   href="http://beta.cwrc.ca/islandora/object/cwrc%3A495fd428-dbc3-48f9-8115-9aae4ac7fe08/datastream/OBJ/view"
-                  id="image_bv1_1gc_zp" align="center" height="4in" width="6in"/></li>
+                  id="image_bv1_1gc_zp" align="center" scale="80"/></li>
             </ul></li>
         </ul>
       </p>

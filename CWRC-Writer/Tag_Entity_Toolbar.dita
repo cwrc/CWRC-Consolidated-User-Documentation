@@ -28,14 +28,14 @@
                 <cmd>Highlight the text that you would like to tag as a particular entity.</cmd>
                 <info>Currently, the events tag is not fully functional.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aec16d767-e70f-4d00-b354-9d75887eab85/datastream/OBJ/view"
-                        id="image_rhf_t4d_lp" align="center" height="4in" width="6in"/></info>
+                        id="image_rhf_t4d_lp" align="center" scale="80" scalefit="yes"/></info>
             </step>
             <step>
                 <cmd>Click on the entity toolbar button that you are adding to the document. In this
                     case we are adding a "Person" tag to the sample letter document.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3adf859a-d833-4a77-9971-f5c25a9b0dbb/datastream/OBJ/view"
-                        id="image_efj_swt_tp" align="center"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A37ffa569-3f88-45b7-9a69-7e227b62a6e1/datastream/OBJ/view"
+                        id="image_plk_vss_3x" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Choose CWRC, VIAF, GeoNames (depending on what entity you are tagging) entry
@@ -49,15 +49,15 @@
                         can also create a new entry in the CWRC system, this will be covered in
                         alternate help pages.<image placement="break"
                             href="http://beta.cwrc.ca/islandora/object/cwrc%3A0110e56b-b891-46ba-a9d2-4a9049c1d15d/datastream/OBJ/view"
-                            id="image_bdr_bwv_tp" align="center"/></note></info>
+                            id="image_bdr_bwv_tp" align="center" scale="80"/></note></info>
             </step>
             <step>
                 <cmd>Add any qualifying information to the entity (Precision, identification, etc.)
                     and click <cmdname>Save</cmdname>.</cmd>
                 <info>The option that show up on this pop-up depends on what entity is being
                         tagged.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3dcee72b-8794-4eaa-9df9-d32fbab6979e/datastream/OBJ/view"
-                        id="image_sz4_zvv_tp" align="center"/></info>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A654c69ef-32af-41ce-9e3f-6cc69671ae1d/datastream/OBJ/view"
+                        id="image_kky_gts_3x" align="center" scale="80"/></info>
             </step>
         </steps>
         <result>The entity that you have added to your document (along with any additional

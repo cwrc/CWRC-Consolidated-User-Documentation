@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map product="CWRC-Writer_integrated">
  <title>Embedded CWRC Writer</title>
- <topicref href="Embedded_View_Doc.dita"/>
- <topicref href="Embed_Annotate.dita"/>
- <topicref href="Embed_Create_Doc.dita"/>
- <topicref href="Embed_Save_Exit.dita"/>
- <topicref href="Embed_Ref_Splash.dita"/>
- <topicref href="Embed_Ref_Save.dita"/>
- <topicref href="Embed_ref_CreateDoc.dita"/>
+ <topicref href="Embedded_View_Doc.dita" audience="admin member public"
+  product="CWRC-Writer_integrated"/>
+ <topicref href="Embed_Annotate.dita"
+  audience="admin member project-contributor project-editor public" product="CWRC-Writer_integrated"/>
+ <topicref href="Embed_Create_Doc.dita"
+  audience="admin member project-contributor project-editor public" product="CWRC-Writer_integrated"/>
+ <topicref href="Embed_Save_Exit.dita" audience="admin member project-contributor public"
+  product="CWRC-Writer_integrated"/>
+ <topicref href="Embed_Ref_Splash.dita" audience="admin member project-contributor public"
+  product="CWRC-Writer_integrated"/>
+ <topicref href="Embed_Ref_Save.dita"
+  audience="admin member project-contributor project-editor public" product="CWRC-Writer_integrated"/>
+ <topicref href="Embed_ref_CreateDoc.dita"
+  audience="admin member project-contributor project-editor public" product="CWRC-Writer_integrated"/>
 </map>

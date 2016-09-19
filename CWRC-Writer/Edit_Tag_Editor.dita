@@ -28,7 +28,7 @@
                 <cmd>Place your cursor within the text in the tag that you would like to
                         delete.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A04cae082-7de0-4840-a045-444c0416e53c/datastream/OBJ/view"
-                        id="image_edm_nln_jp" align="center" height="4in" width="6in"/></cmd>
+                        id="image_edm_nln_jp" align="center" scale="80" scalefit="yes"/></cmd>
             </step>
             <step>
                 <cmd>Right-click on the tag that contains your cursor and select the option
@@ -67,4 +67,3 @@
 
 
 
-<?oxy_options track_changes="on"?>

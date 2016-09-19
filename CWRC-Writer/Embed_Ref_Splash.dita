@@ -37,7 +37,9 @@
         that are not available to edit or annotate). This is the default view when users open
         CWRC-Writer.</p>
       <p>While in view mode CWRC-Writer does not allow you to change or add tags to the
-        document.</p>
+          document.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A7461ecde-5dd7-4d35-a2ae-1f1fb7fb22a8/datastream/OBJ/view"
+          id="image_qxk_kgs_3x" align="center" scale="80"/></p>
     </section>
     <section>
       <title>Annotating a document</title>
@@ -46,10 +48,15 @@
       <p>If the document is unavailable to be annotated or someone is currently working with the
         document you will be unable to “Annotate” your document and you will receive an error
         message.</p>
+      <image placement="break"
+        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac9ed31c0-4f36-4190-9390-296c8a49bfe3/datastream/OBJ/view"
+        id="image_mwg_cgs_3x" align="center" scale="80"/>
     </section>
     <section>
       <title>Editing your document</title>
-      <p>This allows users to edit the content and tags of the document. </p>
+      <p>This allows users to edit the content and tags of the document. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Abfc3d042-be02-40b1-b5b7-3afa70ca3684/datastream/OBJ/view"
+          id="image_nlh_y3s_3x" align="center" scale="80"/></p>
     </section>
   </refbody>
   <related-links/>

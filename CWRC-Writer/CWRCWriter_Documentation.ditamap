@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map audience="admin member project-contributor project-editor public"
+ product="CWRC-Writer_integrated CWRC-Writer_standalone">
  <title>CWRC-Writer Documentation</title>
  <topichead navtitle="Getting started in CWRC-Writer">
   <topicref href="Get_started_in_CWRC-Writer.ditamap" format="ditamap"/>
  </topichead>
  <topichead navtitle="CWRC-Writer features">
   <topicref href="CWRCWriter_Reference.ditamap" format="ditamap"/>
- </topichead><topichead navtitle="Copying and Pasting in CWRC-Writer">
+ </topichead>
+ <topichead navtitle="Copying and Pasting in CWRC-Writer">
   <topicref href="Copy_Paste_CWRCWriter.ditamap" format="ditamap"/>
  </topichead>
  <topichead navtitle="Embedding Semantic Tags with CWRC-Writer">
@@ -18,8 +20,5 @@
  </topichead>
  <topichead navtitle="CWRC-Writer concepts">
   <mapref href="CWRC-Writer_Concept.ditamap" format="ditamap"/>
- </topichead>
- <topichead navtitle="Embedded CWRC-Writer">
-  <topicref href="Embedded%20CWRCWriter.ditamap" format="ditamap"/>
  </topichead>
 </map>

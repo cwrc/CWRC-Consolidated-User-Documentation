@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map audience="admin member project-contributor project-editor public"
+ product="CWRC-Writer_integrated CWRC-Writer_standalone">
  <title>Copying and Pasting in CWRC-Writer</title>
- <topicref href="CWRCWriter_Copy_Splash.dita"/>
- <topicref href="Copy_Paste_Text.dita"/>
- <topicref href="Copy_Paste_Single_Tag.dita"/>
- <topicref href="Copy_Paste_Multiple_Tags.dita"/>
- <topicref href="Copy_Paste_Tags.dita"/>
- <topicref href="View_Copied_Text.dita"/>
- <topicref href="Copy_Paste_Entity.dita"/>
+ <topicref href="CWRCWriter_Copy_Splash.dita" audience="admin member public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Copy_Paste_Text.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Copy_Paste_Single_Tag.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Copy_Paste_Multiple_Tags.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Copy_Paste_Tags.dita"
+  audience="admin member project-contributor project-editor public" product="CWRC-Writer_standalone"/>
+ <topicref href="View_Copied_Text.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="Copy_Paste_Entity.dita"
+  audience="admin member project-contributor project-editor public"
+  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
 </map>

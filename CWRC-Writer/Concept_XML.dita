@@ -12,23 +12,32 @@
     (over the web). It allows you to markup your document with elements and the attribute that
     follows a hierarchy of rules. <image placement="break"
      href="http://beta.cwrc.ca/islandora/object/cwrc%3A3d08d783-d6d4-405c-8d2e-893937f5b5f0/datastream/OBJ/view"
-     id="image_mf2_4cd_zp" align="center" height="5in" width="7in"/></p>
+     id="image_mf2_4cd_zp" align="center" scale="80"/></p>
    <p>The rules can be set by both the structure of the document (depending on if it is a poem,
     prose, etc.) and the schema used in the document. You can create your own schemas for your
     document, allowing you to define your own rules and attributes of this markup. CWRC-Writer
     allows you to upload your own schema to work with. <image placement="break"
      href="http://beta.cwrc.ca/islandora/object/cwrc%3A150651b3-f62d-421c-938f-22a55411f6ff/datastream/OBJ/view"
      id="image_bbn_rcd_zp" align="center"/></p>
-   <p>As noted above, XML consists of <xref href="http://www.w3schools.com/xml/xml_elements.asp" format="html" scope="external">elements</xref> and <xref href="http://www.w3schools.com/xml/xml_attributes.asp" format="html" scope="external">attributes</xref>. Elements are the structure tags, they allow users to markup the hierarchy of the document. Attributes ass supplemental information to the elements tagged in a document. For example, if you are tagging a person, you can add qualifying information to the tag, such as if that person is real or fictional and that persons occupation (if any).<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0587aec-1a73-4146-9783-2aa60ae52366/datastream/OBJ/view" id="image_jsg_2dd_zp" align="center" height="5in" width="7in"></image></p>
+   <p>As noted above, XML consists of <xref href="http://www.w3schools.com/xml/xml_elements.asp"
+     format="html" scope="external">elements</xref> and <xref
+     href="http://www.w3schools.com/xml/xml_attributes.asp" format="html" scope="external"
+     >attributes</xref>. Elements are the structure tags, they allow users to markup the hierarchy
+    of the document. Attributes ass supplemental information to the elements tagged in a document.
+    For example, if you are tagging a person, you can add qualifying information to the tag, such as
+    if that person is real or fictional and that persons occupation (if any).<image
+     placement="break"
+     href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0587aec-1a73-4146-9783-2aa60ae52366/datastream/OBJ/view"
+     id="image_jsg_2dd_zp" align="center" scale="80"/></p>
    <p>CWRC-Writer allows users to add the elements using a tag drop down menu in the toolbar. When
-    you add the XML elements to your document, in the preloaded TEI XML tag, you are also presented
-    with a pop-up where you can add attributes specific to that tag. For the major tags in
-    CWRC-Writer (person, place, date, organization, citation, note, title, correction, keyword, and
-    link) they have their own toolbar icons. These toolbar buttons add an XML and the corresponding
-    RDF tag to the document, yet this depend on what method of overlap you are in. Please see the
-    RDF and Overlap concepts for more information. <image placement="break"
-     href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab2c9e290-500e-4b10-8f13-43dd036b9c73/datastream/OBJ/view"
-     id="image_wfh_ldd_zp" align="center"/></p>
+        you add the XML elements to your document, in the preloaded TEI XML tag, you are also
+        presented with a pop-up where you can add attributes specific to that tag. For the major
+        tags in CWRC-Writer (person, place, date, organization, citation, note, title, correction,
+        keyword, and link) they have their own toolbar icons. These toolbar buttons add an XML and
+        the corresponding RDF tag to the document, yet this depend on what method of overlap you are
+        in. Please see the RDF and Overlap concepts for more information. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab1e54b10-44f8-401b-841b-0e0805c93976/datastream/OBJ/view"
+          id="image_w3m_2zs_3x" align="center"/></p>
   </section>
   <section>   
    <title>Related Links:</title>
