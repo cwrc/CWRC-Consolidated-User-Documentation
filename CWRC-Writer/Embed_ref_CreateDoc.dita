@@ -52,5 +52,13 @@
           id="image_j24_43s_3x" align="center"/></p>
     </section>
   </refbody>
-  <related-links/>
+  <related-links>
+    <link href="CWRCWriter_Reference_Splash.dita"/>
+    <link href="Settings.dita"/>
+    <link href="Navigation_Columns.dita"/>
+    <link href="Toolbar.dita"/>
+    <link href="CWRC_Entity_System.dita"/>
+    <link href="Right_Click_Menu.dita"/>
+    <link href="Embed_Ref_Save.dita"/>
+  </related-links>
 </reference>

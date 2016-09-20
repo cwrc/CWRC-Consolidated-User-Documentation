@@ -45,5 +45,13 @@
           format="html" scope="external"/></p>
     </section>
   </refbody>
-  <related-links/>
+  <related-links>
+    <link href="CWRCWriter_Reference_Splash.dita"/>
+    <link href="Settings.dita"/>
+    <link href="Navigation_Columns.dita"/>
+    <link href="Toolbar.dita"/>
+    <link href="Right_Click_Menu.dita"/>
+    <link href="Embed_Ref_Save.dita"/>
+    <link href="CWRCWriter_Entity_Splash.dita"/>
+  </related-links>
 </reference>
