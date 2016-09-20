@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hyc_bdv_3x">
+    <title>Viewing objects</title>
+    <shortdesc>How you view files in CWRC depends on the file itself. XML documents are viewed in
+        the visualization tool CWRC-Writer. Image, audio, video, and document files open within your
+        browser. For more information see <b>Content Models Reference</b>.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open the collection that has the item you would like to view. </cmd>
+            </step>
+            <step>
+                <cmd>Click on the file.</cmd>
+                <info>The images below show two different way you can view files in CWRC. The first
+                    is an XML file shown in CWRC-Writer. The second is a video file displayed within
+                    its CWRC file page.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A7461ecde-5dd7-4d35-a2ae-1f1fb7fb22a8/datastream/OBJ/view"
+                        id="image_enx_5dv_3x" align="center" scale="80"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A40d780f7-0eae-4c5d-a252-84f1ee27e4fd/datastream/OBJ/view"
+                        id="image_mfl_4dv_3x" align="center" scale="80"/></info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links/>
+</task>

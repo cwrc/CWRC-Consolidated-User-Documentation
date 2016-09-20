@@ -2,4 +2,19 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Getting started with CWRC</title>
+ <topicref href="CreatingCWRCaccount.dita"/>
+ <topicref href="RequestProjectMembership.dita"/>
+ <topicref href="CreateSubcollections.dita"/>
+ <topicref href="ChangingCollectionPolicy.dita"/>
+ <topicref href="UploadingFiles.dita"/>
+ <topicref href="SearchingCWRC.dita"/>
+ <topicref href="ReportBug.dita"/>
+ <topicref href="EditUserProfile.dita"/>
+ <topicref href="AddingBookmark.dita"/>
+ <topicref href="AddingBookmarklists.dita"/>
+ <topicref href="SharingBookmarkList.dita"/>
+ <topicref href="AccessingPlotIt.dita"/>
+ <topicref href="ViewingObjects.dita"/>
+ <topicref href="SharingMigratingObjects.dita"/>
+ <topicref href="MessagingProjectMembers.dita"/>
 </map>

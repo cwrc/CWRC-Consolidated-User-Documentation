@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lfd_11v_3x">
+    <title>Sharing your Bookmark lists</title>
+    <shortdesc>CWRC has the option to share or make your bookmark lists private. Bookmark lists are
+        private as the default. The same steps apply if you would like to make a bookmark list
+        private.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>From your dashboard, click on the bookmark list you would like to share.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2af87456-f9e5-407b-b6b9-e3af444c7633/datastream/OBJ/view"
+                        id="image_adp_41v_3x" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Select the user you would like to share your bookmark list with. </cmd>
+                <info>You can choose to share your list with everyone or with individual users. If
+                    you chooses to share with only a few members you must manually select
+                        them.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aaeac27c5-6a6b-40af-a3d4-748f79b33b57/datastream/OBJ/view"
+                        id="image_rd4_51v_3x" align="center" scale="80"/></info>
+            </step>
+            <step>
+                <cmd>Click on <b>Share</b>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links/>
+</task>
