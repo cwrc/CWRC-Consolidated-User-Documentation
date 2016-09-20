@@ -3,4 +3,6 @@
 <map audience="admin member project-contributor project-editor public">
  <title>CWRC information</title>
  <topicref href="AboutCWRC.dita" audience="admin member public"/>
+ <topicref href="CWRCcontentModels.dita"
+  audience="admin member project-contributor project-editor public"/>
 </map>
