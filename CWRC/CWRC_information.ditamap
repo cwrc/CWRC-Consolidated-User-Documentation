@@ -5,4 +5,5 @@
  <topicref href="AboutCWRC.dita" audience="admin member public"/>
  <topicref href="CWRCcontentModels.dita"
   audience="admin member project-contributor project-editor public"/>
+ <topicref href="UserRoles.dita" audience="admin member project-contributor project-editor public"/>
 </map>

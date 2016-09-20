@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_b5g_g5y_3x">
+  <title>User Account</title>
+  <shortdesc>CWRC provides an enriched user experience no matter what type of user account you have.
+    Features include an insite messaging system between project members and a bookmarking tool to
+    collection your favorite materials together.</shortdesc>
+  <refbody>
+    <section>
+      <title>General information</title>
+      <p>Users login to their accounts, by clicking on the <b>Login</b> icon at the top right corner
+        of the CWRC webpage. This is where you access your account features - <b>Dashboard</b>,
+          <b>Research Space</b>, <b>Project Dashboards</b> (for project editors and administrators),
+        your user profile, and logout.</p>
+      <p>CWRC has divided user accounts into sections. The Dashboard is where you access the main
+        features of your account. This is where you access your messages, workflow reports, saved
+        searches, and bookmark lists. For more information see below. </p>
+      <p>You have a research space, this currently takes you to the CWRC collaboratory.</p>
+      <p>Logging out of CWRC takes you back to the CWRC homepage.</p>
+    </section>
+    <section>
+      <title>Dashboard</title>
+      <p>The features of your account dashboard have been previously mentioned, here we will outline
+        everything your CWRC account has to offer.</p>
+      <p><b>Private Messages</b> is where you can check and send messages to other CWRC members who
+        belong to the same project(s) as you. This is where you will see new messages. If you click
+        on the <b>View all messages</b> button located at the bottom of the message section it will
+        take you to your account inbox.</p>
+      <p/>
+    </section>
+  </refbody>
+</reference>
