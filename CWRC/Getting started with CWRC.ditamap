@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map audience="admin member project-contributor project-editor public"
+ product="CWRC-Writer_integrated CWRC-Writer_standalone">
  <title>Getting started with CWRC</title>
- <topicref href="CreatingCWRCaccount.dita"/>
- <topicref href="RequestProjectMembership.dita"/>
- <topicref href="CreateSubcollections.dita"/>
- <topicref href="ChangingCollectionPolicy.dita"/>
- <topicref href="UploadingFiles.dita"/>
- <topicref href="SearchingCWRC.dita"/>
- <topicref href="ReportBug.dita"/>
- <topicref href="EditUserProfile.dita"/>
- <topicref href="AddingBookmark.dita"/>
- <topicref href="AddingBookmarklists.dita"/>
- <topicref href="SharingBookmarkList.dita"/>
- <topicref href="AccessingPlotIt.dita"/>
- <topicref href="ViewingObjects.dita"/>
- <topicref href="SharingMigratingObjects.dita"/>
- <topicref href="MessagingProjectMembers.dita"/>
+ <topicref href="CreatingCWRCaccount.dita" audience="admin public"/>
+ <topicref href="RequestProjectMembership.dita" audience="admin member public"/>
+ <topicref href="CreateSubcollections.dita"
+  audience="admin member project-contributor project-editor public"/>
+ <topicref href="ChangingCollectionPolicy.dita"
+  audience="admin member project-contributor project-editor public"/>
+ <topicref href="UploadingFiles.dita"
+  audience="admin member project-contributor project-editor public"/>
+ <topicref href="SearchingCWRC.dita" audience="admin member public"/>
+ <topicref href="ReportBug.dita" audience="admin member project-contributor project-editor public"/>
+ <topicref href="EditUserProfile.dita"
+  audience="admin member project-contributor project-editor public"/>
+ <topicref href="AddingBookmark.dita" audience="admin member public"/>
+ <topicref href="AddingBookmarklists.dita" audience="admin member public"/>
+ <topicref href="SharingBookmarkList.dita"
+  audience="admin member project-contributor project-editor public"/>
+ <topicref href="AccessingPlotIt.dita"
+  audience="admin member project-contributor project-editor public"/>
+ <topicref href="ViewingObjects.dita" audience="admin member public"/>
+ <topicref href="SharingMigratingObjects.dita"
+  audience="admin member project-contributor project-editor public"/>
+ <topicref href="MessagingProjectMembers.dita"
+  audience="admin member project-contributor project-editor public"/>
 </map>

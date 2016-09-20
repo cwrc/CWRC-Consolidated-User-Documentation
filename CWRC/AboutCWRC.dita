@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_d1v_xkv_3x">
+  <title>About CWRC</title>
+  <shortdesc>CWRC is an online research environment that brings together scholarly materials and
+    digital tools. </shortdesc>
+  <refbody>
+    <properties>
+      <property>
+        <proptype/>
+        <propvalue/>
+      </property>
+    </properties>
+    <section>
+      <title>CWRC Introduction</title>
+      <p>The Canadian Writing Research Collaboratory (CWRC, pronounced “quirk”) / Le Collaboratoire
+        scientifique des écrits du Canada is an online research environment designed to enable
+        unprecedented avenues for studying the words that most move people in and about Canada.</p>
+      <p>The database houses born-digital scholarly materials, digitized texts, and metadata
+        (indices, annotations, cross-references). Content and tools are open access wherever
+        possible and designed for interoperability.</p>
+      <p>The toolkit empowers new collaborative modes of scholarly writing online; editing,
+        annotating, and analyzing materials. CWRC has multiple digital tools, including CWRC-Writer,
+        Dynamic table of context, and PlotIt, which allow users to explore their texts in new
+          ways.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A1f010a8c-f7d6-4026-bdb6-8a7d2c35b5d5/datastream/OBJ/view"
+          id="image_qkq_rlv_3x" align="center" scale="80"/></p>
+    </section>
+    <section>
+      <title>Features of the CWRC Homepage</title>
+      <p>The CWRC homepage (available in both french and english) strives to be a scholarly
+        collaborative learning environment. The CWRC homepage features focus on informing and
+        interesting the user.</p>
+      <p>At the top of the CWRC page is the main navigation bar for users. It features quick links
+        back to the homepage as well as links to the collaboratory collection, news about CWRC, to
+        an about page, and the CWRC terms of use.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A21e054ca-d3cb-4d0c-a4f0-c5c284edeab6/datastream/OBJ/view"
+          id="image_uyk_cmv_3x" align="center" scale="80"/></p>
+      <p>At the other end of the toolbar are links for CWRC members. Users can use these icons (in
+        order) to find the help documentation or report a bug, switch your language preference and
+        to login or join CWRC.</p>
+      <p>Beneath this toolbar is the search bar, and includes access to an advanced search feature.
+        Users can narrow down their search to specific portions of the CWRC site, this provides more
+        specific search results. For more information see _____.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Affc2c9b1-d242-4077-8a13-36c3b7d07127/datastream/OBJ/view"
+          id="image_tm2_2mv_3x" align="center" scale="80"/></p>
+      <p>The CWRC homepage has a feature banner to keep users up to date with CWRC. The banner
+        includes upcoming events, news and CWRC information. Below the feature banner, CWRC has
+        dedicated a section for CWRC and participating projects news and events. For more news or
+        event headlines click on the “View All News” or “View All Events” buttons. <image
+          placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A08998559-ee37-43da-8722-163143074782/datastream/OBJ/view"
+          id="image_mjd_hmv_3x" align="center" scale="80"/></p>
+      <image placement="break"
+        href="http://beta.cwrc.ca/islandora/object/cwrc%3A63b1bf3d-98d0-4353-8567-b72e761931c6/datastream/OBJ/view"
+        id="image_rb4_jmv_3x" align="center" scale="80"/>
+      <image placement="break"
+        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa92205c9-b745-41f4-a388-725fd310ca2f/datastream/OBJ/view"
+        id="image_ixc_mmv_3x" align="center" scale="80"/>
+      <p>For more information about what is happening in the collaboratory, CWRC has a “What We
+        Are...” section. This lets users see what other members and projects are doing within the
+        site, such as born digital works or files that are being added to CWRC, what projects are
+        collecting and what CWRC (or participating projects) are sharing with CWRC members.<image
+          placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A5ae910b9-5f75-4c93-be58-b3938cd4e1dc/datastream/OBJ/view"
+          id="image_o45_rmv_3x" align="center" scale="80"/></p>
+      <p>CWRC would like to recognize all the support and contributions from our partners and
+        sponsors. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A042fea61-7a1d-4ba0-bc9a-3fbebd0f33fa/datastream/OBJ/view"
+          id="image_wmc_vmv_3x" align="center" scale="80"/></p>
+      <p>For more information about CWRC go to <xref href="http://www.cwrc.ca/about/" format="html"
+          scope="external">http://www.cwrc.ca/about/</xref></p>
+    </section>
+    <section>
+      <title>CWRC Collaboratory</title>
+      <p>The CWRC Collaboratory displays project collections. This is where users (members or site
+        visitors) can explore all CWRC projects and published materials. If you are interested in
+        the CWRC collaboratory we suggest you share this page using your social media accounts
+        (Facebook, Twitter and Google+). To do this click on the Share tab located at the top of the
+        project list. Users can additionally view any public workflow made to the collaboratory by
+        clicking on the <b>History</b> tab.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae5f65d5c-339f-46c5-9cf4-0a49c1732dbc/datastream/OBJ/view"
+          id="image_qpy_pnv_3x" align="center" scale="80"/></p>
+      <p>You can change the list order of the collaboratory by selecting a “Sort By” option (either
+        by “Title” or by “Modified”) and clicking Change . “Title” displays project in alphabetical
+        order. The “Modified” option changes the order so that the projects that have been recently
+        updated or changed are first in the list order.</p>
+      <p>Additionally, viewers can changes how the collaboratory projects are presented. The default
+        option is a list view, but viewers can select the “Gallery” icon located above the projects
+        in the right corner. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A6cb45a32-833b-4544-96cb-3758875cb035/datastream/OBJ/view"
+          id="image_ytj_snv_3x" align="center" scale="80"/></p>
+      <p>By clicking on a project you are taken to the collection page. This displays the sub
+        collection folders of the project. Users can explore digital and uploaded files of any
+        participating project. Editing and annotating those materials will depend on if you are a
+        member of a project and/or if the project has released the lock on an object (made public
+        for editing and annotating). <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A74bcf889-6b4e-43a2-9af0-c8129d311725/datastream/OBJ/view"
+          id="image_alj_5nv_3x" align="center" scale="80"/></p>
+      <p>Projects have their own homepage, which they can customize using functionality that is part
+        of the CWRC Drupal interface. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A5908b5b2-e748-4096-a304-42f9084dd7d7/datastream/OBJ/view"
+          id="image_kwb_xnv_3x" align="center" scale="80"/></p>
+    </section>
+    <section><title>Visualization Tools</title><p>CWRC provides visualization tools for users to
+        explore the texts the have created or uploaded into CWRC.
+        </p><p><b>CWRC-Writer</b></p><p>CWRC-Writer is a WYSIWYG XML/RDF editor. Users can use
+        CWRC-Writer to view XML documents (uploaded or born digital within CWRC), annotated with RDF
+        entities and edit the XML/RDF tags. The options available depend on if the creator has
+        “locked” it from public editing. CWRC-Writer is accessed whenever you open an XML
+        document.</p><p>The below screenshot shows the <b>Edit</b> option of CWRC-Writer. <image
+          placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Abfc3d042-be02-40b1-b5b7-3afa70ca3684/datastream/OBJ/view"
+          id="image_az4_lpv_3x" align="center" scale="80"/></p>For more information see <xref
+        href="http://cwrc.ca/Documentation/project-editor/#CWRC-Writer/CWRCWriter_Started_Splash.html"
+        format="html" scope="external"
+        >http://cwrc.ca/Documentation/project-editor/#CWRC-Writer/CWRCWriter_Started_Splash.html</xref><p><b>Dynamic
+          Table of Contexts</b></p><p>The Dynamic Table of Context (DToC) is a reading interface
+        that provides a deeper reading experience. DToC provides means of navigating a text by
+        drawing on the semantic markup contained in a set of XML documents. Texts can be searched by
+        word, tags used in the text browsed, and index terms (where present) explored: the
+        occurrences of these features are represented in the table of contents, on a visualization
+        of the whole collection, and in highlighting within the reading panel. The DToC also allows
+        curation of editions, in which existed tags can be excluded, included, or relabelled, and
+        sections of the text can be selected or excluded, allowing readers to create customized
+        versions of existing editions or anthologies.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Acdf28d4c-1788-429b-bbe1-e7c3a7fa6efa/datastream/OBJ/view"
+          id="image_und_spv_3x" align="center" scale="80"/></p><p>Currently the DToC is accessible
+        in CWRC in our open-access edition of the scholarly essay collection
+        Regenerations/Régénerations: <xref href="http://cwrc.ca/voyant/regenerations" format="html"
+          scope="external">http://cwrc.ca/voyant/regenerations</xref>. We are working to incorporate
+        it more directly into the Collaboratory.</p><p>In the meantime, researchers can prepare
+        texts for the DToC and incorporate them afterwards, as with Regenerations .</p><p>See the
+        documentation of how to prepare your own editions using DToC here:</p>Contact cwrc support
+      if you would like your DToC collection to live within CWRC.<p dir="ltr">For more information
+        see <xref href="http://cwrc.ca/Documentation/project-editor/#DToC/OverviewDToC.html"
+          format="html" scope="external"
+          >http://cwrc.ca/Documentation/project-editor/#DToC/OverviewDToC.html</xref></p><p><b>PlotIt</b></p><p>PlotIt
+        is a visualization tool that plots items according place and date metadata attached to it.
+        When you collect different files within a Bookmark List (for more information see ____) you
+        can use the PlotIt feature to provide context about their creation. However, if the
+        materials do not have the place and date metadata fields filled in they will not appear in
+        the visualization tool.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Af58e2b57-6acb-48fc-85c2-fc58ee2e3f63/datastream/OBJ/view"
+          id="image_ev3_1qv_3x" align="center"/></p><p>For more information see _____.
+          </p><p><b>Huviz</b></p><p>Huviz works within you browser to visualize linked data (RDF).
+        </p><p>Coming Soon!</p><p>For more information see <xref
+          href="http://cwrc.ca/Documentation/project-editor/#huviz/HuViz_Concept.html" format="html"
+          scope="external"
+          >http://cwrc.ca/Documentation/project-editor/#huviz/HuViz_Concept.html</xref></p></section>
+    <section>
+      <title>CWRC Platform</title>
+      <p>CWRC has a complex architecture. You can see a diagram of that architecture here.</p>
+      <p>In the most basic terms, the projects uses the open-source Fedora Commons repository
+        software to store the materials in CWRC collections. Fedora provides a robust environment
+        for digital archives that makes it easier to manage and preserve them.</p>
+      <p>Between Fedora Commons and the user interface is the Islandora layer of tools and services
+        that manage such things as user logins and functionality such as workflow management.</p>
+      <p>Islandora is an open-source software project begun at the University of Prince Edward
+        Islandora, and uses a mixture of Drupal, javascript and PHP.</p>
+      <p>What you interact with in CWRC is a Drupal user interface based on Islandora but
+        significantly rethemed and enhanced to meet the needs to CWRC users. The interface was
+        developed for CWRC by the Digital Echidna team.</p>
+      <p>For more information:</p>
+      <p>Fedora Commons - <xref href="http://fedorarepository.org/about" format="html"
+          scope="external">http://fedorarepository.org/about</xref></p>
+      <p>Islandora - <xref href="http://islandora.ca/about" format="html" scope="external"
+          >http://islandora.ca/about</xref></p>
+      <p>Drupal - <xref href="https://www.drupal.org/about" format="html" scope="external"
+          >https://www.drupal.org/about</xref></p>
+    </section>
+  </refbody>
+  <related-links/>
+</reference>

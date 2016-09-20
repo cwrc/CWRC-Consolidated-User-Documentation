@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map audience="admin member project-contributor project-editor public">
  <title>CWRC information</title>
+ <topicref href="AboutCWRC.dita" audience="admin member public"/>
 </map>

@@ -8,7 +8,8 @@
  <topichead navtitle="Getting started with CWRC">
   <topicref href="Getting%20started%20with%20CWRC.ditamap" format="ditamap"/>
  </topichead>
- <topichead navtitle="Project homepages">
+ <topichead navtitle="Project homepages"
+  audience="admin member project-contributor project-editor public">
   <topicref href="Project%20homepages.ditamap" format="ditamap"/>
  </topichead>
 </map>
