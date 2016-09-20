@@ -68,5 +68,15 @@
             </step>
         </steps>
     </taskbody>
-    <related-links/>
+    <related-links>
+        <link href="AboutCWRC.dita"/>
+        <link href="ChangingCollectionPolicy.dita"/>
+        <link href="UploadingFiles.dita"/>
+        <link href="SearchingCWRC.dita"/>
+        <link href="ViewingObjects.dita"/>
+        <link href="CWRCcontentModels.dita"/>
+        <link href="UserRoles.dita"/>
+        <link href="UserAccount.dita"/>
+        <link href="SearchingBrowsingCWRC.dita"/>
+    </related-links>
 </task>

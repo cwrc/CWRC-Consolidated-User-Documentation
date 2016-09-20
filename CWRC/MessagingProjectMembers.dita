@@ -34,5 +34,12 @@
             </step>
         </steps>
     </taskbody>
-    <related-links/>
+    <related-links>
+        <link href="AboutCWRC.dita"/>
+        <link href="RequestProjectMembership.dita"/>
+        <link href="EditUserProfile.dita"/>
+        <link href="UserRoles.dita"/>
+        <link href="UserAccount.dita"/>
+        <link href="SearchingBrowsingCWRC.dita"/>
+    </related-links>
 </task>
