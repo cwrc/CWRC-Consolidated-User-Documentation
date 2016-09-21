@@ -2,173 +2,87 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_d1v_xkv_3x">
   <title>About CWRC</title>
-  <shortdesc>CWRC is an online research environment that brings together scholarly materials and
-    digital tools. </shortdesc>
+  <shortdesc>CWRC is an online research environment that brings together scholarly materials and digital tools. </shortdesc>
   <refbody>
     <properties>
       <property>
-        <proptype/>
-        <propvalue/>
+        <proptype></proptype>
+        <propvalue></propvalue>
       </property>
     </properties>
     <section>
       <title>CWRC Introduction</title>
-      <p>The Canadian Writing Research Collaboratory (CWRC, pronounced “quirk”) / Le Collaboratoire
-        scientifique des écrits du Canada is an online research environment designed to enable
-        unprecedented avenues for studying the words that most move people in and about Canada.</p>
-      <p>The database houses born-digital scholarly materials, digitized texts, and metadata
-        (indices, annotations, cross-references). Content and tools are open access wherever
-        possible and designed for interoperability.</p>
-      <p>The toolkit empowers new collaborative modes of scholarly writing online; editing,
-        annotating, and analyzing materials. CWRC has multiple digital tools, including CWRC-Writer,
-        Dynamic table of context, and PlotIt, which allow users to explore their texts in new
-          ways.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A1f010a8c-f7d6-4026-bdb6-8a7d2c35b5d5/datastream/OBJ/view"
-          id="image_qkq_rlv_3x" align="center" scale="80"/></p>
+      <p>The Canadian Writing Research Collaboratory (CWRC, pronounced “quirk”) / Le Collaboratoire scientifique des écrits du Canada is an online research environment designed to enable unprecedented avenues for studying the words that most move people in and about Canada.</p>
+      <p>The database houses born-digital scholarly materials, digitized texts, and metadata (indices, annotations, cross-references). Content and tools are open access wherever possible and designed for interoperability.</p>
+      <p>The toolkit empowers new collaborative modes of scholarly writing online; editing, annotating, and analyzing materials. CWRC has multiple digital tools, including CWRC-Writer, Dynamic table of context, and PlotIt, which allow users to explore their texts in new ways.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A1f010a8c-f7d6-4026-bdb6-8a7d2c35b5d5/datastream/OBJ/view" id="image_qkq_rlv_3x" align="center" scale="80"></image></p>
     </section>
     <section>
       <title>Features of the CWRC Homepage</title>
-      <p>The CWRC homepage (available in both french and english) strives to be a scholarly
-        collaborative learning environment. The CWRC homepage features focus on informing and
-        interesting the user.</p>
-      <p>At the top of the CWRC page is the main navigation bar for users. It features quick links
-        back to the homepage as well as links to the collaboratory collection, news about CWRC, to
-        an about page, and the CWRC terms of use.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A21e054ca-d3cb-4d0c-a4f0-c5c284edeab6/datastream/OBJ/view"
-          id="image_uyk_cmv_3x" align="center" scale="80"/></p>
-      <p>At the other end of the toolbar are links for CWRC members. Users can use these icons (in
-        order) to find the help documentation or report a bug, switch your language preference and
-        to login or join CWRC.</p>
-      <p>Beneath this toolbar is the search bar, and includes access to an advanced search feature.
-        Users can narrow down their search to specific portions of the CWRC site, this provides more
-        specific search results. For more information see _____.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Affc2c9b1-d242-4077-8a13-36c3b7d07127/datastream/OBJ/view"
-          id="image_tm2_2mv_3x" align="center" scale="80"/></p>
-      <p>The CWRC homepage has a feature banner to keep users up to date with CWRC. The banner
-        includes upcoming events, news and CWRC information. Below the feature banner, CWRC has
-        dedicated a section for CWRC and participating projects news and events. For more news or
-        event headlines click on the “View All News” or “View All Events” buttons. <image
-          placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A08998559-ee37-43da-8722-163143074782/datastream/OBJ/view"
-          id="image_mjd_hmv_3x" align="center" scale="80"/></p>
-      <image placement="break"
-        href="http://beta.cwrc.ca/islandora/object/cwrc%3A63b1bf3d-98d0-4353-8567-b72e761931c6/datastream/OBJ/view"
-        id="image_rb4_jmv_3x" align="center" scale="80"/>
-      <image placement="break"
-        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa92205c9-b745-41f4-a388-725fd310ca2f/datastream/OBJ/view"
-        id="image_ixc_mmv_3x" align="center" scale="80"/>
-      <p>For more information about what is happening in the collaboratory, CWRC has a “What We
-        Are...” section. This lets users see what other members and projects are doing within the
-        site, such as born digital works or files that are being added to CWRC, what projects are
-        collecting and what CWRC (or participating projects) are sharing with CWRC members.<image
-          placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A5ae910b9-5f75-4c93-be58-b3938cd4e1dc/datastream/OBJ/view"
-          id="image_o45_rmv_3x" align="center" scale="80"/></p>
-      <p>CWRC would like to recognize all the support and contributions from our partners and
-        sponsors. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A042fea61-7a1d-4ba0-bc9a-3fbebd0f33fa/datastream/OBJ/view"
-          id="image_wmc_vmv_3x" align="center" scale="80"/></p>
-      <p>For more information about CWRC go to <xref href="http://www.cwrc.ca/about/" format="html"
-          scope="external">http://www.cwrc.ca/about/</xref></p>
+      <p>The CWRC homepage (available in both french and english) strives to be a scholarly collaborative learning environment. The CWRC homepage features <?oxy_delete author="rawork" timestamp="20160920T143639-0400" content="focus on informing and interesting "?><?oxy_insert_start author="rawork" timestamp="20160920T143639-0400"?>a variety of content for the user to explore,<?oxy_insert_end?><?oxy_delete author="rawork" timestamp="20160920T144218-0400" content="the user"?><?oxy_insert_start author="rawork" timestamp="20160920T143843-0400"?> ranging from upcoming events to news items that concern the CWRC community<?oxy_insert_end?>.</p>
+      <p>At the top of the CWRC page is the main navigation bar for users. It features quick links back to the homepage as well as links to the <?oxy_insert_start author="rawork" timestamp="20160920T150618-0400"?><cmdname>Collaboratory</cmdname><?oxy_insert_end?><?oxy_delete author="rawork" timestamp="20160920T150618-0400" content="collaboratory"?>
+        <?oxy_delete author="rawork" timestamp="20160920T150827-0400" content="collection"?>, <?oxy_insert_start author="rawork" timestamp="20160920T150622-0400"?><cmdname>News</cmdname><?oxy_insert_end?><?oxy_delete author="rawork" timestamp="20160920T150622-0400" content="news about CWRC"?>, <?oxy_delete author="rawork" timestamp="20160920T150832-0400" content="t"?><?oxy_insert_start author="rawork" timestamp="20160920T150531-0400"?><cmdname>About</cmdname><?oxy_insert_end?><?oxy_delete author="rawork" timestamp="20160920T150625-0400" content="o an about page"?>, <?oxy_delete author="rawork" timestamp="20160920T150847-0400" content="and the CWRC "?><?oxy_insert_start author="rawork" timestamp="20160920T150635-0400"?><cmdname>Terms of Use</cmdname><?oxy_insert_end?><?oxy_delete author="rawork" timestamp="20160920T150635-0400" content="terms of use"?>.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A21e054ca-d3cb-4d0c-a4f0-c5c284edeab6/datastream/OBJ/view" id="image_uyk_cmv_3x" align="center" scale="80"></image></p>
+      <p>At the other end of the toolbar are links for CWRC members. Users can use these icons (in order) to find the help documentation or report a bug, switch your language preference<?oxy_delete author="rawork" timestamp="20160920T151026-0400" content=" and to"?><?oxy_insert_start author="rawork" timestamp="20160920T151026-0400"?>,<?oxy_insert_end?> login<?oxy_insert_start author="rawork" timestamp="20160920T151029-0400"?>,<?oxy_insert_end?> or join CWRC.</p>
+      <p>Beneath this toolbar is the search bar, and includes access to an advanced search feature. Users can narrow down their search to specific portions of the CWRC site, this provides more specific search results. For more information see <?oxy_comment_start author="rawork" timestamp="20160920T151159-0400" comment="link to Advanced Search documentation page"?>_____<?oxy_comment_end?>.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Affc2c9b1-d242-4077-8a13-36c3b7d07127/datastream/OBJ/view" id="image_tm2_2mv_3x" align="center" scale="80"></image></p>
+      <p>The CWRC homepage has a feature banner to keep users up to date with <?oxy_insert_start author="rawork" timestamp="20160920T151733-0400"?>the latest in <?oxy_insert_end?>CWRC. The banner includes upcoming events, news<?oxy_insert_start author="rawork" timestamp="20160920T151818-0400"?>,<?oxy_insert_end?> and<?oxy_insert_start author="rawork" timestamp="20160920T151821-0400"?> other items pertaining to<?oxy_insert_end?> CWRC<?oxy_delete author="rawork" timestamp="20160920T151829-0400" content=" information"?>. Below the feature banner<?oxy_delete author="rawork" timestamp="20160920T151913-0400" content=", CWRC has"?><?oxy_insert_start author="rawork" timestamp="20160920T151913-0400"?> is a<?oxy_insert_end?> dedicated <?oxy_delete author="rawork" timestamp="20160920T151918-0400" content="a"?> section for CWRC and participating project<?oxy_delete author="rawork" timestamp="20160920T152157-0400" content="s"?> news and events. For more news or event headlines click on the <?oxy_delete author="rawork" timestamp="20160920T152225-0400" content="“"?><?oxy_insert_start author="rawork" timestamp="20160920T152221-0400" type="surround"?><cmdname><?oxy_insert_end?>View All News</cmdname><?oxy_delete author="rawork" timestamp="20160920T152227-0400" content="”"?> or <?oxy_delete author="rawork" timestamp="20160920T152231-0400" content="“"?><?oxy_insert_start author="rawork" timestamp="20160920T152235-0400" type="surround"?><cmdname><?oxy_insert_end?>View All Events</cmdname><?oxy_delete author="rawork" timestamp="20160920T152229-0400" content="”"?> buttons. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A08998559-ee37-43da-8722-163143074782/datastream/OBJ/view" id="image_mjd_hmv_3x" align="center" scale="80"></image></p>
+      <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A63b1bf3d-98d0-4353-8567-b72e761931c6/datastream/OBJ/view" id="image_rb4_jmv_3x" align="center" scale="80"></image>
+      <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa92205c9-b745-41f4-a388-725fd310ca2f/datastream/OBJ/view" id="image_ixc_mmv_3x" align="center" scale="80"></image>
+      <p>For more information about what is happening in the collaboratory, CWRC has a <?oxy_delete author="rawork" timestamp="20160920T175159-0400" content="“"?><?oxy_insert_start author="rawork" timestamp="20160920T175155-0400" type="surround"?><cmdname><?oxy_insert_end?>What We Are...</cmdname><?oxy_delete author="rawork" timestamp="20160920T175157-0400" content="”"?> section. This lets users see what other members and projects are doing within the site, such as born digital works or files that are being added to CWRC, what projects are collecting<?oxy_insert_start author="rawork" timestamp="20160920T175223-0400"?>,<?oxy_insert_end?> and what CWRC (or participating projects) are sharing with CWRC members.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A5ae910b9-5f75-4c93-be58-b3938cd4e1dc/datastream/OBJ/view" id="image_o45_rmv_3x" align="center" scale="80"></image></p>
+      <p>CWRC would like to recognize all the support and contributions from our partners and sponsors. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A042fea61-7a1d-4ba0-bc9a-3fbebd0f33fa/datastream/OBJ/view" id="image_wmc_vmv_3x" align="center" scale="80"></image></p>
+      <p>For more information about CWRC go to <xref href="http://www.cwrc.ca/about/" format="html" scope="external">http://www.cwrc.ca/about/</xref></p>
     </section>
     <section>
       <title>CWRC Collaboratory</title>
-      <p>The CWRC Collaboratory displays project collections. This is where users (members or site
-        visitors) can explore all CWRC projects and published materials. If you are interested in
-        the CWRC collaboratory we suggest you share this page using your social media accounts
-        (Facebook, Twitter and Google+). To do this click on the Share tab located at the top of the
-        project list. Users can additionally view any public workflow made to the collaboratory by
-        clicking on the <b>History</b> tab.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae5f65d5c-339f-46c5-9cf4-0a49c1732dbc/datastream/OBJ/view"
-          id="image_qpy_pnv_3x" align="center" scale="80"/></p>
-      <p>You can change the list order of the collaboratory by selecting a “Sort By” option (either
-        by “Title” or by “Modified”) and clicking Change . “Title” displays project in alphabetical
-        order. The “Modified” option changes the order so that the projects that have been recently
-        updated or changed are first in the list order.</p>
-      <p>Additionally, viewers can changes how the collaboratory projects are presented. The default
-        option is a list view, but viewers can select the “Gallery” icon located above the projects
-        in the right corner. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A6cb45a32-833b-4544-96cb-3758875cb035/datastream/OBJ/view"
-          id="image_ytj_snv_3x" align="center" scale="80"/></p>
-      <p>By clicking on a project you are taken to the collection page. This displays the sub
-        collection folders of the project. Users can explore digital and uploaded files of any
-        participating project. Editing and annotating those materials will depend on if you are a
-        member of a project and/or if the project has released the lock on an object (made public
-        for editing and annotating). <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A74bcf889-6b4e-43a2-9af0-c8129d311725/datastream/OBJ/view"
-          id="image_alj_5nv_3x" align="center" scale="80"/></p>
-      <p>Projects have their own homepage, which they can customize using functionality that is part
-        of the CWRC Drupal interface. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A5908b5b2-e748-4096-a304-42f9084dd7d7/datastream/OBJ/view"
-          id="image_kwb_xnv_3x" align="center" scale="80"/></p>
+      <p>The CWRC Collaboratory displays project collections. This is where users (members or site visitors) can explore all CWRC projects and published materials. If you are interested in the CWRC collaboratory we suggest you share this page using your social media accounts (<?oxy_insert_start author="rawork" timestamp="20160920T175728-0400" type="surround"?><cmdname><?oxy_insert_end?>Facebook</cmdname>, <?oxy_insert_start author="rawork" timestamp="20160920T175730-0400" type="surround"?><cmdname><?oxy_insert_end?>Twitter</cmdname> and <?oxy_insert_start author="rawork" timestamp="20160920T175736-0400" type="surround"?><cmdname><?oxy_insert_end?>Google+</cmdname>). To do this click on the <?oxy_insert_start author="rawork" timestamp="20160920T175740-0400" type="surround"?><cmdname><?oxy_insert_end?>Share</cmdname> tab located at the top of the project list. Users can additionally view any public workflow made to the collaboratory by clicking on the <?oxy_insert_start author="rawork" timestamp="20160920T175602-0400" type="surround"?><cmdname><?oxy_insert_end?>History</cmdname> tab.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae5f65d5c-339f-46c5-9cf4-0a49c1732dbc/datastream/OBJ/view" id="image_qpy_pnv_3x" align="center" scale="80"></image></p>
+      <p>You can change the list order of the collaboratory by selecting a <?oxy_delete author="rawork" timestamp="20160920T175750-0400" content="“"?><?oxy_insert_start author="rawork" timestamp="20160920T175800-0400" type="surround"?><cmdname><?oxy_insert_end?>Sort By</cmdname><?oxy_delete author="rawork" timestamp="20160920T175752-0400" content="” "?>option (either by <?oxy_delete author="rawork" timestamp="20160920T175804-0400" content="“"?><?oxy_insert_start author="rawork" timestamp="20160920T175809-0400" type="surround"?><cmdname><?oxy_insert_end?>Title</cmdname><?oxy_delete author="rawork" timestamp="20160920T175806-0400" content="”"?> or by <?oxy_delete author="rawork" timestamp="20160920T175810-0400" content="“"?><?oxy_insert_start author="rawork" timestamp="20160920T175815-0400" type="surround"?><cmdname><?oxy_insert_end?>Modified</cmdname><?oxy_delete author="rawork" timestamp="20160920T175812-0400" content="”"?>) and clicking <?oxy_insert_start author="rawork" timestamp="20160920T175821-0400" type="surround"?><cmdname><?oxy_insert_end?>Change</cmdname><?oxy_delete author="rawork" timestamp="20160920T175822-0400" content=" "?>. <?oxy_delete author="rawork" timestamp="20160920T175824-0400" content="“"?><?oxy_insert_start author="rawork" timestamp="20160920T175833-0400" type="surround"?><cmdname><?oxy_insert_end?>Title</cmdname><?oxy_delete author="rawork" timestamp="20160920T175827-0400" content="”"?> displays project in alphabetical order. The <?oxy_delete author="rawork" timestamp="20160920T175839-0400" content="“"?><?oxy_insert_start author="rawork" timestamp="20160920T175842-0400" type="surround"?><cmdname><?oxy_insert_end?>Modified</cmdname><?oxy_delete author="rawork" timestamp="20160920T175840-0400" content="”"?> option changes the order so that the projects that have been recently updated or changed are first in the list order.</p>
+      <p>Additionally, viewers can changes how the collaboratory projects are presented. The default option is a list view, but viewers can select the <?oxy_delete author="rawork" timestamp="20160920T175908-0400" content="“"?><?oxy_insert_start author="rawork" timestamp="20160920T175912-0400" type="surround"?><cmdname><?oxy_insert_end?>Gallery</cmdname><?oxy_delete author="rawork" timestamp="20160920T175910-0400" content="”"?> icon located above the projects in the right<?oxy_insert_start author="rawork" timestamp="20160920T175958-0400"?>hand<?oxy_insert_end?> corner. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A6cb45a32-833b-4544-96cb-3758875cb035/datastream/OBJ/view" id="image_ytj_snv_3x" align="center" scale="80"></image></p>
+      <?oxy_insert_start author="rawork" timestamp="20160920T180100-0400"?>
+      <p>To see the <cmdname>Projects Overview</cmdname> page, go to <xref href="http://www.cwrc.ca/about/" format="html" scope="external">http://www.beta.cwrc.ca/projects</xref></p>
+      <?oxy_insert_end?>
+      <p>By clicking on a project you are taken to the collection page. This displays the sub collection folders of the project. Users can explore<?oxy_delete author="rawork" timestamp="20160920T182400-0400" content=" digital"?>
+        <?oxy_delete author="rawork" timestamp="20160920T182357-0400" content="and"?> uploaded<?oxy_insert_start author="rawork" timestamp="20160920T182402-0400"?> and born digital files within CWRC<?oxy_insert_end?>
+        <?oxy_delete author="rawork" timestamp="20160920T182349-0400" content="files"?> of any participating project. Editing and annotating those materials will depend on <?oxy_delete author="rawork" timestamp="20160920T180529-0400" content="if"?><?oxy_insert_start author="rawork" timestamp="20160920T180529-0400"?>whether<?oxy_insert_end?> you are a member of a project and/or if the project has released the lock on an object (<?oxy_insert_start author="rawork" timestamp="20160920T180540-0400"?>in other words, <?oxy_insert_end?>made public for editing and annotating). <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A74bcf889-6b4e-43a2-9af0-c8129d311725/datastream/OBJ/view" id="image_alj_5nv_3x" align="center" scale="80"></image></p>
+      <p>Projects have their own homepage, which they can customize using functionality that is part of the CWRC Drupal interface. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A5908b5b2-e748-4096-a304-42f9084dd7d7/datastream/OBJ/view" id="image_kwb_xnv_3x" align="center" scale="80"></image></p>
+      <?oxy_insert_start author="rawork" timestamp="20160920T181355-0400"?>
+      <p>To find out how to create, edit, or view Project Homepages, visit <?oxy_comment_start author="rawork" timestamp="20160920T181714-0400" comment="Include link to Project Homepages dita map"?>_______<?oxy_comment_end?></p>
+      <?oxy_insert_end?>
     </section>
-    <section><title>Visualization Tools</title><p>CWRC provides visualization tools for users to
-        explore the texts the have created or uploaded into CWRC.
-        </p><p><b>CWRC-Writer</b></p><p>CWRC-Writer is a WYSIWYG XML/RDF editor. Users can use
-        CWRC-Writer to view XML documents (uploaded or born digital within CWRC), annotated with RDF
-        entities and edit the XML/RDF tags. The options available depend on if the creator has
-        “locked” it from public editing. CWRC-Writer is accessed whenever you open an XML
-        document.</p><p>The below screenshot shows the <b>Edit</b> option of CWRC-Writer. <image
-          placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Abfc3d042-be02-40b1-b5b7-3afa70ca3684/datastream/OBJ/view"
-          id="image_az4_lpv_3x" align="center" scale="80"/></p>For more information see <xref
-        href="http://cwrc.ca/Documentation/project-editor/#CWRC-Writer/CWRCWriter_Started_Splash.html"
-        format="html" scope="external"
-        >http://cwrc.ca/Documentation/project-editor/#CWRC-Writer/CWRCWriter_Started_Splash.html</xref><p><b>Dynamic
-          Table of Contexts</b></p><p>The Dynamic Table of Context (DToC) is a reading interface
-        that provides a deeper reading experience. DToC provides means of navigating a text by
-        drawing on the semantic markup contained in a set of XML documents. Texts can be searched by
-        word, tags used in the text browsed, and index terms (where present) explored: the
-        occurrences of these features are represented in the table of contents, on a visualization
-        of the whole collection, and in highlighting within the reading panel. The DToC also allows
-        curation of editions, in which existed tags can be excluded, included, or relabelled, and
-        sections of the text can be selected or excluded, allowing readers to create customized
-        versions of existing editions or anthologies.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Acdf28d4c-1788-429b-bbe1-e7c3a7fa6efa/datastream/OBJ/view"
-          id="image_und_spv_3x" align="center" scale="80"/></p><p>Currently the DToC is accessible
-        in CWRC in our open-access edition of the scholarly essay collection
-        Regenerations/Régénerations: <xref href="http://cwrc.ca/voyant/regenerations" format="html"
-          scope="external">http://cwrc.ca/voyant/regenerations</xref>. We are working to incorporate
-        it more directly into the Collaboratory.</p><p>In the meantime, researchers can prepare
-        texts for the DToC and incorporate them afterwards, as with Regenerations .</p><p>See the
-        documentation of how to prepare your own editions using DToC here:</p>Contact cwrc support
-      if you would like your DToC collection to live within CWRC.<p dir="ltr">For more information
-        see <xref href="http://cwrc.ca/Documentation/project-editor/#DToC/OverviewDToC.html"
-          format="html" scope="external"
-          >http://cwrc.ca/Documentation/project-editor/#DToC/OverviewDToC.html</xref></p><p><b>PlotIt</b></p><p>PlotIt
-        is a visualization tool that plots items according place and date metadata attached to it.
-        When you collect different files within a Bookmark List (for more information see ____) you
-        can use the PlotIt feature to provide context about their creation. However, if the
-        materials do not have the place and date metadata fields filled in they will not appear in
-        the visualization tool.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Af58e2b57-6acb-48fc-85c2-fc58ee2e3f63/datastream/OBJ/view"
-          id="image_ev3_1qv_3x" align="center"/></p><p>For more information see _____.
-          </p><p><b>Huviz</b></p><p>Huviz works within you browser to visualize linked data (RDF).
-        </p><p>Coming Soon!</p><p>For more information see <xref
-          href="http://cwrc.ca/Documentation/project-editor/#huviz/HuViz_Concept.html" format="html"
-          scope="external"
-          >http://cwrc.ca/Documentation/project-editor/#huviz/HuViz_Concept.html</xref></p></section>
+    <section><title>Visualization Tools</title><p>CWRC provides visualization tools for users to explore <?oxy_delete author="rawork" timestamp="20160920T181741-0400" content="the"?> texts <?oxy_insert_start author="rawork" timestamp="20160920T181745-0400"?>within<?oxy_insert_end?><?oxy_delete author="rawork" timestamp="20160920T181744-0400" content="the have created or uploaded into CWRC"?><?oxy_insert_start author="rawork" timestamp="20160920T182032-0400"?>the site<?oxy_insert_end?>. <?oxy_insert_start author="rawork" timestamp="20160920T181824-0400"?>The tools include <cmdname>Voyant</cmdname> and <cmdname>Plot<?oxy_insert_end?>It<?oxy_insert_start author="rawork" timestamp="20160920T181824-0400"?></cmdname>.<?oxy_insert_end?></p><p><b>CWRC-Writer</b></p><p>CWRC-Writer is a WYSIWYG XML/RDF editor. Users can use CWRC-Writer to view XML documents (uploaded or born digital within CWRC), annotated with RDF entities and edit the XML/RDF tags. The options available depend on <?oxy_delete author="rawork" timestamp="20160920T182458-0400" content="if"?><?oxy_insert_start author="rawork" timestamp="20160920T182458-0400"?>whether<?oxy_insert_end?> the creator has “locked” it from public editing. CWRC-Writer is accessed whenever you open an XML document.</p><p>The below screenshot shows the <cmdname>Edit</cmdname> option of CWRC-Writer. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Abfc3d042-be02-40b1-b5b7-3afa70ca3684/datastream/OBJ/view" id="image_az4_lpv_3x" align="center" scale="80"></image></p>For more information see <xref href="http://cwrc.ca/Documentation/project-editor/#CWRC-Writer/CWRCWriter_Started_Splash.html" format="html" scope="external">http://cwrc.ca/Documentation/project-editor/#CWRC-Writer/CWRCWriter_Started_Splash.html</xref></section>
+    <section>
+      <title>Dynamic Table of Contexts</title>
+      <p>The Dynamic Table of Context (DToC) is a reading interface that provides a deeper reading experience. DToC provides means of navigating a text by drawing on the semantic markup contained in a set of XML documents. Texts can be searched by word, tags<?oxy_delete author="rawork" timestamp="20160920T194650-0400" content=" used in the text browsed"?>, and index<?oxy_insert_start author="rawork" timestamp="20160920T194654-0400"?>ed<?oxy_insert_end?> terms (where present) <?oxy_delete author="rawork" timestamp="20160920T194702-0400" content="explored"?><?oxy_insert_start author="rawork" timestamp="20160920T194741-0400"?>.<?oxy_insert_end?><?oxy_delete author="rawork" timestamp="20160920T194702-0400" content=":"?>
+        <?oxy_delete author="rawork" timestamp="20160920T194745-0400" content="the occurrences of t"?><?oxy_insert_start author="rawork" timestamp="20160920T194745-0400"?>T<?oxy_insert_end?>hese features are represented in the <?oxy_insert_start author="rawork" timestamp="20160920T194812-0400"?><cmdname>Table of Contents</cmdname><?oxy_insert_end?><?oxy_delete author="rawork" timestamp="20160920T194812-0400" content="table of contents"?>, <?oxy_delete author="rawork" timestamp="20160920T194843-0400" content="on a visualization of the whole collection"?><?oxy_insert_start author="rawork" timestamp="20160920T194843-0400"?>the <cmdname><?oxy_comment_start author="rawork" timestamp="20160920T194913-0400" comment="find out what this is actually called"?>Vertical Navigation Bar<?oxy_comment_end?></cmdname><?oxy_insert_end?>, a<?oxy_insert_start author="rawork" timestamp="20160920T194934-0400"?>s well as<?oxy_insert_end?><?oxy_delete author="rawork" timestamp="20160920T194933-0400" content="nd in"?> highlight<?oxy_insert_start author="rawork" timestamp="20160920T194939-0400"?>ed<?oxy_insert_end?><?oxy_delete author="rawork" timestamp="20160920T194938-0400" content="ing"?> within the <?oxy_insert_start author="rawork" timestamp="20160920T195030-0400"?><cmdname><?oxy_comment_start author="rawork" timestamp="20160920T195039-0400" comment="what&apos;s its official name?"?>Reading Panel<?oxy_comment_end?></cmdname><?oxy_insert_end?><?oxy_delete author="rawork" timestamp="20160920T195030-0400" content="reading panel"?><?oxy_insert_start author="rawork" timestamp="20160920T194958-0400"?> (on the far right)<?oxy_insert_end?>. The DToC also <?oxy_delete author="rawork" timestamp="20160920T195125-0400" content="allows"?><?oxy_insert_start author="rawork" timestamp="20160920T195125-0400"?>facilitates the<?oxy_insert_end?> curation of editions<?oxy_delete author="rawork" timestamp="20160920T200755-0400" content=","?> in which existed tags can be excluded, included, or relabelled, and sections of <?oxy_delete author="rawork" timestamp="20160920T200810-0400" content="the"?> text can be selected or excluded, allowing readers to create customized versions of existing editions or anthologies.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Acdf28d4c-1788-429b-bbe1-e7c3a7fa6efa/datastream/OBJ/view" id="image_und_spv_3x" align="center" scale="80"></image></p>
+      <p>Currently<?oxy_insert_start author="rawork" timestamp="20160920T200843-0400"?>,<?oxy_insert_end?> the DToC is accessible <?oxy_delete author="rawork" timestamp="20160920T200924-0400" content="in"?><?oxy_insert_start author="rawork" timestamp="20160920T200924-0400"?>on<?oxy_insert_end?> CWRC <?oxy_delete author="rawork" timestamp="20160920T200947-0400" content="in"?><?oxy_insert_start author="rawork" timestamp="20160920T200947-0400"?>and can be explore through<?oxy_insert_end?> our open-access edition of the scholarly essay collection <?oxy_insert_start author="rawork" timestamp="20160920T201812-0400" type="surround"?><i><?oxy_insert_end?>Regenerations/Régénerations</i>: <xref href="http://cwrc.ca/voyant/regenerations" format="html" scope="external">http://cwrc.ca/voyant/regenerations</xref>. We are working to incorporate it more directly into the Collaboratory.</p>
+      <p>In the meantime, researchers can prepare texts for the DToC and incorporate them afterwards, as with <?oxy_insert_start author="rawork" timestamp="20160920T201848-0400" type="surround"?><i><?oxy_insert_end?>Regenerations</i> .</p>
+      <p><?oxy_delete author="rawork" timestamp="20160920T201910-0400" content="See the documentation of"?><?oxy_insert_start author="rawork" timestamp="20160920T201910-0400"?>For information on<?oxy_insert_end?> how to prepare your own editions using DToC<?oxy_insert_start author="rawork" timestamp="20160920T201921-0400"?>, visit<?oxy_insert_end?><?oxy_delete author="rawork" timestamp="20160920T201927-0400" content=" here"?><?oxy_comment_start author="rawork" timestamp="20160920T201942-0400" comment="does this exist?"?>:<?oxy_insert_start author="rawork" timestamp="20160920T201934-0400"?>_____<?oxy_comment_end?><?oxy_insert_end?></p>
+      <?oxy_insert_start author="rawork" timestamp="20160920T202207-0400" type="surround"?>
+      <p><?oxy_insert_end?>Contact cwrc support<?oxy_insert_start author="rawork" timestamp="20160920T202430-0400"?> (cwrc@ualberta.ca)<?oxy_insert_end?> if you would like your DToC collection to live within CWRC.</p>
+      <p dir="ltr">For more information see <xref href="http://cwrc.ca/Documentation/project-editor/#DToC/OverviewDToC.html" format="html" scope="external">http://cwrc.ca/Documentation/project-editor/#DToC/OverviewDToC.html</xref></p>
+    </section>
+    <section>
+      <title>PlotIt</title>
+      <p>PlotIt is a visualization tool that plots items according <?oxy_insert_start author="rawork" timestamp="20160920T202516-0400"?>to the <?oxy_insert_end?>place and date metadata attached to it. When you collect different files within a Bookmark List (for more information see <?oxy_comment_start author="rawork" timestamp="20160920T202538-0400" comment="link bookwark documentation"?>____<?oxy_comment_end?>) you can use the PlotIt feature to provide<?oxy_insert_start author="rawork" timestamp="20160920T202708-0400"?> the<?oxy_insert_end?> context <?oxy_delete author="rawork" timestamp="20160920T202710-0400" content="about"?><?oxy_insert_start author="rawork" timestamp="20160920T202710-0400"?>of<?oxy_insert_end?> their creation. However, if the materials do not have the place and date metadata fields filled in they will not appear in the visualization tool.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af58e2b57-6acb-48fc-85c2-fc58ee2e3f63/datastream/OBJ/view" id="image_ev3_1qv_3x" align="center"></image></p>
+      <p>For more information see <?oxy_comment_start author="rawork" timestamp="20160920T202731-0400" comment="link plotit documentation"?>_____<?oxy_comment_end?>. </p>
+    </section>
+    <section>
+      <title>Huviz</title>
+      <p>Huviz works within you browser to visualize linked data (RDF). </p>
+      <p>Coming Soon!</p>
+      <p>For more information see <xref href="http://cwrc.ca/Documentation/project-editor/#huviz/HuViz_Concept.html" format="html" scope="external">http://cwrc.ca/Documentation/project-editor/#huviz/HuViz_Concept.html</xref></p>
+    </section>
     <section>
       <title>CWRC Platform</title>
-      <p>CWRC has a complex architecture. You can see a diagram of that architecture here.</p>
-      <p>In the most basic terms, the projects uses the open-source Fedora Commons repository
-        software to store the materials in CWRC collections. Fedora provides a robust environment
-        for digital archives that makes it easier to manage and preserve them.</p>
-      <p>Between Fedora Commons and the user interface is the Islandora layer of tools and services
-        that manage such things as user logins and functionality such as workflow management.</p>
-      <p>Islandora is an open-source software project begun at the University of Prince Edward
-        Islandora, and uses a mixture of Drupal, javascript and PHP.</p>
-      <p>What you interact with in CWRC is a Drupal user interface based on Islandora but
-        significantly rethemed and enhanced to meet the needs to CWRC users. The interface was
-        developed for CWRC by the Digital Echidna team.</p>
+      <p>CWRC has a complex architecture. You can see a diagram of that architecture <?oxy_comment_start author="rawork" timestamp="20160920T202746-0400" comment="link diagram of the architecture"?>here<?oxy_comment_end?>.</p>
+      <p>In the most basic terms, the projects uses the open-source Fedora Commons repository software to store the materials in CWRC collections. Fedora provides a robust environment for digital archives that makes it easier to manage and preserve them.</p>
+      <p>Between Fedora Commons and the user interface is the Islandora layer of tools and services that manage such things as user logins and functionality such as workflow management.</p>
+      <p>Islandora is an open-source software project begun at the University of Prince Edward Islandora, and uses a mixture of Drupal, javascript<?oxy_insert_start author="rawork" timestamp="20160920T202814-0400"?>,<?oxy_insert_end?> and PHP.</p>
+      <p>What you interact with in CWRC is a Drupal user interface based on Islandora but significantly rethemed and enhanced to meet the needs <?oxy_delete author="rawork" timestamp="20160920T202826-0400" content="to"?><?oxy_insert_start author="rawork" timestamp="20160920T202826-0400"?>of<?oxy_insert_end?> CWRC users. The interface was developed for CWRC by the Digital Echidna team.</p>
       <p>For more information:</p>
-      <p>Fedora Commons - <xref href="http://fedorarepository.org/about" format="html"
-          scope="external">http://fedorarepository.org/about</xref></p>
-      <p>Islandora - <xref href="http://islandora.ca/about" format="html" scope="external"
-          >http://islandora.ca/about</xref></p>
-      <p>Drupal - <xref href="https://www.drupal.org/about" format="html" scope="external"
-          >https://www.drupal.org/about</xref></p>
+      <p>Fedora Commons - <xref href="http://fedorarepository.org/about" format="html" scope="external">http://fedorarepository.org/about</xref></p>
+      <p>Islandora - <xref href="http://islandora.ca/about" format="html" scope="external">http://islandora.ca/about</xref></p>
+      <p>Drupal - <xref href="https://www.drupal.org/about" format="html" scope="external">https://www.drupal.org/about</xref></p>
     </section>
   </refbody>
-  <related-links/>
+  <related-links><?oxy_comment_start author="rawork" timestamp="20160920T202841-0400" comment="add any here?"?></related-links>
+  <?oxy_comment_end?>
 </reference>
+<?oxy_options track_changes="on"?>

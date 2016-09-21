@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_r1q_wjd_gx">
+    <title>Making Changes to Project Homepages</title>
+    <shortdesc>Project homepages display the project's description and can include a link to the entire collection, featured items from the collection, external links to the project's website and/or social media page, list of sponsors, director(s) names, as well as an About Me page that lists the project's contact information.</shortdesc>
+    <taskbody>
+        <context>
+            <note>Projects are created by CWRC administrators, who assign associated members of CWRC the role of Project Editor to enable them to edit their project pages. Projects must be approved by the CWRC Research Board. If you wish to propose a project please fill out the <xref href="https://docs.google.com/forms/d/1nhlWbD1nosQucxmyCu8gNM6izZkgSZiBncb3CLRT0Zk/viewform" format="html">application form</xref>.</note>
+            <p></p>
+        </context>
+        <steps id="steps_bpt_4rd_gx">
+            <step>
+                <cmd>To change the homepage, begin by clicking <cmdname>Project Dashboard</cmdname>. This gives you access to some of the most important actions and information associated with a project.</cmd>
+            </step>
+            <step>
+                <cmd>From the sidebar on the right, you can see the various editing features listed under <cmdname>Utilities</cmdname>.</cmd>
+            </step>
+            <step>
+                <cmd>For making changes to your homepage, the three options – <cmdname>Add Page to Project</cmdname>, <?oxy_delete author="ilovan" timestamp="20160910T104320-0600" content="“"?><?oxy_insert_start author="ilovan" timestamp="20160910T104337-0600" type="surround"?><cmdname><?oxy_insert_end?>Edit Project Menu</cmdname><?oxy_delete author="ilovan" timestamp="20160910T104324-0600" content="”"?>, and <?oxy_delete author="ilovan" timestamp="20160910T104718-0600" content="“"?><?oxy_insert_start author="ilovan" timestamp="20160910T104731-0600" type="surround"?><cmdname><?oxy_insert_end?>Edit Project Settings</cmdname><?oxy_delete author="ilovan" timestamp="20160910T104721-0600" content="”"?> – are the utilities that will be further discussed in detail. All of these options are located under <cmdname>Utilities</cmdname> on the<cmdname>Project Dashbard</cmdname> page.</cmd>
+                <info>
+                    <p>The Project Dashboard can be accessed by selecting the <uicontrol>Project Dashboard</uicontrol> button (on the top left, under the project title). On this page you'll find a list of <cmdname>Recent Workflow Stamps</cmdname>, <cmdname>Locked Objects</cmdname>, <cmdname>Utilities</cmdname>, <cmdname>Project Members</cmdname>, <cmdname>Pending Applications</cmdname>, <cmdname>Workflow Reports</cmdname>, <cmdname>Disk Quota</cmdname>, and <cmdname>Credit Visualizations</cmdname>.</p>
+                </info>
+            </step>
+            <step>
+                <cmd><cmdname>Edit</cmdname>/<cmdname>Edit project settings</cmdname> allows you to make changes to <cmdname>basic information</cmdname>, <cmdname>identity and social media</cmdname>, <cmdname>contact information</cmdname>, <cmdname>sponsors</cmdname>, and <cmdname>featured content</cmdname>.</cmd>
+                <info>
+                    <p>The <cmdname>Edit</cmdname> button on the action bar and <cmdname>Edit project settings </cmdname>on the Utility menu (on the right) perform the same function and take you to the same screen.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>If you'd like to save the edits you'e made to the project homepage, it is important to remember to scroll down and click <cmdname>Save</cmdname> before leaving the page.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
