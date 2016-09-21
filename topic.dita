@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_gj4_xbg_jx">
+  <title>Menu Bar</title>
+  <shortdesc>The Menu Bar is located at the top of  any CWRC page and provides points of navigation into the CWRC site, including (from left to right): <cmdname>CWRC</cmdname> homepage, <cmdname>Collaboratory</cmdname>, <cmdname>News</cmdname>, <cmdname>About</cmdname>, <cmdname>Terms of Use</cmdname>, <cmdname>Help</cmdname> icon, <cmdname>Language Setting</cmdname> icon, <cmdname>Notifications</cmdname> icon, and <cmdname>Profile</cmdname> icon.</shortdesc>
+  <refbody>
+    <section>
+      <title>CWRC hompage</title>
+    </section>
+    <section>
+      <title>Collaboratory</title>
+    </section>
+    <section>
+      <title>News</title>
+    </section>
+    <section>
+      <title>About</title>
+    </section>
+    <section>
+      <title>Terms of Use</title>
+    </section>
+    <section>
+      <title>Help</title>
+    </section>
+    <section>
+      <title>Language Setting</title>
+    </section>
+    <section>
+      <title>Notifications</title>
+    </section>
+    <section>
+      <title>Profile</title>
+    </section>
+  </refbody>
+  <related-links></related-links>
+</reference>

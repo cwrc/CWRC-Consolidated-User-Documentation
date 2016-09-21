@@ -23,4 +23,31 @@
  <topichead toc="no" navtitle="Error message">
   <topicref href="Error.dita"></topicref>
  </topichead>
+ <topichead navtitle="Navigation" type="reference" format="ditamap">
+  <topicref href="Navigation.ditamap" format="ditamap">
+   <topicref href="Menu_Bar.dita">
+    <topicref href="CWRC_Homepage.dita"></topicref>
+    <topicref href="Collaboratory.dita"></topicref>
+    <topicref href="About.dita"></topicref>
+    <topicref href="News.dita"></topicref>
+    <topicref href="Project_Overview.dita"></topicref>
+    <topicref href="Notifications.dita"></topicref>
+    <topicref href="Profile.dita"></topicref>
+   </topicref>
+  </topicref>
+  <topicref href="Action_Bar.dita">
+   <topicref href="View.dita"></topicref>
+   <topicref href="Manage.dita"></topicref>
+   <topicref href="Share.dita"></topicref>
+   <topicref href="History.dita"></topicref>
+  </topicref>
+ </topichead>
+ <topichead navtitle="Browse CWRC" type="topic" format="ditamap"></topichead>
+ <topichead navtitle="Search CWRC" type="topic" format="ditamap">
+  <topicref href="Advanced_Search.dita"></topicref>
+ </topichead>
+ <topichead navtitle="Contribute to CWRC" type="topic" format="ditamap" audience="admin project-contributor project-editor">
+  <topicref href="Create_Project.dita"></topicref>
+  <topicref href="Join_Project.dita"></topicref>
+ </topichead>
 </map>

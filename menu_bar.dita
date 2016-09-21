@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_gj4_xbg_jx">
+  <title>Menu Bar</title>
+  <shortdesc>The Menu Bar is located at the top of any CWRC page and provides points of navigation into the CWRC site, including (from left to right): CWRC home page, Collaboratory, News, About, Projects, Help icon, Language Settings icon, Notifications icon, and Profile icon.</shortdesc>
+  <refbody>
+    <section>
+      <title>CWRC home page</title>
+      <p>You can redirect to the CWRC homepage by clicking either <cmdname>CWRC</cmdname> or CWRC's logo on the top left corner of any page. CWRC's homepage includes a range of content, from CWRC and partner project-related <cmdname>News</cmdname> and <cmdname>Events</cmdname>, to <cmdname>What We Are Writing</cmdname>, <cmdname>What We Are Collecting</cmdname>, and <cmdname>What We Are Sharing</cmdname> feeds.</p>
+    </section>
+    <section>
+      <title>Collaboratory</title>
+      <p>The Collaboratory is where all of CWRC's content lives in the form of top-level collections. You may browse these collections in either <cmdname>List</cmdname> or <cmdname>Grid</cmdname> mode (icons at the top right corner), and sort by <cmdname>Title</cmdname> or date last <cmdname>Modified</cmdname> (top left).</p>
+    </section>
+    <section>
+      <title>News</title>
+      <p>Click <cmdname>News</cmdname> to go to a page that lists all news items published in CWRC, ranging from book, project, and tool launches, to workshops and conferences.</p>
+    </section>
+    <section>
+      <title>About</title>
+      <p>Click on <cmdname>About</cmdname> to find answers to questions relating to the CWRC project, its team members, contributors, as well as sponsors.</p>
+    </section>
+    <section>
+      <title>Projects</title>
+      <p>Click on <cmdname>Projects</cmdname> for an overview of all featured projects within CWRC. You can filter projects presented here by selecting categories located on the far left.</p>
+    </section>
+    <section>
+      <title>Help</title>
+      <p>Click the <cmdname>Help</cmdname> <b>?</b> icon to either access the <cmdname>Help Documentation</cmdname> (in which you find yourself in now) or <cmdname>Report a Bug</cmdname> within CWRC.</p>
+    </section>
+    <section>
+      <title>Language Settings</title>
+      <p>CWRC navigation is either presented in english or french, where the default has been set to english. Click on the <cmdname>Language Settings</cmdname> icon (which is either <cmdname>EN</cmdname> for english or <cmdname>FR</cmdname> for french) to select a language option.<note>This language setting only changes the language of the Drupal content within CWRC, not the content within the Collaboratory. English and french translations are provided, whenever possible, by project admins.</note></p>
+    </section>
+    <section>
+      <title>Notifications</title>
+      <p>Click the <cmdname>Notifications</cmdname> bell icon to view and manage your messages within CWRC. <note>The number indicates how many new, unread messages you have.</note></p>
+    </section>
+    <section>
+      <title>Profile</title>
+      <p>Click the <cmdname>Profile</cmdname> icon to open a drop-down menu that includes the following: <cmdname>Login</cmdname>/<cmdname>Log out</cmdname>, <cmdname>My Dashboard</cmdname>, <cmdname>My Research Space</cmdname>, <cmdname>Project Dashboards</cmdname> (if any), and <cmdname>My Profile</cmdname>.</p>
+    </section>
+  </refbody>
+  <related-links></related-links>
+</reference>
