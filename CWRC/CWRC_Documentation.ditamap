@@ -6,7 +6,7 @@
   <topicref href="CWRC_information.ditamap" format="ditamap"/>
  </topichead>
  <topichead navtitle="Getting started with CWRC">
-  <topicref href="Getting%20started%20with%20CWRC.ditamap" format="ditamap"/>
+  <topicref href="Getting%20started%20with%20CWRC.ditamap" format="ditamap"></topicref>
  </topichead>
  <topichead navtitle="Project homepages"
   audience="admin member project-contributor project-editor public">

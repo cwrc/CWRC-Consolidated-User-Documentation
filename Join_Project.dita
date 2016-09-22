@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ezm_54h_jx">
-    <title></title>
-    <shortdesc/>
+    <title>Join Project</title>
+    <shortdesc>Projects are curated collections within CWRC.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <note>Join requests are approved by the Project Editor.</note>
         </context>
-        <steps>
+        <steps id="steps_yrh_lhj_jx">
             <step>
-                <cmd></cmd>
+                <cmd>Open <xref href="http://beta.cwrc.ca/" format="html" scope="external">CWRC</xref> in your browser.</cmd>
+            </step>
+            <step>
+                <cmd>Access to login is located on the top right corner of the browser. Select login, and enter in your Username and Password.</cmd>
+            </step>
+            <step>
+                <cmd>To search for a project, you can either enter the project name into the <cmdname>Search</cmdname> bar bellow the main menu, or browse through a collection of projects by selecting <cmdname>Projects</cmdname> from the main menu. Selecting any of the projects from the Project Overview page will take you to its Project Homepage.</cmd>
+            </step>
+            <step>
+                <cmd>Once you find yourself on the homepage of the project you'd like to join, you may type in a message to the Project Editor communicating your interest in their project before clicking <cmdname>Request</cmdname>. Your request will then be sent to the Project Editor who will be notified via email and will either approve or accept your request to join their Project.</cmd>
+                <info>Projects are created by CWRC administrators, who assign associated members of CWRC the role of Project Editor to enable them to edit their project pages. Projects must be approved by the CWRC Research Board. If you wish to propose a project please fill out the application form at the following <xref href="https://docs.google.com/forms/d/1nhlWbD1nosQucxmyCu8gNM6izZkgSZiBncb3CLRT0Zk/viewform" format="html" scope="external">link</xref>.</info>
             </step>
         </steps>
     </taskbody>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_xsy_d2j_jx">
+  <title>Browse CWRC</title>
+  <body>
+    <p>You can browse CWRC’s content a number of ways. <lines>Most intuitively, you can type in a keyword, project, or object name within CWRC in the <cmdname>Search</cmdname> bar just below the main menu. There is also an <cmdname>Advanced Search</cmdname> link to the right of the <cmdname>Search</cmdname> bar. </lines><lines>You can chose to select <cmdname>Collaboratory</cmdname> or <cmdname>Projects</cmdname> from the menu located at the very top of any page. The Collaboraty houses all of CWRCs content whereas the Projects page takes you to an overview of featured projects within CWRC.</lines><lines>You can also sift through the latest CWRC content by clicking <cmdname>What We Are Writing</cmdname>, <cmdname>What We Are Collecting</cmdname>, or <cmdname>What We Are Sharing</cmdname>, all of which are located at the bottom of the CWRC homepage.</lines><lines>Finally, you can click on the <cmdname>Profile</cmdname> icon on the top right of your page to view a picklist that features projects you’ve saved for quick access.</lines></p>
+  </body>
+</topic>

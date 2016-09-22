@@ -26,28 +26,34 @@
  <topichead navtitle="Navigation" type="reference" format="ditamap">
   <topicref href="Navigation.ditamap" format="ditamap">
    <topicref href="Menu_Bar.dita">
-    <topicref href="CWRC_Homepage.dita"></topicref>
-    <topicref href="Collaboratory.dita"></topicref>
-    <topicref href="About.dita"></topicref>
-    <topicref href="News.dita"></topicref>
-    <topicref href="Project_Overview.dita"></topicref>
-    <topicref href="Notifications.dita"></topicref>
-    <topicref href="Profile.dita"></topicref>
+    <topicref href="CWRC_Homepage.dita" audience="admin"></topicref>
+    <topicref href="Collaboratory.dita" audience="admin"></topicref>
+    <topicref href="About.dita" audience="admin"></topicref>
+    <topicref href="News.dita" audience="admin"></topicref>
+    <topicref href="Project_Overview.dita" audience="admin"></topicref>
+    <topicref href="Notifications.dita" audience="admin member project-contributor project-editor"></topicref>
+    <topicref href="Profile.dita" audience="admin member project-contributor project-editor">
+     <topicref href="My_Dashboard.dita"></topicref>
+     <topicref href="My_Research_Space.dita"></topicref>
+     <topicref href="Projects_Dashboard.dita"></topicref>
+     <topicref href="My_Profile.dita"></topicref>
+    </topicref>
    </topicref>
   </topicref>
-  <topicref href="Action_Bar.dita">
-   <topicref href="View.dita"></topicref>
-   <topicref href="Manage.dita"></topicref>
-   <topicref href="Share.dita"></topicref>
-   <topicref href="History.dita"></topicref>
-  </topicref>
  </topichead>
- <topichead navtitle="Browse CWRC" type="topic" format="ditamap"></topichead>
+ <topichead navtitle="Browse CWRC" type="topic" format="ditamap">
+  <topicref href="Browse_CWRC.dita"></topicref>
+ </topichead>
  <topichead navtitle="Search CWRC" type="topic" format="ditamap">
+  <topicref href="Search.dita"></topicref>
   <topicref href="Advanced_Search.dita"></topicref>
  </topichead>
  <topichead navtitle="Contribute to CWRC" type="topic" format="ditamap" audience="admin project-contributor project-editor">
-  <topicref href="Create_Project.dita"></topicref>
-  <topicref href="Join_Project.dita"></topicref>
+  <topichead navtitle="Project homepages" audience="admin member project-contributor project-editor public">
+   <topicref href="Project%20homepages.ditamap" format="Project%20Homepages/Project%20homepages.ditamap"></topicref>
+  </topichead>
+ </topichead>
+ <topichead navtitle="Roles" type="topic" format="ditamap" audience="admin project-editor">
+  <topicref href="Roles.dita"></topicref>
  </topichead>
 </map>

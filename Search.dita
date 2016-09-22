@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qrh_ljj_jx">
+  <title>Search</title>
+  <body>
+    <p>You can search within CWRC by clicking on the <cmdname>Search</cmdname> bar (just bellow the main menu) on any page and typing in an author name, project, title, or keyword. You must then choose to either search within the <cmdname>Collaboratory</cmdname>, which is the default setting, or <cmdname>Website Content</cmdname>. An <cmdname>Advanced Search</cmdname> link is also available to the right of the <cmdname>Search</cmdname> bar.</p>
+  </body>
+</topic>
