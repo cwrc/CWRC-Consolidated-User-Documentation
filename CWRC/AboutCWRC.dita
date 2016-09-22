@@ -82,6 +82,12 @@
       <p>Drupal - <xref href="https://www.drupal.org/about" format="html" scope="external">https://www.drupal.org/about</xref></p>
     </section>
   </refbody>
-  <related-links><?oxy_comment_start author="rawork" timestamp="20160920T202841-0400" comment="add any here?"?></related-links>
+  <related-links>
+    <link href="CWRCcontentModels.dita"/>
+    <link href="UserRoles.dita"/>
+    <link href="UserAccount.dita"/>
+    <link href="SearchingBrowsingCWRC.dita"/>
+    <link href="CreatingCWRCaccount.dita"/>
+    <?oxy_comment_start author="rawork" timestamp="20160920T202841-0400" comment="add any here?"?></related-links>
   <?oxy_comment_end?>
 </reference>

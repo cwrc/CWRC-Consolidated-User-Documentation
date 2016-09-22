@@ -241,5 +241,13 @@
           >http://beta.cwrc.ca/islandora/object/cwrc%3A1aaac85d-4425-47aa-bc9d-306315e09eb3</xref></p>
     </section>
   </refbody>
-  <related-links/>
+  <related-links>
+    <link href="AboutCWRC.dita"/>
+    <link href="UserRoles.dita"/>
+    <link href="UserAccount.dita"/>
+    <link href="SearchingBrowsingCWRC.dita"/>
+    <link href="CreateSubcollections.dita"/>
+    <link href="ChangingCollectionPolicy.dita"/>
+    <link href="UploadingFiles.dita"/>
+  </related-links>
 </reference>

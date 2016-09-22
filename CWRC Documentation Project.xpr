@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="16.1">
+<project version="15.2">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="16.1" xml:space="preserve">
+            <serialized version="15.2" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>keys.context</String>
@@ -1326,12 +1326,6 @@
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
                                 </field>
-                                <field name="skinCssFile">
-                                    <null/>
-                                </field>
-                                <field name="lastCustomSkinCssPath">
-                                    <null/>
-                                </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -1438,9 +1432,6 @@
                                 <field name="outputFile">
                                     <null/>
                                 </field>
-                                <field name="outputResource">
-                                    <null/>
-                                </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
@@ -1518,12 +1509,6 @@
                                 </field>
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
-                                </field>
-                                <field name="skinCssFile">
-                                    <null/>
-                                </field>
-                                <field name="lastCustomSkinCssPath">
-                                    <null/>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -1631,9 +1616,6 @@
                                 <field name="outputFile">
                                     <null/>
                                 </field>
-                                <field name="outputResource">
-                                    <null/>
-                                </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
@@ -1711,12 +1693,6 @@
                                 </field>
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
-                                </field>
-                                <field name="skinCssFile">
-                                    <null/>
-                                </field>
-                                <field name="lastCustomSkinCssPath">
-                                    <null/>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -1824,9 +1800,6 @@
                                 <field name="outputFile">
                                     <null/>
                                 </field>
-                                <field name="outputResource">
-                                    <null/>
-                                </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
@@ -1904,12 +1877,6 @@
                                 </field>
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
-                                </field>
-                                <field name="skinCssFile">
-                                    <null/>
-                                </field>
-                                <field name="lastCustomSkinCssPath">
-                                    <null/>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -2017,9 +1984,6 @@
                                 <field name="outputFile">
                                     <null/>
                                 </field>
-                                <field name="outputResource">
-                                    <null/>
-                                </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
@@ -2097,12 +2061,6 @@
                                 </field>
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
-                                </field>
-                                <field name="skinCssFile">
-                                    <null/>
-                                </field>
-                                <field name="lastCustomSkinCssPath">
-                                    <null/>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -2210,9 +2168,6 @@
                                 <field name="outputFile">
                                     <null/>
                                 </field>
-                                <field name="outputResource">
-                                    <null/>
-                                </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
@@ -2251,6 +2206,10 @@
                                 </field>
                             </ditaScenario>
                         </scenario-array>
+                    </entry>
+                    <entry>
+                        <String>validation.scenarios</String>
+                        <validationScenario-array/>
                     </entry>
                 </serializableOrderedMap>
             </serialized>

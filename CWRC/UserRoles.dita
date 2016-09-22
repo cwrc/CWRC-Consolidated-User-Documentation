@@ -80,4 +80,13 @@
         and providing the exact titles of the objects.</p>
     </section>
   </refbody>
+  <related-links>
+    <link href="AboutCWRC.dita"/>
+    <link href="CWRCcontentModels.dita"/>
+    <link href="UserAccount.dita"/>
+    <link href="SearchingBrowsingCWRC.dita"/>
+    <link href="CreatingCWRCaccount.dita"/>
+    <link href="RequestProjectMembership.dita"/>
+    <link href="EditUserProfile.dita"/>
+  </related-links>
 </reference>
