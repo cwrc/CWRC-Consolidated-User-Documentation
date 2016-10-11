@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_gkz_yfl_w5">
+    <title>Load a Dataset</title>
+    <shortdesc>To begin, choose a dataset.</shortdesc>
+    <prolog>
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>In the HuViz prototype, the pre-loaded datasets are generated from the Orlando textbase and organized by theme.</p>
+        </context>
+        <steps id="steps_ify_mhr_w5">
+            <step>
+                <cmd>Click the Commands tab to open the main control panel.</cmd>
+            </step>
+            <step>
+                <cmd>At the top of the panel, click the drop down menu labelled "Pick a Dataset."<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Af4ef8a39-5d38-4605-b01e-af619065f53e/datastream/OBJ/view" id="image_llq_5hw_1v" placement="break" align="center"></image></cmd>
+            </step>
+            <step>
+                <cmd>Hover over specific datasets to view a list of attributes.</cmd>
+                <info>The number of nodes, edges and predicates are a general indication of the size and complexity of the network.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac53894aa-d98a-4cc7-90db-ae823eff0f3d/datastream/OBJ/view" id="image_krz_p3w_1v" placement="break" align="center"></image></info>
+            </step>
+            <step>
+                <cmd>Click on the dataset to load.</cmd>
+                <info>The size of a dataset (i.e. number of nodes and predicates it contains) will effect the loading time. </info>
+            </step>
+        </steps>
+        <result>Once the data has finished parsing, the process is complete. The dataset has sucessfully loaded and nodes are in orbit, ready for action.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A9e667f00-cbe4-4235-bab6-fae0dd6509f2/datastream/OBJ/view" id="image_wdv_sqs_w5" placement="break" align="center"></image></result>
+    </taskbody>
+</task>

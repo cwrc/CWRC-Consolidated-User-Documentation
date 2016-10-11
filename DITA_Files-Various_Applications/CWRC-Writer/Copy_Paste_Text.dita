@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_mcg_3fd_dp">
+    <title>Copying and pasting text </title>
+    <shortdesc>Copying and pasting text into CWRC-Writer, can be achieved in two ways. The first, by
+        highlighting text in the text area. </shortdesc>
+    <prolog>
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-08-17"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T113254-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps id="steps_av4_dgd_dp">
+            <step>
+                <cmd>Copy the information that you would like to paste into CWRC-Writer. <image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0b3edc59-9923-443b-a025-461fcb6d80e9/datastream/OBJ/view"
+                        id="image_kqg_3hn_jp" align="center" scale="80"/></cmd>
+                <info>You can copy any information from inside or outside of CWRC-Writer. If you
+                    copy text from another XML document
+                    <?oxy_insert_start author="megansellmer" timestamp="20150325T205148-0700"?>a<?oxy_insert_end?>ll
+                    existing tags will be stripped out when the text is pasted into CWRC-Writer.
+                        <note>CWRC-Writer only allows users to copy and paste using their keyboard
+                        shortcuts (Command C and V for Mac; Control C and V for P. C.s) and
+                        right-click menus.</note></info>
+            </step>
+            <step>
+                <cmd>Activate the field you are pasting into. </cmd>
+                <info>To do this, highlight the text you wish to paste over within the document in
+                    the editing pane. <note>Currently you cannot paste into multiple tags at once.
+                        For example, in the prose document you need to paste in paragraphs one "p"
+                        tag at a time (this is true for lines, notes, etc. as well). </note></info>
+            </step>
+            <step>
+                <cmd>Paste text in, using the keyboard shortcuts, Cmd V or Ctrl V</cmd>
+                <stepresult>The text will show up in to the desired field. The structure panel tags
+                    will not be affected, unless you have pasted over preexisting tags. If you do
+                    those tags will be deleted.
+                    <!-- <p>
+                        <lines><b>Related Links:</b></lines>
+                        <lines><xref href="View_Copied_Text.dita"/></lines>
+                        <lines><xref href="Write_Editor.dita"></xref></lines>
+                        <lines><xref href="Write_Text_Area.dita"></xref></lines> 
+                        <lines><xref href="Delete_Text_Structure.dita"></xref></lines>
+                        <lines><b>Reference Materials:</b></lines>
+                        <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                    </p>-->
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T143738-0700"?>
+    <related-links>
+        <link href="View_Copied_Text.dita#task_sf3_lyg_dp"/>
+        <link href="Write_Editor.dita#task_mbh_fxm_jp"/>
+        <link href="Write_Text_Area.dita#task_fbh_vjc_dp"/>
+        <link href="Delete_Text_Structure.dita#task_mpf_x3l_jp"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+    </related-links>
+    <?oxy_insert_end?>
+</task>
+
+
+
+
+<?oxy_options track_changes="on"?>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_gjd_yxc_w5">
+ <title>Hide a Node</title>
+ <shortdesc>The Hide function removes nodes from the visualization. </shortdesc>
+ <prolog>
+  <author>Chelsea Miya</author>
+  <copyright>
+   <copyryear year="2014"></copyryear>
+   <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+  </copyright>
+  <critdates>
+   <created date="2016-02-03"></created>
+   <revised modified="2016-02-03"></revised>
+  </critdates>
+  <metadata>
+   
+   
+  </metadata>
+ </prolog>
+ <conbody>
+  <p>Once removed, Hidden nodes will be no longer appear in either the central Graph, Shelf or Discard bin.<note>However, Hidden nodes are not permanently deleted from the dataset and can be retrieved using the Commands Tab.</note><note>Unlike most other Verbs, this function cannot be executed directly in the Graph. To Hide nodes, the user must execute the Verb in the Commands Tab.</note></p>
+  <p></p>
+ </conbody>
+ <related-links>
+  <link href="Command_Execute_Verbs.dita"></link>
+  <link href="Shelve_Concept.dita"></link>
+ </related-links>
+</concept>

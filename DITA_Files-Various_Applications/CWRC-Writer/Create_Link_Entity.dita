@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dsr_rqf_lp">
+    <title>Creating a link entity</title>
+    <shortdesc>The "Tag Link" entity is for tagging any links or URL found in the
+        document.</shortdesc>
+    <prolog>
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to tag as a "Link." Click on the toolbar
+                        <cmdname>Link</cmdname> icon.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af76610d4-2c55-4c29-b0dc-b6e57c222995/datastream/OBJ/view"
+                        id="image_gvt_2xs_3x" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Write the link in the text bar, and click <cmdname>Save</cmdname>.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac016e312-3768-4bb3-8447-3b18534f44e0/datastream/OBJ/view"
+                        id="image_f3g_snv_tp" align="center"/></cmd>
+            </step>
+        </steps>
+        <result>You have added a link to your document. You can access the link in either the
+            document and the entities column.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A495fd428-dbc3-48f9-8115-9aae4ac7fe08/datastream/OBJ/view"
+                id="image_jbz_pwf_lp" align="center" scale="80"/>
+            <!--<p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Create_Person_Entity.dita"/></lines>
+                <lines><xref href="Create_Place_Entity.dita"/></lines>
+                <lines><xref href="Create_Date_Entity.dita"/></lines>
+                <lines><xref href="Create_Organization_Entity.dita"></xref></lines>
+                <lines><xref href="Create_Title_Entity.dita"/></lines>
+                <lines><xref href="Create_Keyword_Entity.dita"/></lines>
+                <lines><xref href="Create_Correction_Entity.dita"/></lines>
+                <lines><xref href="Create_Note_Entity.dita"/></lines>
+                <lines><xref href="Create_Citation_Entity.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Toolbar.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>-->
+        </result>
+    </taskbody>
+    <related-links>
+        <link href="Create_Person_Entity.dita#task_tkx_2h2_lp"/>
+        <link href="Create_Place_Entity.dita#task_fgv_wk2_lp"/>
+        <link href="Create_Date_Entity.dita#task_gdm_rm2_lp"/>
+        <link href="Create_Organization_Entity.dita#task_cn1_qkf_lp"/>
+        <link href="Create_Title_Entity.dita#task_hts_tmf_lp"/>
+        <link href="Create_Keyword_Entity.dita#task_wh4_1xf_lp"/>
+        <link href="Create_Correction_Entity.dita#task_nry_4xf_lp"/>
+        <link href="Create_Note_Entity.dita#task_kbz_ht2_np"/>
+        <link href="Create_Citation_Entity.dita#task_zl5_kt2_np"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="CWRC_Entity_System.dita#reference_ibn_hrg_rp"/>
+    </related-links>
+</task>

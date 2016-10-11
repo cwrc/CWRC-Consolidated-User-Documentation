@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_iqc_d2v_3x">
+    <title>Sharing/Migrating Objects</title>
+    <shortdesc>The sharing options CWRC provides depend on if you are trying to share a file or a
+        folder. Folders can be shared to different social media sites (Facebook, etc.), while
+        individual files can be shared to those sites as well as different CWRC
+        projects.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open the file or folder that you would like to share.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the Share tab above the file or folder.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2c2665f8-be5a-45d2-bf3f-6a234284f652/datastream/OBJ/view"
+                        id="image_zzw_dfv_3x" align="center"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8ed60c34-349e-4c28-a0e9-268ad7d74904/datastream/OBJ/view"
+                        id="image_ktl_ffv_3x" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Choose the site you would like to share the folder/file with. </cmd>
+            </step>
+            <step importance="optional"> 
+                <cmd>If you are sharing with your a social media account, sign in and share the file
+                    with your friends/followers.</cmd>
+                <info>The two options,“Share with another collection” and “Migrate to another
+                    collection,” are conditional to your own projects. For example, you can not
+                    migrate another projects document to your own project. <p>The Facebook, Twitter,
+                        and Google Plus options will require you to sign in to your
+                    account.</p></info> 
+            </step>
+            <step importance="optional">
+                <cmd>If you choose to “Share with another collection,” enter the filename and click
+                    Share Object.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A88590afc-b582-403c-972b-a20b56d35817/datastream/OBJ/view"
+                        id="image_otz_jfv_3x" align="center"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A4b0f519a-0fc8-41c6-a769-62940e17db05/datastream/OBJ/view"
+                        id="image_yxf_mfv_3x" align="center"/></cmd>
+            </step>
+            <step importance="optional">
+                <cmd>If you choose to “Migrate to another collection,” enter the new collection name
+                    (or the destination collection name). Click on Migrate Object.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="About_CWRC.dita"/>
+        <link href="Adding_Bookmark.dita"/>
+        <link href="Adding_Bookmark_Lists.dita"/>
+        <link href="Sharing_Bookmark_List.dita"/>
+        <link href="Accessing_PlotIt.dita"/>
+        <link href="Searching_CWRC.dita"/>
+        <link href="Viewing_Objects.dita"/>
+        <link href="CWRC_Content_Models.dita"/>
+        <link href="User_Roles.dita"/>
+        <link href="User_Account.dita"/>
+        <link href="Searching_Browsing_CWRC.dita"/>
+    </related-links>
+</task>

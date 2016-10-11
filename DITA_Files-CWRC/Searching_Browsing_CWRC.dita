@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_hqs_xfz_3x">
+  <title>Searching and Browsing</title>
+  <shortdesc>CWRC utilizes a robust search system to make the contents of the site as accessible and
+    explorable as possible. </shortdesc>
+  <refbody>
+    <section>
+      <title>Search (general)</title>
+      <p>The search bar is located at the top of all pages of the CWRC site. You can narrow down
+        where in CWRC you are searching from the search bar by selecting either <b>Collaboratory</b>
+        (the default option) or <b>Website Content</b>. If you would like more search options, there
+        is an <b>Advanced Search</b> link to the right of the search box. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Affc2c9b1-d242-4077-8a13-36c3b7d07127/datastream/OBJ/view"
+          id="image_ulx_h3z_3x" align="center"/></p>
+    </section>
+    <section>
+      <title>Search Results</title>
+      <p><b>Search Results</b> can be sorted by the relevance to search terms, title, creation date,
+        and last modified date. These option can be organized in ascending and descending order.
+          <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A260a971d-efb8-4e49-b527-fa1c7e3aa191/datastream/OBJ/view"
+          id="image_cd4_n3z_3x" align="center" scale="80"/></p>
+      <image placement="break"
+        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acf7280be-eb73-4d00-b7e0-6b3a7090878e/datastream/OBJ/view"
+        id="image_usp_q3z_3x" align="center"/>
+      <image placement="break"
+        href="http://beta.cwrc.ca/islandora/object/cwrc%3A45bb334b-e087-4fc0-a8cd-7fc85c15c633/datastream/OBJ/view"
+        id="image_e54_y3z_3x" align="center"/>
+      <p>Additionally you can view your search results in a list (default) or grid view. <image
+          placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A70eeda06-c87f-4d80-8b2e-91be6ed66bb5/datastream/OBJ/view"
+          id="image_kpq_bjz_3x" align="center"/></p>
+      <p>Users can also view search results by <b>Bibliographic View</b>, which displays search
+        results as citations. These can be organized by type of citation style (see screenshot
+          below).<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad975acd5-b70b-4671-b2cd-b454ccce5622/datastream/OBJ/view"
+          id="image_r5z_gjz_3x" align="center" scale="80"/></p>
+      <image placement="break"
+        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5739e251-d90c-478f-908c-a91d3aea796f/datastream/OBJ/view"
+        id="image_vtj_jjz_3x" align="center"/>
+      <p>Another available view of search results in by <b>Documents</b>. This lets users view the
+        search results as “abstracts.” the information presented includes the latest workflow stamp,
+        title, author, description, etc. However, this view depends on the metadata and not all
+        files have all those fields filled in.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A905bad40-3bbf-46a3-9117-2fed410426e2/datastream/OBJ/view"
+          id="image_nbh_4jz_3x" align="center" scale="80"/></p>
+    </section>
+    <section>
+      <title>Advanced Search</title>
+      <p>The <b>Advanced search</b> option allows users to enter multiple search terms (separated by
+        boolean operators - and, or and not). You can have from one to multiple search terms. The
+        red “+” and “-” buttons beside the search terms will add or delete them. You can specify
+        where the search term should be found by changing the “Field” option.<image
+          placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad06814a5-c57d-4f0b-bbfd-1330fdc7ef1a/datastream/OBJ/view"
+          id="image_pxn_4kz_3x" align="center" scale="80"/></p>
+      <p>The “field” list narrows down your search by the metadata and workflow stamps of objects.
+        The default option is dc.title, which will return the most results because when an object is
+        created or uploaded it is a required field. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A80dad9a5-773a-4c54-be59-caaf5322ae3c/datastream/OBJ/view"
+          id="image_eq1_skz_3x" align="center" scale="80"/></p>
+    </section>
+    <section>
+      <title>Save Search</title>
+      <p>When you conduct a search, using the search bar or the advanced search option, you can save
+        your search. This is particularly useful if you have many search results to go explore.
+          <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Abeb6b9f6-2afa-4b39-b261-c1d164a4f835/datastream/OBJ/view"
+          id="image_evl_vkz_3x" align="center"/></p>
+      <p>You access your saved searches in your account dashboard. Clicking on the saved search
+        title will take you back to the search results.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A3d326292-3d6f-4738-9de6-11a658b11896/datastream/OBJ/view"
+          id="image_pp2_1lz_3x" align="center"/></p>
+    </section>
+    <section>
+      <title>Browsing</title>
+      <p>There are multiple ways to browse the content of CWRC writer. You can travel through the
+        Collaboratory projects sorting them by title or by recent modifications. <image
+          placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae5f65d5c-339f-46c5-9cf4-0a49c1732dbc/datastream/OBJ/view"
+          id="image_gtp_dlz_3x" align="center" scale="80"/></p>
+      <p>Additionally, CWRC provides a faceted browsing feature. This is when you narrow down items
+        (in this case search results) by different filter. Narrow down search results by as many
+        filters as you would like. To add or remove filters you can click on the “+” or “-” buttons
+        beside each individual feature. The filters include:<ul id="ul_vlf_rgz_3x">
+          <li><b>Language:</b> choose to view only english or french files.</li>
+          <li><b>Source:</b> view results by the project they are from.</li>
+          <li><b>Type:</b> is the content model that the document was uploaded using.</li>
+          <li><b>Authority:</b> this refers to if it is published or under review.</li>
+          <li><b>Format:</b> this refers to the medium of an item (book, audio, etc.)</li>
+          <li><b>Genre:</b> refers to the classification of the item (nonfiction, etc.)</li>
+          <li><b>Folksonomic genre:</b> user generated genre classification.</li>
+          <li><b>Publication date:</b> when it was published.</li>
+          <li><b>Century:</b> what century the item was created. <image placement="break"
+              href="http://beta.cwrc.ca/islandora/object/cwrc%3Acfda5524-c424-402f-ba9c-ec619be16e4c/datastream/OBJ/view"
+              id="image_evw_llz_3x" align="center"/></li>
+        </ul></p>
+    </section>
+  </refbody>
+  <related-links>
+    <link href="Searching_CWRC.dita"/>
+    <link href="About_CWRC.dita"/>
+    <link href="CWRC_Content_Models.dita"/>
+    <link href="User_Roles.dita"/>
+    <link href="User_Account.dita"/>
+  </related-links>
+</reference>

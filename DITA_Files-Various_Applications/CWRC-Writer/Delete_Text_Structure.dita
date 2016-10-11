@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mpf_x3l_jp">
+    <title>Deleting text from the structure panel</title>
+    <shortdesc>CWRC-Writer templates open with pre-existing text. It may be easier to first delete
+        the text (but not the tags) before adding your own text to the document. </shortdesc>
+    <prolog>
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-09"/>
+            <revised modified="2016-09-15"/>
+        </critdates>
+        <metadata product="">
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the tag that contains the text you would like to delete.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acd811f45-3411-4b10-aec4-1741cf1c786a/datastream/OBJ/view"
+                        id="image_ss3_cv5_mp" align="center" scale="80" scalefit="yes"/></cmd>
+            </step>
+            <step>
+                <cmd>Right-click on the selected tag and choose <cmdname>Remove Content Only</cmdname></cmd>
+            </step>
+        </steps>
+        <result>This will remove the content from this tag, but it will leave the tag in the
+            document. <image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A637bc5d3-d8d4-4088-af51-5d5d0f7d54b2/datastream/OBJ/view"
+                id="image_lzk_gv5_mp" align="center" scale="80" scalefit="yes"/>
+            <!--            <p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Write_Editor.dita"></xref></lines>
+                <lines><xref href="Write_Text_Area.dita"></xref></lines>
+                <lines><xref href="Save_Document.dita"></xref></lines>
+                <lines><xref href="Validate_Document.dita"></xref></lines>
+                <lines><xref href="Copy_Paste_Text.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                </p>-->
+            <note type="note">If you would like to delete the tag and the content, choose
+                    <cmdname>Remove tag and all content </cmdname>option from the right-click
+                    menu.<image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A094e87aa-b712-4d10-8c18-e4f36be581a9/datastream/OBJ/view"
+                    id="image_np1_fv5_mp" align="center" scale="80" scalefit="yes"/></note></result>
+    </taskbody>
+    <related-links>
+        <link href="Write_Editor.dita#task_mbh_fxm_jp"/>
+        <link href="Write_Text_Area.dita#task_fbh_vjc_dp"/>
+        <link href="Save_Document.dita#task_gl2_tc2_lp"/>
+        <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
+        <link href="Copy_Paste_Text.dita#task_mcg_3fd_dp"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+    </related-links>
+</task>

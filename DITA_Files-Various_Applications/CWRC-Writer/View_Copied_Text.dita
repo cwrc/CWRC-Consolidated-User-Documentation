@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_sf3_lyg_dp">
+    <title>Viewing information copied from the structure panel</title>
+    <shortdesc>CWRC-Writer provides the option of looking at what you have copied in the structure
+        panel before you need to paste it in. This allows you to make sure you have selected exactly
+        what you wanted to work with.</shortdesc>
+    <prolog>
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-08-17"/>
+            <revised modified="2014-09-15"/>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>Copying information in CWRC-Writer can at times be a daunting task, but we provide
+                the option to make sure you know exactly what you have copied before you paste
+                it.</p>
+        </context>
+        <prereq>
+            <p>Copy a portion of text in CWRC-Writer (see instructions at:)</p>
+            <ul id="ul_chw_vsz_dp">
+                <li><xref href="Copy_Paste_Text.dita"/></li>
+                <li><xref href="Copy_Paste_Multiple_Tags.dita"/></li>
+            </ul>
+        </prereq>
+        <steps id="steps_o2t_xyg_dp">
+            <step>
+                <cmd>Click on the small arrow at the bottom of the CWRC-Writer window/frame.</cmd>
+                <stepresult>This will bring up the <cmdname>Validation</cmdname> and
+                        <cmdname>Selection</cmdname> Tabs.</stepresult>
+            </step>
+            <step>
+                <cmd>Click on the <cmdname>Selection</cmdname> tab.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A6ae8bfa5-b68a-4c0c-b12d-93620c568437/datastream/OBJ/view"
+                        id="image_pxl_bps_3x" align="center" scale="80"/></cmd>
+            </step>
+        </steps>
+        <result>You will be able to see what you have copied, included the tags and text.
+            <!--<p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Copy_Paste_Text.dita"/></lines>
+                <lines><xref href="Copy_Paste_Single_Tag.dita"/></lines>
+                <lines><xref href="Copy_Paste_Multiple_Tags.dita"/></lines>
+                <lines><xref href="Copy_Paste_Tags.dita"/></lines>
+                <lines><xref href="Copy_Paste_Entity.dita"/></lines>
+            </p>-->
+        </result>
+    </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T142257-0700"?>
+    <related-links>
+        <link href="Copy_Paste_Text.dita#task_mcg_3fd_dp"/>
+        <link href="Copy_Paste_Single_Tag.dita#task_gfg_fjd_dp"/>
+        <link href="Copy_Paste_Multiple_Tags.dita#task_r4l_ykd_dp"/>
+        <link href="Copy_Paste_Tags.dita#task_t1x_nfn_jp"/>
+        <link href="Copy_Paste_Entity.dita#task_osz_cb2_np"/>
+    </related-links>
+    <?oxy_insert_end?>
+</task>
+
+

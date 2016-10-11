@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_uy5_ty5_3x">
+    <title>Adding bookmark lists</title>
+    <shortdesc>To organize your bookmarks you can create separate lists for them. This also allows
+        you to describe what the list includes.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Login to your account.</cmd>
+            </step>
+            <step>
+                <cmd>Under the Bookmark tab on the right side of your dashboard page, click on
+                        <b>New List</b>.</cmd>
+                <info>The expanded bookmark tab displays all the lists that you have (initially just
+                    a “workbench” list) and the lists that are shared with you. <image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A17cd52b0-e8d6-4c58-9ea0-7d48203bd851/datastream/OBJ/view"
+                        id="image_mdb_gz5_3x" align="center"/></info>
+            </step>
+            <step>
+                <cmd>Fill out the Bookmark list form.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0cfd11f7-eabd-48d7-b17e-2fef201f4fe3/datastream/OBJ/view"
+                        id="image_uff_rz5_3x" align="center" scale="80"/></cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Add List</b>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A58c08328-84bd-4b1b-96ae-bc9dadaa7f83/datastream/OBJ/view"
+                        id="image_ggw_sz5_3x" align="center"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="About_CWRC.dita"/>
+        <link href="Adding_Bookmark.dita"/>
+        <link href="Sharing_Bookmark_List.dita"/>
+        <link href="Accessing_PlotIt.dita"/>
+        <link href="Searching_CWRC.dita"/>
+        <link href="Viewing_Objects.dita"/>
+        <link href="CWRC_Content_Models.dita"/>
+        <link href="User_Roles.dita"/>
+        <link href="User_Account.dita"/>
+        <link href="Searching_Browsing_CWRC.dita"/>
+    </related-links>
+</task>

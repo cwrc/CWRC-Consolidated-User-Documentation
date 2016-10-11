@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_hwl_tnc_w5">
+    <title>Select All</title>
+    <shortdesc>The All function is used to perform actions on all nodes at the same time.</shortdesc>
+    <prolog>
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>When using the select All function, executing a Verb will effect <i>all nodes in the orginal dataset.</i> This includes nodes that are Hidden or Discarded. As such, the All function can be used to recall nodes that have been rendered temporarily invisible and cannot be dragged by into the graph manually.</p>
+        </context>
+        <steps-unordered id="steps-unordered_a1s_bqc_w5">
+            <step>
+                <cmd>Click All, located at the top of the Sets bar. <image href="http://beta.cwrc.ca/islandora/object/cwrc%3A4093fddd-d217-4b3a-8c03-5f03891686a8/datastream/OBJ/view" id="image_adc_s4t_w5" placement="break" align="center"></image></cmd>
+                <info>The Sets bar will highlight in full, indicating that all nodes will be affected. Under Current Command, the "Sets/Classes" element will change to "All."</info>
+            </step>
+            <step>
+                <cmd>Click on the desired Verb to execute the action.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+    <related-links>
+        <link href="Select_Concept.dita"></link>
+        <link href="Select_Manually.dita"></link>
+        <link href="Select_Set_Class.dita"></link>
+        <link href="Select_BySearch.dita"></link>
+        <link href="Reference_CommandsTab.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+    </related-links>
+</task>

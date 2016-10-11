@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_k2g_5yk_w5">
+    <title>Select Manually</title>
+    <shortdesc>Select nodes by hand with the following steps.</shortdesc>
+    <prolog>
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p></p>
+            <note>All visible nodes, regardless of location (Shelf, Graph and Discard Bin), can be Selected manually.</note>
+        </context>
+        <steps id="steps_tdq_q2h_x5">
+            <step>
+                <cmd>Hover over desired Node.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab0851b56-88ff-4195-9737-7dcb043c44c1/datastream/OBJ/view" id="image_gfh_rhh_x5" placement="break" align="center"></image></cmd>
+            </step>
+            <step>
+                <cmd>Click node once to Select.</cmd>
+                <info>The node will turn Bold, indicated that it has been Selected.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac776fa91-826c-4cef-832a-778abb8fbe57/datastream/OBJ/view" id="image_iz1_dkh_x5" placement="break" align="center"></image></info>
+            </step>
+        </steps>
+        <postreq>
+            <ul id="ul_xmx_t2h_x5">
+                <li>Click node a second time to Unselect. The node's appearance will change back to normal, indicating that is in a Unselected state.</li>
+            </ul>
+        </postreq>
+    </taskbody>
+    <related-links>
+        <link href="Select_Concept.dita"></link>
+        <link href="Select_All.dita"></link>
+        <link href="Select_Set_Class.dita"></link>
+        <link href="Select_BySearch.dita"></link>
+        <link href="Select_Identify.dita"></link>
+        <link href="Reference_CommandsTab.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+    </related-links>
+</task>

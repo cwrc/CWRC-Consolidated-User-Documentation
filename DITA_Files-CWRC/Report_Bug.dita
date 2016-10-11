@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_swz_kw5_3x">
+    <title>Report a bug</title>
+    <shortdesc>CWRC is still in development and you may discover some bugs. Please let us know if
+        you find an issue.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the question mark icon in the top right corner.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <b>Report a Bug</b>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A20bf424a-a70e-48c0-a672-c48d21a97ce4/datastream/OBJ/view"
+                        id="image_nnl_sw5_3x" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Fill out the <b>Report a Bug</b> form.</cmd>
+                <info>Please provide as much detail as possible. This will help our programmers to
+                    easily find, reproduce and fix the bug.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae29dced0-d554-467f-bd81-1928e4a07103/datastream/OBJ/view"
+                        id="image_npz_tw5_3x" align="center" scale="80"/></info>
+            </step>
+            <step>
+                <cmd>Click <b>Submit</b>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="About_CWRC.dita"/>
+        <link href="Viewing_Objects.dita"/>
+        <link href="CWRC_Content_Models.dita"/>
+        <link href="User_Roles.dita"/>
+        <link href="User_Account.dita"/>
+        <link href="Searching_Browsing_CWRC.dita"/>
+    </related-links>
+</task>

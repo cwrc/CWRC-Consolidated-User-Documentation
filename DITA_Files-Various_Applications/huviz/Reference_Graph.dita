@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_o2x_vqd_w5">
+ <title>Using the Graph</title>
+ <shortdesc>The quickest and most intuitive way to manipulate the dataset is directly in the graph.</shortdesc>
+ <prolog>
+  <author>Chelsea Miya</author>
+  <copyright>
+   <copyryear year="2014"></copyryear>
+   <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+  </copyright>
+  <critdates>
+   <created date="2016-02-03"></created>
+   <revised modified="2016-02-03"></revised>
+  </critdates>
+  <metadata>
+   
+   
+  </metadata>
+ </prolog>
+ <conbody>
+  <p>Almost all actions can be performed on the nodes either through a single click or a "drag and drop."</p>
+  <note>The exception is Label and Hide, which can only be performed in the Commands Tab.</note>
+  <p><b>Navigating the Graph:</b><ol id="ol_y2k_vtm_2v">
+   <li><b>central Graph</b></li>
+   <li><b>Shelf</b></li>
+   <li><b>Discard Bin</b></li>
+   </ol><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A5884b9f1-1ce4-4da0-9f94-61b48ef52091/datastream/OBJ/view" id="image_zb3_y5m_2v" align="center"></image><note>Nodes can be dragged between any of the three main areas: central Graph, Shelf and Discard Bin.</note></p>
+ </conbody>
+ <related-links>
+  <link href="Reference_CommandsTab.dita"></link>
+  <link href="Activate_Manually.dita"></link>
+  <link href="Shelve_Manually.dita"></link>
+  <link href="Discard_Manually.dita"></link>
+ </related-links>
+</concept>

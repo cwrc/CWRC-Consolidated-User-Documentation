@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nxb_rr2_np">
+    <title>Deleting relations</title>
+    <shortdesc>If you have mistakenly added a relation, you can delete them in the left
+        column.</shortdesc>
+    <prolog>
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
+            <created date="2014-09-21"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>There are two ways to remove relationships in CWRC-Writer. </cmd>
+                <choices id="choices_nh1_ss2_np">
+                    <choice>Right-click on the entity that you would like to delete. Click on the
+                        <cmdname>Remove Relation</cmdname> option that pops up. <image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A4701972c-649c-482d-93a9-010a62a88ae5/datastream/OBJ/view"
+                            id="image_zy1_vs2_np" align="center"/></choice>
+                </choices>
+                <choices id="choices_opf_ws2_np">
+                    <choice>At the bottom of the "Relationship Column" there is a button called
+                        <cmdname>Remove Relation</cmdname>. Select the relationship that you would like to delete and
+                        click on that button.<image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A9e5a9558-b3df-452b-8966-f0ccdeef82cc/datastream/OBJ/view"
+                            id="image_dfq_1t2_np" align="center" height="6in" width="3in"/></choice>
+                </choices>
+            </step>
+        </steps>
+        <result>This will remove any relationships that you have added to your
+            document.     
+            <!--<p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Add_Relations.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>-->
+        </result>
+    </taskbody>
+    <related-links>
+        <link href="Add_Relations.dita#task_rdx_1q2_np"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="CWRC_Entity_System.dita#reference_ibn_hrg_rp"/>
+    </related-links>
+</task>

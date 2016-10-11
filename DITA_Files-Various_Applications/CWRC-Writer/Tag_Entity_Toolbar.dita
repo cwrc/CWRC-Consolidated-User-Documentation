@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_u32_dmd_lp">
+    <title>Tagging entities from the toolbar</title>
+    <shortdesc>CWRC-Writer allows you to add RDF entities to your document. You can add these tags
+        from the toolbar using icon buttons. When you add RDF entities to the document you are also
+        adding a corresponding XML tag to the document.</shortdesc>
+    <prolog>
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Commercialisation 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to tag as a particular entity.</cmd>
+                <info>Currently, the events tag is not fully functional.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aec16d767-e70f-4d00-b354-9d75887eab85/datastream/OBJ/view"
+                        id="image_rhf_t4d_lp" align="center" scale="80" scalefit="yes"/></info>
+            </step>
+            <step>
+                <cmd>Click on the entity toolbar button that you are adding to the document. In this
+                    case we are adding a "Person" tag to the sample letter document.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A37ffa569-3f88-45b7-9a69-7e227b62a6e1/datastream/OBJ/view"
+                        id="image_plk_vss_3x" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Choose CWRC, VIAF, GeoNames (depending on what entity you are tagging) entry
+                    and click on <cmdname>Select</cmdname>.</cmd>
+                <info>The editor is now hooked up to the CWRC entity system. Lookup of all named
+                    entities (e.g. persons, organizations, places, and titles) from within CWRC is
+                    now available, as well as lookup in authoritative linked data sources. The
+                    external VIAF list of authorities, produced from national and major research
+                    libraries around the world, is used to link persons, organizations and titles,
+                    while GeoNames is employed in a similar capacity for place entities.<note>You
+                        can also create a new entry in the CWRC system, this will be covered in
+                        alternate help pages.<image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A0110e56b-b891-46ba-a9d2-4a9049c1d15d/datastream/OBJ/view"
+                            id="image_bdr_bwv_tp" align="center" scale="80"/></note></info>
+            </step>
+            <step>
+                <cmd>Add any qualifying information to the entity (Precision, identification, etc.)
+                    and click <cmdname>Save</cmdname>.</cmd>
+                <info>The option that show up on this pop-up depends on what entity is being
+                        tagged.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A654c69ef-32af-41ce-9e3f-6cc69671ae1d/datastream/OBJ/view"
+                        id="image_kky_gts_3x" align="center" scale="80"/></info>
+            </step>
+        </steps>
+        <result>The entity that you have added to your document (along with any additional
+            information you have assigned to the entity) will appear in the entities column on the
+            left side of the CWRC-Writer.<p>
+                <image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A00802484-b576-4993-a65d-beb58164e5ed/datastream/OBJ/view"
+                    id="image_mwq_fpd_lp" align="center" height="4in" width="6in"/>
+            </p>
+            <!--<p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Tag_Entity_Editor.dita"/></lines>
+                <lines><xref href="Create_Person_Entity.dita"/></lines>
+                <lines><xref href="Create_Place_Entity.dita"/></lines>
+                <lines><xref href="Create_Date_Entity.dita"/></lines>
+                <lines><xref href="Create_Organization_Entity.dita"/></lines>
+                <lines><xref href="Create_Title_Entity.dita"/></lines>
+                <lines><xref href="Create_Link_Entity.dita"/></lines>
+                <lines><xref href="Create_Keyword_Entity.dita"/></lines>
+                <lines><xref href="Create_Correction_Entity.dita"/></lines>
+                <lines><xref href="Create_Note_Entity.dita"/></lines>
+                <lines><xref href="Create_Citation_Entity.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Toolbar.dita"/></lines>
+                <lines><xref href="Navigation_Columns.dita"/></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>-->
+        </result>
+    </taskbody>
+    <related-links>
+        <link href="Tag_Entity_Editor.dita#task_qth_ghd_lp"/>
+        <link href="Create_Person_Entity.dita#task_tkx_2h2_lp"/>
+        <link href="Create_Place_Entity.dita#task_fgv_wk2_lp"/>
+        <link href="Create_Date_Entity.dita#task_gdm_rm2_lp"/>
+        <link href="Create_Organization_Entity.dita#task_cn1_qkf_lp"/>
+        <link href="Create_Title_Entity.dita#task_hts_tmf_lp"/>
+        <link href="Create_Link_Entity.dita#task_dsr_rqf_lp"/>
+        <link href="Create_Keyword_Entity.dita#task_wh4_1xf_lp"/>
+        <link href="Create_Correction_Entity.dita#task_nry_4xf_lp"/>
+        <link href="Create_Note_Entity.dita#task_kbz_ht2_np"/>
+        <link href="Create_Citation_Entity.dita#task_zl5_kt2_np"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="CWRC_Entity_System.dita#reference_ibn_hrg_rp"/>
+    </related-links>
+</task>

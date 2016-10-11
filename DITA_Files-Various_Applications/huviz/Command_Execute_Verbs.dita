@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_xmf_kzd_w5">
+    <title>Execute Verbs in Commands Tab</title>
+    <shortdesc>In the Commands Tab, actions are automatically executed when a selected Set or Class type is combined with a Verb.</shortdesc>
+    <prolog>
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context></context>
+        <steps id="steps_elp_lb2_w5">
+            <step>
+                <cmd>Select nodes, either manually or by clicking on a Set or Class type.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae78bc233-b502-4e88-9d90-54426625c8b1/datastream/OBJ/view" id="image_ssb_s5z_dv" align="center" width="11in"></image></cmd>
+            </step>
+            <step>
+                <cmd>Click on a Verb to complete the formula and execute the action.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0c1613b3-513e-4c94-b540-eb88e5782cd2/datastream/OBJ/view" id="image_xvs_bvz_dv" align="center" width="11in"></image></cmd>
+                <info>Continue clicking on Verbs to execute a sequence of actions.</info>
+            </step>
+        </steps>
+        <example>In this case,  choosing the Set "Graphed" and then clicking the Verb "Label" resulted in the graphed nodes being labelled.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af876eba6-e64c-42ab-b449-5f68707b5b55/datastream/OBJ/view" id="image_fwn_lvz_dv" align="center" width="11in"></image></example>
+        <postreq>Note that the Verb in the Commands Tab is still blank. This is because, once a Set or Class type has been chosen, the user can continue to execute a series of Verbs.</postreq>
+    </taskbody>
+    <related-links>
+        <link href="Reference_CommandsTab.dita"></link>
+        <link href="CurrentCommand_Concept.dita"></link>
+    </related-links>
+</task>

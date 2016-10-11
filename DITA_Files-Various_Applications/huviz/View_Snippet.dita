@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gl2_tc2_lp">
+    <title>View Snippet Window</title>
+    <shortdesc>Snippet windows allow users to explore the relationships between nodes in more detail. In the HuViz prototype, the "snippet" of text is extracted from the source entry on the Orlando Project.</shortdesc>
+    <prolog>
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Hover over the <term>Edge</term> linking two nodes together. <image href="http://beta.cwrc.ca/islandora/object/cwrc%3A3b28ca97-497c-49c2-a189-4763d50830fe/datastream/OBJ/view" id="image_i5c_vfs_w5" placement="break" align="center"></image></cmd>
+                <stepresult>A label will appear that categories the type of object and type of relationship. For example, <b>"deathConnectiontoRegion"</b> indicates that Ada Byron is connected to the <b>region</b> of Nottinghamshire by <b>death</b>.</stepresult>
+            </step>
+            <step>
+                <cmd>Click on the Edge to open the Snippet window. <image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ade4809ad-6554-40be-89fc-15ad56aea9c2/datastream/OBJ/view" id="image_ps1_gfs_w5" placement="break" align="center"></image></cmd>
+            </step>
+        </steps>
+        <postreq>To close window, click the button at the top right. <image href="http://beta.cwrc.ca/islandora/object/cwrc%3Adbb98845-bbb1-4a4d-97d1-785197ee8164/datastream/OBJ/view" id="image_axh_fhs_w5" placement="break" align="center"></image></postreq>
+    </taskbody>
+    <related-links>
+        <link href="Edges_Concept.dita"></link>
+        <link href="ViewEdges.dita"></link>
+        <link href="Graph_EdgeType.dita"></link>
+    </related-links>
+</task>

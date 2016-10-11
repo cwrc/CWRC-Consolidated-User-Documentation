@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_f2m_jfd_w5">
+    <title>Pin Manually</title>
+    <shortdesc>Pin nodes using the "drag and drop" method with the following steps.</shortdesc>
+    <prolog>
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context></context>
+        <steps id="steps_tfg_lfd_w5">
+            <step>
+                <cmd>"Click and hold" to grab a graphed node.</cmd>
+            </step>
+            <step>
+                <cmd>Without releasing the mouse, drag the node to an unmarked area.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A18507240-5da8-4b38-91f5-accf282e083b/datastream/OBJ/view" id="image_xmw_q4g_x5" placement="break" align="center" width="6in"></image></cmd>
+            </step>
+            <step>
+                <cmd>Release the mouse to "drop" the node and fix in place.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A09ddc06b-f941-4e76-9663-4f608b376058/datastream/OBJ/view" id="image_ncf_wpg_x5" placement="break" align="center" width="6in"></image></cmd>
+            </step>
+        </steps>
+        <postreq>Click and drag the node a second time to Unpin (release) the node.</postreq>
+    </taskbody>
+    <related-links>
+        <link href="Pin_Concept.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+    </related-links>
+</task>

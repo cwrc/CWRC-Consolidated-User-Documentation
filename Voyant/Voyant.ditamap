@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
- <title>DITA Topic Map</title>
- <topichead href="CWRC-Voyant_Bridge_Introduction.dita" navtitle="Introduction to the Voyant bridge"></topichead>
- <topichead href="Visualize_a_Collection-manual.dita"></topichead>
- <topichead href="Visualize_a_single_document-manual.dita"></topichead>
-</map>

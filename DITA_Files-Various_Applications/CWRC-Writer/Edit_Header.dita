@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sd5_tj2_np">
+    <title>Editing the header</title>
+    <shortdesc>You can edit the TEI header in CWRC-Writer.</shortdesc>
+    <prolog>
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
+            <created date="2014-09-21"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the <cmdname>teiHeader</cmdname> tag in the left structure column or
+                    the <cmdname>Edit Header</cmdname> option in the top right corner.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0a87c139-8b92-4c62-92c4-b60cb35dc293/datastream/OBJ/view"
+                        id="image_mcd_rk2_np" align="center" outputclass=""/><image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad00e8540-afb4-427c-b391-043f7afc59a6/datastream/OBJ/view"
+                        id="image_lzk_mv4_tp" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Edit the header in a pop-up that appears. Once you have finished click on
+                        <cmdname>OK</cmdname>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A65d76669-7696-44e9-a504-d91d4a1b240d/datastream/OBJ/view"
+                        id="image_vzq_5bv_tp" align="center"/></cmd>
+                <info>      
+                    <!--<p>
+                    <lines><b>Related Links:</b></lines>
+                    <lines><xref href="Save_Document.dita"></xref></lines>
+                    <lines><xref href="Validate_Document.dita"></xref></lines>
+                    <lines><xref href="Edit_Source.dita"></xref></lines>
+                </p>-->
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="Save_Document.dita#task_gl2_tc2_lp"/>
+        <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
+        <link href="Edit_Source.dita#task_chh_dp2_np"/>
+    </related-links>
+</task>

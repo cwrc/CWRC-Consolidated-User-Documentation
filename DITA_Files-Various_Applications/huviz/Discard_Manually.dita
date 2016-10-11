@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zfj_dwh_v5">
+    <title>Discard Manually</title>
+    <shortdesc>Discard nodes using the "drag and drop" method with the following steps.</shortdesc>
+    <prolog>
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click and hold the node, illuminating the red Discard Bin to the bottom right of the Stage.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac34240d6-6fd2-419a-bad0-54681f4141a5/datastream/OBJ/view" id="image_ivj_3zs_w5" align="left" placement="break"></image></cmd>
+            </step>
+            <step>
+                <cmd>Without releasing the clicker, drag the node to the Discard Bin.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A5aee97c0-eee7-47e1-a964-85a1d60f091e/datastream/OBJ/view" id="image_tdy_b1t_w5" align="left" placement="break"></image></cmd>
+            </step>
+            <step>
+                <cmd>Release the clicker to drop the node into the Bin and execute the action.</cmd>
+            </step>
+        </steps>
+        <result>Discarded nodes will orbit the Bin.</result>
+    </taskbody>
+    <related-links>
+        <link href="Discard_Concept.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+        <link href="Retrieve_Concept.dita"></link>
+        <link href="Retrieve_Command.dita"></link>
+    </related-links>
+</task>
