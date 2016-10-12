@@ -11,7 +11,7 @@
    <p>The Resource Description Framework (RDF) was developed under the World Wide Web Consortium
         (W3C). It is used to detail resources on the web. RDF is suitable for CWRC-Writer because it
         is written in XML. XML allows RDF to be processed by web operation systems, because RDF is
-        not human readable in its raw form (?(.</p>
+        not human readable in its raw form.</p>
    <p>The resources described by RDF can include people, places, object, and/or documents. RDF information added to the document can
      be published across the web. Another term for this is “Linked Data”, and the user can follow
      this information to other document and sources of information. This allows you to seamlessly
@@ -34,12 +34,12 @@
    <p><b>Websites:</b><ul id="ul_pf3_ykc_zp">
     <li>World Wide Web Consortium (W3C) Semantic Web. (n.d.). Resource Description Framework (RDF).
       Retrieved November 1, 2014, from <xref href="http://www.w3.org/RDF/" format="html"
-       scope="external">http://www.w3.org/RDF/</xref></li>
+        scope="external">https://www.w3.org/RDF/</xref></li>
    </ul><ul id="ul_wyk_2lc_zp">
     <li>World Wide Web Consortium (W3C) Schools. (n.d.). Introduction to RDF. Retrieved
      November 1, 2014, from <xref
       href="http://www.w3schools.com/webservices/ws_rdf_intro.asp" format="html"
-      scope="external">http://www.w3schools.com/webservices/ws_rdf_intro.asp</xref></li>
+      scope="external">http://www.w3schools.com/xml/xml_rdf.asp</xref></li>
    </ul></p>
    <p><b>Documents:</b><ul id="ul_qdj_nlc_zp">
     <li><xref href="Concept_RDF.dita"></xref></li>
@@ -50,9 +50,10 @@
     <li><xref href="CWRCWriter_Entity_Splash.dita"></xref></li>
    </ul></p>
    <p><b>Further Reading:</b><ul id="ul_jsp_tlc_zp">
-    <li>Miller, E. (1998). An Introduction to the Resource Description Framework. D-Lib
-     Magazine, 4(5). Retrieved from <xref href="http://www.dlib/may98/miller/05miller.html"
-      format="html" scope="external">http://www.dlib/may98/miller/05miller.html</xref></li>
+    <li>Miller, E. (1998). An Introduction to the Resource Description Framework. D-Lib Magazine,
+            4(5). Retrieved from <xref href="http://www.dlib/may98/miller/05miller.html"
+              format="html" scope="external"
+              >http://www.dlib.org/dlib/may98/miller/05miller.html</xref></li>
     <li>Berners-Lee, T. (n.d.). Linked Data - Design Issues. Retrieved November 1, 2014, from
      <xref href="http://www.w3.org/DesignIssues/LinkedData.html" format="html"
       scope="external">http://www.w3.org/DesignIssues/LinkedData.html</xref></li>

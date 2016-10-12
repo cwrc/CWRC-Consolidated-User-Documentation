@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="16.1">
+<project version="15.2">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="16.1" xml:space="preserve">
+            <serialized version="15.2" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>profiling.conditions</String>
@@ -1238,6 +1238,51 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>DITA_Maps-Secondary/CWRC_Information.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Documentation - all</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>CWRC_User_Manual-MASTER_MAP.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Documentation - all</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>DITA_Files-CWRC/Creating_CWRC_Account.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Documentation - all</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>CWRC_user_manual.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -1313,12 +1358,6 @@
                                 </field>
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
-                                </field>
-                                <field name="skinCssFile">
-                                    <String>/Applications/oxygen/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp/predefined-skins/dita/oxygen/skin.css</String>
-                                </field>
-                                <field name="lastCustomSkinCssPath">
-                                    <null/>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -1426,9 +1465,6 @@
                                 <field name="outputFile">
                                     <null/>
                                 </field>
-                                <field name="outputResource">
-                                    <null/>
-                                </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
@@ -1506,12 +1542,6 @@
                                 </field>
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
-                                </field>
-                                <field name="skinCssFile">
-                                    <null/>
-                                </field>
-                                <field name="lastCustomSkinCssPath">
-                                    <null/>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -1619,9 +1649,6 @@
                                 <field name="outputFile">
                                     <null/>
                                 </field>
-                                <field name="outputResource">
-                                    <null/>
-                                </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
@@ -1699,12 +1726,6 @@
                                 </field>
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
-                                </field>
-                                <field name="skinCssFile">
-                                    <null/>
-                                </field>
-                                <field name="lastCustomSkinCssPath">
-                                    <null/>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -1812,9 +1833,6 @@
                                 <field name="outputFile">
                                     <null/>
                                 </field>
-                                <field name="outputResource">
-                                    <null/>
-                                </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
@@ -1892,12 +1910,6 @@
                                 </field>
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
-                                </field>
-                                <field name="skinCssFile">
-                                    <null/>
-                                </field>
-                                <field name="lastCustomSkinCssPath">
-                                    <null/>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -2005,9 +2017,6 @@
                                 <field name="outputFile">
                                     <null/>
                                 </field>
-                                <field name="outputResource">
-                                    <null/>
-                                </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
@@ -2085,12 +2094,6 @@
                                 </field>
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
-                                </field>
-                                <field name="skinCssFile">
-                                    <null/>
-                                </field>
-                                <field name="lastCustomSkinCssPath">
-                                    <null/>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -2198,9 +2201,6 @@
                                 <field name="outputFile">
                                     <null/>
                                 </field>
-                                <field name="outputResource">
-                                    <null/>
-                                </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
@@ -2278,12 +2278,6 @@
                                 </field>
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
-                                </field>
-                                <field name="skinCssFile">
-                                    <String>/Applications/oxygen/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp/predefined-skins/dita/oxygen/skin.css</String>
-                                </field>
-                                <field name="lastCustomSkinCssPath">
-                                    <null/>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -2389,9 +2383,6 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <null/>
-                                </field>
-                                <field name="outputResource">
                                     <null/>
                                 </field>
                                 <field name="openOtherLocationInBrowser">

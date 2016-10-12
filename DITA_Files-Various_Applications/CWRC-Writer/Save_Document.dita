@@ -3,9 +3,7 @@
 <task id="task_gl2_tc2_lp">
     <title>Saving your document</title>
     <shortdesc>CWRC-Writer allows you to save documents you have created on our server as temporary
-        test files to work with. At the moment, however, we do not have individual authentication
-        setup for each user, so it's best if you do not play with each other's files: this way each
-        tester can have his/her own files to alter, add to, and so forth.</shortdesc>
+        test files to work with. </shortdesc>
     <prolog>
         <author>Megan Sellmer</author>
         <copyright>
@@ -32,8 +30,10 @@
                 <cmd>Enter the title of the document, and click <cmdname>Save</cmdname>.</cmd>
                 <info>Adding your initials to the beginning (e.g. MS) is a good way to indicate to
                     others that it is a file created by another CWRC-Writer tester. You may only
-                    enter upper or lowercase letter; no numbers, spaces, or punctuation are
-                        allowed.<image placement="break"
+                    enter upper or lowercase letter; no numbers, spaces, or punctuation are allowed.
+                    At the moment, we do not have individual authentication setup for each user, so
+                    it's best if you do not play with each other's files: this way each tester can
+                    have his/her own files to alter, add to, and so forth.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A2967fccc-9027-4e4b-941b-cb947d50ead3/datastream/OBJ/view"
                         id="image_bpr_xd2_lp" align="center" scalefit="yes" scale="80"/></info>
             </step>
