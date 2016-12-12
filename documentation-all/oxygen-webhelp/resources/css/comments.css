@@ -1,12 +1,82 @@
 /*
 
-Oxygen Webhelp plugin
-Copyright (c) 1998-2014 Syncro Soft SRL, Romania.  All rights reserved.
-Licensed under the terms stated in the license file EULA_Webhelp.txt 
-available in the base directory of this Oxygen Webhelp plugin.
+Oxygen Webhelp Plugin
+Copyright (c) 1998-2016 Syncro Soft SRL, Romania.  All rights reserved.
 
 */
 
+/*Start RTL*/
+html[dir="rtl"] #link_signUp,html[dir="rtl"] .bt_admin,html[dir="rtl"] div.version,html[dir="rtl"] div.product,html[dir="rtl"] div.date,html[dir="rtl"] .actions{
+    float: left;
+}
+html[dir="rtl"] div.version,html[dir="rtl"] div.product{
+    padding-right: 10px;
+    padding-left: 0;
+}
+html[dir="rtl"] div.date{
+    padding-right: 17px;
+    padding-left: 0;
+}
+html[dir="rtl"] .actions{
+    margin-right: 7px;
+    border-left: 0px solid #eee;
+    border-right: 1px solid #eee;
+}
+html[dir="rtl"] .bt_edit,html[dir="rtl"] .bt_approve,html[dir="rtl"] .bt_suspend,html[dir="rtl"] .bt_delete{
+    margin-left: 0px !important;
+    margin-right: 10px !important;
+    float: left;
+}
+html[dir="rtl"] #comments{
+    background-position: right;
+    padding: 5px 0 5px 5px;
+}
+html[dir="rtl"] #cm_count{
+    margin-right: 35px;
+    margin-left: 0;
+}
+html[dir="rtl"] #cm_count, #cm_title{
+    padding-right: 5px;
+    padding-left: 0;
+}
+html[dir="rtl"] #comments #userAccount{
+    left:15px;
+    float: left;
+}
+html[dir="rtl"] .bt_new,html[dir="rtl"] .cleditorGroup,
+html[dir="rtl"] .cleditorButton,html[dir="rtl"] div.cmTitle,
+html[dir="rtl"] #link_lostPwd,html[dir="rtl"] div.name,
+html[dir="rtl"] .commentState,
+html[dir="rtl"] .minus,
+html[dir="rtl"] .plus{
+    float: right;
+}
+html[dir="rtl"] .minus,html[dir="rtl"] .plus{
+    margin-right: 0;
+    margin-left: 7px;
+}
+html[dir="rtl"] #userAccount #bt_logIn,html[dir="rtl"]  #userAccount #bt_signUp{
+    margin: 0 10px 0 0;
+}
+html[dir="rtl"] .bt_close{
+    float: left;
+    background-position: right;
+}
+html[dir="rtl"] #approveAll{
+    left:0;
+    right: auto;
+}
+html[dir="rtl"] ul.commentStyle li div.content{
+    padding: 0 15px 5px 7px;
+}
+html[dir="rtl"] ul.commentStyle li ul.commentStyle li{
+    margin-left: 0;
+    margin-right: 30px;
+}
+/*End RTL*/
+#cm_count, #cm_title {
+    line-height: 2em;
+}
 .accountSettings {
     display: block;
     position: absolute;
@@ -17,7 +87,6 @@ available in the base directory of this Oxygen Webhelp plugin.
     padding: 5px;
     border: 1px solid black;
     margin: 6px 13px 0 4px;
-    background-image: url("../img/user-512.png");
     background-size: 20px 20px;
 }
 
@@ -25,7 +94,7 @@ available in the base directory of this Oxygen Webhelp plugin.
 	clear: both;
 }
 #commentsContainer {
-	font-family: 'Lucida sans Unicode', Arial, Verdana;
+	font-family: 'Lucida sans Unicode', Arial, Verdana, "Lucida Grande", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", Meiryo, sans-serif;
 	clear: both;
 	margin: 7px 7px 7px 0;
 }
@@ -213,14 +282,22 @@ div.product {
 }
 
 .actions {
-	width: 210px;
+	width: 215px;
 	border-left: 1px solid #eee;
 	float: right;
 }
 
+.btn:HOVER,.bt_cancel:hover,#bt_recover:hover,#bt_signUp:hover,#logIn:hover,#l_bt_submit_log:hover,.span_bt:hover,#bt_passwd:hover,#bt_profile:hover, #bt_close:hover, #l_bt_submit_nc:hover
+	{
+	color:#000;
+	border:1px solid #ccc;
+	background-color: #E1F1FF;
+	box-shadow: 1px 1px 3px #ddd;
+}
+
 .bt_edit,.bt_approve,.bt_suspend,.bt_delete{
 	padding: 2px 4px 2px 4px;
-	width: 60px;
+	min-width: 60px;
 	background-color: #fff;
 	border-radius: 5px;
 	text-align: center;
@@ -233,14 +310,15 @@ div.product {
 	float: right;
     border:1px solid #ddd;
 	color:#555;
+    margin-bottom: 10px !important;
 }
 
 .bt_edit:hover,.bt_approve:hover,.bt_suspend:hover,.bt_delete:hover {
     color:#000;
-	background-color: #E1F1FF;
+    background-color: #E1F1FF;
 }
 
-.bt_edit[disabled],.bt_delete[disabled] {
+.bt_edit[disabled],.bt_edit[disabled]:HOVER,.bt_delete[disabled],.bt_delete[disabled]:HOVER,#l_bt_submit_nc[disabled] {
     color: rgb(221,221,221);
     background-color: rgb(239,239,239);
     box-shadow: rgb(170, 170, 170) 0 1px 4px;
@@ -248,7 +326,9 @@ div.product {
     border: 0;
     cursor: auto;
 }
-
+.bt_edit[disabled],.bt_edit[disabled]:HOVER,.bt_delete[disabled],.bt_delete[disabled]:HOVER{
+    padding: 2px 4px 2px 4px;
+}
 #oldComments {
 	clear: both;
 }
@@ -392,14 +472,6 @@ div.product {
 	text-align: center;
 }
 
-.btn:HOVER,.bt_cancel:hover,#l_bt_submit_nc:hover,#bt_recover:hover,#bt_signUp:hover,#logIn:hover,#l_bt_submit_log:hover,.span_bt:hover,#bt_passwd:hover,#bt_profile:hover, #bt_close:hover
-	{
-	color:#000;
-	border:1px solid #ccc;
-	background-color: #E1F1FF;
-	box-shadow: 1px 1px 3px #ddd;
-}
-
 #commentsContainer div,#commentsContainer span {
 	line-height: normal;
 }
@@ -412,7 +484,7 @@ div.product {
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-	font-family: 'Lucida sans Unicode', Arial, Verdana;
+	font-family: 'Lucida sans Unicode', Arial, Verdana, "Lucida Grande", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", Meiryo, sans-serif;
 }
 
 #cm_count,#cm_title {
@@ -671,7 +743,7 @@ div.suspended {
     padding: 4px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    width: 30px;
+    min-width: 30px;
     margin: 40px;
     cursor: pointer
 }
@@ -835,7 +907,7 @@ div.suspended {
 	margin: 10px 0 0 0;
 }
 input[type=button] {
-    font-family: 'Lucida sans Unicode', Arial, Verdana;
+    font-family: 'Lucida sans Unicode', Arial, Verdana, "Lucida Grande", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", Meiryo, sans-serif;
 }
 
 .v_true,.v_false {
@@ -947,12 +1019,12 @@ input[type=button] {
 	cursor: pointer;
 }
 
-.bt_inactiv {
+.bt_inactiv, input[disabled='disabled'], input[disabled='disabled']:HOVER {
 	background-color: #efefef;
 	border-radius: 5px;
 	box-shadow: 0 1px 4px #aaa;
 	min-width: 60px;
-	color: #ddd;
+	color: #aaa;
 	text-shadow: 0 1px 0 #fff;
 	cursor: pointer;
 	padding: 6px 10px 6px 10px;
@@ -1023,7 +1095,7 @@ div.tbCell p{
 	margin-top: -10%; /*set to a negative number 1/2 of your height*/
 	margin-left: -20%; /*set to a negative number 1/2 of your width*/
 	z-index: 100;
-	font-family: 'Lucida sans Unicode', Arial, Verdana;
+	font-family: 'Lucida sans Unicode', Arial, Verdana, "Lucida Grande", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", Meiryo, sans-serif;
 }
 div#info{
 	font-size:xx-small;

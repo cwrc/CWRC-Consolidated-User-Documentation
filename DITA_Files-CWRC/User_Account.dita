@@ -16,9 +16,7 @@
           id="image_kts_pwy_3x" align="center"/></p>
       <p>CWRC has divided user accounts into sections. The Dashboard is where you access the main
         features of your account. This is where you access your messages, workflow reports, saved
-        searches, and bookmark lists. For more information see below. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Aba3bd365-6577-46dd-8558-336366215e17/datastream/OBJ/view"
-          id="image_yyk_swy_3x" align="center" scale="80"/></p>
+        searches, and bookmark lists. For more information see below. </p>
       <p>You have a research space, this currently takes you to the CWRC collaboratory.</p>
       <p>Logging out of CWRC takes you back to the CWRC homepage.</p>
     </section>
@@ -26,8 +24,8 @@
       <title>Dashboard</title>
       <p>The features of your account dashboard have been previously mentioned, here we will outline
         everything your CWRC account has to offer.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Aba3bd365-6577-46dd-8558-336366215e17/datastream/OBJ/view"
-          id="image_d4z_twy_3x" align="center" scale="80"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab020383b-e58a-4081-862d-baf8409df5d5/datastream/OBJ/view"
+          scale="80" align="center" id="image_hhx_bfz_fy" scalefit="yes"/></p>
       <p><b>Private Messages</b> is where you can check and send messages to other CWRC members who
         belong to the same project(s) as you. This is where you will see new messages. If you click
         on the <b>View all messages</b> button located at the bottom of the message section it will
@@ -37,8 +35,8 @@
       <p>Your <b>Messages</b> page is where you access your new and sent messages. Additionally,
         this is where you write and send new messages (for more information see <xref
           href="Messaging_Project_Members.dita"/>). <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A77b34510-ba1d-4811-8721-3a6344e94e3c/datastream/OBJ/view"
-          id="image_knn_wxy_3x" align="center"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A2c0fe2fc-4447-40ab-83c1-74c4d7a4c3c7/datastream/OBJ/view"
+          scale="80" align="center" id="image_h24_dfz_fy" scalefit="yes"/></p>
       <p>Project administrators and editors can assign projects to team members. The <b>Assign to
           Me</b> section of your dashboard will notify you of assigned projects and display any
         uncompleted assignments on your dashboard.<image placement="break"
@@ -65,8 +63,8 @@
         to send them a private message. <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A6518afd0-38ef-4219-9129-e8e292155aa5/datastream/OBJ/view"
           id="image_n2q_bzy_3x" align="center"/><image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A790e1d77-6896-473f-aef8-499d478880ec/datastream/OBJ/view"
-          id="image_a3g_hzy_3x" align="center" scale="80"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Af38dce31-8960-4493-82be-80cde09d69ec/datastream/OBJ/view"
+          scale="80" align="center" id="image_yvg_gfz_fy" scalefit="yes"/></p>
       <p>The <b>My Projects</b> list shows you what projects you are a member of and has a link to
         your <b>Research Space</b>. By starring a project in this list, a link to the starred
         projects dashboard page will appear in the login drop down menu (top right of the page).
@@ -104,8 +102,8 @@
       <p>The View tab displays your user profile. You will see any information you’ve added to your
         account along with what projects you are a member of. Additionally, this page shows you an
         URL that you can use to login with any OpenID sites. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Aba3bd365-6577-46dd-8558-336366215e17/datastream/OBJ/view"
-          id="image_d4p_bcz_3x" align="center" scale="80"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab020383b-e58a-4081-862d-baf8409df5d5/datastream/OBJ/view"
+          scale="80" align="center" id="image_dmc_jfz_fy" scalefit="yes"/></p>
       <p>By clicking on the Edit tab you can change any details associated with your account. This
         includes actions like changing your password or adding a picture to your account profile.
           <image placement="break"
@@ -127,8 +125,8 @@
           <li>Workflow reports </li>
           <li>Disc quota (how much server space the project can use)</li>
           <li>Project utilities<image placement="break"
-              href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab7f34b51-bc4e-4417-becb-ebc3a7655708/datastream/OBJ/view"
-              id="image_owh_22z_3x" align="center" scale="80"/></li>
+              href="http://beta.cwrc.ca/islandora/object/cwrc%3A1af76402-bc4a-4332-b3d8-0f37619efb6d/datastream/OBJ/view"
+              scale="80" align="center" id="image_etv_kfz_fy" scalefit="yes"/></li>
         </ul></p>
       <p>Locking object prevents users for making unapproved edits or annotations to files.</p>
       <p>The <b>Utilities</b> (on the right side of the project dashboard) are editing options for

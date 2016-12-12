@@ -14,16 +14,16 @@
             </step>
             <step>
                 <cmd>Click on the New Messages button. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A781d7b00-8736-4075-82eb-bbb0cfd8de67/datastream/OBJ/view"
-                        id="image_gdp_33v_3x" align="center" scale="80"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2c0fe2fc-4447-40ab-83c1-74c4d7a4c3c7/datastream/OBJ/view"
+                        scale="80" align="center" id="image_r4q_whz_fy"/></cmd>
             </step>
             <step>
-                <cmd>Fill out the new message form.</cmd>
+                <cmd>Fill out the new message form.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A11441a31-e27f-483f-a9c4-ffa928bbbe9d/datastream/OBJ/view"
+                        scale="80" align="center" id="image_hcb_s3z_fy" scalefit="yes"/></cmd>
                 <info>To send to other users you need to enter their user name, however CWRC
                     provides drop down menu of user names based on what you begin to type (see
-                    screenshot below).<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A35beb41e-5464-4216-9329-9931eac8add8/datastream/OBJ/view"
-                        id="image_tsn_k3v_3x" align="center" scale="80"/></info>
+                    screenshot below).</info>
             </step>
             <step importance="optional">
                 <cmd>To preview your message click on Preview Message .</cmd>

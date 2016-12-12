@@ -39,8 +39,8 @@
       <p><b>Display Characteristics:</b> Once ingested, clicking on this cModel object will display
         a citation. A collapsible metadata table will also allow you to see additional details. </p>
       <p><b>File types:</b> There are no file uploads<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A48cca9a3-ccce-45dc-9c50-168394d6541c/datastream/OBJ/view"
-          id="image_ww2_5qy_3x" align="center" scale="80"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A54a23fa9-ba1f-4d6f-aea3-2fbed302f43c/datastream/OBJ/view"
+          scale="80" align="center" id="image_edy_n2z_fy" scalefit="yes"/></p>
       <p><b>Example:</b><xref
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A2c7e0aa4-ae4c-4a47-88f9-798187c14fac"
           format="html" scope="external"
@@ -55,8 +55,8 @@
       <p><b>Display Characteristics:</b> Ingested XML documents open within CWRC-Writer (a custom
         built tool that allows users to read, annotate and edit XML documents).</p>
       <p><b>File types:</b> XML or existing template<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A6eb50064-c008-427f-a386-b5ee928df66a/datastream/OBJ/view"
-          id="image_wrk_xjy_3x" align="center" scale="80"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Aee8074ac-6ff6-4036-aa38-f0b5705ca8df/datastream/OBJ/view"
+          scale="80" align="center" id="image_mhv_p2z_fy" scalefit="yes"/></p>
       <p><b>Example:</b><xref
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab1f42612-788b-4b1e-9767-1bf22bc818a6#cwrc:b1f42612-788b-4b1e-9767-1bf22bc818a6"
           format="html" scope="external"
@@ -163,8 +163,8 @@
         unless the user clicks to open the file (the you see the full size image). If you have a
         large image use the “Islandora Large Image Content Model”.</p>
       <p><b>File types:</b> gif, jpg/jpeg, or png<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A1ea1485a-38d2-4d81-af12-f9a19279acf3/datastream/OBJ/view"
-          id="image_zpm_d4y_3x" align="center" scale="80"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A185a129a-8af9-4151-941a-6c22b8ec1c98/datastream/OBJ/view"
+          scale="80" align="center" id="image_ej2_s2z_fy" scalefit="yes"/></p>
       <p><b>Example:</b><xref
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac5ebb113-a549-4259-ade4-cb09065c44da"
           format="html" scope="external"
@@ -213,8 +213,8 @@
         documents (like a word processor) will be extracted to a datastream and indexed. Scanned
         pdfs will not.</p>
       <p><b>File types:</b> PDF<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A210b733d-b123-44dd-a560-0fdd430aad22/datastream/OBJ/view"
-          id="image_blr_2py_3x" align="center" scale="80"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Aae953e0d-08f1-4a09-9664-75f7c620ce7b/datastream/OBJ/view"
+          align="center" id="image_ykr_t2z_fy" scalefit="yes" scale="80"/></p>
       <p><b>Example:</b><xref
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Abc0875cc-e746-42c3-acd6-e3c0ce7ed39e"
           format="html" scope="external"
@@ -227,8 +227,8 @@
       <p><b>Display Characteristics:</b> Files play back in the browser using HTML5 or Adobe Flash
         depending on the age of your browser. </p>
       <p><b>File types:</b> ogg, mp4, mov, qt, m4v, avi, or mkv<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A40d780f7-0eae-4c5d-a252-84f1ee27e4fd/datastream/OBJ/view"
-          id="image_t1k_qpy_3x" align="center" scale="80"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A41c96dca-93c6-4d32-a65b-54dd1e58b9f0/datastream/OBJ/view"
+          scale="80" align="center" id="image_ugs_v2z_fy" scalefit="yes"/></p>
       <p><b>Example:</b><xref
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A1aaac85d-4425-47aa-bc9d-306315e09eb3"
           format="html" scope="external"

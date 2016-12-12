@@ -15,10 +15,11 @@
                 <info>The images below show two different way you can view files in CWRC. The first
                     is an XML file shown in CWRC-Writer. The second is a video file displayed within
                     its CWRC file page.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A7461ecde-5dd7-4d35-a2ae-1f1fb7fb22a8/datastream/OBJ/view"
-                        id="image_enx_5dv_3x" align="center" scale="80"/><image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A40d780f7-0eae-4c5d-a252-84f1ee27e4fd/datastream/OBJ/view"
-                        id="image_mfl_4dv_3x" align="center" scale="80"/></info>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aee8074ac-6ff6-4036-aa38-f0b5705ca8df/datastream/OBJ/view"
+                        scale="80" align="center" id="image_wzv_3hz_fy" scalefit="yes"/><image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A41c96dca-93c6-4d32-a65b-54dd1e58b9f0/datastream/OBJ/view"
+                        scale="80" align="center" id="image_qdf_khz_fy" scalefit="yes"/></info>
             </step>
         </steps>
     </taskbody>

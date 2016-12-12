@@ -18,8 +18,8 @@
                 <cmd>Fill out the <b>Report a Bug</b> form.</cmd>
                 <info>Please provide as much detail as possible. This will help our programmers to
                     easily find, reproduce and fix the bug.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae29dced0-d554-467f-bd81-1928e4a07103/datastream/OBJ/view"
-                        id="image_npz_tw5_3x" align="center" scale="80"/></info>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A28fe9661-7498-487f-b700-36c4e4912835/datastream/OBJ/view"
+                        scale="80" align="center" id="image_ws2_chz_fy" scalefit="yes"/></info>
             </step>
             <step>
                 <cmd>Click <b>Submit</b>.</cmd>

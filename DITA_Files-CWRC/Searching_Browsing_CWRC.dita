@@ -19,8 +19,8 @@
       <p><b>Search Results</b> can be sorted by the relevance to search terms, title, creation date,
         and last modified date. These option can be organized in ascending and descending order.
           <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A260a971d-efb8-4e49-b527-fa1c7e3aa191/datastream/OBJ/view"
-          id="image_cd4_n3z_3x" align="center" scale="80"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A30a30098-4750-4676-8f7e-89fb9332c4e4/datastream/OBJ/view"
+          scale="80" align="center" id="image_og3_4fz_fy" scalefit="yes"/></p>
       <image placement="break"
         href="http://beta.cwrc.ca/islandora/object/cwrc%3Acf7280be-eb73-4d00-b7e0-6b3a7090878e/datastream/OBJ/view"
         id="image_usp_q3z_3x" align="center"/>
@@ -53,8 +53,8 @@
         red “+” and “-” buttons beside the search terms will add or delete them. You can specify
         where the search term should be found by changing the “Field” option.<image
           placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad06814a5-c57d-4f0b-bbfd-1330fdc7ef1a/datastream/OBJ/view"
-          id="image_pxn_4kz_3x" align="center" scale="80"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae32d77f7-dbea-4ebd-bb55-72b6f98b2ac5/datastream/OBJ/view"
+          scale="80" align="center" id="image_j1t_pfz_fy" scalefit="yes"/></p>
       <p>The “field” list narrows down your search by the metadata and workflow stamps of objects.
         The default option is dc.title, which will return the most results because when an object is
         created or uploaded it is a required field. <image placement="break"

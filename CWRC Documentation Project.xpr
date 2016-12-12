@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="15.2">
+<project version="18.1">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="15.2" xml:space="preserve">
+            <serialized version="18.1" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>profiling.conditions</String>
@@ -1238,21 +1238,6 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>DITA_Maps-Secondary/CWRC_Information.ditamap</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Documentation - all</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>CWRC_User_Manual-MASTER_MAP.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -1269,6 +1254,21 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>DITA_Files-CWRC/Creating_CWRC_Account.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Documentation - all</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>DITA_Maps-Secondary/CWRC_Information.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -1359,6 +1359,15 @@
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
                                 </field>
+                                <field name="skinCssFile">
+                                    <null/>
+                                </field>
+                                <field name="lastCustomSkinCssPath">
+                                    <null/>
+                                </field>
+                                <field name="webhelpResponsiveTemplate">
+                                    <null/>
+                                </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -1386,15 +1395,15 @@
                                             <field name="type">
                                                 <Integer>4</Integer>
                                             </field>
-                                            <field name="isPredefined">
-                                                <Boolean>true</Boolean>
-                                            </field>
                                             <field name="possibleValues">
                                                 <String-array>
                                                     <null/>
                                                     <String>yes</String>
                                                     <String>no</String>
                                                 </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <null/>
                                             </field>
                                         </ditaParameter>
                                     </list>
@@ -1463,6 +1472,9 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="outputFile">
+                                    <null/>
+                                </field>
+                                <field name="outputResource">
                                     <null/>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
@@ -1543,6 +1555,15 @@
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
                                 </field>
+                                <field name="skinCssFile">
+                                    <null/>
+                                </field>
+                                <field name="lastCustomSkinCssPath">
+                                    <null/>
+                                </field>
+                                <field name="webhelpResponsiveTemplate">
+                                    <null/>
+                                </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -1570,15 +1591,15 @@
                                             <field name="type">
                                                 <Integer>4</Integer>
                                             </field>
-                                            <field name="isPredefined">
-                                                <Boolean>true</Boolean>
-                                            </field>
                                             <field name="possibleValues">
                                                 <String-array>
                                                     <null/>
                                                     <String>yes</String>
                                                     <String>no</String>
                                                 </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <null/>
                                             </field>
                                         </ditaParameter>
                                     </list>
@@ -1647,6 +1668,9 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="outputFile">
+                                    <null/>
+                                </field>
+                                <field name="outputResource">
                                     <null/>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
@@ -1727,6 +1751,15 @@
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
                                 </field>
+                                <field name="skinCssFile">
+                                    <null/>
+                                </field>
+                                <field name="lastCustomSkinCssPath">
+                                    <null/>
+                                </field>
+                                <field name="webhelpResponsiveTemplate">
+                                    <null/>
+                                </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -1754,15 +1787,15 @@
                                             <field name="type">
                                                 <Integer>4</Integer>
                                             </field>
-                                            <field name="isPredefined">
-                                                <Boolean>true</Boolean>
-                                            </field>
                                             <field name="possibleValues">
                                                 <String-array>
                                                     <null/>
                                                     <String>yes</String>
                                                     <String>no</String>
                                                 </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <null/>
                                             </field>
                                         </ditaParameter>
                                     </list>
@@ -1831,6 +1864,9 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="outputFile">
+                                    <null/>
+                                </field>
+                                <field name="outputResource">
                                     <null/>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
@@ -1911,6 +1947,15 @@
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
                                 </field>
+                                <field name="skinCssFile">
+                                    <null/>
+                                </field>
+                                <field name="lastCustomSkinCssPath">
+                                    <null/>
+                                </field>
+                                <field name="webhelpResponsiveTemplate">
+                                    <null/>
+                                </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -1938,15 +1983,15 @@
                                             <field name="type">
                                                 <Integer>4</Integer>
                                             </field>
-                                            <field name="isPredefined">
-                                                <Boolean>true</Boolean>
-                                            </field>
                                             <field name="possibleValues">
                                                 <String-array>
                                                     <null/>
                                                     <String>yes</String>
                                                     <String>no</String>
                                                 </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <null/>
                                             </field>
                                         </ditaParameter>
                                     </list>
@@ -2015,6 +2060,9 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="outputFile">
+                                    <null/>
+                                </field>
+                                <field name="outputResource">
                                     <null/>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
@@ -2095,6 +2143,15 @@
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
                                 </field>
+                                <field name="skinCssFile">
+                                    <null/>
+                                </field>
+                                <field name="lastCustomSkinCssPath">
+                                    <null/>
+                                </field>
+                                <field name="webhelpResponsiveTemplate">
+                                    <null/>
+                                </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -2122,15 +2179,15 @@
                                             <field name="type">
                                                 <Integer>4</Integer>
                                             </field>
-                                            <field name="isPredefined">
-                                                <Boolean>true</Boolean>
-                                            </field>
                                             <field name="possibleValues">
                                                 <String-array>
                                                     <null/>
                                                     <String>yes</String>
                                                     <String>no</String>
                                                 </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <null/>
                                             </field>
                                         </ditaParameter>
                                     </list>
@@ -2199,6 +2256,9 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="outputFile">
+                                    <null/>
+                                </field>
+                                <field name="outputResource">
                                     <null/>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
@@ -2279,6 +2339,15 @@
                                 <field name="addOxygenJars">
                                     <Boolean>true</Boolean>
                                 </field>
+                                <field name="skinCssFile">
+                                    <null/>
+                                </field>
+                                <field name="lastCustomSkinCssPath">
+                                    <null/>
+                                </field>
+                                <field name="webhelpResponsiveTemplate">
+                                    <null/>
+                                </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -2306,14 +2375,17 @@
                                             <field name="type">
                                                 <Integer>4</Integer>
                                             </field>
-                                            <field name="isPredefined">
-                                                <Boolean>true</Boolean>
-                                            </field>
                                             <field name="possibleValues">
                                                 <String-array>
-                                                    <null/>
                                                     <String>yes</String>
                                                     <String>no</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String></String>
+                                                    <String></String>
                                                 </String-array>
                                             </field>
                                         </ditaParameter>
@@ -2385,6 +2457,9 @@
                                 <field name="outputFile">
                                     <null/>
                                 </field>
+                                <field name="outputResource">
+                                    <null/>
+                                </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
@@ -2423,6 +2498,10 @@
                                 </field>
                             </ditaScenario>
                         </scenario-array>
+                    </entry>
+                    <entry>
+                        <String>scenarios.load.from.project</String>
+                        <null/>
                     </entry>
                     <entry>
                         <String>validation.scenarios</String>

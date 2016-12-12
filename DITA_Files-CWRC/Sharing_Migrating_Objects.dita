@@ -13,10 +13,8 @@
             </step>
             <step>
                 <cmd>Click on the Share tab above the file or folder.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2c2665f8-be5a-45d2-bf3f-6a234284f652/datastream/OBJ/view"
-                        id="image_zzw_dfv_3x" align="center"/><image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8ed60c34-349e-4c28-a0e9-268ad7d74904/datastream/OBJ/view"
-                        id="image_ktl_ffv_3x" align="center"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A46658203-fb43-442d-bf1e-ff100fa12e09/datastream/OBJ/view"
+                        align="center" id="image_jb5_mhz_fy"/></cmd>
             </step>
             <step>
                 <cmd>Choose the site you would like to share the folder/file with. </cmd>

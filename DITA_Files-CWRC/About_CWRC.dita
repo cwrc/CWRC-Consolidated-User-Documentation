@@ -29,8 +29,17 @@
       <p>You can change the list order of the collaboratory by selecting a <cmdname>Sort By</cmdname>option (either by <cmdname>Title</cmdname> or by <cmdname>Modified</cmdname>) and clicking <cmdname>Change</cmdname>. <cmdname>Title</cmdname> displays project in alphabetical order. The <cmdname>Modified</cmdname> option changes the order so that the projects that have been recently updated or changed are first in the list order.</p>
       <p>Additionally, viewers can changes how the collaboratory projects are presented. The default option is a list view, but viewers can select the <cmdname>Gallery</cmdname> icon located above the projects in the righthand corner. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A6cb45a32-833b-4544-96cb-3758875cb035/datastream/OBJ/view" id="image_ytj_snv_3x" align="center" scale="80"></image></p>
       <p>To see the <cmdname>Projects Overview</cmdname> page, go to <xref href="http://www.cwrc.ca/about/" format="html" scope="external">http://www.beta.cwrc.ca/projects</xref></p>
-      <p>By clicking on a project you are taken to the collection page. This displays the sub collection folders of the project. Users can explore  uploaded and born digital files within CWRC  of any participating project. Editing and annotating those materials will depend on whether you are a member of a project and/or if the project has released the lock on an object (in other words, made public for editing and annotating). <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A74bcf889-6b4e-43a2-9af0-c8129d311725/datastream/OBJ/view" id="image_alj_5nv_3x" align="center" scale="80"></image></p>
-      <p>Projects have their own homepage, which they can customize using functionality that is part of the CWRC Drupal interface. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A5908b5b2-e748-4096-a304-42f9084dd7d7/datastream/OBJ/view" id="image_kwb_xnv_3x" align="center" scale="80"></image></p>
+      <p>By clicking on a project you are taken to the collection page. This displays the sub
+        collection folders of the project. Users can explore uploaded and born digital files within
+        CWRC of any participating project. Editing and annotating those materials will depend on
+        whether you are a member of a project and/or if the project has released the lock on an
+        object (in other words, made public for editing and annotating). <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A8026236b-63a2-404c-a7a3-f1bb6993f4a7/datastream/OBJ/view"
+          id="image_zbx_plt_fy" align="center" scale="80" scalefit="yes"/></p>
+      <p>Projects have their own homepage, which they can customize using functionality that is part
+        of the CWRC Drupal interface.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A305fd261-de7d-4070-87d0-506052e240ec/datastream/OBJ/view"
+          id="image_uby_tlt_fy" align="center" scalefit="yes" scale="80"/></p>
       <p>To find out how to create, edit, or view Project Homepages, visit <xref href="Make_Changes_to_Project_Homepages.dita">Making Changes to Project Homepages</xref>.</p>
     </section>
     <section><title>Visualization Tools</title><p>CWRC provides visualization tools for users to explore  texts withinthe site. The tools include <cmdname>Voyant</cmdname> and <cmdname>PlotIt</cmdname>.</p><p><b>CWRC-Writer</b></p><p>CWRC-Writer is a WYSIWYG XML/RDF editor. Users can use CWRC-Writer to view XML documents (uploaded or born digital within CWRC), annotated with RDF entities and edit the XML/RDF tags. The options available depend on whether the creator has “locked” it from public editing. CWRC-Writer is accessed whenever you open an XML document.</p><p>The below screenshot shows the <cmdname>Edit</cmdname> option of CWRC-Writer. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Abfc3d042-be02-40b1-b5b7-3afa70ca3684/datastream/OBJ/view" id="image_az4_lpv_3x" align="center" scale="80"></image></p>For more information see <xref href="http://cwrc.ca/Documentation/project-editor/#CWRC-Writer/CWRCWriter_Started_Splash.html" format="html" scope="external">http://cwrc.ca/Documentation/project-editor/#CWRC-Writer/CWRCWriter_Started_Splash.html</xref></section>
@@ -75,3 +84,4 @@
     <link href="Creating_CWRC_Account.dita"></link>
   </related-links>
 </reference>
+<?oxy_options track_changes="on"?>

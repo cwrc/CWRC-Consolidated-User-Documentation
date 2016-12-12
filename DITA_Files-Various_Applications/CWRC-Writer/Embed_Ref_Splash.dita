@@ -5,21 +5,6 @@
   <shortdesc>CWRC-Writer provides three options for users to work with their documents. Users can
     view, annotate or edit documents.</shortdesc>
   <refbody>
-    <refsyn>
-      <synph>
-        <var>object</var>
-        <delim>.</delim>
-        <kwd>property</kwd>
-        <delim> = </delim>
-        <var>trueorfalse</var>
-      </synph>
-    </refsyn>
-    <properties>
-      <property>
-        <proptype>Prop name</proptype>
-        <propvalue>Prop value</propvalue>
-      </property>
-    </properties>
     <section>
       <title>General Description</title>
       <p>CWRC-Writer provides three options for users to work with their documents. Users can view,
@@ -38,8 +23,10 @@
         CWRC-Writer.</p>
       <p>While in view mode CWRC-Writer does not allow you to change or add tags to the
           document.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A7461ecde-5dd7-4d35-a2ae-1f1fb7fb22a8/datastream/OBJ/view"
-          id="image_qxk_kgs_3x" align="center" scale="80"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A139917db-d801-40e1-ac97-ea1ff7145006/datastream/OBJ/view"
+          align="center" id="image_ocm_y3z_fy"/><image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A28f660b2-0ea3-4768-98fd-9560ed1c1773/datastream/OBJ/view"
+          scale="80" align="center" id="image_xqp_z3z_fy"/></p>
     </section>
     <section>
       <title>Annotating a document</title>
@@ -59,5 +46,11 @@
           id="image_nlh_y3s_3x" align="center" scale="80"/></p>
     </section>
   </refbody>
-  <related-links/>
+  <related-links>
+    <link href="Embed_Create_Doc.dita"/>
+    <link href="Embedded_View_Doc.dita"/>  
+    <link href="Embed_Annotate.dita"/>
+    <link href="Embed_Ref_Save.dita"/>
+    <link href="Embed_Save_Exit.dita"/>
+  </related-links>
 </reference>

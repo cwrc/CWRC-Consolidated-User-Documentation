@@ -28,7 +28,7 @@
                 <cmd>Highlight the text within the tag that you want to edit.<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A9533598d-dd73-42fc-b830-036e00b4bc3a/datastream/OBJ/view"
-                        id="image_eyy_hb4_jp" align="center" height="4in" width="6in"/></cmd>
+                        id="image_eyy_hb4_jp" align="center" scalefit="yes"/></cmd>
             </step>
             <step>
                 <cmd>Click on the <cmdname>Edit Tag</cmdname> toolbar option.<image

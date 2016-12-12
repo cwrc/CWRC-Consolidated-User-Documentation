@@ -1,14 +1,12 @@
 /*
 
-Oxygen Webhelp plugin
-Copyright (c) 1998-2014 Syncro Soft SRL, Romania.  All rights reserved.
-Licensed under the terms stated in the license file EULA_Webhelp.txt 
-available in the base directory of this Oxygen Webhelp plugin.
+Oxygen WebHelp Plugin
+Copyright (c) 1998-2016 Syncro Soft SRL, Romania.  All rights reserved.
 
 */
 
 body{
-  font-family:arial, helvetica, verdana;
+  font-family:arial, helvetica, verdana, "Lucida Grande", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", Meiryo, sans-serif;
   font-size:12px;
   text-shadow: 0 1px 0 #fff;
 }
@@ -90,7 +88,7 @@ div.panel, .taskbody{
   left:9%;
   background-color:#F9FEFF;
   border-radius:7px;
-  box-shadow:0px 2px 2px #eee;
+  box-shadow:0 2px 2px #eee;
   border:1px solid #ddd;
   float:left;
   padding:10px;
@@ -141,8 +139,8 @@ div.panel tr:hover td{
 #doInstallData{
   width:100%;
   left:5%;
-  padding:0px;
-  margin:10px 5px 0px 5px;
+  padding:0;
+  margin:10px 5px 0 5px;
 }
 div.success{
   color:green;
@@ -202,7 +200,7 @@ li.substep .cmd{font-weight:normal;}
 strong.b{}
 span.code{
 	padding: 20px;
-	font-family: Courier, monospace;
+	font-family: Courier, Osaka-mono, "MS Gothic", monospace;
 	font-size: 12px;
 	display: block;
 	background-color: #fefefe;

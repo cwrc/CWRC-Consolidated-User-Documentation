@@ -1,21 +1,60 @@
 /*
 
-Oxygen Webhelp plugin
-Copyright (c) 1998-2014 Syncro Soft SRL, Romania.  All rights reserved.
-Licensed under the terms stated in the license file EULA_Webhelp.txt
-available in the base directory of this Oxygen Webhelp plugin.
+Oxygen WebHelp Plugin
+Copyright (c) 1998-2016 Syncro Soft SRL, Romania.  All rights reserved.
 
 */
+
+/* Start RTL */
+html[dir="rtl"] .topic, html[dir="rtl"] .hasSubMenuOpened, html[dir="rtl"] .hasSubMenuClosed{
+    background-position: right;
+}
+html[dir="rtl"] .textToSearch{
+    margin-right: 0;
+    margin-left: 4px;
+}
+html[dir="rtl"] #searchForm{
+    float:left;
+    padding: 2px 0 5px 0;
+    margin: 0;
+}
+html[dir="rtl"] #customLogo {
+    float: right;
+}
+html[dir="rtl"] #contentBlock, html[dir="rtl"] #contentBlock ul{
+    padding-right: 10px;
+    padding-left: 0px;
+}
+html[dir="rtl"] #expnd {
+    float: left;
+}
+html[dir="rtl"] #contentBlock li span {
+    padding: 2px 21px 2px 5px;
+}
+
+html[dir="rtl"] #header #tocMenu{
+    padding-left: 0;
+    padding-right: 13px;
+}
+/* End RTL */
 
 html,body {
     width: 100%;
     margin: 0;
     padding: 0;
     background-color: #fff;
-    font-family: arial, helvetica, sans-serif;
+    font-family: arial, helvetica, "Lucida Grande", Verdana, "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", Meiryo, sans-serif;
     font-size: 10pt;
 }
 
+#oldFrames:hover, #printlink a:hover {
+	opacity: 0.5;
+	filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.tab {
+    display: inline-block;
+}
 .tab span{
     float: left;
     display: inline-block;
@@ -38,12 +77,25 @@ html,body {
 #expnd a{
     display: none;
 }
+#expnd #collapseAllLink, #expnd #expandAllLink{
+    display: inline-block;
+    width:16px;
+    height:16px;
+}
+#collapseAllLink{
+    background-image: url("../img/CollapseAll16.png");
+}
+#expandAllLink{
+    background-image: url("../img/ExpandAll16.png");
+}
 
 /*Left pane TABs*/
 #tocMenu{
     clear: both;
     width: 100%;
     margin: 0 auto;
+    padding-left: 13px;
+    white-space: nowrap;
 }
 #tocMenu div{
     background-color : #eee;
@@ -58,7 +110,6 @@ html,body {
     border-top-left-radius:4px;
     border-top-right-radius:4px;
     border-bottom:0;
-    float: left;
     min-height: 1px;
     text-shadow:0 1px 0 #fff;
 }
@@ -77,11 +128,17 @@ html,body {
 }
 
 #bck_toc #searchBlock,#bck_toc #indexBlock, #bck_toc #contentBlock{
-    background-color:white;
+    background-color:transparent;
     padding-top:10px;
     vertical-align:top;
 }
-
+#bck_toc #contentBlock{
+    padding-bottom: 50px;
+}
+#bck_toc,#bck_toc #searchBlock,#bck_toc #indexBlock {
+    position: relative;
+    padding:0;
+}
 /*Content block with navigation tree*/
 #contentBlock>ul>li{
     padding: 1px 0 1px 0;
@@ -92,26 +149,26 @@ html,body {
 #contentBlock ul{
     margin: 0;
 }
-#contentBlock li span{
-    display: block;
+#contentBlock li>span{
+    display: inline-block;
     padding: 2px 5px 2px 21px;
 }
 #contentBlock,#contentBlock ul{
     padding-left: 10px;
 }
-#contentBlock a, a.link, a.navheader_parent_path{
+#contentBlock {
     text-decoration: none;
     font-size: 10pt;
     color: navy;
-    font-family: arial, helvetica, tahoma, sans-serif;
+    font-family: arial, helvetica, tahoma, "Lucida Grande", Verdana, "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", Meiryo, sans-serif;
     white-space: nowrap;
 }
-#contentBlock a:hover{
-    background: #F2F7FD;
-}
-#contentBlock a:hover, a.link:hover, a.navheader_parent_path:hover{
-    text-decoration: none;
-    color: red;
+#contentBlock a, #contentBlock a:hover, #contentBlock a:after, #contentBlock a:active, a.link, a.navheader_parent_path{
+    text-decoration: inherit;
+    font-size: inherit;
+    color: inherit;
+    font-family: inherit;
+    white-space: inherit;
 }
 .hasSubMenuClosed{
     background: url('../img/book_closed16.png') no-repeat;
@@ -138,9 +195,9 @@ html,body {
     text-decoration:none;
 }
 #indexBlock fieldset{
+    margin:15px 0 0 0;
+    padding:0;
     border:0;
-    padding-top:0;
-    border-bottom:1px solid #eee;
 }
 #indexBlock ul{
     color:#444;
@@ -153,38 +210,65 @@ li{
     list-style: none;
 }
 
-#searchBlock #searchForm {
-    margin: 0 10px;
+#searchBlock #searchForm.frameset, #indexBlock #indexForm {
+    position: relative;
+    margin: 0;
+    padding-top: 10px;
+    top: 0;
+    z-index: 99;
+    width: 100%;
+    background-color: #0000FF;
+    box-shadow: #bbbbbb 0 0 10px;
+}
+#searchForm{
+    float:right;
+    padding: 2px 0 5px 0;
+    margin: 0.2em 0 0 0;
 }
 
-#searchForm{
+#searchForm.frameset,#indexForm{
     margin:15px 10px;
     padding:0 10px 15px 10px;
-    border-bottom:0 solid #eee;
+    border:0;
 }
-#indexForm {
-    margin:15px 10px;
+#id_search, .textToSearch.frameset{
+    border: 1px #999 solid;
+    line-height: 1.4em;
+    padding: 0 3px;
+    margin: 0;
 }
-
-.textToSearch{
+.textToSearch.frameset{
+    margin:15px 0 0 20px;
+    width: 170px;
+    border-radius: 0;
+}
+.textToSearch.frameset:focus{
+    border: 1px #999 solid;
+    line-height: 1.4em;
+    padding: 0 3px;
+    margin: 15px 0 0 20px;
+    width: 170px;
+    border-radius: 0;
+    box-shadow: none;
+}
+.textToSearch, .textToSearch:focus{
     width: 150px;
     border: 1px #999 solid;
-    padding: 0 3px;
-    margin-right: 4px;
-    line-height: 1.5em;
+    padding: 2px 8px;
+    margin: 5px 4px 0 0;
+    line-height: 16px;
+    border-radius: 5px;
+}
+.textToSearch:focus{
+    outline: none;
+    box-shadow: 0 0 7px #999999;
+    border: 1px #bbb solid;
 }
 
 .topic{
     background-image: url('../img/topic16.png');
     background-repeat:  no-repeat;
     padding-left: 16px;
-}
-
-#id_search{
-    border: 1px #999 solid;
-    line-height: 1.4em;
-    padding: 0 3px;
-    margin: 0;
 }
 
 #rightDiv{
@@ -240,7 +324,7 @@ a.foundResult:hover{
     position: relative;
     float: right;
     font-size: 13px;
-    font-family: Arial,sans-serif;
+    font-family: Arial, "Lucida Grande", Verdana, "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", Meiryo, sans-serif;
     color: #888;
 }
 
@@ -250,10 +334,11 @@ a.foundResult:hover{
     font-weight:bold;
 }
 
-#searchResults{
-    padding: 0.6em;
+#searchResults,#iList{
+    overflow: auto;
+    padding: 0 0.6em;
+    height: 100%;
 }
-
 .searchresult{
     margin:0;
     padding:0
@@ -281,4 +366,14 @@ a.foundResult:hover{
     border-top: 1px solid gray;
     padding-top: 1em;
     color: #999;
+}
+#customLogo{
+    display:none;
+    height: 70px;
+    width: 200px;
+    margin-top: 5px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }

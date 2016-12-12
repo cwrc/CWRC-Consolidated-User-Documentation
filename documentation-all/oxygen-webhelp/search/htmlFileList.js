@@ -171,4 +171,4 @@ fl["167"]= "DITA_Files-Various_Applications/huviz/Shelve_Concept.html";
 fl["168"]= "DITA_Files-Various_Applications/huviz/Shelve_Manually.html";
 fl["169"]= "DITA_Files-Various_Applications/huviz/ViewEdges.html";
 fl["170"]= "DITA_Files-Various_Applications/huviz/View_Snippet.html";
-var doStem = false
+var doStem = false;searchLoaded = true;

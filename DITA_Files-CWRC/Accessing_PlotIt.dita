@@ -10,8 +10,8 @@
         <steps>
             <step>
                 <cmd>Open your account dashboard.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aba3bd365-6577-46dd-8558-336366215e17/datastream/OBJ/view"
-                        id="image_zk5_scv_3x" align="center" scale="80"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab020383b-e58a-4081-862d-baf8409df5d5/datastream/OBJ/view"
+                        scale="80" align="center" id="image_kmx_fhz_fy" scalefit="yes"/></cmd>
             </step>
             <step>
                 <cmd>Click on the <b>Bookmark List</b> tab on the right side of the page. </cmd>

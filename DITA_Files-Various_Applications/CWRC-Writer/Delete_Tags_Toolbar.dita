@@ -31,7 +31,8 @@
             <step>
                 <cmd>Click on the toolbar option <cmdname>Remove Tag</cmdname>.<image
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A04cbd846-7333-451e-b0a1-4e2a2b3cba3e/datastream/OBJ/view"
-                        id="image_ept_cqs_3x"/></cmd>
+                        id="image_ept_cqs_3x" placement="break" class="- topic/image "
+                        align="center"/></cmd>
                 <stepresult>This deletes the tag that the text belongs in. The text will remain in
                     the editor. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aacb7efeb-f235-4cc0-af9e-cee329227639/datastream/OBJ/view"

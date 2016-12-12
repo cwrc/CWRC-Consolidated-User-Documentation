@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/megan/Desktop/DocumentationAll/temp/pdf/DITA_Files-Various_Applications/CWRC-Writer?><?workdir-uri file:/Users/megan/Desktop/DocumentationAll/temp/pdf/DITA_Files-Various_Applications/CWRC-Writer/?><?path2project ../../?><?path2project-uri ../../?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="reference_owc_hkk_hx" ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic       reference/reference " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="reference:1;3:38">
+  <title class="- topic/title " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="title:1;4:10">Working with CWRC-Writer in CWRC</title>
+  <shortdesc class="- topic/shortdesc " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="shortdesc:1;5:14">CWRC-Writer provides three options for users to work with their documents. Users can
+    view, annotate or edit documents.</shortdesc>
+  <refbody class="- topic/body        reference/refbody " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="refbody:1;7:12">
+    <section class="- topic/section " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="section:1;8:14">
+      <title class="- topic/title " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="title:2;9:14">General Description</title>
+      <p class="- topic/p " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="p:1;10:10">CWRC-Writer provides three options for users to work with their documents. Users can view,
+        annotate or edit documents.</p>
+      <p class="- topic/p " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="p:2;12:10">When working with your document in the Annotation or Edit options other people cannot work
+        with the document. If the document is locked (you don’t have permission to work with) or
+        someone is currently working with the document you will be unable to “Annotate” or “Edit”
+        and receive error messages.</p>
+      <p class="- topic/p " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="p:3;16:10">If you are finished editing or annotating choose the “Save and Exit” option, this then
+        frees up the document for other team members, so that they may work with it.</p>
+    </section>
+    <section class="- topic/section " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="section:2;19:14">
+      <title class="- topic/title " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="title:3;20:14">Viewing a document in CWRC-Writer</title>
+      <p class="- topic/p " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="p:4;21:10">CWRC-Writer provides a viewing option so that users can look at locked documents (those
+        that are not available to edit or annotate). This is the default view when users open
+        CWRC-Writer.</p>
+      <p class="- topic/p " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="p:5;24:10">While in view mode CWRC-Writer does not allow you to change or add tags to the
+          document.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A139917db-d801-40e1-ac97-ea1ff7145006/datastream/OBJ/view" align="center" id="image_ocm_y3z_fy" class="- topic/image " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="image:1;27:49"/><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A28f660b2-0ea3-4768-98fd-9560ed1c1773/datastream/OBJ/view" scale="80" align="center" id="image_xqp_z3z_fy" class="- topic/image " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="image:2;29:60"/></p>
+    </section>
+    <section class="- topic/section " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="section:3;31:14">
+      <title class="- topic/title " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="title:4;32:14">Annotating a document</title>
+      <p class="- topic/p " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="p:6;33:10">This option allows users to work with the RDF in the document. You can add RDF annotations
+        (person, place, organization, etc.) using the toolbar.</p>
+      <p class="- topic/p " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="p:7;35:10">If the document is unavailable to be annotated or someone is currently working with the
+        document you will be unable to “Annotate” your document and you will receive an error
+        message.</p>
+      <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac9ed31c0-4f36-4190-9390-296c8a49bfe3/datastream/OBJ/view" id="image_mwg_cgs_3x" align="center" scale="80" class="- topic/image " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="image:3;40:58"/>
+    </section>
+    <section class="- topic/section " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="section:4;42:14">
+      <title class="- topic/title " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="title:5;43:14">Editing your document</title>
+      <p class="- topic/p " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="p:8;44:10">This allows users to edit the content and tags of the document. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Abfc3d042-be02-40b1-b5b7-3afa70ca3684/datastream/OBJ/view" id="image_nlh_y3s_3x" align="center" scale="80" class="- topic/image " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="image:4;46:60"/></p>
+    </section>
+  </refbody>
+  <related-links class="- topic/related-links " xtrf="file:/Users/megan/Desktop/DocumentationAll/DITA_Files-Various_Applications/CWRC-Writer/Embed_Ref_Splash.dita" xtrc="related-links:1;49:19"/>
+</reference>

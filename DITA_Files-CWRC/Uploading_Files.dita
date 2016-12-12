@@ -53,8 +53,8 @@
             <step>
                 <cmd>Click <b>Ingest</b> to finish uploading the object to your CWRC
                         Collection.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5df91a7d-5e45-4c06-9bca-4c62e9f60357/datastream/OBJ/view"
-                        id="image_ys5_h55_3x" align="center" scale="80"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac8cefc99-d96c-476c-821b-4f820fe38139/datastream/OBJ/view"
+                        scale="80" align="center" id="image_y5m_tgz_fy" scalefit="yes"/></cmd>
             </step>
         </steps>
     </taskbody>
