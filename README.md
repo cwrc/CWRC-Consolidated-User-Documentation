@@ -8,6 +8,8 @@ This repository contains DITA and html files representing the masterfiles and ou
 
 ## Naming convention
 
+Make the name of the DITA file and the title of the topic contained identical, but, in the file name, replace the spaces with underscores and omit special characters (i.e. ', @, ", etc.)
+
 
 ## Workflow
 
