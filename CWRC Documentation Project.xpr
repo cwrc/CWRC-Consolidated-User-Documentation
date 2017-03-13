@@ -1238,7 +1238,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>CWRC_user_manual-MASTER_MAP.ditamap</String>
+                                    <String>CWRC_User_Manual-MASTER_MAP.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -1261,15 +1261,23 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>CWRC_User_Manual-MASTER_MAP.ditamap</String>
+                                    <String>CWRC_user_manual-MASTER_MAP.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
+                                        <String>CWRC Documentation - DITA Map WebHelp - administrator</String>
+                                        <String>CWRC Documentation - DITA Map WebHelp - member</String>
+                                        <String>CWRC Documentation - DITA Map WebHelp - project-contributor</String>
+                                        <String>CWRC Documentation - DITA Map WebHelp - project-editor</String>
                                         <String>CWRC Documentation - DITA Map WebHelp - public</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
                                         <String>DITAMAP</String>
                                     </list>
                                 </field>
