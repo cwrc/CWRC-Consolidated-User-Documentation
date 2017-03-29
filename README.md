@@ -16,4 +16,4 @@ Make the name of the DITA file and the title of the topic contained identical, b
 
 ## Context
 
-Superceeds or replaces individual tool documentation repositories
+Superceeds or replaces individual tool documentation repositories.
