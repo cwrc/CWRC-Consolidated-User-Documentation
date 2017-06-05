@@ -5,7 +5,8 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>The annotator functionality is no longer available.</cmd>
+                <cmd>The annotator functionality is no longer available because the tool has been
+                    discontinued.</cmd>
             </step>
             <step>
                 <cmd>Click on the “Annotator Login” button.</cmd>
