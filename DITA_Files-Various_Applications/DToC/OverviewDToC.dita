@@ -2,9 +2,12 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_bfm_blm_lt">
   <title>Overview of Dynamic Table of Contexts</title>
-  <shortdesc>The Dynamic Table of Contexts (DToC) lets users reveal information about their text that
-    is not necessarily discovered when reading, such as word frequencies. DToC also allows users to
-    customize their document with annotations and adding tags. </shortdesc>
+  <shortdesc>The Dynamic Table of Contexts (DToC) viewer is an in-browser e-reader that uses the
+    underlying structure of a document to allow different paths through the text discovered when
+    reading, so that they can navigate via semantic tags, via the index (if present), or by search,
+    as well as viewing word frequencies across the document. DToC allows readers to "curate" the
+    text, that is, to customize the tags in a text they are reading, even if it is not their own. It
+    is also possibly to make your own DToC edition starting from our templates.</shortdesc>
   <refbody>
     <section><title>DToC tutorial video</title>
         <object data="https://www.youtube.com/embed/rTrjRIJjdbM" width="420" height="315">
