@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lgt_m5p_ht">
+    <title>Adding XML ids to your document manually</title>
+    <shortdesc>DToC uses XML ids as index locators; every index item is associated with one or more
+        paragraph (as opposed to pages in print indexes). </shortdesc>
+    <taskbody>
+        <context>
+            <p>If your document is small you can add your own XML ids. If you have a larger
+                document, we suggest that you open your document in Oxygen where you can add XML ids
+                quickly and easily (see the document "Adding XML ids with oXygen").</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Add a XML id within your 'p' tags in your document. To do this insert your
+                    cursor between the ‘p’ text and the right angle bracket and add an xml:id=''
+                    attribute. </cmd>
+                <info>It is optional to assign XML ids located in the TEI Header. </info>
+            </step>
+            <step>
+                <cmd>Assign values to your XML ids.</cmd>
+                <info>Your ids can be a letter or numerical value, but you must differentiate
+                    between the different tags. </info>
+            </step>
+            <step>
+                <cmd>Finish adding XML ids to all your 'p' tags. </cmd>
+                <info>You can add XML ids to any type of tag. For example, if you would like to
+                    index any citations in your document you can add XML ids to the 'note' tags.
+                    Alternatively, if you would like to cross reference your index you can also add
+                    XML ids to the 'item' tags. For more information please refer to the document
+                    "Creating Cross Referencing Index terms" linked to below.</info>
+            </step>
+        </steps>
+        <example>
+            <p>Open the XML document, “A Scandal in Bohemia: Chapter 1”. </p>
+            <p>For each paragraph within the body of text add a unique identifier. For example, you
+                can use “P” and then the number of what paragraph it is. So the fifth paragraph
+                would be “P5”.<image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A8359323a-56ba-43a9-9773-95476bb4120b/datastream/OBJ/view"
+                    id="image_n25_zvp_ht" align="center"/></p>
+            <p>You can use a combination of letters and numbers, but you cannot have spaces located
+                within the XML id attribute. underscores. Each paragraph, even if they
+                are in different chapters needs a distinct id. </p>
+        </example>
+    </taskbody>
+    <related-links>
+        <link href="CreatingXMLDoc.dita#task_nlg_4dn_ht"/>
+        <link href="AddingXMLidsOxygen.dita#task_vqx_qyp_ht"/>
+        <link href="IndexSubheadings.dita#task_vks_qnq_ht"/>
+        <link href="CrossReferenceIndex.dita#task_upv_ypt_ht"/>
+        <link href="UploadDocDToC.dita#task_grd_sqt_ht"/>
+        <link href="UploadTextURL.dita#task_stp_1wt_ht"/>
+        <link href="XMLTemplatesRef.dita#reference_vx1_1pk_nt"/> 
+    </related-links>
+</task>
