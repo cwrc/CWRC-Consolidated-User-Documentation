@@ -20,7 +20,8 @@
     <refbodydiv>
       <section><title>DToC overview</title>
         <p>The DToC homepage allows users to enter URLs, or upload documents in plain text or XML formats; however, DToC is optimized for
-          XML documents. </p>
+          XML documents. Extensible Markup Language (XML) is structured text designed to be read by a computer. More information about XML
+        can be found through the Text Encoding Initiative: <definition xlink:href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html" xlink:show="new">www.tei-c.org</definition> </p>
         <p>Users may upload pre-existing XML documents by clicking the "Upload" button found to the bottom-left corner of the text box, and then following the steps described in the “Upload your XML document
           to DToC” page linked below. Additionally, users can paste or type in a URL or corpus of non-XML text into the text box provided on
           the homepage. </p>
@@ -29,17 +30,17 @@
             href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad4038b5f-be18-4582-b217-90805000684f/datastream/OBJ/view"
             id="image_vft_nmm_lt" align="center" scale="85"/></p>
         <p>The Dynamic Table of Contexts is divided into four columns. </p>
-        <p>The column farthest to the right is a "Reader" that contains the text of the document uploaded or entered into DToC. If
-          the document has multiple sections or chapters, only the first section (or chapter) will be visible in the Reader when DToC loads. At the bottom of the column, the “Next Chapter”
+        <p>The column farthest to the right is a "Reader Pane" that contains the text of the document uploaded or entered into DToC. If
+          the document has multiple sections or chapters, only the first section (or chapter) will be visible in the Reader Pane when DToC loads. At the bottom of the column, the “Next Chapter”
           button (and/or a “Previous Chapter" depending on what section you are viewing) allows
           users to navigate between different sections of a document or different components of a
           collection.</p>
-        <p>The narrow column to the left of the Reader is a document model. It contains multiple lines that represent the paragraphs of the document which are
+        <p>The narrow column to the left of the Reader Pane is a document model. It contains multiple lines that represent the paragraphs of the document which are
           divided into sections, or chapters, by white spaces. These lines become highlighted
-          if they contain an index term, tag, or stat that is selected by the user from the far-left column as they navigate the document. Clicking on one of the lines in the document model will move that particular section of text to the Reader. </p>
+          if they contain an index term, tag, or stat that is selected by the user from the far-left column as they navigate the document. Clicking on one of the lines in the document model will move that particular section of text to the Reader Pane. </p>
         <p>The "Table of Contents" displays the multiple sections or chapters of the document in a
           list. One can move between sections or chapters by clicking on the different titles
-          located in the Table of Contents. This will reload the text in the Reader to the
+          located in the Table of Contents. This will reload the text in the Reader Pane to the
           section or chapter that has been selected.</p>
         <p>The left column provides three options for exploring the text: Index, Tags, and Stats</p>
         <p>
