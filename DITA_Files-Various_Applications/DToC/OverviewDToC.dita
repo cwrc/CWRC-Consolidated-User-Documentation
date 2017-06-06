@@ -3,11 +3,11 @@
 <reference id="reference_bfm_blm_lt">
   <title>Overview of Dynamic Table of Contexts</title>
   <shortdesc>The Dynamic Table of Contexts (DToC) viewer is an in-browser e-reader that uses the
-    underlying structure of a document to allow different paths through the text discovered when
-    reading, so that they can navigate via semantic tags, via the index (if present), or by search,
-    as well as viewing word frequencies across the document. DToC allows readers to "curate" the
-    text, that is, to customize the tags in a text they are reading, even if it is not their own. It
-    is also possibly to make your own DToC edition starting from our templates.</shortdesc>
+    underlying structure of a document to allow different paths through the text to be discovered when
+    read. The corpus may be navigated via semantic tags, the index (if present), or the search function,
+    as well as through the frequency of terms used throughout the document. DToC allows readers to "curate" the
+    text they are reading by permitting the customization of tags, even if the text being "read" is not their own. It
+    is also possible to make one's own DToC edition by starting from one of our templates.</shortdesc>
   <refbody>
     <section><title>DToC tutorial video</title>
         <object data="https://www.youtube.com/embed/rTrjRIJjdbM" width="420" height="315">
@@ -19,51 +19,44 @@
     </section>
     <refbodydiv>
       <section><title>DToC overview</title>
-        <p>The homepage of DToC lets users enter URLs, text, or XML documents. DToC is optimized for
-          XML documents. Users upload pre existing XML documents by selecting the gear icon in the
-          top right corner and then following the steps described in the “Upload your XML document
-          to DToC” (linked below). </p>
-        <p>Additionally, users can paste/type in a URL or non-XML text into the text box provided on
-          the first page of DToC. </p>
-        <p>Once you have enter the text, the “Reveal” button moves you into the main page of DToC.
+        <p>The DToC homepage allows users to enter URLs, or upload documents in plain text or XML formats; however, DToC is optimized for
+          XML documents. </p>
+        <p>Users may upload pre-existing XML documents by clicking the "Upload" button found to the bottom-left corner of the text box, and then following the steps described in the “Upload your XML document
+          to DToC” page linked below. Additionally, users can paste or type in a URL or corpus of non-XML text into the text box provided on
+          the homepage. </p>
+        <p>Once the text has been entered, clicking the “Reveal” button will display the content on the main page of DToC.
             <image placement="break"
             href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad4038b5f-be18-4582-b217-90805000684f/datastream/OBJ/view"
             id="image_vft_nmm_lt" align="center" scale="85"/></p>
-        <p>The Dynamic Tables of Contexts is divided into four columns. </p>
-        <p>The text area contains the text of the document you’ve uploaded or entered into DToC. If
-          your document has multiple sections then only the first section is visible in the text
-          area when DToC loads. Below the text, at the bottom of the column, is a “Next Chapter”
-          button (and/or a “Previous Chapter depending on what section you are viewing) that allows
+        <p>The Dynamic Table of Contexts is divided into four columns. </p>
+        <p>The column farthest to the right is a "Reader" that contains the text of the document uploaded or entered into DToC. If
+          the document has multiple sections or chapters, only the first section (or chapter) will be visible in the Reader when DToC loads. At the bottom of the column, the “Next Chapter”
+          button (and/or a “Previous Chapter" depending on what section you are viewing) allows
           users to navigate between different sections of a document or different components of a
           collection.</p>
-        <p>The document model contains multiple lines that represent paragraphs of your document and
-          are divided into sections or chapters by white spaces. These lines can become highlighted
-          if they contain an index term, tag, or stat from the left column. Additionally, you can
-          click on one of the lines to move the text area to that section of the text. </p>
-        <p>The table of contents displays the multiple sections or chapters of your document in a
-          list. You can move between sections or chapters by clicking on the different titles
-          located in the Table of Contents. This will reload the text in the right column to the
-          section or chapter you’ve selected.</p>
-        <p>The left column provides you with four options to explore your text.</p>
+        <p>The narrow column to the left of the Reader is a document model. It contains multiple lines that represent the paragraphs of the document which are
+          divided into sections, or chapters, by white spaces. These lines become highlighted
+          if they contain an index term, tag, or stat that is selected by the user from the far-left column as they navigate the document. Clicking on one of the lines in the document model will move that particular section of text to the Reader. </p>
+        <p>The "Table of Contents" displays the multiple sections or chapters of the document in a
+          list. One can move between sections or chapters by clicking on the different titles
+          located in the Table of Contents. This will reload the text in the Reader to the
+          section or chapter that has been selected.</p>
+        <p>The left column provides three options for exploring the text: Index, Tags, and Stats</p>
         <p>
           <ul>
             <li>The “Index” column arranges the terms alphabetically and displays the frequency of
-              different terms in your document. Your index has to follow a certain XML syntax, one
-              may want to upload a document that already has an index or to add an index to your
-              document, please read “Adding an index to your XML document” linked below.</li>
-            <li>The “Tags” column shows all the XML tags searchable in your document. By clicking on
-              the tags in the list you can see where they are situated in the sections. </li>
-            <li>The “Stats” tab displays the word frequencies in your document. You can sort the
-              stats list by heading, list order, and category. Additionally, if you want to view
-              just a few of the terms you can create a favorite list. </li>
-            <li>The “Annotations” displays any annotations made in the text area. To use this
-              function you must be logged in to the “AnnotateIt” tool (a popup prompt comes up when
-              you open this tab). </li>
+              different terms in your document. The index must adhere to a specific XML syntax; therefor, one
+              may want to upload a document that already has an index. Alternatively, an index may be added to the document by following the instructions listed in the “Adding an index to your XML document” page linked below.</li>
+            <li>The “Tags” column shows all the XML tags searchable in the document. By clicking on
+              the tags in the list one may see where they are situated in the sections. </li>
+            <li>The “Stats” tab displays the word frequencies in the document. The
+              stats list may be sorted by heading, list order, and category. A "favorite list" may also be created to view specific terms. </li>
+            
           </ul>
         </p>
-        <p>The Table of Contents, “Index,” and “Tag” tabs are only available if you upload an XML
+        <p>The Table of Contents, “Index,” and “Tag” tabs are only available if the user has uploaded an XML
           document with a structure compatible with DToC. See “Upload your XML document to DToC”
-          (linked below) for more information and one of the XML document templates to get
+          in the link below for more information. One of the XML document templates can also be used to get
           started.</p>
       </section>
     </refbodydiv>
