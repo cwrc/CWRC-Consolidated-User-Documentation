@@ -4,12 +4,12 @@
     <title>Searching the full text</title>
     <shortdesc>The search box is autocomplete-enabled. If you don't use that function (e.g. you
         continue to type your word or phrase without selecting a term from the drop down list) your
-        search may not work if it has a spelling error or extra space. </shortdesc>
+        search may not work if it has a spelling error, an extra space, or any other form of discrepancy with the tags and terms as they have been encoded into the document. </shortdesc>
     <taskbody>
         <context>
-            <p>If you have selected a chapter from the Table of Contents then your search will only
+            <p>If you have selected a chapter from the Table of Contents, your search will only
                 be conducted within that chapter. If you would like to conduct a full text search
-                make sure that none of the chapters/sections are selected. </p>
+                make sure that none of the chapters, sections, or articles are selected. </p>
         </context>
         <steps>
             <step>
@@ -18,14 +18,14 @@
                         id="image_zyp_xk4_c5" align="center"/></cmd>
             </step>
             <step>
-                <cmd>DToC displays the location of the word you are looking for in the table of
-                    content and document model. <image placement="break"
+                <cmd>DToC displays the location of the word you are looking for in the Table of
+                    Contents and the Document Model. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A4a29aba5-51e8-408b-93eb-bb83e3c5340f/datastream/OBJ/view"
                         id="image_cm3_zk4_c5" align="center"/></cmd>
             </step>
             <step>
                 <cmd>To restart your search choose the “Clear” button located at the top of the
-                    document model. </cmd>
+                    Document Model. </cmd>
             </step>
         </steps>
     </taskbody>
