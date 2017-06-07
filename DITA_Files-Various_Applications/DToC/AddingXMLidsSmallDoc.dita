@@ -2,11 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_lgt_m5p_ht">
     <title>Adding XML ids to your document manually</title>
-    <shortdesc>DToC uses XML ids as index locators; every index item is associated with one or more
-        paragraph (as opposed to pages in print indexes). </shortdesc>
+    <shortdesc>DToC uses XML ids as index locators. Every index item is associated with one or more
+        paragraphs; their function is analogous to that of page numbers used in print indexes. </shortdesc>
     <taskbody>
         <context>
-            <p>If your document is small you can add your own XML ids. If you have a larger
+            <p>If your document is small, you can add your own XML ids. If you have a larger
                 document, we suggest that you open your document in Oxygen where you can add XML ids
                 quickly and easily (see the document "Adding XML ids with oXygen").</p>
         </context>
@@ -19,14 +19,14 @@
             </step>
             <step>
                 <cmd>Assign values to your XML ids.</cmd>
-                <info>Your ids can be a letter or numerical value, but you must differentiate
+                <info>Your ids can be a letter or a numerical value, but you must differentiate
                     between the different tags. </info>
             </step>
             <step>
-                <cmd>Finish adding XML ids to all your 'p' tags. </cmd>
+                <cmd>Finish adding XML ids to all of your 'p' tags. </cmd>
                 <info>You can add XML ids to any type of tag. For example, if you would like to
-                    index any citations in your document you can add XML ids to the 'note' tags.
-                    Alternatively, if you would like to cross reference your index you can also add
+                    index any citations in your document, you can add XML ids to the 'note' tags.
+                    Alternatively, if you would like to cross reference your index, you can also add
                     XML ids to the 'item' tags. For more information please refer to the document
                     "Creating Cross Referencing Index terms" linked below.</info>
             </step>
