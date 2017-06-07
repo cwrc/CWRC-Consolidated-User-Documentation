@@ -16,8 +16,7 @@
                         id="image_j2k_b55_ht" align="center" scale="85"/></cmd>
             </step>
             <step>
-                <cmd>To reset DToC hit the “Clear” button located above the black arrow text
-                    column.</cmd>
+                <cmd>To reset DToC hit the “Clear” button located above the Document Model column.</cmd>
             </step>
         </steps>
     </taskbody>
