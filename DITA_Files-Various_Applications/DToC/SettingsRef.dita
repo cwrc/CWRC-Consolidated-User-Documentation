@@ -4,8 +4,7 @@
   <title>Settings</title>
   <refbody>
     <section>
-      <p>“Settings” is located in the upper right corner of DToC and is represented by a small gear
-          icon.<image placement="break"
+      <p>“Settings” is located in the upper right corner of DToC and is represented by an icon of a small white circle set into a grey oval.<image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A7f8ef19f-1c73-4a7b-ae75-0022944f13e9/datastream/OBJ/view"
           id="image_g4r_4qk_nt" align="center"/></p>
       <p>
@@ -17,7 +16,7 @@
           <li>Chapter Titles: Allow you to either view the “Full Titles” (default option) or as
             “Condensed Titles with Pop-up” in the Table of Contents.</li>
           <li>Freq. Info in Reader: Allows users to choose to view the word frequency information in
-            the text area. When you hover your cursor over a word in the reader column the frequency
+            the Reader Pane. When the cursor hovers over a word in the Reader Pane, the frequency
             of said word appears in a small popup.</li>
           <li>Mode: This changes how you view the Tags column. The two options are “Default” or
             “Curator.” The “Curator” option organizes tags by two headings “Label” and “Tag/Path”
