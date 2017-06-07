@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_sn5_fl5_ht">
-    <title>Navigating the text area</title>
-    <shortdesc>The text is separated into chapters, sections, or articles by the XML document. The
-        text area loads individual sections, so the whole document will not appear unless there are
-        no text divisions in the document. </shortdesc>
+    <title>Navigating the Reading Pane</title>
+    <shortdesc>The text in the Reading Pane is separated into chapters, sections, or articles by the XML document. The
+        Reading Pane loads individual sections; the entire document will not appear unless no text divisions have been embedded into the document. </shortdesc>
     <taskbody>
         <steps>
             <step>
-                <cmd>Scroll to the bottom of the text in the text area. </cmd>
+                <cmd>Scroll to the bottom of the text in the Reading Pane. </cmd>
             </step>
             <step>
                 <cmd>Click on "Next Chapter" or "Previous Chapter" to navigate through the document
