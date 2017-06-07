@@ -2,13 +2,13 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_v5n_jd5_ht">
     <title>Navigating text in the table of contents</title>
-    <shortdesc>The Table of Contents displays terms selected (from the left column) and lets users
+    <shortdesc>The Table of Contents displays terms selected from the left column, and lets users
         move through the text by clicking on them. This allows for in-depth exploration of terms
-        without scrolling through large chunks of text. </shortdesc>
+        without the trouble of scrolling through the corpus manually. </shortdesc>
     <taskbody>
         <steps>
             <step>
-                <cmd>Click on a section/chapter/article in the Table of Contents. </cmd>
+                <cmd>Click on a section, chapter, or article in the Table of Contents. </cmd>
                 <info>This will move the black arrow of the document model to the text that you have
                         selected.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A4ce224d6-61fb-4112-af7a-ead858e2fe2c/datastream/OBJ/view"
