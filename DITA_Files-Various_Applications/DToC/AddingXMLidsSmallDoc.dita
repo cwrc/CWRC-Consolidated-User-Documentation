@@ -12,7 +12,7 @@
         </context>
         <steps>
             <step>
-                <cmd>Add a XML id within your 'p' tags in your document. To do this insert your
+                <cmd>Add an XML id within the 'p' tags in your document. To do this insert your
                     cursor between the ‘p’ text and the right angle bracket and add an xml:id=''
                     attribute. </cmd>
                 <info>It is optional to assign XML ids located in the TEI Header. </info>
@@ -28,13 +28,13 @@
                     index any citations in your document you can add XML ids to the 'note' tags.
                     Alternatively, if you would like to cross reference your index you can also add
                     XML ids to the 'item' tags. For more information please refer to the document
-                    "Creating Cross Referencing Index terms" linked to below.</info>
+                    "Creating Cross Referencing Index terms" linked below.</info>
             </step>
         </steps>
         <example>
             <p>Open the XML document, “A Scandal in Bohemia: Chapter 1”. </p>
-            <p>For each paragraph within the body of text add a unique identifier. For example, you
-                can use “P” and then the number of what paragraph it is. So the fifth paragraph
+            <p>Each paragraph within the body of text can be tagged with a unique identifier. For example, you
+                can use “P” followed by the number corresponding to each particular paragraph's location in the corpus. So the fifth paragraph
                 would be “P5”.<image placement="break"
                     href="http://beta.cwrc.ca/islandora/object/cwrc%3A8359323a-56ba-43a9-9773-95476bb4120b/datastream/OBJ/view"
                     id="image_n25_zvp_ht" align="center"/></p>
