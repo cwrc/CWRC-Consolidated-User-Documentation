@@ -3,7 +3,7 @@
 <task id="task_d5b_vjg_c5">
     <title>Curating tags</title>
     <shortdesc>The left column has a list of the tags found in the document. You can add new tags to
-        the list, those that are found in your XML document or not. </shortdesc>
+        the list, regardless of whether they have been included in your XML document or not. </shortdesc>
     <taskbody>
         <steps>
             <step>
