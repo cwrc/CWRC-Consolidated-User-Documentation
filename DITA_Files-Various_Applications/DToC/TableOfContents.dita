@@ -2,29 +2,26 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_lw4_xmm_lt">
   <title>Table of contents</title>
-  <shortdesc>The Table of Contents shows the section or chapter breakdown of your document. The ToC
-    will expand to display the information selected from the left column. </shortdesc>
+  <shortdesc>The Table of Contents presents the section or chapter breakdown of your document.</shortdesc>
   <refbody>
     <section>
-      <p>Each section is represented by an orange dot and the title(s) and author(s) specified in
-        your XML document. By clicking on one of the sections or chapters you change what appears in
-        the reading column to what you’ve selected. </p>
-      <p>If you paste plain text or type in an URL in the DToC homepage there will not be anything
-        in the Table of Contents. <image placement="break"
+      <p>Each section is represented by the title(s) and author(s) specified in
+        your XML document. Clicking on one of the sections or chapters will bring the text of the selected section into the Reading Pane. </p>
+      <p>Pasting plain text or entering a URL into the DToC homepage will not yield anything
+        in the Table of Contents since both of these formats lack the required XML. <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Adede904a-f40f-40f7-9dcd-7f948a24e72d/datastream/OBJ/view"
           id="image_xm5_glw_mt" align="center"/></p>
-      <p>When you select an option from the “Index, Tab, Stats or Annotation” column the Table of
-        Contents will display and link to the location of the term/tag /word.<image
+      <p>When you select an option from the “Index, Tab, or Stats” column, the Table of
+        Contents will display and link to the location of the selected term, tag, or word.<image
           placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A39efb939-b72d-425c-a400-04ee275af002/datastream/OBJ/view"
           id="image_dzr_llw_mt" align="center"/></p>
-      <p>You can search the “Table of Contents.” The search box is auto complete enabled, but
-        partial matches are not recognized (you cannot just type in the first few letters of a word
-        and press enter as that will not be recognized). Once a search is conducted, the different
-        sections or chapters that contain the search term will expand and show where in the text
-        they are located with brief excerpts. To search for a new term, delete your word in the
-        “Word Search” box and type/select a new one or press the “Clear” button located at the top
-        of the document model (to the right of the Table of Contents). <image placement="break"
+      <p>The Table of Contents also contains a search function. The search box is auto-complete enabled, but
+        it does not recognize partial matches, that is to say, typing in the first few letters of a word
+        and pressing enter will not provide a recognizable search term. Once a search is conducted, the different
+        sections, or chapters, that contain the searched term will appear in the Table of Contents with brief excerpts of text surrounding the term in question. Lines in the document model, the narrow column to the right of the Table of Contents, will become highlighted to represent the location(s) of the term in the corpus. These highlighted lines may be clicked to bring the corresponding text into the Reader Pane. To search for a new term, delete your word in the
+        “Word Search” box, or click on the “Clear” button located at the top
+        of the document model, then type in or select a new term.  <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A4a29aba5-51e8-408b-93eb-bb83e3c5340f/datastream/OBJ/view"
           id="image_lkc_ylw_mt" align="center"/></p>
     </section>
