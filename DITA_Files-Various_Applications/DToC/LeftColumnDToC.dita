@@ -70,7 +70,7 @@
               id="image_tm1_ylk_nt" align="center"/></li>
         </ul></p><p>Once you choose to “Add” a tag there are three options. You can choose from a
         drop down menu of tags that are found in the document but may not be in the list
-        already.</p>You can also add new XML tags and labels to applu to them. For
+        already.</p>You can also add new XML tags and labels to apply to them. For
       example, you can add the ‘quote’ tag to the “Tag/Path” column and then label it “quotation” in
       the “Label” column. <image placement="break"
         href="http://beta.cwrc.ca/islandora/object/cwrc%3Af1080c41-e9ae-4344-987b-83dccee3b029/datastream/OBJ/view"
@@ -87,21 +87,21 @@
     <section>
       <title>Stats Tab</title>
       <p>The “Stats” tab displays word frequencies in your document. You can organize how you view
-        word frequency by different organizational headings, by chapter, or by creating a list of “favorites.”</p>
+        word frequency by different organizational headings, or by chapter.</p>
       <p>The Stats information is available whenever you use DToC; it is not dependent on uploading
         your own XML document. </p>
       <p>You can view word frequencies in the Reader Pane as well. Checking the “Freq. Info in Reader” option
         in the "Settings" menu allows the frequency of each word to pop up if it is hovered over with the cursor. <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Adf00c28a-1518-46c4-8f9a-40052d2fc92b/datastream/OBJ/view"
           id="image_r3w_bfx_mt" align="center" scale="80"/></p>
-      <p>The preloaded organization options include “Term,” “Count,” "Relative," and “Trend.” Clicking on the grey dropdown arrow located beside each of these column headings allows further organization options to be applied to the columns themselves. These options are “Sort Ascending,” and “Sort Descending,” which modify the presentation of linguistic data in alphabetical order, and "Columns" wherein each of the columns (Term, Count, Relative, and Trend) can be either added or removed from the checklist provided.</p>
+      <p>The preloaded organization options include “Term,” “Count,” and “Trend.” Clicking on the grey dropdown arrow located beside each of these column headings allows further organization options to be applied to the columns themselves. These options are “Sort Ascending,” and “Sort Descending,” which modify the presentation of linguistic data in alphabetical order, and "Columns" wherein each of the available columns (Term, Count, Relative, and Trend) can be either added or removed from the checklist provided.</p>
       
       <p>
         <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Af58e95d7-647b-4151-9279-347021be6cee/datastream/OBJ/view"
           id="image_whr_1nk_nt" align="center"/>
       </p>
-      <p>You can filter terms by chapter or the entire document. At the top left of the column, click the “Filter by Chapter” button. To change back to the default options click on the “Clear” option located above the Document Model</p>
+      <p>You can filter terms by chapter or the entire document. At the top left of the column, click the “Filter by Chapter” button. To change back to the default options click on the “Clear” option located above the Document Model.</p>
       <p>If you don’t want to scroll through the list of terms, there is a search option at the
         top of the “Stats” column. The search feature is auto complete enabled. You need to
         select one of these options to search the “Stats” list.<image placement="break"
