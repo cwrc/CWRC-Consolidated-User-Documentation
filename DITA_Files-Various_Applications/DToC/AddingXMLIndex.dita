@@ -22,7 +22,7 @@
             </step>
             <step>
                 <cmd>Within the &lt;list> tag add the &lt;item> tag. Each &lt;item> tag wraps around
-                    each index entry (it’s content is the index term). </cmd>
+                    each index entry (its content is the index term). </cmd>
             </step>
             <step>
                 <cmd>Add a &lt;ref> tag to the items in the list. </cmd>
