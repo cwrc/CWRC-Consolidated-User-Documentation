@@ -48,25 +48,25 @@
         the “Tags” tab will be empty. </p><p>You can highlight index, terms, and words at the same
         time to see patterns in your text. The numbers next to the tags display how many times the
         tag appears in the document. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A9376647b-9c25-43b5-a2c7-2c7370e44238/datastream/OBJ/view"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A46736e38-adf5-4706-8703-a54ea5be1331/datastream/OBJ/view"
           id="image_cps_42x_mt" align="center" scale="80"/></p><p>You can view specific tags in the
         other columns by selecting one from the list or searching for it in the filter search box at
         the top of the column. If you want to see only the tags that are found in a specific
         chapter or section, then you can choose the “Filter by Chapter” option at the top right of the
         column. </p><image placement="break"
-        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3980f368-e437-4005-ad09-c47c0bdb73ac/datastream/OBJ/view"
+        href="http://beta.cwrc.ca/islandora/object/cwrc%3A6b06bd4d-5f89-4ef3-acb7-5d0d44b7d088/datastream/OBJ/view"
         id="image_a4r_t2x_mt" align="center"/><p>You can curate and add tags to your document.
         </p><p>The “Curator” mode is found in the “Settings” menu under the mode drop down menu.
         This will organize the tags under two headings, “Tag/Path” and “Label.”<image
           placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A25bba05a-f8c7-44cb-b3b4-7ff9700a5eaa/datastream/OBJ/view"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa1bb92dd-4c69-4d38-82d3-b0b2fa4609b6/datastream/OBJ/view"
           id="image_qrf_x2x_mt" align="center"/></p><p>At the bottom of the column there are three
         options to “Curate” the tags.<ul id="ul_zyf_tnw_mt">
           <li>“Add” allows you to add new tags to the list.</li>
           <li>“Remove Selected” allows you to delete any tags in the list.</li>
           <li>“Show Selected” allows you to see in both the Table of Contents and the Reader Pane
             where the tags are located (if present). <image placement="break"
-              href="http://beta.cwrc.ca/islandora/object/cwrc%3Aec3e459a-139b-4e9d-9b06-68505fec29f8/datastream/OBJ/view"
+              href="http://beta.cwrc.ca/islandora/object/cwrc%3A364ad188-8989-4bd9-8d4a-a31aef052801/datastream/OBJ/view"
               id="image_tm1_ylk_nt" align="center"/></li>
         </ul></p><p>Once you choose to “Add” a tag there are three options. You can choose from a
         drop down menu of tags that are found in the document but may not be in the list
@@ -92,20 +92,20 @@
         your own XML document. </p>
       <p>You can view word frequencies in the Reader Pane as well. Checking the “Freq. Info in Reader” option
         in the "Settings" menu allows the frequency of each word to pop up if it is hovered over with the cursor. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Adf00c28a-1518-46c4-8f9a-40052d2fc92b/datastream/OBJ/view"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A4268b5b9-c159-4e41-b7d4-eb43e971b073/datastream/OBJ/view"
           id="image_r3w_bfx_mt" align="center" scale="80"/></p>
       <p>The preloaded organization options include “Term,” “Count,” and “Trend.” Clicking on the grey dropdown arrow located beside each of these column headings allows further organization options to be applied to the columns themselves. These options are “Sort Ascending,” and “Sort Descending,” which modify the presentation of linguistic data in alphabetical order, and "Columns" wherein each of the available columns (Term, Count, Relative, and Trend) can be either added or removed from the checklist provided.</p>
       
       <p>
         <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Af58e95d7-647b-4151-9279-347021be6cee/datastream/OBJ/view"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac2cbba8e-7ac6-421c-bf1d-75fffcde202f/datastream/OBJ/view"
           id="image_whr_1nk_nt" align="center"/>
       </p>
       <p>You can filter terms by chapter or the entire document. At the top left of the column, click the “Filter by Chapter” button. To change back to the default options click on the “Clear” option located above the Document Model.</p>
       <p>If you don’t want to scroll through the list of terms, there is a search option at the
         top of the “Stats” column. The search feature is auto complete enabled. You need to
         select one of these options to search the “Stats” list.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A86d7381b-bf96-4369-bad0-6e98b3258f91/datastream/OBJ/view"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A870d7b31-4572-499e-8290-4de8b94e5943/datastream/OBJ/view"
           id="image_ymf_znk_nt" align="center"/></p>
       
     </section>
