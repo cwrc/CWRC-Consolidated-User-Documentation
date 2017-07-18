@@ -15,11 +15,15 @@
             </step>
             <step>
                 <cmd>Work with the "Index," "Tags," and "Stats" columns and see what lines are
-                    highlighted. </cmd>
+                    highlighted. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad2608ef0-21d1-4d77-a0df-cf89afedc41e/datastream/OBJ/view"
+                        id="image_c4d_2j5_ht" align="center"/></cmd>
             </step>
             <step>
                 <cmd>When you are done working with the Document Model, or when you would like to start a new
-                    search, click on the "Clear" button at the top of the Document Model. </cmd>
+                    search, click on the "Clear" button at the top of the Document Model. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5b561e1c-182d-4312-b2d2-b550d9ee12c8/datastream/OBJ/view"
+                        id="image_c4d_2j5_ht" align="center"/></cmd>
             </step>
         </steps>
     </taskbody>
