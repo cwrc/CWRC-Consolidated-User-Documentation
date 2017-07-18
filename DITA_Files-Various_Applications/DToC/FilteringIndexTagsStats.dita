@@ -16,7 +16,7 @@
                     for terms or tags found in a specific chapter by selecting an option from the
                     “Filter by Chapter” drop down menu.</cmd>
                 <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A406d05d6-62df-4634-99fc-8ed131351f2d/datastream/OBJ/view"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A72b6ce19-b992-49a7-b030-1f3b010723d3/datastream/OBJ/view"
                         id="image_vxr_tn5_ht" align="center"/>
             </step>
             <step>
@@ -28,7 +28,10 @@
             </step>
             <step>
                 <cmd>To restart your search choose the “Clear” button located at the top of the
-                    document model. </cmd>
+                    document model. <image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5b561e1c-182d-4312-b2d2-b550d9ee12c8/datastream/OBJ/view"
+                        id="image_ybr_xn5_ht" align="center" scale="85"/></cmd>
             </step>
         </steps>
     </taskbody>
