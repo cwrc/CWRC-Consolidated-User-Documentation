@@ -5,23 +5,18 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Select an option to view the word frequencies. You can either choose to view
-                    term frequencies in the entire document, or by each individual chapter. <image placement="break"
+                <cmd>By default, word frequencies are provided for the entire document. You can choose to view
+                    term frequencies by each individual chapter by selecting one from the "Filter by Chapter" list. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ade19c72d-cb11-4a10-acae-4e518765ce50/datastream/OBJ/view"
                         id="image_hxh_t55_ht" align="center"/></cmd>
             </step>
             <step importance="optional">
-                <cmd>If you have selected to view words found in chapters or sections, you must then
-                    select the chapter you want from the Table of Contents. Click on the
-                    chapter you want to work with.</cmd>
-                <info>When you enter the “Stats” tab, the first
-                    chapter is the default view. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Afe9ee499-1747-4a90-abeb-a840772ffae6/datastream/OBJ/view"
-                        id="image_ddn_x55_ht" align="center"/></info>
+                <cmd>If you have selected to view words in an individual chapter and you wish to return to the stats of the entire corpus, you must click on the chapter that has a checkmark beside it in order to deselect it. 
+                <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa4adbc8d-d2b4-46b5-ba7d-277a1984f19d/datastream/OBJ/view"
+                       id="image_ddn_x55_ht" align="center"/></cmd>
             </step>
-            <step importance="optional">
-                <cmd>If you have selected to view the words by collection, which refers to the entire corpus, you may continue to explore the words as they are listed in the "Stats" tab. </cmd>
-            </step>
+            
         </steps>
     </taskbody>
     <related-links>
