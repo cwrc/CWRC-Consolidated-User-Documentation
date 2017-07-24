@@ -21,7 +21,7 @@
       <section><title>DToC overview</title>
         <p>The DToC homepage allows users to enter URLs, or upload documents in plain text or XML formats; however, DToC is optimized for
           XML documents. Extensible Markup Language (XML) is structured text designed to be read by a computer. More information about XML
-        can be found through the Text Encoding Initiative: <definition xlink:href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html" xlink:show="new">www.tei-c.org</definition> </p>
+          can be found through the Text Encoding Initiative: <xref href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html">www.tei-c.org</xref>www.tei-c.org </p>
         <p>Users may upload pre-existing XML documents by clicking the "Upload" button found to the bottom-left corner of the text box, and then following the steps described in the “Upload your XML document
           to DToC” page linked below. Additionally, users can paste or type in a URL or corpus of non-XML text into the text box provided on
           the homepage. </p>
