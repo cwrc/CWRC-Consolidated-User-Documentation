@@ -10,11 +10,14 @@
             <step>
                 <cmd>Open up the settings in the homepage of DToC. This option is represented by a
                     small grey circle in the top right corner of the “Add Texts” box. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af4390d6e-710a-4404-8636-727f1ad94f09/datastream/OBJ/view"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab48505e6-66a9-4fed-9faa-7aff47c2e094/datastream/OBJ/view"
                         id="image_bl4_y5t_ht" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Change the “Input Format” to "DToC: Dynamic Table of Contexts."</cmd>
+                <cmd>Change the “Input Format” to "DToC: Dynamic Table of Contexts."
+                    <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A82463d08-977e-422a-8330-a6a47908851f/datastream/OBJ/view"
+                        id="image_bl4_y5t_ht" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Enter your Title and Subtitle information into the corresponding areas of the "Corpus" dropdown menu. </cmd>
@@ -25,15 +28,13 @@
             </step>
             <step>
                 <cmd>Click on the “Upload” button in the lower right corner.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac04bb2fc-9e16-4b9b-a01f-0250c4b773ae/datastream/OBJ/view"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0aa28ddf-0012-415b-8ce6-2d97ca1a8cab/datastream/OBJ/view"
                         id="image_d2l_gvt_ht" align="center"/></cmd>
             </step>
             
             <step>
                 <cmd>Select the XML document on your computer that you would like to upload to DToC.
-                        <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa0388b1c-cc31-4d88-9b83-8e7f69c42372/datastream/OBJ/view"
-                        id="image_bhj_pvt_ht" align="center"/></cmd>
+                        </cmd>
                 
             </step>
             <step>

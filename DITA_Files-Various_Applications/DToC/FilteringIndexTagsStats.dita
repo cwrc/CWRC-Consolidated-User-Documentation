@@ -6,26 +6,32 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Type the term or tag that you would like to locate in the list. <image placement="break"
+                <cmd>Type the term or tag that you would like to locate in the list. </cmd>
+                <image placement="break"
                     href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac7383560-ce3d-432c-acd3-d8a86d4223d3/datastream/OBJ/view"
-                    id="image_obp_qn5_ht" align="center"/></cmd>
+                    id="image_obp_qn5_ht" align="center"/>
             </step>
             <step>
                 <cmd>You can search
                     for terms or tags found in a specific chapter by selecting an option from the
-                    “Filter by Chapter” drop down menu.
-                    <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A406d05d6-62df-4634-99fc-8ed131351f2d/datastream/OBJ/view"
-                        id="image_vxr_tn5_ht" align="center"/></cmd> <stepresult><p>Terms are represented in orange, tags in blue, and words in purple.</p><image
-                            placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A2ebd65de-f06a-40c7-a60e-93d822274a61/datastream/OBJ/view"
-                            id="image_ybr_xn5_ht" align="center" scale="85"/></stepresult>
-                
+                    “Filter by Chapter” drop down menu.</cmd>
+                <image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A72b6ce19-b992-49a7-b030-1f3b010723d3/datastream/OBJ/view"
+                    id="image_vxr_tn5_ht" align="center"/>
             </step>
-            
+            <step>
+                
+                <info>Terms are represented in orange, tags in blue, and words in purple. <image
+                    placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A2ebd65de-f06a-40c7-a60e-93d822274a61/datastream/OBJ/view"
+                    id="image_ybr_xn5_ht" align="center" scale="85"/></info>
+            </step>
             <step>
                 <cmd>To restart your search choose the “Clear” button located at the top of the
-                    document model. </cmd>
+                    document model. <image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5b561e1c-182d-4312-b2d2-b550d9ee12c8/datastream/OBJ/view"
+                        id="image_ybr_xn5_ht" align="center" scale="85"/></cmd>
             </step>
         </steps>
     </taskbody>
