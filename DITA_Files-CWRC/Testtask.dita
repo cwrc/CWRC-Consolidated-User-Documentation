@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_wmy_44m_nbb">
+    <title>Keah's Test Task!</title>
+    <shortdesc> Trying to learn DITA</shortdesc>
+    <taskbody>
+        <context>
+            <p>This acton can be performed in case you are ravenous.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Raise your hand</cmd>
+            </step>
+            <step>
+                <cmd>Tell Mihaela that you need a break</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -11,9 +11,7 @@
                 <cmd>Login to your account.</cmd>
             </step>
             <step>
-                <cmd>Click on the Edit tab.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae56aa01e-ce03-4129-bbf2-8880bfebfb77/datastream/OBJ/view"
-                        id="image_gdz_mx5_3x" align="center"/></cmd>
+                <cmd>Click on the Edit tab.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aaf74825d-b607-46a9-935b-77c68b94beeb/datastream/OBJ/view" id="image_gdz_mx5_3x" align="center"></image></cmd>
             </step>
             <step>
                 <cmd>Edit your account information.</cmd>
