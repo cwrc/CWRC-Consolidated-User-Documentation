@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_u54_n4m_nbb">
+    <title>Kathryn's Test Task</title>
+    <shortdesc>Practicing task creation in Orlando/CWRC training</shortdesc>
+    <taskbody>
+        <context>
+            <p>This action can be performed in case you are very hungry and want a break.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Raise your hand</cmd>
+            </step>
+            <step>
+                <cmd>Tell Kathryn that you need a break</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
