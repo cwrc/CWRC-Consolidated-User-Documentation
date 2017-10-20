@@ -22,7 +22,7 @@
             </step>
             <step>
                 <cmd>Fill out the Edit project menu form. The title and path fields are required. <image id="image_aj5_c2m_pbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A6d1ee199-81ee-4c4d-9e76-a593c78f4bee/datastream/OBJ/view"></image></cmd>
-                <info>The paths need to be...</info>
+                <info>The paths need to be...!!!</info>
             </step>
             <step>
                 <cmd>Click on <uicontrol>Save</uicontrol> to ingest your new project menu. </cmd>
