@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_w5s_myl_pbb">
+    <title>Editing/Adding links to the Project Menu</title>
+    <shortdesc>For each project you can customize your navigation buttons by using the Edit project menu in your dashboard. </shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps id="steps_dtl_tyl_pbb">
+            <step>
+                <cmd>Click on the <uicontrol>Edit project menu</uicontrol> option in the Utilities column (on the right side of the dashboard).<image id="image_km1_pcm_pbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af3fdc7ee-323e-4d13-96b9-64d61a9701cc/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <?oxy_comment_start author="keah" timestamp="20171020T132042-0600" comment="KH: Not sure what should be in this command tag, with the two steps!"?>
+                <cmd></cmd>
+                <?oxy_comment_end?>
+                <choices id="choices_rck_1zl_pbb">
+                    <choice>Click on <uicontrol>Edit</uicontrol> option associated with the page you would like to work with (beneath the operations column).</choice>
+                    <choice>Click on the <uicontrol>Add link</uicontrol> button in the right corner.<image id="image_wkl_pfm_pbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0bbaa301-03dc-49e2-a8e4-d98657215411/datastream/OBJ/view"></image></choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Fill out the Edit project menu form. The title and path fields are required. <image id="image_aj5_c2m_pbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A6d1ee199-81ee-4c4d-9e76-a593c78f4bee/datastream/OBJ/view"></image></cmd>
+                <info>The paths need to be...</info>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Save</uicontrol> to ingest your new project menu. </cmd>
+                <info>In the screenshot below, you can see the different project menu options. These are customized to that particular project.<image id="image_jbw_p2m_pbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae70c7a97-a7d2-40f6-ad15-b8a993f712fb/datastream/OBJ/view"></image></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
