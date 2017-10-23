@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_v5g_jbh_qbb">
+    <title>Project Members: Adding New Members</title>
+    <shortdesc>Project administrators and project editors can add new users to projects.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>This is located under the Project members column on the right side of the project dashboard.</cmd>
+                <info>This is located under the Project members column on the right side of the project dashboard.<image id="image_ycm_kdh_qbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab77c4f68-8d58-4829-8b77-bbf0ef49747f/datastream/OBJ/view"></image></info>
+            </step>
+            <step>
+                <cmd>Enter the CWRC user name of the person you would like to add. </cmd>
+                <info>In this form you can also send them a “Welcome message” and define the CWRC role within the project. Only project administrators can add additional project admin members. <image id="image_n3t_vdh_qbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Abf437e6c-cfa2-4fe2-ada4-38ed606ce375/datastream/OBJ/view"></image></info>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Add User</uicontrol>. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
