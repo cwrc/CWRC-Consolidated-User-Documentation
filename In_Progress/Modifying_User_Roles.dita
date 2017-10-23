@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zjm_m2h_qbb">
+    <title>Modifying User Roles</title>
+    <shortdesc>If you would like to change the user role of a project member, you can do so from the project dashboard. Only project administrators can add new project administrators.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select a user (by checking the check mark beside their name) from the Project member column and the click on Modify roles, located at the bottom of the Project member column. </cmd>
+                <info>If you do not select a user before you click on the <uicontrol>Modify roles </uicontrol>button, you will be taken to a Group overview page. You can select a user from the list and click on the Modify roles button at the bottom of the page to continue on to step 2. <image id="image_o5y_4fh_qbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa0ed8056-d3e8-4ebe-9834-08693df3c7ca/datastream/OBJ/view"></image></info>
+            </step>
+            <step>
+                <cmd>Select the member role you would like to apply to the selected user. <image id="image_kjr_cgh_qbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A12e14dc6-9dc9-448c-8d08-79eacc5bfac8/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Next</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>This will take you to a confirmation page. Click on <uicontrol>Confirm</uicontrol>.<image id="image_g42_khh_qbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A83d79241-076c-42cd-95cf-80d93d3c4c3d/datastream/OBJ/view"></image></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
