@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ryl_cpl_rbb">
+    <title>Releasing Locks </title>
+    <shortdesc>If an object is locked by you you can release so that others can edit or annotate it. </shortdesc>
+    <taskbody>
+        <context>You must be the project administrator or the person who has locked the object to release the locks. Releasing locks.<p></p></context>
+        <steps>
+            <step>
+                <cmd>Click on the Manage tab of the object you would like to lock and select Properties from the dropdown list. <image id="image_klc_tpl_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A27b3613a-65bc-4663-85e7-02f6fa3efc76/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd>Click on remove the lock from this object, located in the banner below the menu bar (see below). <image id="image_ovy_gql_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A9ff2ead3-88dd-47a3-8851-cd96343622b2/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd>Click on Confirm to remove the lock. </cmd>
+                <info>If you release the lock, the object can be edited by anyone in your project or by the public (depending on the project access policies). <image id="image_th1_vql_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad66bd4fd-41f7-446b-a363-56d08071ab33/datastream/OBJ/view"></image></info>
+            </step>
+            <step>
+                <cmd>This takes you back to the object page. </cmd>
+                <info>If you would like to lock this object or have accidentally removed a lock you can click on the Lock object option in the menu bar. </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
