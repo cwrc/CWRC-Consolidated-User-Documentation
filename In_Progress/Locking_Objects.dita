@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bl4_pfg_sbb">
+    <title>Locking Objects</title>
+    <shortdesc> Locking object stops people from editing them. Only the uploader or administrator can unlock the object for public editing. Once an object is unlocked, it will have an lock option on the menu bar. </shortdesc>
+    <taskbody>
+        <context>When modifying the metadata of an object (i.e. editing the MODS datastream) and when editing an XML document in CWRC Writer, the lock is automatically added by the system. <p></p></context>
+        <steps>
+            <step>
+                <cmd> Click on the <uicontrol>Manage</uicontrol> tab of the object you would like to lock and select <uicontrol>Properties</uicontrol> from the dropdown list. <image id="image_igw_yfg_sbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A7971b53e-a6d2-4577-9241-85eef84aca41/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>acquire the lock</uicontrol>, located in the banner below the menu bar (see below).<image id="image_xss_4gg_sbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa1e1b6d4-e16d-4ab5-bb6c-d2b177cc813e/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd> Click on <uicontrol>Confirm</uicontrol>. </cmd>
+            </step>
+            <step>
+                <cmd>This takes you back to the object page with a banner that informs the user that they have set the lock and an option to remove the lock. <image id="image_wgf_xgg_sbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A9e9554bf-cc26-4c90-89f1-fa76c72dd461/datastream/OBJ/view"></image></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
