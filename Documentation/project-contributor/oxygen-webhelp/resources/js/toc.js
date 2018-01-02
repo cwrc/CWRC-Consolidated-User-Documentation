@@ -40,18 +40,18 @@ var notLocalChrome = verifyBrowser();
 function getParameter(parameter) {
     var whLocation = "";
 
-    var toReturn = undefined;
-
     try {
         whLocation = window.location;
         var p = parseUri(whLocation);
 
-        toReturn = p.queryKey[parameter];
+        for (var param in p.queryKey) {
+            if (p.queryKey.hasOwnProperty(param) && parameter.toLowerCase() == param.toLowerCase()){
+                return p.queryKey[param];
+            }
+        }
     } catch (e) {
-        debug(e);
+        error(e);
     }
-
-    return toReturn;
 }
 
 /**
@@ -60,7 +60,8 @@ function getParameter(parameter) {
  */
 function parseParameters() {
     debug("parseParameters()...");
-    var excludeParameters = ["contextId", "appname"];
+    // All parameters in this list have to be lower case
+    var excludeParameters = ["contextid", "appname"];
     var whLocation = "";
     var query = "?";
 
@@ -70,13 +71,13 @@ function parseParameters() {
         whLocation = window.location;
         p = parseUri(whLocation);
     } catch (e) {
-        debug(e);
+        error(e);
     }
 
     var parameters = p.queryKey;
 
     for (var para in parameters) {
-        if ($.inArray(para, excludeParameters) == -1) {
+        if ($.inArray(para.toLowerCase(), excludeParameters) == -1) {
             query += para + "=" + parameters[para] + "&";
         }
     }
@@ -102,7 +103,7 @@ function executeQuery() {
 	try {
 		var element = google.search.cse.element.getElement('searchresults-only0');
 	} catch (e) {
-		debug(e);
+		error(e);
 	}
 	if (element != undefined) {
 		if (input.value == '') {
@@ -117,25 +118,6 @@ function executeQuery() {
 	return false;
 }
 	
-/**
- * Debug functions 
- */
-function debug(msg, obj) {
-    log.debug(msg, obj);
-}
-
-function info(msg, obj) {
-    log.info(msg, obj);
-}
-
-function error(msg, obj) {
-    log.error(msg, obj);
-}
-
-function warn(msg, obj) {
-    log.warn(msg, obj);
-}
-
 function openTopic(anchor) {
     $("#contentBlock ul").css("background-color", $("#splitterContainer #leftPane").css('background-color'));
     $("#contentBlock li").css("background-color", "transparent");
@@ -242,7 +224,7 @@ $(document).ready(function () {
                                     var newLocation = whUrl + path;
                                     window.parent.contentwin.location.href = newLocation;
                                 } catch (e) {
-                                    debug(e);
+                                    error(e);
                                 }
                             } else {
                                 var newLocation = window.location.protocol + '//' + window.location.host;
@@ -261,7 +243,7 @@ $(document).ready(function () {
         try {
             var p = parseUri(parent.location);
         } catch (e) {
-            debug(e);
+            error(e);
             var p = parseUri(window.location);
         }
         if (withFrames) {
@@ -270,7 +252,7 @@ $(document).ready(function () {
                 	var link = p.protocol + '://' + p.host + ':' + p.port + q;
 	                window.parent.contentwin.location.href = link;
                 } catch (e) {
-                    debug(e);
+                    error(e);
                 }
             } else {
 								openTopic($('#tree a').first());
@@ -381,10 +363,14 @@ $(window).resize(function(){
 });
 
 
-$(window.parent).resize(function () {
-    clearTimeout(resizeTimer);
-    resizeTimer = setTimeout(resizeContent, 10);
-});
+try {
+    $(window.parent).resize(function () {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(resizeContent, 10);
+    });
+} catch (e) {
+    error(e);
+}
 
 // Return true if "word1" starts with "word2"
 function startsWith(word1, word2) {
@@ -480,7 +466,7 @@ function loadIndexterms() {
         }, 10);
     } catch (e) {
         if ( $("#indexList").length < 1 ) {
-            $("#index").html('<span id="loadingError">Index loading error: ' + e + '</span>');
+            $("#index").html('<span id="loadingError">Index loading error: ' + e.message + '</span>');
         }
     }
 }
@@ -506,7 +492,7 @@ function showMenu(displayTab) {
         try {
         	parent.termsToHighlight = Array();
         } catch (e) {
-            debug(e);
+            error(e);
 	    }
     }
 
@@ -694,23 +680,22 @@ debug('os:' + navigator.appVersion);
  * @param words (type:Array) - Words to be highlighted
  */
 function highlightSearchTerm(words) {
-    if (words.length < 1) {
-        return false;
-    }
+
     if (notLocalChrome) {
-        if (words != null) {
+        if (words !== null && words !== undefined && words.length > 0) {
             // highlight each term in the content view
-            $('#frm').contents().find('body').removeHighlight();
-            for (i = 0; i < words.length; i++) {
+            var $frm = $('#frm');
+            $frm.contents().find('body').removeHighlight();
+            for (var i = 0; i < words.length; i++) {
                 debug('highlight(' + words[i] + ');');
-                $('#frm').contents().find('body').highlight(words[i]);
+                $frm.contents().find('body').highlight(words[i]);
             }
         }
     } else {
         // For index with frames
-        if (parent.termsToHighlight != null) {
+        if (parent.termsToHighlight !== null && parent.termsToHighlight !== undefined && parent.termsToHighlight > 0) {
             // highlight each term in the content view
-            for (i = 0; i < parent.termsToHighlight.length; i++) {
+            for (var i = 0; i < parent.termsToHighlight.length; i++) {
                 $('*', window.parent.contentwin.document).highlight(parent.termsToHighlight[i]);
             }
         }
@@ -731,7 +716,7 @@ function clearHighlights() {
         try {
             $(window.parent.contentwin.document).find('body').removeHighlight();
         } catch (e) {
-            debug(e);
+            error(e);
         }
     }
 }
@@ -818,7 +803,7 @@ function scrollToVisibleItem() {
             $bckToc.scrollTop(tocSelectedItemOffset.top);
         }
     } catch (e) {
-        debug(e);
+        error(e);
     }
 }
 

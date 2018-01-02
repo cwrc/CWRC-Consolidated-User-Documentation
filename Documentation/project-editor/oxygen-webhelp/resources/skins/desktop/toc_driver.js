@@ -72,7 +72,7 @@ $(document).ready(function () {
             loadSearchResources();
         } catch (e) {
             if ( $('#loadingError').length < 1 ) {
-                $('#searchResults').prepend('<span id="loadingError">' + e + '</span>');
+                $('#searchResults').prepend('<span id="loadingError">' + e.message + '</span>');
             }
             $('#search').trigger( 'click' );
         }
@@ -86,7 +86,7 @@ $(document).ready(function () {
             newLink = $(this).attr("href") + "?q=" + currentLink.relative;
             $(this).attr("href", newLink);
         } catch (e) {
-            debug(e);
+            error(e);
         }
     });
 });
@@ -96,7 +96,7 @@ $(document).ready(function () {
  */
 function loadSearchResources() {
     if (typeof window.indexerLanguage == 'undefined') {
-        var scripts = ["oxygen-webhelp/search/htmlFileInfoList.js?uniqueId=20170609031445", "oxygen-webhelp/search/index-1.js?uniqueId=20170609031445", "oxygen-webhelp/search/index-2.js?uniqueId=20170609031445", "oxygen-webhelp/search/index-3.js?uniqueId=20170609031445"];
+        var scripts = ["oxygen-webhelp/search/htmlFileInfoList.js?uniqueId=20180102033520", "oxygen-webhelp/search/index-1.js?uniqueId=20180102033520", "oxygen-webhelp/search/index-2.js?uniqueId=20180102033520", "oxygen-webhelp/search/index-3.js?uniqueId=20180102033520"];
         for (var entry in scripts) {
             var scriptTag = document.createElement("script");
             scriptTag.type = "text/javascript";
@@ -113,7 +113,6 @@ function loadSearchResources() {
  */
 function printFrame(id) {
     var frm = document.getElementById(id).contentWindow;
-    frm.focus();// focus on contentWindow is needed on some ie versions
     frm.print();
     return false;
 }
@@ -187,7 +186,7 @@ function loadIframe(dynamicURL) {
             return false;
         }
     } catch (e) {
-        debug(e);
+        error(e);
         return false;
     }
 
@@ -249,11 +248,15 @@ function loadIframe(dynamicURL) {
             try {
                 $("title").html($("title").attr("title") + " - " + $("#frm").contents().find("title").html());
             } catch (e) {
-                debug(e);
+                error(e);
             }
 
             // EXM-31118 Rewrite anchors relative to current loaded frame to contain frame link
-            var links = $('#frm').contents().find('a');
+            try {
+                var links = $('#frm').contents().find('a');
+            } catch (e) {
+                error(e);
+            }
             var currentLocation = $('#frm').attr('src');
             if(currentLocation.indexOf('#')>0) {
                 currentLocation = currentLocation.substring(0, currentLocation.indexOf('#'));
@@ -345,17 +348,12 @@ function loadIframe(dynamicURL) {
 
                 }
             } catch (e) {
-                debug(e);
+                error(e);
             }
         }
         $('#frm').show();
         $('div.tooltip').remove();
         
-        /* Recompute the breadcrumb by looking at the selection in the TOC... */
-        recomputeBreadcrumb(-1);
-        
-        $('#breadcrumbLinks').find('a').after('<span></span>');
-        $('#breadcrumbLinks').find('span').last().html('&nbsp;&nbsp;');
         $('.navparent a').click(function () {
             if ($.cookie("wh_pn") != "" && $.cookie("wh_pn") !== undefined && $.cookie("wh_pn") !== null) {
                 currentTOCSelection = parseInt($.cookie("wh_pn"));
@@ -543,6 +541,12 @@ function markSelectItem(hrl, startWithMatch) {
     debug('markSelectItem(...) =' + toReturn);
     $('#contentBlock .menuItemSelected').parent('li').first().css('background-color', $('#contentBlock .menuItemSelected').css('background-color'));
 
+    /* Recompute the breadcrumb by looking at the selection in the TOC... */
+    recomputeBreadcrumb(-1);
+
+    $('#breadcrumbLinks').find('a').after('<span></span>');
+    $('#breadcrumbLinks').find('span').last().html('&nbsp;&nbsp;');
+
     return toReturn;
 }
 
@@ -721,7 +725,7 @@ $(function () {
         try {
             var textAreaContent = $("#frm").contents().find(".cleditorMain").find("iframe").contents().find("body").html();
         } catch (e) {
-            debug(e);
+            error(e);
         }
 
         if(textAreaContent!='' && textAreaContent!==undefined && $("#frm").contents().find("#newComment").is(":visible") && currentHref!=newHref) {

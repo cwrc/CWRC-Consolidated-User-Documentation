@@ -17,7 +17,7 @@
                 <cmd>Change the “Input Format” to "DToC: Dynamic Table of Contexts."
                     <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A82463d08-977e-422a-8330-a6a47908851f/datastream/OBJ/view"
-                        id="image_bl4_y5t_ht" align="center"/></cmd>
+                         align="center"/></cmd>
             </step>
             <step>
                 <cmd>Enter your Title and Subtitle information into the corresponding areas of the "Corpus" dropdown menu. </cmd>

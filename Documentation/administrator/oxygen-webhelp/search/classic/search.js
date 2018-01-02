@@ -2,15 +2,6 @@
 
 var txt_browser_not_supported = "Your browser is not supported. Use of Mozilla Firefox is recommended.";
 
-if (!("console" in window) || !("firebug" in console)) {
-    var names = ["log", "debug", "info", "warn", "error", "assert", "dir", "dirxml", "group", "groupEnd", "time", "timeEnd", "count", "trace", "profile", "profileEnd"];
-    window.console = {};
-    for (var i = 0, len = names.length; i < len; ++i) {
-        window.console[names[i]] = function () {
-        };
-    }
-}
-
 if(typeof String.prototype.trim !== 'function') {
     String.prototype.trim = function() {
         return $.trim(this);
@@ -115,15 +106,19 @@ function searchAndDisplayResults(query, whDistribution) {
  */
 function displayResults(searchResult, whDistribution) {
 
-    var warningMsg = '<div style="padding: 5px;margin-right:5px;;background-color:#FFFF00;">';
-    warningMsg += '<b>Please note that due to security settings, Google Chrome does not highlight';
-    warningMsg += ' the search results.</b><br>';
-    warningMsg += 'This happens only when the WebHelp files are loaded from the local file system.<br>';
-    warningMsg += 'Workarounds:';
-    warningMsg += '<ul>';
-    warningMsg += '<li>Try using another web browser.</li>';
-    warningMsg += '<li>Deploy the WebHelp files on a web server.</li>';
-    warningMsg += '</div>';
+    var $warningMsg = $('<div/>', {
+        style: 'padding:5px; margin-right:5px;background-color:#FFFF00;'
+    });
+    var $message = $('<b/>').text('Please note that due to security settings, Google Chrome does not highlight'
+        + ' the search results.');
+    $warningMsg.append($message)
+        .append($('<br/>')
+        .append('This happens only when the WebHelp files are loaded from the local file system.')
+        .append($('<br/>'))
+        .append('Workarounds:'));
+    var $workarounds = $('<ul/>').append($('<li/>').text('Try using another web browser.'))
+        .append($('<li/>').text('Deploy the WebHelp files on a web server.'));
+    $warningMsg.append($workarounds);
 
     preprocessSearchResult(searchResult, whDistribution);
     var results = computeHTMLResult(whDistribution);
@@ -132,9 +127,10 @@ function displayResults(searchResult, whDistribution) {
     // If browser is Google Chrome and WebHelp is used on a local machine a warning message will appear
     // Highlighting will not work in this conditions. There is 2 workarounds
     if (notLocalChrome) {
-        document.getElementById('searchResults').innerHTML = results;
+        //document.getElementById('searchResults').innerHTML = results;
+        $('#searchResults').html(results);
     } else {
-        document.getElementById('searchResults').innerHTML = warningMsg + results;
+        $('#searchResults').html($warningMsg).append(results);
     }
 
     $("#search").trigger('click');

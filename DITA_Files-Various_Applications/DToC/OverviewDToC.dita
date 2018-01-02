@@ -9,6 +9,10 @@
     text they are reading by permitting the customization of tags, even if the text being "read" is not their own. It
     is also possible to make one's own DToC edition by starting from one of our templates.</shortdesc>
   <refbody>
+    <section>
+      <title>DToC Sample Edition</title>
+      <p><b><q><xref href="http://cwrc.ca/voyant/regenerations" scope="external" format="html">Regenerations: Canadian Women's Writing / Régénérations: Écriture des femmes au Canada</xref></q></b> is a collection of essays organized as a DToC edition. Feel free to explore to get acquainted with the interface and affordances of the reader.</p>
+    </section>
     <section><title>DToC tutorial video</title>
         <object data="https://www.youtube.com/embed/rTrjRIJjdbM" width="420" height="315">
         <param name="src" value="https://www.youtube.com/embed/rTrjRIJjdbM"/>
@@ -21,7 +25,7 @@
       <section><title>DToC overview</title>
         <p>The DToC homepage allows users to enter URLs, or upload documents in plain text or XML formats; however, DToC is optimized for
           XML documents. Extensible Markup Language (XML) is structured text designed to be read by a computer. More information about XML
-          can be found through the Text Encoding Initiative: <xref href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html">www.tei-c.org</xref>www.tei-c.org </p>
+          can be found through the Text Encoding Initiative: <xref href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html" format="html" scope="external">www.tei-c.org</xref>www.tei-c.org </p>
         <p>Users may upload pre-existing XML documents by clicking the "Upload" button found to the bottom-left corner of the text box, and then following the steps described in the “Upload your XML document
           to DToC” page linked below. Additionally, users can paste or type in a URL or corpus of non-XML text into the text box provided on
           the homepage. </p>
