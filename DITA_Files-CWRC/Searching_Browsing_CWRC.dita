@@ -74,12 +74,8 @@
           id="image_pp2_1lz_3x" align="center"/></p>
     </section>
     <section>
-      <title>Browsing</title>
-      <p>There are multiple ways to browse the content of CWRC writer. You can travel through the
-        Collaboratory projects sorting them by title or by recent modifications. <image
-          placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae5f65d5c-339f-46c5-9cf4-0a49c1732dbc/datastream/OBJ/view"
-          id="image_gtp_dlz_3x" align="center" scale="80"/></p>
+      <title>Searching Results</title>
+      <p>There are multiple ways to filter to search results in CWRC writer. You can travel through the Collaboratory projects sorting them by title or by recent modifications. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae5f65d5c-339f-46c5-9cf4-0a49c1732dbc/datastream/OBJ/view" id="image_gtp_dlz_3x" align="center" scale="80"></image></p>
       <p>Additionally, CWRC provides a faceted browsing feature. This is when you narrow down items
         (in this case search results) by different filter. Narrow down search results by as many
         filters as you would like. To add or remove filters you can click on the “+” or “-” buttons

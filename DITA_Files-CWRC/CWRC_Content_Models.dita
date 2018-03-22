@@ -2,9 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_n5z_lfy_3x">
   <title>CWRC Content Models</title>
-  <shortdesc>The organization, creation, and upload of materials relies on content models. These
-    define the parameters of a subcollection, determining is you can add a subcollection and what
-    type of material can be added.</shortdesc>
+  <shortdesc>The organization, creation, and upload of materials relies on content models. These define the parameters of a subcollection, determining if you can add a subcollection and what type of material can be added.</shortdesc>
   <refbody>
     <section>
       <title>Content Model Introduction</title>
@@ -38,9 +36,7 @@
         (websites, born digital text, book, periodical, etc.). </p>
       <p><b>Display Characteristics:</b> Once ingested, clicking on this cModel object will display
         a citation. A collapsible metadata table will also allow you to see additional details. </p>
-      <p><b>File types:</b> There are no file uploads<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A54a23fa9-ba1f-4d6f-aea3-2fbed302f43c/datastream/OBJ/view"
-          scale="80" align="center" id="image_edy_n2z_fy" scalefit="yes"/></p>
+      <p><b>File types:</b> There are no file uploads.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A54a23fa9-ba1f-4d6f-aea3-2fbed302f43c/datastream/OBJ/view" scale="80" align="center" id="image_edy_n2z_fy" scalefit="yes"></image></p>
       <p><b>Example:</b><xref
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A2c7e0aa4-ae4c-4a47-88f9-798187c14fac"
           format="html" scope="external"
@@ -54,9 +50,7 @@
         schema object for it to follow.</p>
       <p><b>Display Characteristics:</b> Ingested XML documents open within CWRC-Writer (a custom
         built tool that allows users to read, annotate and edit XML documents).</p>
-      <p><b>File types:</b> XML or existing template<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Aee8074ac-6ff6-4036-aa38-f0b5705ca8df/datastream/OBJ/view"
-          scale="80" align="center" id="image_mhv_p2z_fy" scalefit="yes"/></p>
+      <p><b>File types:</b> XML or existing template.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aee8074ac-6ff6-4036-aa38-f0b5705ca8df/datastream/OBJ/view" scale="80" align="center" id="image_mhv_p2z_fy" scalefit="yes"></image></p>
       <p><b>Example:</b><xref
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab1f42612-788b-4b1e-9767-1bf22bc818a6#cwrc:b1f42612-788b-4b1e-9767-1bf22bc818a6"
           format="html" scope="external"
@@ -84,7 +78,7 @@
         would like to use a specific schema object within CWRC Commons (be it because you plan to
         use a customized and only administration and project editors have permission to manage those
         collections.</p>
-      <p><b>Use For:</b> Uploading your own schema into CWRC</p>
+      <p><b>Use For:</b> Uploading your own schema into CWRC.</p>
       <p><b>File types:</b> Must upload both a RNG file and CSS file.</p>
     </section>
     <section>
@@ -172,17 +166,10 @@
     </section>
     <section>
       <title>Islandora Compound Object Content Model</title>
-      <p>PID: islandora:compoundCModel</p>
-      <p>Use For: This cModel creates a shell object that allows users to group different files by
-        adding “Child Objects” to it. These files can be any medium, but they must be ingested into
-        Islandora prior to being added as children to the compound object. Reversely, you can add
-        this folder to other pre existing projects by choosing the “Associate with Parent Object”
-        option.</p>
-      <p>Display Characteristics: When you open this compound object you will see the children
-        objects added to it and the metadata you filled in when creating this cModel.</p>
-      <p>File types: Any combination of other content models.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Acb0c694b-f32d-4728-8b13-764a8659a5ab/datastream/OBJ/view"
-          id="image_gfx_l4y_3x" align="center" scale="80"/></p>
+      <p><b>PID</b><b>:</b> islandora:compoundCModel</p>
+      <p><b>Use For</b><b>:</b> This cModel creates a shell object that allows users to group different files by adding “Child Objects” to it. These files can be any medium, but they must be ingested into Islandora prior to being added as children to the compound object. Reversely, you can add this folder to other pre existing projects by choosing the “Associate with Parent Object” option.</p>
+      <p><b>Display Characteristics</b><b>: </b>When you open this compound object you will see the children objects added to it and the metadata you filled in when creating this cModel.</p>
+      <p><b>File types</b><b>: </b>Any combination of other content models.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Acb0c694b-f32d-4728-8b13-764a8659a5ab/datastream/OBJ/view" id="image_gfx_l4y_3x" align="center" scale="80"></image></p>
       <p><b>Example:</b><xref
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A35a4ca5c-5765-43df-9cd2-386c80f42a9f"
           format="html" scope="external"

@@ -8,9 +8,7 @@
             can be in your research space or within a project.</prereq>
         <steps>
             <step>
-                <cmd>Click on <b>Add a new object to this collection</b>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A68d5d9fb-3974-4be1-b96e-d06c9d5a0008/datastream/OBJ/view"
-                        id="image_wqg_nt5_3x" align="center"/></cmd>
+                <cmd>Click on <b>Add a new item to this collection</b>.<image id="image_lcn_sjh_gdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A67d2db94-392f-4d46-b04e-76d71e43d9b7/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Choose the Content Model that your object belongs in. Click <b>Next</b>.</cmd>
