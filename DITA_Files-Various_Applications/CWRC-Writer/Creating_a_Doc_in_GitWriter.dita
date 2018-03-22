@@ -30,4 +30,8 @@
             </step>
         </steps>
     </taskbody>
+    <related-links>
+        <link href="Saving_your_Document_in_Git-Writer.dita#task_dvv_2zh_2db"></link>
+        <link href="Opening_a_New_Doc_in_GitWriter.dita#task_dyk_gzh_2db"></link>
+    </related-links>
 </task>
