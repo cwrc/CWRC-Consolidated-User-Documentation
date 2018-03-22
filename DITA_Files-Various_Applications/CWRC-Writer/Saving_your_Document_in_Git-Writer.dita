@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dvv_2zh_2db">
+    <title>Saving your document in Git-Writer</title>
+    <shortdesc>How to save your docuent in Git-Writer.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>With your document open in https://cwrc-writer.cwrc.ca, click the <uicontrol>Save</uicontrol> icon on the upper right side of the Git-Writer bar. </cmd>
+            </step>
+            <step>
+                <cmd>You will be prompted to choose a repository in which to save you document, if you haven't already saved it.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

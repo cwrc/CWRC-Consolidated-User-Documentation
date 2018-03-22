@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zsx_ysh_2db">
+    <title>Creating a Document in Git-Writer</title>
+    <shortdesc>How to create a document in Git-Writer.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to https://cwrc-writer.cwrc.ca. Once there, you will be prompted to authenticate with GitHub (if not authenticated already); if you do not have a GitHub account yet, you can easily sign up for one: https://github.com/join?source=header-home.  </cmd>
+            </step>
+            <step>
+                <cmd>Once logged in on GitHub, you will be prompted to authorize GitWriter.</cmd>
+            </step>
+            <step>
+                <cmd>After you have done so, you will be taken to the Git-Writer landing page, where you will be presented with three different options to load a document:<image href="../../Documents/Screen%20Shot%202018-02-15%20at%203.09.45%20PM.png" id="image_z3v_kyh_2db"></image></cmd>
+                <choices id="choices_m4r_g5h_2db">
+                    <choice>
+                        <p>Load one of your own documents (this option does not apply if you are using Git-Writer for the first time, as you would not have any Git-Writer-produced documents. Blank Document option allows you to work in a blank TEI document. </p>
+                    </choice>
+                </choices>
+                <choices id="choices_i5p_h5h_2db">
+                    <choice>Search and load any public Git-Writer-enabled documents/repositories (with an option to sort by GitHub organization or user ID). <note>In order to save changes to a repository you do not own, the repository owner should have added you as a collaborator to that repository from the GitHub repository settings (If you are not a collaborator on the external repository, you can still save a version of the document with the changes you have made as a new Git-Writer-enabled repository that you own.</note></choice>
+                </choices>
+                <choices id="choices_th5_l5h_2db">
+                    <choice>Load one of the TEI templates provided. Available templates allow you to work on “well formed” XML documents. Additionally, these templates already have an associated schema attached (making it easier for XML beginners).</choice>
+                </choices>
+            </step>
+        </steps>
+    </taskbody>
+</task>

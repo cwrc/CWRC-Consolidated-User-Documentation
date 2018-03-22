@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dyk_gzh_2db">
+    <title>Opening a New Document in Git-Writer </title>
+    <shortdesc>How to open a new document in Git-Writer.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>To open a new document in Git-Writer, click on the<uicontrol>Load</uicontrol> icon on the upper right side of the Git-Writer bar.</cmd>
+            </step>
+            <step>
+                <cmd>Git-Writer will ask whether you have saved your current document. Ensure that you have done so.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Continue to Load New Document</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>After you have done so, you will be taken to the Git-Writer landing page, where you will be presented with three diferent options to load a document: </cmd>
+                <choices id="choices_dqw_213_2db">
+                    <choice>Load one of your own documents (this option does not apply if you are using Git-Writer for the first time, as you would not have any Git-Writer-produced documents. </choice>
+                    <choice>Search and load any public Git-Writer-enabled documents/repositories (with an option to sort by GitHub organization or user ID).<note>In order to save the changes to a repository you do not own, the repository owner should have added you as a collaborator to that repository from the GitHub repository settings (If you are not a collaborator on the external repository, you can still save a version to the document with the changes you have made as a new Git-Writer-enabled repository that you own. </note></choice>
+                    <choice>Load one of the TEI templates provided. Available templates allow you to work on “well formed” XML documents. Additionally, these templates already have an associated schema attached (making it easier for XML beginners).</choice>
+                </choices>
+            </step>
+        </steps>
+    </taskbody>
+</task>
