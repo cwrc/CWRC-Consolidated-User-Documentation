@@ -16,4 +16,8 @@
             </step>
         </steps>
     </taskbody>
+    <related-links>
+        <link href="Opening_a_New_Doc_in_GitWriter.dita"></link>
+        <link href="Creating_a_Doc_in_GitWriter.dita"></link>
+    </related-links>
 </task>
