@@ -18,9 +18,7 @@
                         scale="80" align="center" id="image_r4q_whz_fy"/></cmd>
             </step>
             <step>
-                <cmd>Fill out the new message form.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A11441a31-e27f-483f-a9c4-ffa928bbbe9d/datastream/OBJ/view"
-                        scale="80" align="center" id="image_hcb_s3z_fy" scalefit="yes"/></cmd>
+                <cmd>Fill out the New Message form.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A11441a31-e27f-483f-a9c4-ffa928bbbe9d/datastream/OBJ/view" scale="80" align="center" id="image_hcb_s3z_fy" scalefit="yes"></image></cmd>
                 <info>To send to other users you need to enter their user name, however CWRC
                     provides drop down menu of user names based on what you begin to type (see
                     screenshot below).</info>

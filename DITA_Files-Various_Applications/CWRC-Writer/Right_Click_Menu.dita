@@ -7,9 +7,7 @@
     etc). </shortdesc>
   <refbody>
     <section><title>Right click menu in the text area</title><p>
-        <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A126a323d-8b66-49e9-96b8-6dc530ef9113/datastream/OBJ/view"
-          id="image_ojw_kct_3x" align="center"/>
+        <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad5f64442-0dc1-4f71-a75a-52116603b2a6/datastream/OBJ/view" id="image_ojw_kct_3x" align="center"></image>
         <lines><b>Tag Person</b> is for tagging people by name. It usually contains a proper noun or noun phrase, but can also contain pronouns or other ways of referring to someone.</lines>
         <lines><b>Tag Place</b> is for tagging a place. It can describe both a geographical location or a setting.</lines>
         <lines><b>Tag Date</b> is for tagging a date in the text. This tag can contain the year, month, day, or a combination of the three.</lines>
@@ -20,16 +18,13 @@
         <lines><b>Tag Correction</b> is used to tag any errors in the text and add a correction to it. </lines>
         <lines><b>Tag Keyword</b> is used to tag keywords.</lines>
         <lines><b>Tag Link</b> is used to tag URLs.</lines>
-        <lines><b>Structural Tags</b> allows you to add XML tags to the highlighted text. You can filter tags using the search field at the top of the list.</lines>
         <lines><b>Change Tag</b> this allows you to change  a tag (for example, turn a "lg" - line group - into a "p" - paragraph).</lines>
         <lines><b>Edit Tag</b> this allows you to edit a tag by modifying the attributes of the tag.</lines>
         <lines><b>Split Tags</b> is used to split a tag (e.g. seperating a paragraph to form two paragraphs). </lines>
-        <lines><b>Remove Tag</b> is for removing a tag.</lines>
+        <lines><b>Remove Tag Only</b> is for removing a tag.</lines>
+        <lines><b>Remove Content Only</b>is for removing the text, not the tag. </lines>
+        <lines><b>Remove Tag and All Content</b>is for removing the tag and the text.</lines>
         <lines><b>Copy Tag and Contents</b> allows you to copy the tag and all the content (text) it contains. </lines>
-        <lines><b>Paste Tag</b> lets users paste in a tag (and its content if copied).</lines>
-        <lines><b>Convert to entity</b> appears only when you select a tag that is also a RDF annotation (like note, person, place, etc.). It will change the tag from the XML to RDF.</lines>
-        <lines><b>Copy Entity</b> allows you to copy an entity, this option is only available when you highlight a pre tagged entity.</lines>
-        <lines><b>Paste Entity</b> allows you to paste in a copied entity (to move or duplicate a note entity for example).</lines>
       </p>
     </section>
     <section><title>Right-click menu in the structure column</title><p>In CWRC-Writer, you can add
