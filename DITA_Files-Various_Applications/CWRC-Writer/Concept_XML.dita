@@ -19,16 +19,7 @@
     allows you to upload your own schema to work with. <image placement="break"
      href="http://beta.cwrc.ca/islandora/object/cwrc%3A150651b3-f62d-421c-938f-22a55411f6ff/datastream/OBJ/view"
      id="image_bbn_rcd_zp" align="center"/></p>
-   <p>As noted above, XML consists of <xref href="http://www.w3schools.com/xml/xml_elements.asp"
-     format="html" scope="external">elements</xref> and <xref
-     href="http://www.w3schools.com/xml/xml_attributes.asp" format="html" scope="external"
-     >attributes</xref>. Elements are the structure tags, they allow users to markup the hierarchy
-    of the document. Attributes ass supplemental information to the elements tagged in a document.
-    For example, if you are tagging a person, you can add qualifying information to the tag, such as
-    if that person is real or fictional and that persons occupation (if any).<image
-     placement="break"
-     href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0587aec-1a73-4146-9783-2aa60ae52366/datastream/OBJ/view"
-     id="image_jsg_2dd_zp" align="center" scale="80"/></p>
+   <p>As noted above, XML consists of <xref href="http://www.w3schools.com/xml/xml_elements.asp" format="html" scope="external">elements</xref> and <xref href="http://www.w3schools.com/xml/xml_attributes.asp" format="html" scope="external">attributes</xref>. Elements are the structure tags, they allow users to markup the hierarchy of the document. Attributes add supplemental information to the elements tagged in a document. For example, if you are tagging a person, you can add qualifying information to the tag, such as if that person is real or fictional and that persons occupation (if any).<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0587aec-1a73-4146-9783-2aa60ae52366/datastream/OBJ/view" id="image_jsg_2dd_zp" align="center" scale="80"></image></p>
    <p>CWRC-Writer allows users to add the elements using a tag drop down menu in the toolbar. When
         you add the XML elements to your document, in the preloaded TEI XML tag, you are also
         presented with a pop-up where you can add attributes specific to that tag. For the major

@@ -26,12 +26,7 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Highlight the text that you would like to add a citation to and right-click or
-                    use the toolbar icon. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A98957c73-7a64-402a-b58e-2e7baf72588e/datastream/OBJ/view"
-                        id="image_zpn_kvs_3x" align="center"/><image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A67cedea5-dffb-4ae7-bae7-f6e762f23416/datastream/OBJ/view"
-                        id="image_rz4_k4v_tp" align="center"/></cmd>
+                <cmd>Highlight the text that you would like to add a citation to and right-click or use the toolbar icon. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A27a5d935-b998-4d98-bca1-a98e9ae5509b/datastream/OBJ/view" id="image_rz4_k4v_tp" align="center"></image></cmd>
             </step>
             <step>
                 <cmd>A pop-up will appear with a list of titles from the CWRC and VIAF entries.
