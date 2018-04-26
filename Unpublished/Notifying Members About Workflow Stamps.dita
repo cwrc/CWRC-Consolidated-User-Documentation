@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ky5_gq2_kdb">
+    <title>Notifying Members About Workflow Stamps</title>
+    <shortdesc>When you stamp a workflow object you can send a notification to other CWRC members. This allows users to keep team members up to date with project editing. </shortdesc>
+    <taskbody>
+        <context>
+            <p>The instructions proceed from the <b>Stamping log entries</b>. You must be logged into assign workflow entries. </p>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the workflow stamp form, expand the notification section. <image id="image_mqy_kq2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A831a464b-644f-4863-8402-ec6e55897919/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd>Add the members that you would like to notify as well as any subject and message that you would like to include. </cmd>
+                <info>
+                    <p>CWRC members are sent notification to the email that they sign up to CWRC using. Some CWRC users opt out of getting project wide notifications (for more information see ____), if you would like to make sure that everyone you are notifying get the email, select the <b>Force Mail Notification</b> at the top of the form. </p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links></related-links>
+</task>

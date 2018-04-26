@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ivp_shh_gdb">
+    <title>Adding Nested Project Menus</title>
+    <shortdesc>Users have the option of adding additional links nested beneath </shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the <b>Edit project menu</b> option in the <b>Utilities</b> column (on the right side of the dashboard). <image id="image_yyc_23h_gdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af3fdc7ee-323e-4d13-96b9-64d61a9701cc/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd>Click on the <b>Edit</b> option associated with the menu to which you would like to add a subsection.</cmd>
+                <info><p>Alternatively, you can add a new link in order to nest a new menu under. See Editing/Adding links to the Project Menu.</p><image id="image_ryt_z3h_gdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A6d1ee199-81ee-4c4d-9e76-a593c78f4bee/datastream/OBJ/view"></image></info>
+            </step>
+            <step>
+                <cmd>Enter the required information. </cmd>
+            </step>
+            <step>
+                <cmd>From the <b>Parent link</b> choose the menu under which you would like to insert the link.<image id="image_fnx_djh_gdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A92c3e88e-52a0-4cda-a7d1-bb83fe5b964f/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd>Optional: Add the weight option to your link (for more information see below). </cmd>
+                <info>
+                    <p>If you are adding more than one nested link you can add weight to the links. This will determine where they are located under the menu. In the menu, the heavier links will sink and the lighter links will be positioned nearer the top.</p>
+                </info>
+            </step>
+            <step>
+                <cmd> Click on save.<?oxy_comment_start author="floresov" timestamp="20180322T155057-0600" comment="Missing image"?>
+                    <?oxy_comment_end?></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links></related-links>
+</task>

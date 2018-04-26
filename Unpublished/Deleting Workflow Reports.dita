@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_byw_tbg_3db">
+    <title>Deleting Workflow Reports</title>
+    <shortdesc>You can delete a workflow report from the the workflow report column in your (or a project) dashboard.</shortdesc>
+    <taskbody>
+        <context>
+            <note>
+                <p><b id="docs-internal-guid-0623a4fe-739b-08b6-299d-62882173043d">Please be careful when deleting Workflow Reports, this action cannot be undone. </b></p>
+            </note>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>From your dashboard (or your project dashboard), click on the <b>X</b> button to the right of the workflow you would like to delete. <image id="image_gvw_xbg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A5ca645c2-f656-455a-a242-7affe4fa49d1/datastream/OBJ/view"></image><option>Click on the Workflow Report to open the editing workflow form. Click on the Delete option to the right of the Workflow report you want to delete.</option><image id="image_sdm_2cg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A08debd5c-3a60-4b67-8ba3-6c59e46280f4/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd>When you delete a workflow report you are taken to a prompt. Click on <b>Delete report</b> if you would like to proceed or <b>Cancel</b> if you want to go back.<image id="image_vcd_3cg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab0fa7f38-d15e-4da3-9b01-039320d13426/datastream/OBJ/view"></image></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links></related-links>
+</task>

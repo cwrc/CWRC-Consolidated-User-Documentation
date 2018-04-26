@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gx1_mn2_kdb">
+    <title>Migrating an Object to Another Collection</title>
+    <shortdesc>Migrating the object to another location will remove the object from the original collection (where you created or uploaded it) and move it to a new location that you specify. </shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on <b>Migrate to another collection</b>.<image id="image_kb2_qn2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A7dad6013-3ea2-48a7-b67d-69fb5c42f397/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd>Add the name of the new collection you would like to migrate this object to. <image id="image_slq_rn2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af0cc8ec1-3d2f-4ab3-9448-cceabfac1cc3/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd>Click on <b>Migrate Object.</b> </cmd>
+                <info><p><b id="docs-internal-guid-0623a4fe-975a-97f6-e588-799028f80f5f">Warning! </b></p><p><b>Be careful migrating objects to another collection! If you migrate the object to collection that you cannot see or edit in you will lose access to your object. </b></p><image id="image_jyx_j42_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Afb8e78fd-c8a1-416f-8e21-1f5ab4f731ca/datastream/OBJ/view"></image></info>
+                <stepresult>
+                    <p>This will move the object to the new collection. </p>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links></related-links>
+</task>

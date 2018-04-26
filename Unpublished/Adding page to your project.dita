@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_v1d_ngf_3db">
+    <title>Adding a page to your project</title>
+    <shortdesc>When you add a page to your CWRC project, it is initially added to the CWRC drupal site in general, not only to the project. In order to link it to your project, you must grab the URL of the new page and link it using the <b>Edit project menu</b>(See ____).</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the <b>Add a page to project</b> under the <b>Utilities</b> column<image id="image_z2w_2jf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af3fdc7ee-323e-4d13-96b9-64d61a9701cc/datastream/OBJ/view"></image>.</cmd>
+            </step>
+            <step>
+                <cmd>Fill out the Add a page to project form. The title field is required. <image id="image_ifl_5jf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A73494c24-2f59-4584-959e-4280b714baf8/datastream/OBJ/view"></image></cmd>
+                <choices id="choices_nnt_kkf_3db">
+                    <choice><p><b id="docs-internal-guid-0623a4fe-7321-9657-1b20-5f1900b6bcff">You can choose to preview your new page, click on the Preview button (see screenshot below).</b></p><image id="image_dst_rkf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A148af5d4-75c0-4ffe-961b-72887dbfc47c/datastream/OBJ/view"></image></choice>
+                </choices>
+            </step>
+            <step>
+                <cmd> Click on <b>Save</b>.</cmd>
+                <info>
+                    <p>Once you create a new page in your project, you have to link to it from the project menu. You can do this by copying the URL of the new page and following the steps of<b> Editing/Adding links to the Project Menu</b>.</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links></related-links>
+</task>

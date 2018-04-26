@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cff_31g_3db">
+    <title>Viewing Workflow Stamps in Your Project Dashboard</title>
+    <shortdesc>Any workflow objects that you have stamped will show up in your dashboard under <b>Recent Workflow Stamps</b>. </shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on one of the <b>Objects</b> under the <b>Recent Workflow Stamps</b> column in your dashboard. </cmd>
+                <info><p>The list is organized by the most recent first. However, you can view any stamped workflow by clicking on the <b>Show all </b>button at the bottom left of the column. </p><image id="image_vg2_n1g_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0c0dc8e7-e4ce-4925-b3cf-67bc346f3cbb/datastream/OBJ/view"></image></info>
+            </step>
+            <step>
+                <cmd>View the object you have selected. </cmd>
+                <info><p>The viewable information includes the collection the stamp, the date and time of the workflostamp, the user who created the stamp and the status of the object. Additionally, if this object has been assigned to another member that information will also be available. </p><image id="image_aw5_r1g_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3bfb2ec2-baaa-47dc-b019-983487c4855c/datastream/OBJ/view"></image></info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links></related-links>
+</task>

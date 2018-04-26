@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_j2j_fyf_3db">
+    <title>Assigning an Object for Further Editing</title>
+    <shortdesc>When you stamp an object you have the option of assigning the entry to other users. You can do this, so that they know that the object is ready to be published or if you would like another user to edit the stamped object. </shortdesc>
+    <taskbody>
+        <context>
+            <p><b id="docs-internal-guid-0623a4fe-7382-22eb-6cd1-a120d14f3ffc">The instruction proceed from the Stamping log entries. You must be logged in to assign work. </b></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the <b>Assign(optional)</b> section at the bottom of the workflow form. <image id="image_nxr_1zf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac8f5350e-db1f-405c-b4f5-d7aa8de08f9d/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd>Add the member's name that you would like the assigned notification to go to.</cmd>
+            </step>
+            <step>
+                <cmd>Provide a subject. </cmd>
+                <info>
+                    <p>This assigned notification will go to the user's email, the necessary information reflects the email format.<image id="image_oqx_dzf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3aace8c5-d5ab-4ab7-97a0-1028392ae98c/datastream/OBJ/view"></image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Provide a message. </cmd>
+            </step>
+            <step>
+                <cmd>Optional: Select a category for this assigned workflow task.<image id="image_eg5_3zf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3f4ee399-b7fa-449b-98c0-e0cd3f82bd75/datastream/OBJ/view"></image></cmd>
+            </step>
+            <step>
+                <cmd>Click send.</cmd>
+            </step>
+            <step>
+                <cmd>An email will be sent to the user you have assigned a workflow task (see below). <image id="image_dpp_nzf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa8ab5f4e-49b9-4cf0-831c-4c49bf22fe6c/datastream/OBJ/view"></image></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links></related-links>
+</task>
