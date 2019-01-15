@@ -31,7 +31,7 @@
       <p>You can change the list order of the collaboratory by selecting a <cmdname>Sort By</cmdname> option (either by <cmdname>Title</cmdname> or by <cmdname>Modified</cmdname>) and clicking <cmdname>Change</cmdname>. Selecting <cmdname>Title</cmdname> displays projects in alphabetical order. The <cmdname>Modified</cmdname> option changes the order so that the projects that have been recently updated or changed are first in the list order.</p>
       <p>Additionally, viewers can change how the collaboratory projects are presented. The default option is a list view, but viewers can select the <cmdname>Gallery</cmdname> icon located above the projects in the righthand corner. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A6cb45a32-833b-4544-96cb-3758875cb035/datastream/OBJ/view" id="image_ytj_snv_3x" align="center" scale="80"></image></p>
       <p>To see the <cmdname>Projects Overview</cmdname> page, go to <xref href="http://www.cwrc.ca/about/" format="html" scope="external">http://www.beta.cwrc.ca/projects</xref></p>
-      <p>By clicking on a project you are taken to the collection page. This displays the subcollection folders of the project. Users can explore uploaded and born-digital files within
+      <p>Clicking on a project will bring you to its collection page. This displays the subcollection folders of the project. Users can explore uploaded and born-digital files within
         CWRC of any participating project. Editing and annotating those materials will depend on
         whether you are a member of a project and/or if the project has released the lock on an
         object (in other words, made public for editing and annotating). <image placement="break"
