@@ -135,7 +135,7 @@
       <title>Islandora Audio Content Model</title>
       <p><b>PID:</b> islandora:sp-audioCModel</p>
       <p><b>Use For:</b>Use this cModel to upload audio files, they will play in your browser.</p>
-      <p><b>Display Characteristics:</b> Files are played within the browser using HTML5 or Adobe Flash (depending on the age of your browser). You can add a thumbnail image when uploading your audio file, this will display in the viewer before you play the audio.</p>
+      <p><b>Display Characteristics:</b> Files are played within the browser using HTML5 or Adobe Flash (depending on the age of your browser). You can add a thumbnail image when uploading your audio file, which will be displayed in the viewer before you play the audio.</p>
       <p><b>File Types:</b><ul id="ul_ivf_ymy_3x">
         <li>For audio files - wav or mp</li>
         <li>For thumbnail images user - gif, jpg, jpeg, or png<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A73d57ffc-9118-4662-bd2b-553853879cbe/datastream/OBJ/view" id="image_vfh_3ny_3x" align="center" scale="80"></image></li>
