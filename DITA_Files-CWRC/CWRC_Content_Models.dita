@@ -150,7 +150,7 @@
       <p><b>PID:</b> islandora:sp_basic_image</p>
       <p><b>Use For:</b> Use this option to upload images and add associated metadata.</p>
       <p><b>Display Characteristics:</b> CWRC displays the images as thumbnails in the collection
-        unless the user clicks to open the file (the you see the full size image). If you have a
+        unless the user clicks to open the file (then you see the full size image). If you have a
         large image use the “Islandora Large Image Content Model”.</p>
       <p><b>File types:</b> gif, jpg/jpeg, or png<image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A185a129a-8af9-4151-941a-6c22b8ec1c98/datastream/OBJ/view"
