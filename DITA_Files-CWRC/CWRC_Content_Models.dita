@@ -15,7 +15,7 @@
         object.</p>
       <p>Every single object in the repository has a single cModel attached to it. (Expert info: the
         information on what cModel is associated with this object is recorded in the RELSEXT
-        datastream of the object) Even collections within the repository are actually objects that
+        datastream of the object) Even collections within the repository are objects that
         have a certain cModel associated with them (the collection cModel).</p>
       <p>For more information about changing your cModel collection policy or adding an object to
         you collection see <xref href="Changing_Collection_Policy.dita"
