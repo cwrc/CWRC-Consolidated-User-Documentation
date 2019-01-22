@@ -11,7 +11,7 @@
         (cModel). cModels are, for all intents and purposes, sets of instructions that direct the
         system on how to handle different objects in the repository. For example, if an object is
         assigned the video cModel, the system will know how that object should be rendered, what
-        datastreams it should contain and what are the steps needed in the creation of the
+        datastreams it should contain, and what are the steps needed in the creation of the
         object.</p>
       <p>Every single object in the repository has a single cModel attached to it. (Expert info: the
         information on what cModel is associated with this object is recorded in the RELSEXT
