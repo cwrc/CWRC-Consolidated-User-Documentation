@@ -118,7 +118,7 @@
       <p><b>PID:</b> islandora:collectionCModel</p>
       <p><b>Use For:</b> This cModel creates new collections, to which you can assign different
         cModels to it (depending on the content). For example, if you are working on a book that has
-        images, you can used this cModel to create a new collection to organize the images.</p>
+        images, you can use this cModel to create a new collection to organize the images.</p>
       <p><b>Display Characteristics:</b> When opening this cModel, you view the different content
         that is organized within. For example, the link below connects you with a collection cModel
         that has a video, archived book, template, and additional collection (created from this same
