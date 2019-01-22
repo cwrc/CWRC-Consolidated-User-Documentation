@@ -49,7 +49,7 @@
         must provide metadata for their document (using one of the provided forms), and select a
         schema object for it to follow.</p>
       <p><b>Display Characteristics:</b> Ingested XML documents open within CWRC-Writer (a custom
-        built tool that allows users to read, annotate and edit XML documents).</p>
+        built tool that allows users to read, annotate, and edit XML documents).</p>
       <p><b>File types:</b> XML or existing template.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aee8074ac-6ff6-4036-aa38-f0b5705ca8df/datastream/OBJ/view" scale="80" align="center" id="image_mhv_p2z_fy" scalefit="yes"></image></p>
       <p><b>Example:</b><xref
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab1f42612-788b-4b1e-9767-1bf22bc818a6#cwrc:b1f42612-788b-4b1e-9767-1bf22bc818a6"
