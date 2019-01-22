@@ -9,7 +9,7 @@
       <p>CWRC users can upload or create different types of objects in the CWRC repository. It is
         important that, when creating a new object, users select the most appropriate Content model
         (cModel). cModels are, for all intents and purposes, sets of instructions that direct the
-        system on how to handle different objects in the repository. For example, if an object has
+        system on how to handle different objects in the repository. For example, if an object is
         assigned the video cModel, the system will know how that object should be rendered, what
         datastreams it should contain and what are the steps needed in the creation of the
         object.</p>
