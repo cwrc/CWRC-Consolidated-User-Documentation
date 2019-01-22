@@ -64,7 +64,7 @@
       <p><b>Note:</b> We discourage users from creating these type of cModels, as you may make
         duplicate entities. This is because CWRC-Writer provides a more user friendly way to create entities.</p>
       <p><b>Use For:</b> These cModels define a specific organization/person/place. There is no file
-        upload, rather you fill out a digital form to define the entity. We encourage you to create
+        upload. Instead, you fill out a digital form to define the entity. We encourage you to create
         these entities through CWRC-Writer instead of the Islandora forms.</p>
       <p>The entities created are saved in CWRC commons, and are usually created through
         CWRC-Writer. Any entities that you add using this cModel will be available in CWRC-Writer,
