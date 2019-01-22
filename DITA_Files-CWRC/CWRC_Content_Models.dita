@@ -73,7 +73,7 @@
     <section>
       <title>CWRC Schema Content Model</title>
       <p><b>PID:</b> cwrc:schemaCModel</p>
-      <p><b>Note:</b> We strongly advise that you do not upload schemas objects to your collection.
+      <p><b>Note:</b> We strongly advise that you do not upload schema objects to your collection.
         Different schema objects are stored in a special collection within CWRC Commons. If you
         would like to use a specific schema object within CWRC Commons (be it because you plan to
         use a customized and only administration and project editors have permission to manage those
