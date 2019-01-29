@@ -71,7 +71,7 @@
       <title>Project Administrator</title>
       <p>Project Admin role that has all the privileges of a Project Editor but can also Delete
         objects.</p>
-      <p>Note: At present standard user permissions, even Project Editor permissions, do not allow
+      <p>Note: At present, standard user permissions and Project Editor permissions do not allow
         deletion of CWRC content. Only CWRC Administrators have that ability. </p>
       <p>We are creating a Project Admin role that will allow deletion of content belonging to that
         project.</p>
