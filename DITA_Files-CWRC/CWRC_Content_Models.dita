@@ -189,7 +189,7 @@
     <section>
       <title>Islandora PDF Content Model</title>
       <p><b>PID:</b> islandora:sp_pdf</p>
-      <p><b>Use For:</b> Use to upload pdf documents to CWRC.</p>
+      <p><b>Use For:</b> Use to upload PDF documents to CWRC.</p>
       <p><b>Display Characteristics:</b> The document will be readable in a text reader that you can
         scroll through. If you cannot read it in the text reader, it can be downloaded. Depending on
         the “type” of pdf, CWRC will deal with it in two ways. Pdfs created from digital born
