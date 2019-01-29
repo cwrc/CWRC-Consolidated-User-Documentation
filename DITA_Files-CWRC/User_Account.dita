@@ -106,8 +106,8 @@
     <section>
       <title>Project dashboard</title>
       <p>Like user accounts, projects have their own dashboards. These are accessible to project
-        administrators and project editors. Clicking on the Project Dashboard in the login drop down
-        menu (top right of the page) you can access this page. <image placement="break"
+        administrators and project editors. Clicking on the <b>Project Dashboard</b> in the login drop down
+        menu (top right of the page) will allow an user to access this page. <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Adc2b8627-6136-4ccd-9fad-85d92f774bbf/datastream/OBJ/view"
           id="image_ywq_rdz_3x" align="center"/></p>
       <p>The Project Dashboard includes:<ul id="ul_htt_gdz_3x">
