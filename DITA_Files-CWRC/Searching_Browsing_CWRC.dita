@@ -39,8 +39,8 @@
       <image placement="break"
         href="http://beta.cwrc.ca/islandora/object/cwrc%3A5739e251-d90c-478f-908c-a91d3aea796f/datastream/OBJ/view"
         id="image_vtj_jjz_3x" align="center"/>
-      <p>Another available view of search results is by <b>Documents</b>. This lets users view the
-        search results as “abstracts.” the information presented includes the latest workflow stamp,
+      <p>Another available view of search results is by <b>Documents</b>. This allows users to view the
+        search results as “abstracts.” The information presented includes the latest workflow stamp,
         title, author, description, etc. However, this view depends on the metadata and not all
         files have all those fields filled in.<image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A905bad40-3bbf-46a3-9117-2fed410426e2/datastream/OBJ/view"
