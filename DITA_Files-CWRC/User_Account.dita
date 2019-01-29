@@ -112,7 +112,7 @@
           id="image_ywq_rdz_3x" align="center"/></p>
       <p>The <b>Project Dashboard</b> includes:<ul id="ul_htt_gdz_3x">
           <li>Project workflow reports </li>
-          <li>Locked objects</li>
+          <li>Locked objects (used to avoid unapproved edits or annotations to files)</li>
           <li>A list of project members</li>
           <li>Pending requests for project membership</li>
           <li>Workflow reports </li>
@@ -121,8 +121,7 @@
               href="http://beta.cwrc.ca/islandora/object/cwrc%3A1af76402-bc4a-4332-b3d8-0f37619efb6d/datastream/OBJ/view"
               scale="80" align="center" id="image_etv_kfz_fy" scalefit="yes"/></li>
         </ul></p>
-      <p>Locking object prevents users for making unapproved edits or annotations to files.</p>
-      <p>The <b>Utilities</b> (on the right side of the project dashboard) are editing options for
+      <p><b>Note</b>: The <b>Utilities</b> (on the right side of the project dashboard) are editing options for
         the content and project homepage. We suggest only project administrators use this feature. </p>
     </section>
   </refbody>
