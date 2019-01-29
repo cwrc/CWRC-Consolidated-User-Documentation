@@ -8,7 +8,7 @@
   <p>If an element has not been Selected, it will display the greyed out formula Verb + Set/Class to indicate these elments are empty and prompt the user to choose them.</p>
   <p>The Verb element and Set/Class element can be entered in <i>any order</i> - it does not matter which element is picked first - but <i>both</i> need to be present for the action to take place.  </p>
   <example>"Label" + Set/Class indicates that the Verb label has been selected. Set/Class is blank indicating that the user needs to choose this elements to execute the command.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A44a189be-7705-4a97-814d-bf1891fab375/datastream/OBJ/view" id="image_mdv_b31_cv"></image></example>
-  <p> Here, the Current Command has been changed from "VERB the Shelved set" to "Walk the Shelved set". The command changes the ordering of the graph.
+  <p> Here, the Current Command has been changed from "VERB the Shelved set" to "Walk the Shelved set". The command changes the ordering of the graph.</p>
  </conbody>
  <related-links>
   <link href="Reference_CommandsTab.dita"></link>
