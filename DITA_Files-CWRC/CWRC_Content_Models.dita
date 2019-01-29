@@ -192,7 +192,7 @@
       <p><b>Use For:</b> Use to upload PDF documents to CWRC.</p>
       <p><b>Display Characteristics:</b> The document will be readable in a text reader that you can
         scroll through. If you cannot read it in the text reader, it can be downloaded. Depending on
-        the “type” of pdf, CWRC will deal with it in two ways. Pdfs created from digital born
+        the “type” of pdf, CWRC will deal with it in two ways. PDFs created from digital born
         documents (like a word processor) will be extracted to a datastream and indexed. Scanned
         pdfs will not.</p>
       <p><b>File types:</b> PDF<image placement="break"
