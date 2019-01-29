@@ -49,7 +49,7 @@
     <section>
       <title>Advanced Search</title>
       <p>The <b>Advanced search</b> option allows users to enter multiple search terms (separated by
-        boolean operators - and, or and not). You can have from one to multiple search terms. The
+        boolean operators - and, or, and not). You can have from one to multiple search terms. The
         red “+” and “-” buttons beside the search terms will add or delete them. You can specify
         where the search term should be found by changing the “Field” option.<image
           placement="break"
