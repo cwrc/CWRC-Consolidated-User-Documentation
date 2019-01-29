@@ -56,8 +56,7 @@
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae32d77f7-dbea-4ebd-bb55-72b6f98b2ac5/datastream/OBJ/view"
           scale="80" align="center" id="image_j1t_pfz_fy" scalefit="yes"/></p>
       <p>The <b>Field</b> list narrows down your search by the metadata and workflow stamps of objects.
-        The default option is dc.title, which will return the most results because when an object is
-        created or uploaded it is a required field. <image placement="break"
+        The default option is dc.title, which will return the most results because it is a required field for new objects. <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A80dad9a5-773a-4c54-be59-caaf5322ae3c/datastream/OBJ/view"
           id="image_eq1_skz_3x" align="center" scale="80"/></p>
     </section>
