@@ -92,7 +92,7 @@
       <p>Users can view and edit their CWRC profiles. <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae56aa01e-ce03-4129-bbf2-8880bfebfb77/datastream/OBJ/view"
           id="image_oz1_qcz_3x" align="center"/></p>
-      <p>The View tab displays your user profile. You will see any information you’ve added to your
+      <p>The <b>View</b> tab displays your user profile. You will see any information you’ve added to your
         account along with what projects you are a member of. Additionally, this page shows you an
         URL that you can use to login with any OpenID sites. <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab020383b-e58a-4081-862d-baf8409df5d5/datastream/OBJ/view"
