@@ -70,7 +70,7 @@
         bookmark lists. Use this section to create new lists. When you create a bookmark list you
         can determine if it is private (default option) or shared. For more information see <xref
           href="Adding_Bookmark_Lists.dita"/>. </p>
-      <p>Use your bookmark list to explore the visualization tool PlotIt. PlotIt combines a timeline
+      <p>Use your bookmark list to explore the visualization tool <b>PlotIt</b>. PlotIt combines a timeline
         and map feature to plot the metadata information of items. For more information about using
         PlotIt see <xref href="Accessing_PlotIt.dita"/>. <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A17cd52b0-e8d6-4c58-9ea0-7d48203bd851/datastream/OBJ/view"
