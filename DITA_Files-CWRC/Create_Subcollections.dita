@@ -46,7 +46,7 @@
             </step>
             <step>
                 <cmd>Choose your <b>Inherit XACML policy</b>. The options will be “None” or the
-                    collection that you are adding the subcollection to. Click on <b>Next</b>.</cmd>
+                    collection that you are adding the subcollection to. Click <b>Next</b>.</cmd>
                 <info>The inherit eXtensible Access Control Markup Language (XACML) policy defines
                     who can access the subcollection. For example, who can edit or annotate a
                     document verses simple view it. <image placement="break"
