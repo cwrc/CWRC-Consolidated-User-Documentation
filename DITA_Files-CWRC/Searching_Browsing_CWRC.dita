@@ -48,7 +48,7 @@
       <p>The <b>Advanced search</b> option allows users to enter multiple search terms (separated by
         boolean operators - and, or, and not). You can have from one to multiple search terms. The
         red “+” and “-” buttons beside the search terms will add or delete them. You can specify
-        where the search term should be found by changing the “Field” option.<image
+        where the search term should be found by changing the <b>Field</b> option.<image
           placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae32d77f7-dbea-4ebd-bb55-72b6f98b2ac5/datastream/OBJ/view"
           scale="80" align="center" id="image_j1t_pfz_fy" scalefit="yes"/></p>
