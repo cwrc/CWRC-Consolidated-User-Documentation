@@ -17,11 +17,11 @@
             <step>
                 <cmd>Select the project to which you would like to add a new subcollection. </cmd>
                 <info>Make sure that the parent collection in which you are creating a subcollection
-                    has one of the two content models that allow you to create new subcollections:<p
+                    has one of the two following content models that allow you to create new subcollections:<p
                         dir="ltr"><b>Islandora Collection Content Model</b> - creates a
                         subcollection within a collection</p><b>Islandora Compound Object Content
                         Model</b> - creates a shell object that allows users to group different
-                    files by adding “Child Objects” to it. However, the object that populate this
+                    files by adding “Child Objects” to it. However, the objects that populate this
                     folder must have been previously uploaded to CWRC. <p>For more information see
                             <b>Content Models</b>
                     </p></info>
