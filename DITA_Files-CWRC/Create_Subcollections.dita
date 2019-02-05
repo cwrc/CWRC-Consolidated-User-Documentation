@@ -16,8 +16,8 @@
             </step>
             <step>
                 <cmd>Select the project to which you would like to add a new subcollection. </cmd>
-                <info>You need to make sure the the collection you are creating a subcollection in
-                    has one of the two content models that allow you to create new subcollections.<p
+                <info>Make sure that the parent collection in which you are creating a subcollection
+                    has one of the two content models that allow you to create new subcollections:<p
                         dir="ltr"><b>Islandora Collection Content Model</b> - creates a
                         subcollection within a collection</p><b>Islandora Compound Object Content
                         Model</b> - creates a shell object that allows users to group different
@@ -27,7 +27,7 @@
                     </p></info>
             </step>
             <step>
-                <cmd>To create a subcollection you need to choose to <b>Add an object to this
+                <cmd>To create a subcollection you need to click on <b>Add an object to this
                         Collection</b>. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A68d5d9fb-3974-4be1-b96e-d06c9d5a0008/datastream/OBJ/view"
                         id="image_lh1_5p5_3x" align="center"/></cmd>
