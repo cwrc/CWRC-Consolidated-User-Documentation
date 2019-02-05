@@ -3,7 +3,7 @@
 <task id="task_udg_mq5_3x">
     <title>Changing the collection policy</title>
     <shortdesc>If you would like to upload a particular object to your collection, you may have to
-        change the policy associated with your collection (depending on what you assigned to it when
+        change the policy associated with it (depending on what you assigned to it when
         you created your collection).</shortdesc>
     <taskbody>
         <steps>
