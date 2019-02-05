@@ -8,8 +8,8 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Navigate to your <b>Research Space</b>, you can do this from your dashboard
-                    (under <b>My Projects</b>) or using the dropdown menu under the account icon in
+                <cmd>Navigate to your <b>Research Space</b>. You can do this from your dashboard
+                    under <b>My Projects</b>, or by using the dropdown menu under the account icon in
                     the top right corner of CWRC. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Adc2b8627-6136-4ccd-9fad-85d92f774bbf/datastream/OBJ/view"
                         id="image_nnq_3p5_3x" align="center"/></cmd>
