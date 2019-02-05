@@ -54,9 +54,9 @@
                         id="image_flb_xp5_3x" align="center"/></info>
             </step>
             <step>
-                <cmd>Fill out the MODS form.</cmd>
-                <info>The only required field is the title, the rest of the information can be
-                    filled in later from the objects Manage page.<image placement="break"
+                <cmd>Fill out the <b>MODS</b> form.</cmd>
+                <info>The only required field is the title. The rest of the information can be
+                    filled in later from the objects <b>Manage</b> page.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A44b90b4a-5a88-432b-aa99-47f23d53e707/datastream/OBJ/view"
                         id="image_psq_fq5_3x" align="center" scale="80"/></info>
             </step>
