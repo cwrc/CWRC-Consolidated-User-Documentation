@@ -4,7 +4,7 @@
     <title>Creating subcollections</title>
     <shortdesc>When you upload files into CWRC you must have a place to put them. You need
         subcollections or “folders” that will organize the files within a project (or “collection”).
-        A policy is then assigned to each subcollection. This determines which type of files will be in them.</shortdesc>
+        A policy is then assigned to each subcollection. This determines which type of files will be in them. Follow these steps to create a subcolletion:</shortdesc>
     <taskbody>
         <steps>
             <step>
