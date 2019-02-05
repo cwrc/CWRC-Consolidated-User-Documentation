@@ -16,8 +16,8 @@
             </step>
             <step>
                 <cmd>You will be brought back to the CWRC homepage. A thank-you for applying for a
-                    CWRC-Writer Membership. </cmd>
-                <info>CWRC will send you an email if you are approved for an account. </info>
+                    CWRC-Writer Membership will be displayed. </cmd>
+                <info>CWRC will then send you an email if you are approved for an account. </info>
             </step>
         </steps>
     </taskbody>
