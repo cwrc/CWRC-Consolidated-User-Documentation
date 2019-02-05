@@ -22,8 +22,7 @@
                         subcollection within a collection</p><b>Islandora Compound Object Content
                         Model</b> - creates a shell object that allows users to group different
                     files by adding “Child Objects” to it. However, the objects that populate this
-                    folder must have been previously uploaded to CWRC. <p>For more information see
-                            <b>Content Models</b>
+                    folder must have been previously uploaded to CWRC. <p>For more information on this, please refere to the "CWRC Content Models" link at the bottom of the page.
                     </p></info>
             </step>
             <step>
