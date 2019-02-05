@@ -17,7 +17,7 @@
     <section>
       <title>Search Results</title>
       <p><b>Search Results</b> can be sorted by the relevance to search terms, title, creation date,
-        and date last modified. These option can be organized in ascending and descending order.
+        and date last modified. These options can be organized in ascending and descending order and/or list (default) or grid view.
           <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A30a30098-4750-4676-8f7e-89fb9332c4e4/datastream/OBJ/view"
           scale="80" align="center" id="image_og3_4fz_fy" scalefit="yes"/></p>
@@ -27,9 +27,7 @@
       <image placement="break"
         href="http://beta.cwrc.ca/islandora/object/cwrc%3A45bb334b-e087-4fc0-a8cd-7fc85c15c633/datastream/OBJ/view"
         id="image_e54_y3z_3x" align="center"/>
-      <p>Additionally, you can view your search results in a list (default) or grid view. <image
-          placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A70eeda06-c87f-4d80-8b2e-91be6ed66bb5/datastream/OBJ/view"
+      <p><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A70eeda06-c87f-4d80-8b2e-91be6ed66bb5/datastream/OBJ/view"
           id="image_kpq_bjz_3x" align="center"/></p>
       <p>Users can also view search results by <b>Bibliographic View</b>, which displays search
         results as citations. These can be organized by type of citation style (see screenshot
