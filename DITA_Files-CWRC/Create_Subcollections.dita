@@ -49,7 +49,7 @@
                     collection that you are adding the subcollection to. Click <b>Next</b>.</cmd>
                 <info>The inherit eXtensible Access Control Markup Language (<b>XACML</b>) policy defines
                     who can access the subcollection. For example, who can edit or annotate a
-                    document verses simple view it. <image placement="break"
+                    document rather simply view its contents. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A859d203c-caee-4e3e-89d0-f7425ffa0882/datastream/OBJ/view"
                         id="image_flb_xp5_3x" align="center"/></info>
             </step>
