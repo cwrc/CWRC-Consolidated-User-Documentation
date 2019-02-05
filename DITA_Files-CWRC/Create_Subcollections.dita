@@ -15,7 +15,7 @@
                         id="image_nnq_3p5_3x" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Select the project you would like to add a new subcollection to. </cmd>
+                <cmd>Select the project to which you would like to add a new subcollection. </cmd>
                 <info>You need to make sure the the collection you are creating a subcollection in
                     has one of the two content models that allow you to create new subcollections.<p
                         dir="ltr"><b>Islandora Collection Content Model</b> - creates a
