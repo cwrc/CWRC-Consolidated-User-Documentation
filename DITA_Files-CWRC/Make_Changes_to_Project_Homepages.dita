@@ -25,7 +25,7 @@
                 </info>
             </step>
             <step>
-                <cmd>If you'd like to save the edits you'e made to the project homepage, it is important to remember to scroll down and click <cmdname>Save</cmdname> before leaving the page.</cmd>
+                <cmd>Clicking <cmdname>Save</cmdname> at the bottom of the page will confirm any changes you wish to make.</cmd>
             </step>
         </steps>
     </taskbody>
