@@ -12,8 +12,7 @@
                 <cmd>Open CWRC in your browser. Link <xref href="http://beta.cwrc.ca/" format="html" scope="external">here</xref>.</cmd>
             </step>
             <step>
-                <cmd>Select login. Enter in your Username and password.</cmd>
-                <info>Access to login is located on the top right corner of the browser.</info>
+                <cmd>Select <b>login</b> (located in the top right corner of the browser). Enter your username and password.</cmd>
             </step>
             <step>
                 <cmd>You will be directed to the view page for your user profile, where you can see Projects I belong to. Among the items in this list, select the project that you wish to access.</cmd>
