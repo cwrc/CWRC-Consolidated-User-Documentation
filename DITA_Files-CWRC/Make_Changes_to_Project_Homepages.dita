@@ -5,7 +5,7 @@
     <shortdesc>Project homepages display the project's description. This can include a link to the entire collection, featured items from the collection, external links to the project's website and/or social media page, list of sponsors, director(s) names, and an About Me page that lists the project's contact information.</shortdesc>
     <taskbody>
         <context>
-            <note>Projects are created by CWRC administrators, who assign associated members of CWRC the role of Project Editor to enable them to edit their project pages. Projects must be approved by the CWRC Research Board. If you wish to propose a project please fill out the <xref href="https://docs.google.com/forms/d/1nhlWbD1nosQucxmyCu8gNM6izZkgSZiBncb3CLRT0Zk/viewform" format="html">application form</xref>.</note>
+            <note>Projects are created by CWRC administrators, who assign associated members of CWRC the role of Project Editor to enable them to edit their project pages. Projects must be approved by the CWRC Research Board. If you wish to propose a project, please fill out the <xref href="https://docs.google.com/forms/d/1nhlWbD1nosQucxmyCu8gNM6izZkgSZiBncb3CLRT0Zk/viewform" format="html">application form</xref>.</note>
             <p></p>
         </context>
         <steps id="steps_bpt_4rd_gx">
