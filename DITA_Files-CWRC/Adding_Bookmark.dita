@@ -11,7 +11,7 @@
             <step>
                 <cmd>Select the object you would like to bookmark.</cmd>
                 <info>CWRC lets users bookmark subcollections (or folders) and/or individual files. What
-                    you bookmark depends on what you have open when you click on the Add to Bookmark
+                    you bookmark depends on what you have open when you click on the <b>Add to Bookmark</b>
                     button. For example, the screenshot below will add only that particular file to
                     your bookmark list.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A65a9b590-2871-42b2-bf03-562a59818e3b/datastream/OBJ/view"
