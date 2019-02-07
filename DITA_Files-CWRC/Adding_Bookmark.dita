@@ -2,9 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_h2j_zx5_3x">
     <title>Adding a bookmark</title>
-    <shortdesc>CWRC has a bookmarking feature that allows you to quickly access files across projects. You will then have the option to place these bookmarks in a personalized listing order.
-        Additionally, you can use your bookmark lists in the visualization tool PlotIt (for more
-        information on PlotIt, refer to the link at the bottom of the page)</shortdesc>
+    <shortdesc>CWRC has a bookmarking feature that allows you to quickly access files across projects. You will then have the option to place these bookmarks in a personalized listing order.</shortdesc>
     <taskbody>
         <prereq>You need to be logged in to your CWRC account to add bookmarks.</prereq>
         <steps>
