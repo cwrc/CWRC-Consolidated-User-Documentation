@@ -14,9 +14,9 @@
             </step>
             <step>
                 <cmd>Edit your account information.</cmd>
-                <info>Options include uploading an image, a bio text box, setting your language
+                <info>Options include uploading an image, writing a bio, setting your language
                     preference, changing your password, setting your time zone, and adding a
-                        website.<image placement="break"
+                        website link.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Acb3eece3-d646-45ba-8b01-ad75b8429773/datastream/OBJ/view"
                         id="image_mjt_5x5_3x" align="center" scale="80"/></info>
             </step>
