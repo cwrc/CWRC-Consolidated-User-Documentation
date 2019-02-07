@@ -10,7 +10,7 @@
         </context>
         <steps id="steps_bpt_4rd_gx">
             <step>
-                <cmd>To change the homepage, begin by clicking <cmdname>Project Dashboard</cmdname>. This gives you access to some of the most important actions and information associated with a project.</cmd>
+                <cmd>To change the homepage, begin by clicking <cmdname><b>Project Dashboard</b></cmdname>. This gives you access to some of the most important actions and information associated with a project.</cmd>
             </step>
             <step>
                 <cmd>From the sidebar on the right, you can see the various editing features listed under <cmdname>Utilities</cmdname>.</cmd>
