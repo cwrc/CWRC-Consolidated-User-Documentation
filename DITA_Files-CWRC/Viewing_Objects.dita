@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_hyc_bdv_3x">
-    <title>Viewing objects</title>
+    <title>Viewing Objects</title>
     <shortdesc>How you view files in CWRC depends on the file itself. XML documents are viewed in
         the visualization tool CWRC-Writer. Image, audio, video, and document files open within your
         browser. For more information see <b>Content Models Reference</b>.</shortdesc>
