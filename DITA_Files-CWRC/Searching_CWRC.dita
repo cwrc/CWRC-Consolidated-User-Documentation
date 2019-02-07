@@ -8,9 +8,7 @@
         <steps>
             <step>
                 <cmd>Enter your search term in the search box at the top of the page.</cmd>
-                <info>You can narrow down where the search results come from, using the drop down
-                    menu. The options are: the project you are currently located in, the entire
-                    collaboratory or all website content. <image placement="break"
+                <info>You can refine your search results using a drop-down menu offered in the search bar. You can select from three options: <b>This Project</b>, <b>Collaboratory</b>, or <b>Website Content</b>. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Affc2c9b1-d242-4077-8a13-36c3b7d07127/datastream/OBJ/view"
                         id="image_bfy_5v5_3x" align="center"/></info>
             </step>
