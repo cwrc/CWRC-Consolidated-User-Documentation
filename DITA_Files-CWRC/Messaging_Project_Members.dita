@@ -6,7 +6,7 @@
         <prereq>You must be logged in to your CWRC account to send messages.</prereq>
         <steps>
             <step>
-                <cmd>Click on the "bell" icon located in the top right corner of CWRC.</cmd>
+                <cmd>Click on the "bell" icon in the top right corner of CWRC.</cmd>
                 <info>Clicking on the bell icon takes you to your message inbox. <image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Acd510921-9dec-4b31-8ad1-8e94ed7990d5/datastream/OBJ/view"
