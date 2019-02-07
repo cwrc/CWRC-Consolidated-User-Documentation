@@ -8,10 +8,9 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Ensure you have the managing rights on a collection.<image placement="break"
+                <cmd>Ensure that you have the managing rights on a collection. If you are unsure, check your project status on your account dashboard. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Adc2b8627-6136-4ccd-9fad-85d92f774bbf/datastream/OBJ/view"
                         id="image_pt5_tq5_3x" align="center"/></cmd>
-                <info>If you are unsure, check your project status on your account dashboard.</info>
             </step>
             <step>
                 <cmd>In your collection choose the <b>Manage</b> tab and select the
