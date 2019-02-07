@@ -17,7 +17,7 @@
                         align="center" id="image_jb5_mhz_fy"/></cmd>
             </step>
             <step>
-                <cmd>Choose the site you would like to share the folder/file with. </cmd>
+                <cmd>Choose the site you would like to share the folder or file with. </cmd>
             </step>
             <step importance="optional"> 
                 <cmd>If you are sharing with your a social media account, sign in and share the file
