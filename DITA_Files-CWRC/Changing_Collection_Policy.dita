@@ -13,7 +13,7 @@
                         id="image_pt5_tq5_3x" align="center"/></cmd>
             </step>
             <step>
-                <cmd>In your collection choose the <b>Manage</b> tab and select the
+                <cmd>While in your collection, choose the <b>Manage</b> tab and select the
                         <b>Collection</b> option.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae50d4c30-80fa-484a-ae2d-138bd7633312/datastream/OBJ/view"
                         id="image_k2r_jr5_3x" align="center"/></cmd>
@@ -21,10 +21,8 @@
             <step>
                 <cmd>From the list of content models, select the one that will enable you to add the
                     type of objects you wish to add to that collection. </cmd>
-                <info>You can have as little as one or as many as all content models selected. This
-                    will allow you to either add a single type of object to your collection, or as
-                    many as you like (including all the object types allowed in the
-                        repository).<image placement="break"
+                <info>You can have as little as one or as many as all content models selected (including all the object types allowed in the
+                        repository) to determine what can be deposited in your collection.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A013bb98c-9243-4fd1-a137-24d167f7d558/datastream/OBJ/view"
                         id="image_dnw_4s5_3x" align="center" scale="80"/></info>
             </step>
