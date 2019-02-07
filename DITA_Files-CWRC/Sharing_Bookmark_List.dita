@@ -2,9 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_lfd_11v_3x">
     <title>Sharing your Bookmark lists</title>
-    <shortdesc>CWRC has the option to share or make your bookmark lists private. Bookmark lists are
-        private as the default. The same steps apply if you would like to make a bookmark list
-        private.</shortdesc>
+    <shortdesc>CWRC bookmark lists are by default private. CWRC does, however, provide the option to publicly share these lists. The following steps will demonstrate how you can share a list (which can also be used to make a list private again).</shortdesc>
     <taskbody>
         <steps>
             <step>
