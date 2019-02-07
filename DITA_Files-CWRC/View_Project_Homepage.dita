@@ -15,7 +15,7 @@
                 <cmd>Select <b>login</b> (located in the top right corner of the browser). Enter your username and password.</cmd>
             </step>
             <step>
-                <cmd>You will be directed to the view page for your user profile, where you can see Projects I belong to. Among the items in this list, select the project that you wish to access.</cmd>
+                <cmd>You will be directed to the "view page" for your user profile, where you can see the projects that you belong to. Among the items in this list, select the project that you wish to access.</cmd>
                 <info>This will redirect you to the Project Homepage. The title of the project should display near the top of the page.</info>
             </step>
         </steps>
