@@ -37,8 +37,8 @@
                         id="image_yxf_mfv_3x" align="center"/></cmd>
             </step>
             <step importance="optional">
-                <cmd>If you choose to “Migrate to another collection,” enter the new collection name
-                    (or the destination collection name). Click on Migrate Object.</cmd>
+                <cmd>If you choose “Migrate to another collection,” enter the new collection name
+                    (or the destination collection name), and then click on <b>Migrate Object</b>.</cmd>
             </step>
         </steps>
     </taskbody>
