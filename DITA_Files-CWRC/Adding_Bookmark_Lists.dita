@@ -11,8 +11,7 @@
                 <cmd>Log in to your account.</cmd>
             </step>
             <step>
-                <cmd>Under the Bookmark tab on the right side of your dashboard page, click on
-                        <b>New List</b>.</cmd>
+                <cmd>Click on <b>New List</b>, which is located under the "Bookmark" tab on the right side of your dashboard page </cmd>
                 <info>The expanded bookmark tab displays all the lists that you have (initially just
                     a “workbench” list) and the lists that are shared with you. <image
                         placement="break"
