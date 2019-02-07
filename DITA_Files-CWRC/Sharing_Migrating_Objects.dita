@@ -24,9 +24,7 @@
                     with your friends/followers.</cmd>
                 <info>The two options,“Share with another collection” and “Migrate to another
                     collection,” are conditional to your own projects. For example, you cannot
-                    migrate another projects document to your own project. <p>The Facebook, Twitter,
-                        and Google Plus options will require you to sign in to your
-                    account.</p></info> 
+                    migrate another projects document to your own project.</info> 
             </step>
             <step importance="optional">
                 <cmd>If you choose to “Share with another collection,” enter the file's name and click
