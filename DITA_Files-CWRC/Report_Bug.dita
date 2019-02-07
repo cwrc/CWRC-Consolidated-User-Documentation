@@ -2,8 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_swz_kw5_3x">
     <title>Report a bug</title>
-    <shortdesc>CWRC is still in development and you may discover some bugs. Please let us know if
-        you find an issue.</shortdesc>
+    <shortdesc>CWRC is still in development, which means that you may discover some bugs. Follow these steps to report an issue:</shortdesc>
     <taskbody>
         <steps>
             <step>
