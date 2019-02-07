@@ -4,13 +4,13 @@
     <title>Adding a bookmark</title>
     <shortdesc>CWRC has a bookmarking feature that allows you to quickly access files across projects.
         Additionally, you can use your bookmark lists in the visualization tool PlotIt (for more
-        information see Using PlotIt in CWRC )</shortdesc>
+        information on PlotIt, refer to the link at the bottom of the page)</shortdesc>
     <taskbody>
         <prereq>You need to be logged in to your CWRC account to add bookmarks.</prereq>
         <steps>
             <step>
                 <cmd>Select the object you would like to bookmark.</cmd>
-                <info>CWRC lets users bookmark subcollections (or folders) or individual files. What
+                <info>CWRC lets users bookmark subcollections (or folders) and/or individual files. What
                     you bookmark depends on what you have open when you click on the Add to Bookmark
                     button. For example, the screenshot below will add only that particular file to
                     your bookmark list.<image placement="break"
