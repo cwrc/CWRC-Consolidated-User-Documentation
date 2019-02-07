@@ -21,7 +21,7 @@
             <step>
                 <cmd><cmdname>Edit</cmdname>/<cmdname>Edit Project Settings</cmdname> allows you to make changes to <cmdname>basic information</cmdname>, <cmdname>identity and social media</cmdname>, <cmdname>contact information</cmdname>, <cmdname>sponsors</cmdname>, and <cmdname>featured content</cmdname>.</cmd>
                 <info>
-                    <p>The <cmdname>Edit</cmdname> button on the action bar and <cmdname>Edit project settings </cmdname>on the Utility menu (on the right) perform the same function and take you to the same screen.</p>
+                    <p>The <cmdname><b>Edit</b></cmdname> button on the action bar and <cmdname><b>Edit Project Settings</b></cmdname>on the Utility menu (on the right) perform the same function and take you to the same screen.</p>
                 </info>
             </step>
             <step>
