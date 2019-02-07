@@ -29,8 +29,8 @@
                     account.</p></info> 
             </step>
             <step importance="optional">
-                <cmd>If you choose to “Share with another collection,” enter the filename and click
-                    Share Object.<image placement="break"
+                <cmd>If you choose to “Share with another collection,” enter the file's name and click
+                    <b>Share Object</b>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A88590afc-b582-403c-972b-a20b56d35817/datastream/OBJ/view"
                         id="image_otz_jfv_3x" align="center"/><image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A4b0f519a-0fc8-41c6-a769-62940e17db05/datastream/OBJ/view"
