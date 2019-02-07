@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_rv3_rbv_3x">
     <title>Accessing PlotIt in CWRC</title>
-    <shortdesc>You can use the visualization tool, <b>PlotIt</b>, in CWRC. This feature works with your bookmark lists to map and date the files that you have bookmarked. For more information about using PlotIt, see reference.</shortdesc>
+    <shortdesc>You can use the visualization tool, <b>PlotIt</b>, in CWRC. This feature works with your bookmark lists to map and date the files that you have bookmarked.</shortdesc>
     <taskbody>
         <prereq>You need to be logged in to your CWRC account to use PlotIt.</prereq>
         <steps>
