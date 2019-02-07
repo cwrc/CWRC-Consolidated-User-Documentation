@@ -12,7 +12,7 @@
                         scale="80" align="center" id="image_kmx_fhz_fy" scalefit="yes"/></cmd>
             </step>
             <step>
-                <cmd>Click on the <b>Bookmark List</b> tab on the right side of the page. </cmd>
+                <cmd>Click on the <b>Bookmark Lists</b> tab on the right side of the page. </cmd>
             </step>
             <step>
                 <cmd>Select the bookmark list that you would like to visualize in PlotIt. </cmd>
