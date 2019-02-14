@@ -9,7 +9,7 @@
   <refbody>
     <section>
       <title>General Information</title>
-      <p>When working with your document in the Annotation or Edit options other people cannot work
+      <p>When working with your document in the <b>Annotation>/b> or <b>Edit Content</b> options other people cannot work
         with the document. If the document is locked (you don’t have permission to work with) or
         someone is currently working with the document you will be unable to “Annotate” or “Edit”
         and receive error messages.<image placement="break"
