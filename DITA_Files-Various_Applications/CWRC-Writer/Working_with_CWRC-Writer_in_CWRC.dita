@@ -2,7 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_rpc_j4b_4v">
   <title>Working with CWRC-Writer</title>
-  <shortdesc>CWRC-Writer provides three options for users to work with their documents. Users can
+  <shortdesc>CWRC-Writer provides three ways of interacting with their documents. Users can
     view, annotate, or edit documents.<image placement="break"
       href="http://beta.cwrc.ca/islandora/object/cwrc%3A751f0451-c2b4-4e39-8582-b5a529d59c57/datastream/OBJ/view"
       id="image_pvk_nsb_4v" align="center"/></shortdesc>
