@@ -10,9 +10,7 @@
     <section>
       <title>General Information</title>
       <p>When working with your document in the <b>Annotation>/b> or <b>Edit Content</b> options other people cannot work
-        with the document. If the document is locked (you don’t have permission to work with) or
-        someone is currently working with the document you will be unable to “Annotate” or “Edit”
-        and receive error messages.<image placement="break"
+        with the document. This means that you will not be able to access a document if another user is annotating or editing it. Additionally, you will not be able to access a document that is locked.<image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A00c81e79-0537-4c5a-bded-15e2c1611fb9/datastream/OBJ/view"
           id="image_kx2_nxb_4v" align="center"/></p>
       <p>If you are finished editing or annotating choose the “Save and Exit” option, this then
