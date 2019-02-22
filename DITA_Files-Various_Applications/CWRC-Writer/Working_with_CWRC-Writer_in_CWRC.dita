@@ -9,7 +9,7 @@
   <refbody>
     <section>
       <title>General Information</title>
-      <p>When working with your document in the <b>Annotation>/b> or <b>Edit Content</b> options other people cannot work
+      <p>When working with your document in the <b>Annotation>/b> or <b>Edit Content</b> options, other people cannot work
         with the document. This means that you will not be able to access a document if another user is annotating or editing it. Additionally, you will not be able to access a document that is locked.<image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A00c81e79-0537-4c5a-bded-15e2c1611fb9/datastream/OBJ/view"
           id="image_kx2_nxb_4v" align="center"/></p>
@@ -18,8 +18,7 @@
     </section>
     <section>
       <title>Viewing your document</title>
-      <p>CWRC-Writer provides a viewing option so that users can look at locked documents (those
-        that are not available to edit or annotate). This is the default view when users open
+      <p>CWRC-Writer provides a viewing option so that users can look at locked documents. This is the default view when users open
         CWRC-Writer. <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A0ceac7fa-628b-44cd-a9f0-dcfbc590151f/datastream/OBJ/view"
           id="image_i4x_qxb_4v" align="center" scalefit="yes" scale="80"/></p>
