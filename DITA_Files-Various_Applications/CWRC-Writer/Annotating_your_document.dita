@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ahl_mxj_hx">
-    <title>Annotating your document</title>
+    <title>Annotating Your Document</title>
     <shortdesc>CWRC-Writer provides users with the opportunity to annotate documents. This feature
         is only available to users who are in the same project as the document or if the document is
         unlocked. </shortdesc>
