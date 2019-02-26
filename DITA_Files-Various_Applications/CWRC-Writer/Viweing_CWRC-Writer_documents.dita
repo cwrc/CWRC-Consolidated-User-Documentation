@@ -8,9 +8,9 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Open a tag or template in CWRC Writer.</cmd>
+                <cmd>Open either a 'tag' or a 'template' in CWRC Writer.</cmd>
                 <info>
-                    <p>View is the default loading option when you open CWRC-Writer.<image
+                    <p><b>View</b> is the default loading option when you open CWRC-Writer.<image
                             placement="break"
                             href="http://beta.cwrc.ca/islandora/object/cwrc%3A139917db-d801-40e1-ac97-ea1ff7145006/datastream/OBJ/view"
                             align="center" id="image_c4r_43z_fy"/><image placement="break"
