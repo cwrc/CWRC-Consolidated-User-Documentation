@@ -19,9 +19,8 @@
                 </info>
             </step>
             <step>
-                <note>While in view mode CWRC-Writer does not allow you to change or add tags to the
+                <note>While in view mode, CWRC-Writer does not allow you to change or add tags to the
                     document.</note>
-                <cmd>View the document</cmd>
             </step>
         </steps>
     </taskbody>
