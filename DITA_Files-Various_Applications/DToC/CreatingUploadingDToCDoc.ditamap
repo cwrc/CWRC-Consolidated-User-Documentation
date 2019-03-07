@@ -10,4 +10,5 @@
  <topicref href="CrossReferenceIndex.dita"/>
  <topicref href="UploadDocDToC.dita"/>
  <topicref href="UploadTextURL.dita"/>
+ <topicref href="CreateDToCeditionInCWRC.dita" audience="member"/>
 </map>

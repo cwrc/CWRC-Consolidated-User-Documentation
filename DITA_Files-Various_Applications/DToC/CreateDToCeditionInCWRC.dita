@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="untitled1">
+    <title>Create a DToC edition in CWRC</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>You can create a persistent DToC edition in CWRC, by including XML Documents  from
+                the repository.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Within the CWRC collection where you want to create the DToC object, make sure
+                    that the DToC cModel is enabled in <menucascade>
+                        <uicontrol>Manage</uicontrol>
+                        <uicontrol>Coolection</uicontrol>
+                        <uicontrol>Manage collection policy</uicontrol>
+                    </menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <cmdname>Add item</cmdname>.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the <cmdname>CWRC DToC</cmdname> Content Model. Click <cmdname>Next</cmdname>.</cmd>
+                <info>
+                    <image placement="break"
+                        href="https://beta.cwrc.ca/islandora/object/cwrc%3Aa98e815d-ae41-4d52-8e6c-445c0c3d0c72/datastream/MEDIUM_SIZE/view"
+                        scale="60" align="center" id="image_ejd_tpv_qfb"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Fill in the MODS record with the appropriate information. Click on
+                    <cmdname>Next</cmdname>.</cmd>
+                <info>As with all MODS records, all that is required is a title. You can always come
+                    back and add more links to related entities, topics, genres, etc.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A44b90b4a-5a88-432b-aa99-47f23d53e707/datastream/OBJ/view"
+                        id="image_etd_155_3x" align="center"/></info>
+            </step>
+            <step>
+                <cmd>On the DToC object configuration page, select the documents you would like to add to your edition</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click on </cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
