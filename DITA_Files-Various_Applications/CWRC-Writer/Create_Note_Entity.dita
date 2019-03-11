@@ -66,9 +66,7 @@
             </step>
             <step>
                 <cmd>Once you have finished creating your note, click on
-                        <cmdname>Save</cmdname>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A11fb457e-2f2a-4f33-af5f-4e55fd75d80f/datastream/OBJ/view"
-                        id="image_ir3_nw2_np" align="center" scale="80"/></cmd>
+                        <cmdname>Save</cmdname>.
             </step>
         </steps>
         <result>You have now created a note in your document. You can see in the image below that
