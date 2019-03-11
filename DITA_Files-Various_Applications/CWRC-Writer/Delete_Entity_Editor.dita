@@ -30,8 +30,8 @@
                         id="image_uvx_hxd_lp" align="center" scale="80"/></cmd>
             </step>
             <step>
-                <cmd>Right-click on the highlighted text and choose the <cmdname>Remove
-                        Tag</cmdname>
+                <cmd>Right-click on the highlighted text and you will be prompted to choose from three tag removal options: Remove Tag Only, Remove Content Only, and Remove Tag and All Content. Removing the tag only will not change anything in the left-hand column. Removing the content only will only remove the information in the left-hand column. Remove Tag and All Content will delete your tag and the information in the left-hand column. At this point in time, we will simply choose the <cmdname>Remove
+                        Tag Only</cmdname>
                         option.<?oxy_attributes align="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141016T143122-0700&quot; /&gt;" placement="&lt;change type=&quot;modified&quot; oldValue=&quot;inline&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141016T143124-0700&quot; /&gt;"?><image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A1e39bd8c-3a80-4022-a8e4-f7261beda294/datastream/OBJ/view"
@@ -39,11 +39,6 @@
             </step>
         </steps>
         <result>
-            <note type="caution">This will delete both the entity annotation in the left column, but
-                will leave the annotated text in the document.</note>
-            <image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3A1155d498-13a9-47b0-b949-3acf2960db61/datastream/OBJ/view"
-                id="image_gtw_rxd_lp" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Tag_Entity_Editor.dita"/></lines>
