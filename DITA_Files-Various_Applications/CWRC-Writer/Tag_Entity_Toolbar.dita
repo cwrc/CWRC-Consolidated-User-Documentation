@@ -26,7 +26,7 @@
         <steps>
             <step>
                 <cmd>Highlight the text that you would like to tag as a particular entity.</cmd>
-                <info>Currently, the events tag is not fully functional.<image placement="break"
+                <info><image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aec16d767-e70f-4d00-b354-9d75887eab85/datastream/OBJ/view"
                         id="image_rhf_t4d_lp" align="center" scale="80" scalefit="yes"/></info>
             </step>
@@ -44,11 +44,12 @@
                     entities (e.g. persons, organizations, places, and titles) from within CWRC is
                     now available, as well as lookup in authoritative linked data sources. The
                     external VIAF list of authorities, produced from national and major research
-                    libraries around the world, is used to link persons, organizations and titles,
-                    while GeoNames is employed in a similar capacity for place entities.<note>You
+                    libraries around the world, is used to link persons, organizations and titles.
+                    DBPedia is linked to the Wikipedia project and can be used to look-up persons,
+                    organizations, titles and places. Getty ULAN is primarily used for looking up
+                    persons. GeoNames is employed in a similar capacity for place entities.<note>You
                         can also create a new entry in the CWRC system, this will be covered in
                         alternate help pages.<image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A0110e56b-b891-46ba-a9d2-4a9049c1d15d/datastream/OBJ/view"
                             id="image_bdr_bwv_tp" align="center" scale="80"/></note></info>
             </step>
             <step>
