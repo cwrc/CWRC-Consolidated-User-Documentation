@@ -26,41 +26,52 @@
                 <cmd>Highlight the text that you would like to tag as a <cmdname>Place</cmdname>.
                     Click on the toolbar or right-click options (see image below).<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3115aa2c-d7a4-4008-81f5-9c37b8b3dcf4/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A9d79142a-bb8d-46e4-be95-6369e0fa7e89/datastream/OBJ/view"
                         id="image_hz3_45s_3x" align="center"/><image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A2f46a0b5-7be1-4c10-916b-cb0272de845b/datastream/OBJ/view"
                         id="image_ttr_llv_tp" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Try to find the place you are tagging in the CWRC or GeoNames entries.<image
+                <cmd>You can select which sources to use when looking up the highlighted entity. Simply click on the tab located next to your search engine. Since you’re finding a place entity, VIAF, Wikidata, DBPedia and GeoNames are probably your main priorities.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A32233e19-cb52-454d-bee2-38052c606b3f/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A43f8df90-a6f7-4a24-98ee-96ce01948703/datastream/OBJ/view"
+                        id="image_rjd_vws_pr" align="center"/></cmd>
+                        placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A4f074eb1-e3ed-48cb-899b-4d81a99e7652/datastream/OBJ/view"
                         id="image_rjd_vws_pr" align="center"/></cmd>
             </step>
             <step>
+                <cmd>Once you have selected your sources, a list of links will pop-up and you can choose the correct one that corresponds to the place you wish to tag.
+                    placement="break"
+                    href="https://cwrc.ca/islandora/object/cwrc%3A0c7ebba6-990a-46b5-a751-3a03333c8a9f/datastream/OBJ/view"
+                    id="image_rjd_vws_pr" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Select the database that you would like to use as a link to the place that you have chosen to tag, or insert your own URL to a different site/database not listed.</cmd>
+        </step>
+        <step>
                 <cmd>If your entry is not in the CWRC entity lookup system you have the option to
-                    create your own. To do this click on <cmdname>Create New Place</cmdname> button at the bottom of
+                    create your own. To do this click on <cmdname>Create New</cmdname> button at the bottom of
                     that page.</cmd>
+                    placement="break"
+                    href="https://cwrc.ca/islandora/object/cwrc%3A462b697c-e486-4f22-bd8e-93d96015a28e/datastream/OBJ/view"
+                    id="image_rjd_vws_pr" align="center"/></cmd>
             </step>
             <step>
                 <cmd>An "Add Place" pop-up appears, fill it out (see note) and click <cmdname>OK</cmdname>.</cmd>
                 <info>The only mandatory field is the place name, though there are many other areas
                     that you can fill out.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A88f0c37f-613a-43d6-b04a-10ad51738a76/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A06c8d529-9961-4f1c-9e88-0f4dc8e48e5e/datastream/OBJ/view"
                         id="image_frn_2m2_lp" align="center" scale="80"/></info>
             </step>
             <step>
                 <cmd>Once you have created a place entry in the CWRC entity repository, you can now
                     add more information about the tag (precision, person type, etc.). Click on
                         <cmdname>Save</cmdname>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A38d90e91-61d7-4e36-8f89-201db1c3a814/datastream/OBJ/view"
-                        id="image_qh3_4lv_tp" align="center"/></cmd>
             </step>
         </steps>
         <result>You have now created a new CWRC entity entry, you can use this creation the next
             time that you go to tag this person.<image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae0d8baa3-cdff-4ed0-9cec-2e9294e38789/datastream/OBJ/view"
-                id="image_s24_zl2_lp" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Create_Person_Entity.dita"/></lines>
