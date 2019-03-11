@@ -38,12 +38,13 @@
             <step>
                <cmd>If your entry is not in the CWRC entity lookup system you have the option to
                     create your own. To do this click on "Create New Person" button at the bottom of
-                    that page.
+                    that page.<image placement="break"
                     href="https://beta.cwrc.ca/islandora/object/cwrc%3A5f767fb4-1075-49c1-9190-c86f5d584a40/datastream/OBJ/view"
                    id="image_epv_rj2_lp" align="center" height="6in" width="4in"/></info></cmd>
             </step>
             <step>
-                <cmd>You will be prompted to choose a CWRC collection for your new entity. Your selection will be logged for future use in that collection.
+                <cmd>You will be prompted to choose a CWRC collection for your new entity. Your selection will be logged for future use in that collection.<image
+                        placement="break"
                      href="https://cwrc.ca/islandora/object/cwrc%3Ad689e84a-dab5-440f-bc64-9ec9a2529768/datastream/OBJ/view"
                         id="image_epv_rj2_lp" align="center" height="6in" width="4in"/></info>
                 <cmd>An "Add Person" pop-up appears, fill it out (see note) and click <cmdname>OK</cmdname>.</cmd>
@@ -51,7 +52,7 @@
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A261ca7fa-d5cb-47a1-bc26-554d32b75a00/datastream/OBJ/view"
                         id="image_epv_rj2_lp" align="center" height="6in" width="4in"/></info><image placement="break"
                         href="https://cwrc.ca/islandora/object/cwrc%3Ae9705e07-5e03-4130-af50-4ae392d38ddc/datastream/OBJ/view"
-                        id="image_epv_rj2_lp" align="center" height="6in" width="4in"/></info>
+                                                                                                     id="image_epv_rj2_lp" align="center" height="6in" width="4in"/></info></cmd>
             </step>
             <step>
                 <cmd>Once you have created a person entry in the CWRC entity repository, you can now add more information about the tag (precision, person type, etc.). Click on
