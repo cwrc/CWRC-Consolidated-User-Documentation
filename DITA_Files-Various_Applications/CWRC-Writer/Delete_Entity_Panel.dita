@@ -25,7 +25,11 @@
         <steps>
             <step>
                 <cmd>Right-click on the entity that you want to delete in the left hand "Entities"
-                    column and choose the <cmdname>Remove Entity</cmdname> option. <image
+                    column. You will be prompted to choose from three options: Remove Tag Only, Remove Content Only,
+                    and Remove Tag and All Content. "Remove Tag Only" will only remove the tag from the text, and not the entity record
+                    in the left-hand column. "Remove Content Only" will only remove the entity record in the left-hand column. "Remove
+                    Tag and All Content" will remove both the tag in the text and the entity record in the left-hand column. To demonstrate,
+                    we have chosen the <cmdname>Remove Tag and All Content</cmdname> option. <image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A2d64d317-15fa-4505-aedc-eff112804a69/datastream/OBJ/view"
                         id="image_jl3_rpv_tp" align="center"/></cmd>
