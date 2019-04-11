@@ -18,8 +18,8 @@
     </section>
     <section>
       <title>Upload from file </title>
-      <p>Any documents that you are uploading must be well formed XML and end in .xml. If the
-        document is not a “well formed XML” document or does not have the .xml file name extension
+      <p>When uploading any document, make sure that it is a well-formed XML and that the document ends
+        in an.xml name extension. If the document is not a well-formed XML document or does not have the .xml file name extension,
         then you cannot upload it. <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A280e4a19-055f-45d6-801d-6f6ac2b5924e/datastream/OBJ/view"
           id="image_ycf_xzb_4v" align="center"/></p>
