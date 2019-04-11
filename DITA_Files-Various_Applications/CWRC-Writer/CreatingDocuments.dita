@@ -12,9 +12,9 @@
         below). Then, you must choose to add a new document in the folder by clicking on the “Manage
         tab.”</p>
       <p>Users have the option to either upload a document <b>From File</b> or open a template provided by
-        CWRC by selecting <b>From Template</b>. When following the steps to create a CWRC-Writer document you have the option to add
-        more information about the document you are creating, though the only required information
-        is the object's title. </p>
+        CWRC by selecting <b>From Template</b>.Regardless of which uploading option you select, CWRC-Writer 
+        allows you to add more information about the document you are creating. The only required information, however, 
+        is the object's title.  </p>
     </section>
     <section>
       <title>Upload from file </title>
