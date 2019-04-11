@@ -34,7 +34,8 @@
         Templates are stored in the<xref
           href="http://beta.cwrc.ca/islandora/object/cwrc:documentTemplateCollection" format="html"
           scope="external"> CWRC Document Template Collection</xref>. Additionally, these templates
-        already have an associated schema attached (making it easier for XML beginners). <image
+        already have an associated schema attached to it, making it easier for XML beginners. The associated schemas are simply a
+        formatting design for the chosen template.<image
           placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A69d3bfb4-d1d2-490e-9ae9-bbd60f17b829/datastream/OBJ/view"
           id="image_y3q_11c_4v" align="center"/></p>
