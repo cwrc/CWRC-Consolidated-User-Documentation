@@ -11,8 +11,8 @@
       <p>To upload a document you must first create a folder in CWRC (please see instructions
         below). Then, you must choose to add a new document in the folder by clicking on the “Manage
         tab.”</p>
-      <p>Users have the option to either upload a document from file or open a template provided by
-        CWRC. When following the steps to create a CWRC-Writer document you have the option to add
+      <p>Users have the option to either upload a document <b>From File</b> or open a template provided by
+        CWRC by selecting <b>From Template</b>. When following the steps to create a CWRC-Writer document you have the option to add
         more information about the document you are creating, though the only required information
         is the object's title. </p>
     </section>
