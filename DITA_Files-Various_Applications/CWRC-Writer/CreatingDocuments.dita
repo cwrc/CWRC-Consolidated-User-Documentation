@@ -30,7 +30,7 @@
     </section>
     <section>
       <title>From a template</title>
-      <p>Templates are already available from CWRC and Orlando, and are “well formed” XML documents.
+      <p>Templates are already available from CWRC and Orlando, and are well-formed XML documents.
         Templates are stored in the<xref
           href="http://beta.cwrc.ca/islandora/object/cwrc:documentTemplateCollection" format="html"
           scope="external"> CWRC Document Template Collection</xref>. Additionally, these templates
