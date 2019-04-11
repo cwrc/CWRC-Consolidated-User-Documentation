@@ -8,8 +8,8 @@
       <title>Settings menu - general information</title>
       <p>The settings menu is located in the top right corner of the editor.</p>
       <p>The top half of the settings pop-up allows users to modify the font and size of the text
-        displayed in the editor panel. There are two check boxes that allow you to view the entity
-        brackets (which is preset to be on) and the show tags option. This will allow you to view
+        displayed in the editor panel. There are two check boxes that allow you to view the <b>Entity
+        Brackets</b> (preset selection) and the <b>Show Tags</b> option. This will allow you to view
         the XML brackets in the document.</p>
       <p>We advise you to make both entities and tags visible by checking the two options listed
         below, especially if you intend to work a lot with tags and entities.</p>
