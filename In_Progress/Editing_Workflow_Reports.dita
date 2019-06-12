@@ -9,11 +9,11 @@
         </context>
         <steps>
             <step>
-                <cmd>Under the right side Workflow Reports column, click on the pencil icon beside the object that you would like to edit.<image id="image_g4h_3hl_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad05e399f-35fb-4f7f-a60e-a29e809344aa/datastream/OBJ/view"></image></cmd>
+                <cmd>Under the right side Workflow Reports column, click on the pencil icon beside the object that you would like to edit.<image id="image_g4h_3hl_rbb" href="https://cwrc.ca/islandora/object/cwrc%3Ad05e399f-35fb-4f7f-a60e-a29e809344aa/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Make any necessary changes to the Workflow Report. </cmd>
-                <info>The below screenshots show all the editable fields in the Workflow reports form. This includes changing the name, project it’s connected to, permissions, etc.<image id="image_uqn_shl_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A08debd5c-3a60-4b67-8ba3-6c59e46280f4/datastream/OBJ/view"></image> <image id="image_wjg_thl_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa8d7f85e-95dd-4b73-ab12-7132a9678fda/datastream/OBJ/view"></image></info>
+                <info>The below screenshots show all the editable fields in the Workflow reports form. This includes changing the name, project it’s connected to, permissions, etc.<image id="image_uqn_shl_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A08debd5c-3a60-4b67-8ba3-6c59e46280f4/datastream/OBJ/view"></image> <image id="image_wjg_thl_rbb" href="https://cwrc.ca/islandora/object/cwrc%3Aa8d7f85e-95dd-4b73-ab12-7132a9678fda/datastream/OBJ/view"></image></info>
             </step>
             <step>
                 <cmd>Click <uicontrol>Save Report</uicontrol>.</cmd>

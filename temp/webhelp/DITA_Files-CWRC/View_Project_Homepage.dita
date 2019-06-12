@@ -7,7 +7,7 @@
         </context>
         <steps class="- topic/ol task/steps " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-CWRC/View_Project_Homepage.dita" xtrc="steps:1;10:16">
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-CWRC/View_Project_Homepage.dita" xtrc="step:1;11:19">
-                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-CWRC/View_Project_Homepage.dita" xtrc="cmd:1;12:22">Open CWRC in your browser. Link <xref href="http://beta.cwrc.ca/" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-CWRC/View_Project_Homepage.dita" xtrc="xref:2;12:119"><?ditaot usertext?>here</xref>.</cmd>
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-CWRC/View_Project_Homepage.dita" xtrc="cmd:1;12:22">Open CWRC in your browser. Link <xref href="https://cwrc.ca/" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-CWRC/View_Project_Homepage.dita" xtrc="xref:2;12:119"><?ditaot usertext?>here</xref>.</cmd>
             </step>
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-CWRC/View_Project_Homepage.dita" xtrc="step:2;14:19">
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-CWRC/View_Project_Homepage.dita" xtrc="cmd:2;15:22">Select login. Enter in your Username and password.</cmd>

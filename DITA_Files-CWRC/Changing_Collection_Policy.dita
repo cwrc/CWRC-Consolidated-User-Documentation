@@ -9,13 +9,13 @@
         <steps>
             <step>
                 <cmd>Ensure that you have the managing rights on a collection. If you are unsure, check your project status on your account dashboard. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Adc2b8627-6136-4ccd-9fad-85d92f774bbf/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Adc2b8627-6136-4ccd-9fad-85d92f774bbf/datastream/OBJ/view"
                         id="image_pt5_tq5_3x" align="center"/></cmd>
             </step>
             <step>
                 <cmd>While in your collection, choose the <b>Manage</b> tab and select the
                         <b>Collection</b> option.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae50d4c30-80fa-484a-ae2d-138bd7633312/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ae50d4c30-80fa-484a-ae2d-138bd7633312/datastream/OBJ/view"
                         id="image_k2r_jr5_3x" align="center"/></cmd>
             </step>
             <step>
@@ -23,12 +23,12 @@
                     type of objects you wish to add to that collection. </cmd>
                 <info>You can have as little as one or as many as all content models selected (including all the object types allowed in the
                         repository) to determine what can be deposited in your collection.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A013bb98c-9243-4fd1-a137-24d167f7d558/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A013bb98c-9243-4fd1-a137-24d167f7d558/datastream/OBJ/view"
                         id="image_dnw_4s5_3x" align="center" scale="80"/></info>
             </step>
             <step>
                 <cmd>Select <b>Update collection policy</b>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa9049509-de4f-4cfc-bd88-912b8033a986/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Aa9049509-de4f-4cfc-bd88-912b8033a986/datastream/OBJ/view"
                         id="image_o4z_5s5_3x" align="center"/></cmd>
             </step>
             <step>

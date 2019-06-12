@@ -29,14 +29,14 @@
                     delete. </cmd>
                 <stepresult>
                     <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acbb60d5a-f537-45d3-a245-3e0703ea89e7/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Acbb60d5a-f537-45d3-a245-3e0703ea89e7/datastream/OBJ/view"
                         id="image_u3b_dwd_lp" align="center" scale="80"/>
                 </stepresult>
             </step>
             <step>
                 <cmd>Click on the <cmdname>Remove Tag</cmdname> toolbar button.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A04cbd846-7333-451e-b0a1-4e2a2b3cba3e/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A04cbd846-7333-451e-b0a1-4e2a2b3cba3e/datastream/OBJ/view"
                         id="image_bvv_vxs_3x" align="center"/></cmd>
             </step>
         </steps>
@@ -44,7 +44,7 @@
             <note type="caution">Currently, removing an entity from the document deletes the entity
                 record in left column and the text tagged with it as well.</note>
             <image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3A8be19021-3d5a-499f-836d-2fe436b1a139/datastream/OBJ/view"
+                href="https://cwrc.ca/islandora/object/cwrc%3A8be19021-3d5a-499f-836d-2fe436b1a139/datastream/OBJ/view"
                 id="image_apq_gwd_lp" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>

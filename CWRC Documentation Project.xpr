@@ -2958,7 +2958,9 @@
         <folder path="DITA_Files-Various_Applications/"/>
         <folder path="DITA_Maps-Secondary/"/>
         <folder path="Documentation/"/>
+        <folder path="In_Progress/"/>
         <folder path="temp/"/>
+        <folder path="Unpublished/"/>
         <folder path="Utilities/"/>
         <file name="CWRC_User_Manual-MASTER_MAP.ditamap"/>
         <file name="LICENSE"/>

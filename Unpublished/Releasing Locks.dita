@@ -9,20 +9,20 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the <b>Manage</b> tab of the object you would like to lock and select <b>Properties</b> from the dropdown list. <image id="image_wqr_sdg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A27b3613a-65bc-4663-85e7-02f6fa3efc76/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <b>Manage</b> tab of the object you would like to lock and select <b>Properties</b> from the dropdown list. <image id="image_wqr_sdg_3db" href="https://cwrc.ca/islandora/object/cwrc%3A27b3613a-65bc-4663-85e7-02f6fa3efc76/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
-                <cmd>Click on <b>remove the lock from this object</b>, located in the banner below the menu bar (see below).<image id="image_gw4_vdg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A9ff2ead3-88dd-47a3-8851-cd96343622b2/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on <b>remove the lock from this object</b>, located in the banner below the menu bar (see below).<image id="image_gw4_vdg_3db" href="https://cwrc.ca/islandora/object/cwrc%3A9ff2ead3-88dd-47a3-8851-cd96343622b2/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
-                <cmd>Click on <b>Confirm</b> to remove the lock.<image id="image_l5n_xdg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad66bd4fd-41f7-446b-a363-56d08071ab33/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on <b>Confirm</b> to remove the lock.<image id="image_l5n_xdg_3db" href="https://cwrc.ca/islandora/object/cwrc%3Ad66bd4fd-41f7-446b-a363-56d08071ab33/datastream/OBJ/view"></image></cmd>
                 <info>
                     <p><b id="docs-internal-guid-0623a4fe-73aa-bb36-96e1-63a9722be901">If you release the lock, the object can be edited by anyone in your project or by the public (depending on the project access policies). </b></p>
                 </info>
             </step>
             <step>
                 <cmd>This takes you back to the object page. </cmd>
-                <info><p>If you would like to lock this object or have accidentally removed a lock you can click on the <b>Lock object</b> option in the menu bar. </p><image id="image_w42_x2g_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aadd7376c-f923-41bc-903b-73d6c4702dec/datastream/OBJ/view"></image></info>
+                <info><p>If you would like to lock this object or have accidentally removed a lock you can click on the <b>Lock object</b> option in the menu bar. </p><image id="image_w42_x2g_3db" href="https://cwrc.ca/islandora/object/cwrc%3Aadd7376c-f923-41bc-903b-73d6c4702dec/datastream/OBJ/view"></image></info>
             </step>
         </steps>
     </taskbody>

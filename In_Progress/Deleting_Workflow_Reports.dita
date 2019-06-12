@@ -7,13 +7,13 @@
         <context>Please be careful when deleting Workflow Reports, this action cannot be undone.<p></p></context>
         <steps>
             <step>
-                <cmd>From your dashboard (or your project dashboard), click on the X button to the right of the workflow you would like to delete. <image id="image_rnn_z3l_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A5ca645c2-f656-455a-a242-7affe4fa49d1/datastream/OBJ/view"></image></cmd>
+                <cmd>From your dashboard (or your project dashboard), click on the X button to the right of the workflow you would like to delete. <image id="image_rnn_z3l_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A5ca645c2-f656-455a-a242-7affe4fa49d1/datastream/OBJ/view"></image></cmd>
                 <choices id="choices_drd_j3l_rbb">
-                    <choice>Click on the Workflow Report to open the editing workflow form. Click on the Delete option to the right of the Workflow report you want to delete. <image id="image_j4n_hjl_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0a600fcd-430d-474b-a23e-60084a5ad204/datastream/OBJ/view"></image></choice>
+                    <choice>Click on the Workflow Report to open the editing workflow form. Click on the Delete option to the right of the Workflow report you want to delete. <image id="image_j4n_hjl_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A0a600fcd-430d-474b-a23e-60084a5ad204/datastream/OBJ/view"></image></choice>
                 </choices>
             </step>
             <step>
-                <cmd>When you delete a workflow report you are taken to a prompt. Click on Delete report if you would like to proceed or Cancel if you want to go back. <image id="image_gsp_mjl_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab0fa7f38-d15e-4da3-9b01-039320d13426/datastream/OBJ/view"></image></cmd>
+                <cmd>When you delete a workflow report you are taken to a prompt. Click on Delete report if you would like to proceed or Cancel if you want to go back. <image id="image_gsp_mjl_rbb" href="https://cwrc.ca/islandora/object/cwrc%3Ab0fa7f38-d15e-4da3-9b01-039320d13426/datastream/OBJ/view"></image></cmd>
             </step>
         </steps>
     </taskbody>

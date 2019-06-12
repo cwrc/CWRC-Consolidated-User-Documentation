@@ -9,16 +9,16 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the <b>Share</b> tab in the object navigation bar.<image id="image_q3m_xjg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A46658203-fb43-442d-bf1e-ff100fa12e09/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <b>Share</b> tab in the object navigation bar.<image id="image_q3m_xjg_3db" href="https://cwrc.ca/islandora/object/cwrc%3A46658203-fb43-442d-bf1e-ff100fa12e09/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Click on <b>Share with another collection.</b></cmd>
             </step>
             <step>
-                <cmd>Add the name of the folder in the <b>Share with another collection form.</b><image id="image_cb1_bkg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A2b19d831-4132-4ff2-b775-005b4451b8cd/datastream/OBJ/view"></image></cmd>
+                <cmd>Add the name of the folder in the <b>Share with another collection form.</b><image id="image_cb1_bkg_3db" href="https://cwrc.ca/islandora/object/cwrc%3A2b19d831-4132-4ff2-b775-005b4451b8cd/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
-                <cmd>Optional: If you would like to notify project members that you are sharing this object, check <b>Send notification</b>? And add the name of the user(s) that you would like to inform.  <image id="image_u4j_fn2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af2ab18df-62da-440a-b3c0-3ced7a0ee14c/datastream/OBJ/view"></image></cmd>
+                <cmd>Optional: If you would like to notify project members that you are sharing this object, check <b>Send notification</b>? And add the name of the user(s) that you would like to inform.  <image id="image_u4j_fn2_kdb" href="https://cwrc.ca/islandora/object/cwrc%3Af2ab18df-62da-440a-b3c0-3ced7a0ee14c/datastream/OBJ/view"></image></cmd>
                 <info>
                     <p>When you notify users, they will receive a message in their CWRC dashboard. </p>
                 </info>

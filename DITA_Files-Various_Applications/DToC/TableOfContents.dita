@@ -9,12 +9,12 @@
         your XML document. Clicking on one of the sections or chapters will bring the text of the selected section into the Reading Pane. </p>
       <p>Pasting plain text or entering a URL into the DToC homepage will not yield anything
         in the Table of Contents since both of these formats lack the required XML. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Adede904a-f40f-40f7-9dcd-7f948a24e72d/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3Adede904a-f40f-40f7-9dcd-7f948a24e72d/datastream/OBJ/view"
           id="image_xm5_glw_mt" align="center"/></p>
       <p>When you select an option from the “Index, Tab, or Stats” column, the Table of
         Contents will display and link to the location of the selected term, tag, or word.<image
           placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A39efb939-b72d-425c-a400-04ee275af002/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A39efb939-b72d-425c-a400-04ee275af002/datastream/OBJ/view"
           id="image_dzr_llw_mt" align="center"/></p>
       <p>The Table of Contents also contains a search function. The search box is auto-complete enabled, but
         it does not recognize partial matches, that is to say, typing in the first few letters of a word
@@ -22,7 +22,7 @@
         sections, or chapters, that contain the searched term will appear in the Table of Contents with brief excerpts of text surrounding the term in question. Lines in the document model, the narrow column to the right of the Table of Contents, will become highlighted to represent the location(s) of the term in the corpus. These highlighted lines may be clicked to bring the corresponding text into the Reader Pane. To search for a new term, delete your word in the
         “Word Search” box, or click on the “Clear” button located at the top
         of the document model, then type in or select a new term.  <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A4a29aba5-51e8-408b-93eb-bb83e3c5340f/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A4a29aba5-51e8-408b-93eb-bb83e3c5340f/datastream/OBJ/view"
           id="image_lkc_ylw_mt" align="center"/></p>
     </section>
   </refbody>

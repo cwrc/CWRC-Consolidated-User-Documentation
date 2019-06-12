@@ -7,7 +7,7 @@
         <context>The instruction proceed from the Stamping log entries. You must be logged into assign workflow entries.<p></p></context>
         <steps>
             <step>
-                <cmd>In the workflow stamp form, expand the notification section. <image id="image_tx3_crk_tbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A831a464b-644f-4863-8402-ec6e55897919/datastream/OBJ/view"></image></cmd>
+                <cmd>In the workflow stamp form, expand the notification section. <image id="image_tx3_crk_tbb" href="https://cwrc.ca/islandora/object/cwrc%3A831a464b-644f-4863-8402-ec6e55897919/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Add the members that you would like to notify as well as any subject and message that you would like to include. </cmd>

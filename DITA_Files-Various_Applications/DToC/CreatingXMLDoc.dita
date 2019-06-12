@@ -22,7 +22,7 @@
             </step>
             <step>
                 <cmd> Enter the XML declaration and TEI P5 schema definition<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad2aece60-4a43-48b2-8225-3a2e86a01398/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ad2aece60-4a43-48b2-8225-3a2e86a01398/datastream/OBJ/view"
                         id="image_p24_kxn_c5" align="center" scale="85"/></cmd>
                 
             </step>
@@ -42,26 +42,26 @@
                     However, if you do and do not include this ‘type’ attribute, the chapters
                     will blur together into one text without any distinct separations between your sections. All the div tags in the template
                     are predefined with "type='chapter'.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A23ad9b2a-0917-4f3c-a4c6-92c00c708b04/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A23ad9b2a-0917-4f3c-a4c6-92c00c708b04/datastream/OBJ/view"
                         id="image_odg_4gn_ht" align="center"/></info>
             </step>
             <step>
                 <cmd>At the top of each chapter div, add the chapter’s author and title information
                     (see image above). <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa3fffb29-edd3-4150-9049-91c41f3dcd3a/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Aa3fffb29-edd3-4150-9049-91c41f3dcd3a/datastream/OBJ/view"
                         id="image_o1f_1gn_ht" align="center"/></cmd>
                 <info>We have used TEI’s "head" tag to distinguish the headers from the body text;
                     we have also wrapped it in a bibliographic element. This ensures that any
                     information in a "head" tag will appear in the Table of Contents, as well as at the top
                     of the Reading Pane, depending on which chapter is being examined. <image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5491f662-8261-42ba-a04c-a49379e10e46/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A5491f662-8261-42ba-a04c-a49379e10e46/datastream/OBJ/view"
                         id="image_dzp_bhn_ht" align="center" scale="85"/></info>
             </step>
             <step>
                 <cmd>Begin marking up your document. Here is an example of a simple XML document
                     that DToC will accept. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae5c68101-74c5-46b8-8582-426be714ef6f/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ae5c68101-74c5-46b8-8582-426be714ef6f/datastream/OBJ/view"
                         id="image_djl_mhn_ht" align="center"/></cmd>
                 <info>This document only has one chapter associated with it and no index. For more information about
                     adding an index, see the “Adding an index” linked below.</info>
@@ -71,14 +71,14 @@
                     and including the &lt;div> tags and paste that information below the last
                     &lt;div> tag, then begin to fill in the information for your next chapter.
                         <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A22b13354-ef15-4006-b2c0-628e474af8da/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A22b13354-ef15-4006-b2c0-628e474af8da/datastream/OBJ/view"
                         id="image_dp4_c3n_ht" align="center"/></cmd>
             </step>
             <step importance="optional">
                 <cmd>You can now continue to mark up your text with XML tags (e.g. event, place,
                     organization, etc.). These tags will appear in the Tags column on the left side
                     of the DToC tool. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2730f29d-dba5-47e0-a9e4-93e575007e45/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A2730f29d-dba5-47e0-a9e4-93e575007e45/datastream/OBJ/view"
                         id="image_mqg_m3n_ht" align="center"/></cmd>
             </step>
         </steps>

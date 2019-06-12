@@ -11,7 +11,7 @@
                     <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/FilterByCountry.dita" xtrc="p:1;13:24">If the event does not have a location attached to it, it still appears in
                         this list only in light grey with the qualifier “(missing this field)”. The
                         numbers listed beside the country names refers to how many events from that
-                        location are available in the timeline and map.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A260f937b-bf98-4130-b300-ef2ac1c4c015/datastream/OBJ/view" id="image_ucj_bqr_5r" align="center" scalefit="yes" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/FilterByCountry.dita" xtrc="image:1;18:82"/></p>
+                        location are available in the timeline and map.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A260f937b-bf98-4130-b300-ef2ac1c4c015/datastream/OBJ/view" id="image_ucj_bqr_5r" align="center" scalefit="yes" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/FilterByCountry.dita" xtrc="image:1;18:82"/></p>
                 </info>
             </step>
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/FilterByCountry.dita" xtrc="step:2;21:19">
@@ -28,12 +28,12 @@
                     <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/FilterByCountry.dita" xtrc="p:3;32:24">Once the users checks one of these options, the timeline and map will
                         automatically narrow down the results to the events that belong in that
                         category(ies). The map legend will also narrow down to only thoses event
-                        types that are in the countries you have selected.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A47021476-db6f-4eb0-a6ca-b1a1745bc390/datastream/OBJ/view" id="image_dwt_rvt_5r" align="center" scale="85" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/FilterByCountry.dita" xtrc="image:2;37:78"/></p>
+                        types that are in the countries you have selected.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A47021476-db6f-4eb0-a6ca-b1a1745bc390/datastream/OBJ/view" id="image_dwt_rvt_5r" align="center" scale="85" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/FilterByCountry.dita" xtrc="image:2;37:78"/></p>
                 </info>
             </step>
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/FilterByCountry.dita" xtrc="step:4;40:19">
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/FilterByCountry.dita" xtrc="cmd:4;41:22">To reset the country filter, uncheck the top checkbox (or individually selected
-                    boxes) or select “Reset All Filters” option above the map (see below). <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A9d86a130-5718-47b9-ab52-b5735c700384/datastream/OBJ/view" id="image_zjq_hqr_5r" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/FilterByCountry.dita" xtrc="image:3;45:63"/></cmd>
+                    boxes) or select “Reset All Filters” option above the map (see below). <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A9d86a130-5718-47b9-ab52-b5735c700384/datastream/OBJ/view" id="image_zjq_hqr_5r" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/FilterByCountry.dita" xtrc="image:3;45:63"/></cmd>
             </step>
         </steps>
     </taskbody>

@@ -27,14 +27,14 @@
             <step>
                 <cmd>Highlight the text that you would like to tag as a particular entity.</cmd>
                 <info><image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aec16d767-e70f-4d00-b354-9d75887eab85/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Aec16d767-e70f-4d00-b354-9d75887eab85/datastream/OBJ/view"
                         id="image_rhf_t4d_lp" align="center" scale="80" scalefit="yes"/></info>
             </step>
             <step>
                 <cmd>Click on the entity toolbar button that you are adding to the document. In this
                     case we are adding a "Person" tag to the sample letter document.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A37ffa569-3f88-45b7-9a69-7e227b62a6e1/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A37ffa569-3f88-45b7-9a69-7e227b62a6e1/datastream/OBJ/view"
                         id="image_plk_vss_3x" align="center"/></cmd>
             </step>
             <step>
@@ -57,7 +57,7 @@
                     and click <cmdname>Save</cmdname>.</cmd>
                 <info>The option that show up on this pop-up depends on what entity is being
                         tagged.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A654c69ef-32af-41ce-9e3f-6cc69671ae1d/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A654c69ef-32af-41ce-9e3f-6cc69671ae1d/datastream/OBJ/view"
                         id="image_kky_gts_3x" align="center" scale="80"/></info>
             </step>
         </steps>
@@ -65,7 +65,7 @@
             information you have assigned to the entity) will appear in the entities column on the
             left side of the CWRC-Writer.<p>
                 <image placement="break"
-                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A00802484-b576-4993-a65d-beb58164e5ed/datastream/OBJ/view"
+                    href="https://cwrc.ca/islandora/object/cwrc%3A00802484-b576-4993-a65d-beb58164e5ed/datastream/OBJ/view"
                     id="image_mwq_fpd_lp" align="center" height="4in" width="6in"/>
             </p>
             <!--<p>

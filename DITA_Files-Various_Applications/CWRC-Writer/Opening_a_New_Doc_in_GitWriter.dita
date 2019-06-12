@@ -15,7 +15,7 @@
                 <cmd>Git-Writer will ask whether you have saved your current document. Ensure that you have done so.</cmd>
             </step>
             <step>
-                <cmd>Click on <uicontrol>Continue to Load New Document</uicontrol><image id="image_csc_zyg_gdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A2cdd3acb-d2e6-49f8-acb5-0fc6c1eb5da9/datastream/OBJ/view" width="700"></image></cmd>
+                <cmd>Click on <uicontrol>Continue to Load New Document</uicontrol><image id="image_csc_zyg_gdb" href="https://cwrc.ca/islandora/object/cwrc%3A2cdd3acb-d2e6-49f8-acb5-0fc6c1eb5da9/datastream/OBJ/view" width="700"></image></cmd>
             </step>
             <step>
                 <cmd>After you have done so, you will be taken to the Git-Writer landing page, where you will be presented with three diferent options to load a document: </cmd>

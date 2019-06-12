@@ -13,14 +13,14 @@
         </context>
         <steps id="steps_xjb_gfx_1v">
             <step>
-                <cmd>Click on the desired Class type in the Classes bin.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab7a1579d-76f4-4c69-942e-8ed40cd1ac98/datastream/OBJ/view" id="image_l5b_3fx_1v" placement="break" align="center"></image></cmd>
+                <cmd>Click on the desired Class type in the Classes bin.<image href="https://cwrc.ca/islandora/object/cwrc%3Ab7a1579d-76f4-4c69-942e-8ed40cd1ac98/datastream/OBJ/view" id="image_l5b_3fx_1v" placement="break" align="center"></image></cmd>
                 <info>Note that clicking on a Class type automatically Selects those nodes for future actions, as indicated by their <i>bold</i> appearance.</info>
             </step>
             <step>
-                <cmd>Under Verbs, click Retrieve.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A580ca655-e612-4530-a13b-0912a72fd0a1/datastream/OBJ/view" id="image_bzh_shx_1v" placement="break" align="center"></image></cmd>
+                <cmd>Under Verbs, click Retrieve.<image href="https://cwrc.ca/islandora/object/cwrc%3A580ca655-e612-4530-a13b-0912a72fd0a1/datastream/OBJ/view" id="image_bzh_shx_1v" placement="break" align="center"></image></cmd>
             </step>
         </steps>
-        <result>In this example, the function Retrieve was executed on the Class Type "Person." As a result, the Person node in the Discard Bin, labelled "Jules Verne," was returned to the Shelf. However, the Person nodes in the central Graph remained untouched.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A1734ad78-4ba8-4c95-b688-f89f77ad3b05/datastream/OBJ/view" id="image_ztw_4gx_1v" placement="break" align="center"></image></result>
+        <result>In this example, the function Retrieve was executed on the Class Type "Person." As a result, the Person node in the Discard Bin, labelled "Jules Verne," was returned to the Shelf. However, the Person nodes in the central Graph remained untouched.<image href="https://cwrc.ca/islandora/object/cwrc%3A1734ad78-4ba8-4c95-b688-f89f77ad3b05/datastream/OBJ/view" id="image_ztw_4gx_1v" placement="break" align="center"></image></result>
     </taskbody>
     <related-links>
         <link href="Retrieve_Concept.dita"></link>

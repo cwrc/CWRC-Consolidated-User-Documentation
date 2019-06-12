@@ -10,11 +10,11 @@
         <steps>
             <step>
                 <cmd>Click on one of the <uicontrol>Objects</uicontrol> under the Recent Workflow Stamps column in your dashboard. </cmd>
-                <info>The list is organized by the most recent first. However, you can view any stamped workflow by clicking on the Show all button at the bottom left of the column. <image id="image_mzd_1gl_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0c0dc8e7-e4ce-4925-b3cf-67bc346f3cbb/datastream/OBJ/view"></image></info>
+                <info>The list is organized by the most recent first. However, you can view any stamped workflow by clicking on the Show all button at the bottom left of the column. <image id="image_mzd_1gl_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A0c0dc8e7-e4ce-4925-b3cf-67bc346f3cbb/datastream/OBJ/view"></image></info>
             </step>
             <step>
                 <cmd>View the object you have selected. </cmd>
-                <info>The viewable information includes the collection the stamp, the date and time of the workflostamp, the user who created the stamp and the status of the object. Additionally, if this object has been assigned to another member that information will also be available. <image id="image_bz5_kgl_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3bfb2ec2-baaa-47dc-b019-983487c4855c/datastream/OBJ/view"></image></info>
+                <info>The viewable information includes the collection the stamp, the date and time of the workflostamp, the user who created the stamp and the status of the object. Additionally, if this object has been assigned to another member that information will also be available. <image id="image_bz5_kgl_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A3bfb2ec2-baaa-47dc-b019-983487c4855c/datastream/OBJ/view"></image></info>
             </step>
         </steps>
     </taskbody>

@@ -9,7 +9,7 @@
         </context>
         <steps>
             <step>
-                <cmd>Open CWRC in your browser. Link <xref href="http://beta.cwrc.ca/" format="html" scope="external">here</xref>.</cmd>
+                <cmd>Open CWRC in your browser. Link <xref href="https://cwrc.ca/" format="html" scope="external">here</xref>.</cmd>
             </step>
             <step>
                 <cmd>Select <b>login</b> (located in the top right corner of the browser). Enter your username and password.</cmd>

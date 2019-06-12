@@ -29,14 +29,14 @@
                 <choices id="choices_nh1_ss2_np">
                     <choice>Right-click on the entity that you would like to delete. Click on the
                         <cmdname>Remove Relation</cmdname> option that pops up. <image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A4701972c-649c-482d-93a9-010a62a88ae5/datastream/OBJ/view"
+                            href="https://cwrc.ca/islandora/object/cwrc%3A4701972c-649c-482d-93a9-010a62a88ae5/datastream/OBJ/view"
                             id="image_zy1_vs2_np" align="center"/></choice>
                 </choices>
                 <choices id="choices_opf_ws2_np">
                     <choice>At the bottom of the "Relationship Column" there is a button called
                         <cmdname>Remove Relation</cmdname>. Select the relationship that you would like to delete and
                         click on that button.<image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A9e5a9558-b3df-452b-8966-f0ccdeef82cc/datastream/OBJ/view"
+                            href="https://cwrc.ca/islandora/object/cwrc%3A9e5a9558-b3df-452b-8966-f0ccdeef82cc/datastream/OBJ/view"
                             id="image_dfq_1t2_np" align="center" height="6in" width="3in"/></choice>
                 </choices>
             </step>

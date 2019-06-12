@@ -11,12 +11,12 @@
         <steps>
             <step>
                 <cmd>If you would like to unlock the object for this user, click on the link in the email.</cmd>
-                <info>Users receive the unlock request through email (the one you used to sign up to CWRC).<p><b id="docs-internal-guid-0623a4fe-73bf-a337-7b1e-4ffb99ee34b4">WARNING: If you unlock this object, it will be available for editing by any CWRC member.</b></p><image id="image_ngf_2hg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A7b143307-33ec-4171-aaaa-f272e4429d0d/datastream/OBJ/view"></image></info>
+                <info>Users receive the unlock request through email (the one you used to sign up to CWRC).<p><b id="docs-internal-guid-0623a4fe-73bf-a337-7b1e-4ffb99ee34b4">WARNING: If you unlock this object, it will be available for editing by any CWRC member.</b></p><image id="image_ngf_2hg_3db" href="https://cwrc.ca/islandora/object/cwrc%3A7b143307-33ec-4171-aaaa-f272e4429d0d/datastream/OBJ/view"></image></info>
             </step>
             <step>
-                <cmd>Click on <b>Confirm</b> to unlock the object.<image id="image_rfl_mhg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad8f6989d-a35b-4e5a-bba8-fc39635e804a/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on <b>Confirm</b> to unlock the object.<image id="image_rfl_mhg_3db" href="https://cwrc.ca/islandora/object/cwrc%3Ad8f6989d-a35b-4e5a-bba8-fc39635e804a/datastream/OBJ/view"></image></cmd>
                 <info>
-                    <p>When you approve the release of a lock, the member who requested it will be informed in the CWRC notification system. <image id="image_lpv_vhg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A02f6992e-8759-4e17-a9c5-a08fb8d105cf/datastream/OBJ/view"></image></p>
+                    <p>When you approve the release of a lock, the member who requested it will be informed in the CWRC notification system. <image id="image_lpv_vhg_3db" href="https://cwrc.ca/islandora/object/cwrc%3A02f6992e-8759-4e17-a9c5-a08fb8d105cf/datastream/OBJ/view"></image></p>
                 </info>
             </step>
         </steps>

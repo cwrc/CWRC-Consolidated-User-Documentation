@@ -21,14 +21,14 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Hover over the <term>Edge</term> linking two nodes together. <image href="http://beta.cwrc.ca/islandora/object/cwrc%3A3b28ca97-497c-49c2-a189-4763d50830fe/datastream/OBJ/view" id="image_i5c_vfs_w5" placement="break" align="center"></image></cmd>
+                <cmd>Hover over the <term>Edge</term> linking two nodes together. <image href="https://cwrc.ca/islandora/object/cwrc%3A3b28ca97-497c-49c2-a189-4763d50830fe/datastream/OBJ/view" id="image_i5c_vfs_w5" placement="break" align="center"></image></cmd>
                 <stepresult>A label will appear that categories the type of object and type of relationship. For example, <b>"deathConnectiontoRegion"</b> indicates that Ada Byron is connected to the <b>region</b> of Nottinghamshire by <b>death</b>.</stepresult>
             </step>
             <step>
-                <cmd>Click on the Edge to open the Snippet window. <image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ade4809ad-6554-40be-89fc-15ad56aea9c2/datastream/OBJ/view" id="image_ps1_gfs_w5" placement="break" align="center"></image></cmd>
+                <cmd>Click on the Edge to open the Snippet window. <image href="https://cwrc.ca/islandora/object/cwrc%3Ade4809ad-6554-40be-89fc-15ad56aea9c2/datastream/OBJ/view" id="image_ps1_gfs_w5" placement="break" align="center"></image></cmd>
             </step>
         </steps>
-        <postreq>To close window, click the button at the top right. <image href="http://beta.cwrc.ca/islandora/object/cwrc%3Adbb98845-bbb1-4a4d-97d1-785197ee8164/datastream/OBJ/view" id="image_axh_fhs_w5" placement="break" align="center"></image></postreq>
+        <postreq>To close window, click the button at the top right. <image href="https://cwrc.ca/islandora/object/cwrc%3Adbb98845-bbb1-4a4d-97d1-785197ee8164/datastream/OBJ/view" id="image_axh_fhs_w5" placement="break" align="center"></image></postreq>
     </taskbody>
     <related-links>
         <link href="Edges_Concept.dita"></link>

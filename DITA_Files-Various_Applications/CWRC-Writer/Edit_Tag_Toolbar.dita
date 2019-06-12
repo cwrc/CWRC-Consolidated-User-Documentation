@@ -27,13 +27,13 @@
             <step>
                 <cmd>Highlight the text within the tag that you want to edit.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A9533598d-dd73-42fc-b830-036e00b4bc3a/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A9533598d-dd73-42fc-b830-036e00b4bc3a/datastream/OBJ/view"
                         id="image_eyy_hb4_jp" align="center" scalefit="yes"/></cmd>
             </step>
             <step>
                 <cmd>Click on the <cmdname>Edit Tag</cmdname> toolbar option.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae6de98ea-f0e4-4ed7-8a28-c6623ca3db0f/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ae6de98ea-f0e4-4ed7-8a28-c6623ca3db0f/datastream/OBJ/view"
                         id="image_lzl_prs_3x" align="center"/></cmd>
             </step>
             <step>
@@ -41,7 +41,7 @@
                     tags.</cmd>
                 <info>The different attributes available in the pop-up will depend on the tag that
                     you are editing.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af937a160-f7be-4d06-ada9-f59eae6b1560/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Af937a160-f7be-4d06-ada9-f59eae6b1560/datastream/OBJ/view"
                         id="image_icc_s3v_tp" align="center"/></info>
             </step>
         </steps>

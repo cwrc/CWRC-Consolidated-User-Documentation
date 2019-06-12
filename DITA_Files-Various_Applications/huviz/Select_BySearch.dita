@@ -24,18 +24,18 @@
         </context>
         <steps id="steps_syp_vgt_w5">
             <step>
-                <cmd>Type a search term into the Like bar.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac4db991e-b0bc-411b-902b-d58f292bc19b/datastream/OBJ/view" id="image_rpj_smw_1v" placement="break" align="center"></image></cmd>
+                <cmd>Type a search term into the Like bar.<image href="https://cwrc.ca/islandora/object/cwrc%3Ac4db991e-b0bc-411b-902b-d58f292bc19b/datastream/OBJ/view" id="image_rpj_smw_1v" placement="break" align="center"></image></cmd>
             </step>
             <step>
-                <cmd>Click a Set or Class type to choose a category of nodes to perform the search on. <image href="http://beta.cwrc.ca/islandora/object/cwrc%3A678f800d-b3f8-4248-8581-f1b395f08fc4/datastream/OBJ/view" id="image_qtx_bnw_1v" placement="break" align="center"></image></cmd>
+                <cmd>Click a Set or Class type to choose a category of nodes to perform the search on. <image href="https://cwrc.ca/islandora/object/cwrc%3A678f800d-b3f8-4248-8581-f1b395f08fc4/datastream/OBJ/view" id="image_qtx_bnw_1v" placement="break" align="center"></image></cmd>
                 <info>To search <i>all</i> nodes for matches, click All under Sets.</info>
-                <info>Notice that the Current Command will update to reflect the Search term and selected Set/Class type.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A0e376a9a-defb-4ef1-9ef0-9b458b4aa397/datastream/OBJ/view" id="image_vn5_rnw_1v" placement="break" align="center"></image></info>
+                <info>Notice that the Current Command will update to reflect the Search term and selected Set/Class type.<image href="https://cwrc.ca/islandora/object/cwrc%3A0e376a9a-defb-4ef1-9ef0-9b458b4aa397/datastream/OBJ/view" id="image_vn5_rnw_1v" placement="break" align="center"></image></info>
             </step>
             <step>
-                <cmd>Click on the desired Verb to choose an action.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae18c6ae6-ca3a-4c7a-8a8a-8202297bfcff/datastream/OBJ/view" id="image_d2l_bpw_1v" placement="break" align="center"></image></cmd>
+                <cmd>Click on the desired Verb to choose an action.<image href="https://cwrc.ca/islandora/object/cwrc%3Ae18c6ae6-ca3a-4c7a-8a8a-8202297bfcff/datastream/OBJ/view" id="image_d2l_bpw_1v" placement="break" align="center"></image></cmd>
             </step>
         </steps>
-        <result>In this example, the user searched for ALL nodes LIKE "University" and then executed the VERB Activate. As a result, nodes with names containing "University" were pulled into the graph.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A56f17ece-2ccc-4ec3-a2ae-6d8663ce27e4/datastream/OBJ/view" id="image_tkk_qpw_1v" placement="break" align="center"></image></result>
+        <result>In this example, the user searched for ALL nodes LIKE "University" and then executed the VERB Activate. As a result, nodes with names containing "University" were pulled into the graph.<image href="https://cwrc.ca/islandora/object/cwrc%3A56f17ece-2ccc-4ec3-a2ae-6d8663ce27e4/datastream/OBJ/view" id="image_tkk_qpw_1v" placement="break" align="center"></image></result>
     </taskbody>
     <related-links>
         <link href="Select_Concept.dita"></link>

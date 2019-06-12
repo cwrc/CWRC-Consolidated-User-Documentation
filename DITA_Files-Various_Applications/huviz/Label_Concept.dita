@@ -19,7 +19,7 @@
   </metadata>
  </prolog>
  <conbody>
-  <p>When the cursor hovers over a node, the node name will automatically appear above. To keep the labels visible at all times, execute the Verb Label in the Commands Tab.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0bb75a5d-8507-4c8b-8780-75ffd0900b39/datastream/OBJ/view" id="image_gkl_3hn_2v" align="center"></image></p>
+  <p>When the cursor hovers over a node, the node name will automatically appear above. To keep the labels visible at all times, execute the Verb Label in the Commands Tab.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A0bb75a5d-8507-4c8b-8780-75ffd0900b39/datastream/OBJ/view" id="image_gkl_3hn_2v" align="center"></image></p>
  </conbody>
  <related-links>
   <link class="- topic/link " href="Command_Execute_Verbs.dita"></link>

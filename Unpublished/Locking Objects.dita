@@ -12,16 +12,16 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the <b>Manage</b> tab of the object you would like to lock and select <b>Properties</b> from the dropdown list. <image id="image_cwh_xfg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A7971b53e-a6d2-4577-9241-85eef84aca41/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <b>Manage</b> tab of the object you would like to lock and select <b>Properties</b> from the dropdown list. <image id="image_cwh_xfg_3db" href="https://cwrc.ca/islandora/object/cwrc%3A7971b53e-a6d2-4577-9241-85eef84aca41/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
-                <cmd>Click on <b>acquire the lock</b>, located in the banner below the menu bar (see below). <image id="image_rjr_bgg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa1e1b6d4-e16d-4ab5-bb6c-d2b177cc813e/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on <b>acquire the lock</b>, located in the banner below the menu bar (see below). <image id="image_rjr_bgg_3db" href="https://cwrc.ca/islandora/object/cwrc%3Aa1e1b6d4-e16d-4ab5-bb6c-d2b177cc813e/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
-                <cmd>Click on <b>Confirm</b><image id="image_mzh_dgg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A8328368b-2f95-4e36-a0cc-215b8af9692a/datastream/OBJ/view"></image> </cmd>
+                <cmd>Click on <b>Confirm</b><image id="image_mzh_dgg_3db" href="https://cwrc.ca/islandora/object/cwrc%3A8328368b-2f95-4e36-a0cc-215b8af9692a/datastream/OBJ/view"></image> </cmd>
             </step>
             <step>
-                <cmd>This takes you back to the object page with a banner that informs the user that they have set the lock and an option to remove the lock. <image id="image_yhw_ggg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A9e9554bf-cc26-4c90-89f1-fa76c72dd461/datastream/OBJ/view"></image></cmd>
+                <cmd>This takes you back to the object page with a banner that informs the user that they have set the lock and an option to remove the lock. <image id="image_yhw_ggg_3db" href="https://cwrc.ca/islandora/object/cwrc%3A9e9554bf-cc26-4c90-89f1-fa76c72dd461/datastream/OBJ/view"></image></cmd>
             </step>
         </steps>
     </taskbody>

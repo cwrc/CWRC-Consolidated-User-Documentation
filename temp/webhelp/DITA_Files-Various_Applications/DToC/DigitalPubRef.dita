@@ -9,13 +9,13 @@
         option is found under the settings menu option (upper right corner).</p>
       <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/DigitalPubRef.dita" xtrc="p:2;12:10">Once you have opened the settings menu choose the “Export” button. This opens another popup
         that contains the URL for your document. You can either click on the linked “URL” option,
-        which opens a new browser window or copy and paste the URL. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A4b226de9-a2fe-4771-b84d-45fe6aba6112/datastream/OBJ/view" id="image_ezv_jhr_nt" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/DigitalPubRef.dita" xtrc="image:1;16:49"/></p>
+        which opens a new browser window or copy and paste the URL. <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A4b226de9-a2fe-4771-b84d-45fe6aba6112/datastream/OBJ/view" id="image_ezv_jhr_nt" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/DigitalPubRef.dita" xtrc="image:1;16:49"/></p>
     </section>
     <section class="- topic/section " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/DigitalPubRef.dita" xtrc="section:2;18:14">
       <title class="- topic/title " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/DigitalPubRef.dita" xtrc="title:3;19:14">XML Digital View</title>
       <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/DigitalPubRef.dita" xtrc="p:3;20:10">For XML documents only, you can click on the "&lt;/&gt;" button located in the upper right
         corner. This will open a new browser window with a display of your document XML structure.
-          <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3486b574-5d16-4ac4-9596-2e7b1bea5492/datastream/OBJ/view" id="image_gcc_fhr_nt" align="center" scale="80" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/DigitalPubRef.dita" xtrc="image:2;24:60"/></p>
+          <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A3486b574-5d16-4ac4-9596-2e7b1bea5492/datastream/OBJ/view" id="image_gcc_fhr_nt" align="center" scale="80" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/DigitalPubRef.dita" xtrc="image:2;24:60"/></p>
       <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/DigitalPubRef.dita" xtrc="p:4;25:10">You can bookmark this page. If you try to print this version of your document, the XML
         structure will not be printed, just the text. </p>
     </section>

@@ -8,7 +8,7 @@
             </step>
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="step:2;11:19">
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="cmd:2;12:22">Open up a new div at the end of your XML file; add a ‘type’ attribute called
-                    ‘index’.  <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A58797064-d306-4fbc-867b-95e77b356402/datastream/OBJ/view" id="image_pkv_ksp_ht" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="image:1;15:63"/></cmd>
+                    ‘index’.  <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A58797064-d306-4fbc-867b-95e77b356402/datastream/OBJ/view" id="image_pkv_ksp_ht" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="image:1;15:63"/></cmd>
             </step>
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="step:3;17:19">
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="cmd:3;18:22">Under the &lt;div&gt; tag add a &lt;list&gt; tag. </cmd>
@@ -24,7 +24,7 @@
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="cmd:5;28:22">Add a &lt;ref&gt; tag to the items in the list. </cmd>
                 <info class="- topic/itemgroup task/info " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="info:2;29:23">The &lt;ref&gt; tag has a target attribute, whose value is a space separated list
                     of paragraph XML IDs. The &lt;ref&gt; tag references the paragraph in the body
-                    text. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0a4ac238-ce00-44e2-be20-5a16873f9471/datastream/OBJ/view" id="image_lns_vsp_ht" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="image:2;33:63"/></info>
+                    text. <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A0a4ac238-ce00-44e2-be20-5a16873f9471/datastream/OBJ/view" id="image_lns_vsp_ht" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="image:2;33:63"/></info>
             </step>
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="step:6;35:19">
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="cmd:6;36:22">Begin to add your index terms between the item/ref tags. The index contain
@@ -41,11 +41,11 @@
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="step:8;47:19">
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="cmd:8;48:22">Add the XML ids (from the paragraph(s) or other tags) in the target attribute
                     of the &lt;ref&gt; tag. If there are multiple XML ids related to the index term,
-                    separate these with a space. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad2a60e54-7e4c-4d74-91fe-2c47f51ac35f/datastream/OBJ/view" id="image_dxv_kjp_ht" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="image:3;52:63"/></cmd>
+                    separate these with a space. <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3Ad2a60e54-7e4c-4d74-91fe-2c47f51ac35f/datastream/OBJ/view" id="image_dxv_kjp_ht" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="image:3;52:63"/></cmd>
             </step>
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="step:9;54:19">
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="cmd:9;55:22">Save your document.</cmd>
-                <info class="- topic/itemgroup task/info " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="info:4;56:23">Once you have uploaded your document to DToC it will look like this:<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A68b073ff-025b-440b-ab6e-ac177a8068d4/datastream/OBJ/view" id="image_z43_yjp_ht" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="image:4;59:63"/></info>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="info:4;56:23">Once you have uploaded your document to DToC it will look like this:<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A68b073ff-025b-440b-ab6e-ac177a8068d4/datastream/OBJ/view" id="image_z43_yjp_ht" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="image:4;59:63"/></info>
             </step>
         </steps>
         <example class="- topic/example " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="example:1;62:18">
@@ -57,7 +57,7 @@
             <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="p:4;68:16">Within the ref tag add the “target” attribute. Then add the paragraph XML ids within
                 the target quotation marks. If there are multiple paragraphs that contain this
                 keyword separate them with a space. </p>
-            <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac562b021-1da8-4480-b01b-66f9e59512ad/datastream/OBJ/view" id="image_fw2_15p_ht" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="image:5;73:55"/>
+            <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3Ac562b021-1da8-4480-b01b-66f9e59512ad/datastream/OBJ/view" id="image_fw2_15p_ht" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="image:5;73:55"/>
         </example>
     </taskbody>
     <related-links class="- topic/related-links " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/AddingXMLIndex.dita" xtrc="related-links:1;76:20">

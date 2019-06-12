@@ -9,11 +9,11 @@
       <p> The users can view events four ways, in the timeline, in the map, in a list view, and in a
         grid. This allows users to personalize their viewing experience when using Plot-It. <image
           placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad571377e-5868-4106-a120-63821a1b58ed/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3Ad571377e-5868-4106-a120-63821a1b58ed/datastream/OBJ/view"
           id="image_zgy_xms_5r" align="center"/></p>
       <p>You can change the view of the events in the space between the timeline and the map.<image
           placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A91575232-2293-4a64-bfc2-844a802e3b35/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A91575232-2293-4a64-bfc2-844a802e3b35/datastream/OBJ/view"
           id="image_d51_5ms_5r" align="center" scale="85"/></p>
     </section>
     <section><title>Map view</title><p>The Map view is the default view of the events in the
@@ -25,14 +25,14 @@
         trackpad. The second is using the existing zoom tools located on the left side of the map.
         The third is double clicking on the map ,though this option will not work when your cursor
         is over an event icon (it will just open the event). <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A06729788-e366-4ff0-8aff-2f3144b64858/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A06729788-e366-4ff0-8aff-2f3144b64858/datastream/OBJ/view"
           id="image_jyp_h4s_5r" align="center" scale="85"/></p><p>The map allows users to play
         around with how they view the terrain. In the top right corner, users can switch between a
         “Map” and “Satellite” view. For further personalization, users can chooses to view the
         “Terrain” when in the “Map” view, and the “Labels” when in the Satellite view.</p><p>To
         change between these features, click on either the “Map” and “Satellite” options and then
         check (or leave unchecked) the terrain/label option that pops up.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Acb7f894a-fff0-4c7d-8ea6-a394a1a4b951/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3Acb7f894a-fff0-4c7d-8ea6-a394a1a4b951/datastream/OBJ/view"
           id="image_sff_q4s_5r" align="center" scale="85"/></p><p>When using the map, you can switch
         to street view by dragging the person icon (located on the left side of the map) on to the
         map. This brings up a popup screen imposed over the map.</p><p>You can then transverse the
@@ -44,7 +44,7 @@
         corner.<note>In street view, you can click on an event icon, but the metadata information
         will not come up. Instead the timeline will move to that event point and bring up the
         information in the timeline.</note><image placement="break"
-        href="http://beta.cwrc.ca/islandora/object/cwrc%3A871bba52-3ab3-4767-8b08-ff16da8d70c8/datastream/OBJ/view"
+        href="https://cwrc.ca/islandora/object/cwrc%3A871bba52-3ab3-4767-8b08-ff16da8d70c8/datastream/OBJ/view"
         id="image_sxb_w4s_5r" align="center" scale="85"/><p>Viewing the metadata/information of
         events in the map is as simple as clicking on an event icon. The different types of events
         are represented by colour coded icons. <ul id="ul_qgc_rns_5r">
@@ -55,7 +55,7 @@
           <li>Black: political</li>
           <li>Light Blue: social</li>
           <li>White: mixed<image placement="break"
-              href="http://beta.cwrc.ca/islandora/object/cwrc%3A8656c6c3-7b4f-4798-a9b3-6a2b32a5434a/datastream/OBJ/view"
+              href="https://cwrc.ca/islandora/object/cwrc%3A8656c6c3-7b4f-4798-a9b3-6a2b32a5434a/datastream/OBJ/view"
               id="image_dj3_dps_5r" align="center"/><p>Where there are multiple events of the same
               type and occurring in the same location, they are grouped together (and display the
               number events grouped there). </p><p>To learn more information about the events, click
@@ -67,12 +67,12 @@
                 to scroll through the event description, this will zoom in or out of the map and
                 lose the popup. Users must manually scroll, in event popups, by clicking on the
                 scroller available in the popup.<image placement="break"
-                  href="http://beta.cwrc.ca/islandora/object/cwrc%3A51e54c02-d4d2-4a70-928a-fa0789976986/datastream/OBJ/view"
+                  href="https://cwrc.ca/islandora/object/cwrc%3A51e54c02-d4d2-4a70-928a-fa0789976986/datastream/OBJ/view"
                   id="image_ocq_rps_5r" align="center"/></note></p><p>When you click on an icon that
               has multiple events, the event icons will split into multiple icons. If you would like
               to view the information select one of the icons and the information will appear in the
               text box between the timeline and map.<image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3A33c6ad78-3051-4306-9f07-dcfc672976ca/datastream/OBJ/view"
+                href="https://cwrc.ca/islandora/object/cwrc%3A33c6ad78-3051-4306-9f07-dcfc672976ca/datastream/OBJ/view"
                 id="image_xfw_yps_5r" align="center" scale="85"/></p></li>
         </ul></p></section>
     <section>
@@ -85,7 +85,7 @@
         at the end of the page users have the option to see all results. By clicking on this option
         all the results are loaded on the page for the user to scroll through. <image
           placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A11dac6ac-6ef1-41e4-8e20-3d4bdf686e30/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A11dac6ac-6ef1-41e4-8e20-3d4bdf686e30/datastream/OBJ/view"
           id="image_tgr_rz3_yr" align="center" scale="85" scalefit="yes"/></p>
       <p>You can change the way that the list is organized by selecting how they are “sorted by.”
         The users can select multiple different categories to sort the list with. To add multiple
@@ -111,19 +111,19 @@
           <li>URIs</li>
         </ul></p>
       <image placement="break"
-        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0ba3e902-64af-42f1-abfd-4007e2435d1b/datastream/OBJ/view"
+        href="https://cwrc.ca/islandora/object/cwrc%3A0ba3e902-64af-42f1-abfd-4007e2435d1b/datastream/OBJ/view"
         id="image_jdm_jrs_5r" align="center"/>
       <p>You can sort any of these options from a - z or z - a. To remove any of these grouping
         options, click on the category and select “Remove this order”. <note>You cannot remove all
           the sorting options, you must have at least one option selected.</note></p>
       <image
-        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab3e5d852-3654-4485-893c-7c6f35912066/datastream/OBJ/view"
+        href="https://cwrc.ca/islandora/object/cwrc%3Ab3e5d852-3654-4485-893c-7c6f35912066/datastream/OBJ/view"
         id="image_ars_mrs_5r" placement="break" align="center"/>
       <p>You can additionally opt to “group as sorted” the categories as you are organizing the
         events, by checking the circle.<note type="important">You cannot click on the events listed,
           so as to view on the timeline. This feature is only available in the map view. <image
             placement="break"
-            href="http://beta.cwrc.ca/islandora/object/cwrc%3Abd3fa1e6-811f-4506-95a3-e2b1cad652b8/datastream/OBJ/view"
+            href="https://cwrc.ca/islandora/object/cwrc%3Abd3fa1e6-811f-4506-95a3-e2b1cad652b8/datastream/OBJ/view"
             id="image_wgp_wrs_5r" align="center"/></note></p>
     </section>
     <section>
@@ -139,7 +139,7 @@
         pointing up (and vice versa when pointing down). <note>If the event does not have a location
           or country attached to it, then it appears first in a list sorted by location or country
           and organized from a - z. <image placement="break"
-            href="http://beta.cwrc.ca/islandora/object/cwrc%3A84704f93-85a6-4a57-814b-51250684e7e2/datastream/OBJ/view"
+            href="https://cwrc.ca/islandora/object/cwrc%3A84704f93-85a6-4a57-814b-51250684e7e2/datastream/OBJ/view"
             id="image_f4k_2ss_5r" align="center" scale="85"/></note><note
           type="important">You cannot select any of the events when they are organized into the grid
           mode. As such, you cannot use the grid view to view the events on the timeline. This

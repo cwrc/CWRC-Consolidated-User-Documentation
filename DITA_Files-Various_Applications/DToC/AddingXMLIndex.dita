@@ -11,7 +11,7 @@
             <step>
                 <cmd>Open up a new div at the end of your XML file; add a ‘type’ attribute called
                     ‘index’.  <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A58797064-d306-4fbc-867b-95e77b356402/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A58797064-d306-4fbc-867b-95e77b356402/datastream/OBJ/view"
                         id="image_pkv_ksp_ht" align="center"/></cmd>
             </step>
             <step>
@@ -29,7 +29,7 @@
                 <info>The &lt;ref> tag has a target attribute, whose value is a space separated list
                     of paragraph XML IDs. The &lt;ref> tag references the paragraph in the body
                     text. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0a4ac238-ce00-44e2-be20-5a16873f9471/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A0a4ac238-ce00-44e2-be20-5a16873f9471/datastream/OBJ/view"
                         id="image_lns_vsp_ht" align="center"/></info>
             </step>
             <step>
@@ -48,14 +48,14 @@
                 <cmd>Add the XML ids (from the paragraph(s) or other tags) in the target attribute
                     of the &lt;ref> tag. If there are multiple XML ids related to the index term,
                     separate these with a space. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad2a60e54-7e4c-4d74-91fe-2c47f51ac35f/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ad2a60e54-7e4c-4d74-91fe-2c47f51ac35f/datastream/OBJ/view"
                         id="image_dxv_kjp_ht" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Save your document.</cmd>
                 <info>Once you have uploaded your document to DToC it will look like this:<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A68b073ff-025b-440b-ab6e-ac177a8068d4/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A68b073ff-025b-440b-ab6e-ac177a8068d4/datastream/OBJ/view"
                         id="image_z43_yjp_ht" align="center"/></info>
             </step>
         </steps>
@@ -69,7 +69,7 @@
                 the target quotation marks. If there are multiple paragraphs that contain this
                 keyword separate them with a space. </p>
             <image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac562b021-1da8-4480-b01b-66f9e59512ad/datastream/OBJ/view"
+                href="https://cwrc.ca/islandora/object/cwrc%3Ac562b021-1da8-4480-b01b-66f9e59512ad/datastream/OBJ/view"
                 id="image_fw2_15p_ht" align="center"/>
         </example>
     </taskbody>

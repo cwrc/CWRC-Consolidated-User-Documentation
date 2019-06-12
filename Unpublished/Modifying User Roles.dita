@@ -10,16 +10,16 @@
         <steps>
             <step>
                 <cmd>Select a user (by checking the check mark beside their name) from the <b>Project member</b> column and the click on <b>Modify roles</b>, located at the bottom of the <b>Project member</b> column. </cmd>
-                <info><p>If you do not select a user before you click on the <b>Modify roles</b> button, you will be taken to a <b>Group overview</b> page. You can select a user from the list and click on the <b>Modify roles</b> button at the bottom of the page to continue on to step 2. </p><image id="image_itw_n4f_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0efc27b2-460b-4663-bbb8-798069c61c50/datastream/OBJ/view"></image></info>
+                <info><p>If you do not select a user before you click on the <b>Modify roles</b> button, you will be taken to a <b>Group overview</b> page. You can select a user from the list and click on the <b>Modify roles</b> button at the bottom of the page to continue on to step 2. </p><image id="image_itw_n4f_3db" href="https://cwrc.ca/islandora/object/cwrc%3A0efc27b2-460b-4663-bbb8-798069c61c50/datastream/OBJ/view"></image></info>
             </step>
             <step>
-                <cmd>Select the member role you would like to apply to the selected user. <image id="image_ltp_w4f_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af6007b3e-9186-4da5-9c23-bc2fd976a1f1/datastream/OBJ/view"></image></cmd>
+                <cmd>Select the member role you would like to apply to the selected user. <image id="image_ltp_w4f_3db" href="https://cwrc.ca/islandora/object/cwrc%3Af6007b3e-9186-4da5-9c23-bc2fd976a1f1/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Click on <b>Next</b></cmd>
             </step>
             <step>
-                <cmd>This will take you to a confirmation page. Click on <b>Confirm</b>.<image id="image_rqy_bpf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa635daca-d98a-4f6a-a67e-a9785f3b2a46/datastream/OBJ/view"></image></cmd>
+                <cmd>This will take you to a confirmation page. Click on <b>Confirm</b>.<image id="image_rqy_bpf_3db" href="https://cwrc.ca/islandora/object/cwrc%3Aa635daca-d98a-4f6a-a67e-a9785f3b2a46/datastream/OBJ/view"></image></cmd>
             </step>
         </steps>
     </taskbody>

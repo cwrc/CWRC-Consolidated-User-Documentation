@@ -25,7 +25,7 @@
       <p>To get started in CWRC-Writer, we suggest familiarizing yourself with the editor in a
         sample document first, and then moving on to trying to create a new document if you
           wish.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A3e04a035-5cae-4f40-a7cd-cd9a0a7c80bc/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A3e04a035-5cae-4f40-a7cd-cd9a0a7c80bc/datastream/OBJ/view"
           id="image_vgj_dl4_hx" align="center" scale="80" scalefit="yes"/></p><note type="caution">Please, handle with care:<ul>
         <li>For the moment, CWRC-Writer is optimized for Firefox and Chrome.</li>
         <li>Allow CWRC-Writer a few seconds to load each page. <note type="tip">If you interrupt the loading process you may have to shut down and reopen CWRC_Writer to continue working with this tool. You can open a saved document or a new template using the "Load" button on the toolbar. The CWRC logo in the upper left corner will take you outside the CWRC-Writer to the CWRC website (www.cwrc.ca). The new entity data option VIAF and GeoNames also take a few seconds to load. Thank you for your patience.</note></li>

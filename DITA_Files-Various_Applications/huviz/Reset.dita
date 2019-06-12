@@ -24,7 +24,7 @@
         </context>
         <steps-unordered id="steps-unordered_pbj_sbt_w5">
             <step>
-                <cmd>To erase changes, click the Reset button at the top of the Commands Tab.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A89019266-05ab-4125-a789-309036eb4493/datastream/OBJ/view" id="image_ysg_5dt_w5" placement="break" align="center"></image></cmd>
+                <cmd>To erase changes, click the Reset button at the top of the Commands Tab.<image href="https://cwrc.ca/islandora/object/cwrc%3A89019266-05ab-4125-a789-309036eb4493/datastream/OBJ/view" id="image_ysg_5dt_w5" placement="break" align="center"></image></cmd>
             </step>
         </steps-unordered>
     </taskbody>

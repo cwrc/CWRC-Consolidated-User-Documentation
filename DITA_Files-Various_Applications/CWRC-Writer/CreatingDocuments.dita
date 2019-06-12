@@ -21,23 +21,23 @@
       <p>When uploading any document, make sure that it is a well-formed XML and that the document ends
         in an.xml name extension. If the document is not a well-formed XML document or does not have the .xml file name extension,
         then you cannot upload it. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A280e4a19-055f-45d6-801d-6f6ac2b5924e/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A280e4a19-055f-45d6-801d-6f6ac2b5924e/datastream/OBJ/view"
           id="image_ycf_xzb_4v" align="center"/></p>
       <p>You can customize your document by choosing the schema it follows from a drop down menu.
           <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A04d5e25a-69aa-457d-9351-6ad214f8a02d/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A04d5e25a-69aa-457d-9351-6ad214f8a02d/datastream/OBJ/view"
           id="image_vtr_21c_4v" align="center"/></p>
     </section>
     <section>
       <title>From a template</title>
       <p>Templates are already available from CWRC and Orlando, which are well-formed XML documents.
         Templates are stored in the<xref
-          href="http://beta.cwrc.ca/islandora/object/cwrc:documentTemplateCollection" format="html"
+          href="https://cwrc.ca/islandora/object/cwrc:documentTemplateCollection" format="html"
           scope="external"> CWRC Document Template Collection</xref>. Additionally, these templates
         already have an associated schema attached to it, making it easier for XML beginners. The associated schemas are simply a
         formatting design for the chosen template.<image
           placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A69d3bfb4-d1d2-490e-9ae9-bbd60f17b829/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A69d3bfb4-d1d2-490e-9ae9-bbd60f17b829/datastream/OBJ/view"
           id="image_y3q_11c_4v" align="center"/></p>
     </section>
   </refbody>

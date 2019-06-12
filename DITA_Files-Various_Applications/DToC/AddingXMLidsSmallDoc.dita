@@ -36,7 +36,7 @@
             <p>Each paragraph within the body of text can be tagged with a unique identifier. For example, you
                 can use “P” followed by the number corresponding to each particular paragraph's location in the corpus. So the fifth paragraph
                 would be “P5”.<image placement="break"
-                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A8359323a-56ba-43a9-9773-95476bb4120b/datastream/OBJ/view"
+                    href="https://cwrc.ca/islandora/object/cwrc%3A8359323a-56ba-43a9-9773-95476bb4120b/datastream/OBJ/view"
                     id="image_n25_zvp_ht" align="center"/></p>
             <p>You can use a combination of letters and numbers, but you cannot have spaces located within the XML id attribute. You can replace spaces with underscores. Each paragraph, even if they are in different chapters, needs a distinct id. </p>
         </example>

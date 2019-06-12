@@ -15,28 +15,28 @@
         metadata/description for that event will appear in the text box between the timeline and the
         map. Users can then scroll through the information. When users click on an icon in the map
         the timeline will scroll so that event is highlighted. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A4e78e780-6927-40b7-b8e4-aa95dcf6e6e7/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A4e78e780-6927-40b7-b8e4-aa95dcf6e6e7/datastream/OBJ/view"
           id="image_pg1_rft_5r" align="center" scale="85"/></p>
       <p>When you click on an icon that has multiple events, a popup with a list of those events
         appear. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A51e54c02-d4d2-4a70-928a-fa0789976986/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A51e54c02-d4d2-4a70-928a-fa0789976986/datastream/OBJ/view"
           id="image_jzp_ngt_5r" align="center"/></p>
       <p>Users can also view events in a list or grid format (by changing the panel view to “List
         View” or “Grid View”). When using the grid view to look at events, the user is unable to
         read event description. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A84704f93-85a6-4a57-814b-51250684e7e2/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A84704f93-85a6-4a57-814b-51250684e7e2/datastream/OBJ/view"
           id="image_f24_rgt_5r" align="center" scale="85"/></p>
       <p>If an event does not have a date attached to it, users cannot view that event in the
         timeline. If an event does not have a location attached to it, users cannot view that event
         in the map. To view these events, there is an option located above the map on the right
           side.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A1ca66503-0400-49e2-9d0f-0a3fb1c0bec6/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A1ca66503-0400-49e2-9d0f-0a3fb1c0bec6/datastream/OBJ/view"
           id="image_hgs_wgt_5r" align="center"/></p>
       <p>To view the events that are not listed, click on “17 results” to bring up a popup of the
         missing results. You can scroll through the list of events until you see one you would like
         to look at, click on that event. This brings up a popup on the left side of the
           timeline.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A73cd1e32-6d7e-4249-9444-23a8dbd50854/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A73cd1e32-6d7e-4249-9444-23a8dbd50854/datastream/OBJ/view"
           id="image_t5p_ght_5r" align="center" scale="85"/></p>
     </section>
     <section>
@@ -49,7 +49,7 @@
         assigned to it (see below). The label and description are searchable and describe the event
         for users. Events can also be filtered by its metadata, specifically date, event type and
         country. </p> <image placement="break"
-        href="http://beta.cwrc.ca/islandora/object/cwrc%3A86f3ba78-8d58-4445-9ee5-13d9700eddd9/datastream/OBJ/view"
+        href="https://cwrc.ca/islandora/object/cwrc%3A86f3ba78-8d58-4445-9ee5-13d9700eddd9/datastream/OBJ/view"
         align="center"/>
       <p>Users can only view the event type in the grid view or by looking at the colour of the icon
         associated with each event. The event types available for this version of Plot-It are:<ul
@@ -60,7 +60,7 @@
           <li>Black: political</li>
           <li>Light Blue: social</li>
           <li>White: mixed<image placement="break"
-              href="http://beta.cwrc.ca/islandora/object/cwrc%3A8656c6c3-7b4f-4798-a9b3-6a2b32a5434a/datastream/OBJ/view"
+              href="https://cwrc.ca/islandora/object/cwrc%3A8656c6c3-7b4f-4798-a9b3-6a2b32a5434a/datastream/OBJ/view"
               id="image_db2_qht_5r" align="center"/></li>
         </ul></p>
       <p>If the event has a longer description, users can scroll through the popup.<note

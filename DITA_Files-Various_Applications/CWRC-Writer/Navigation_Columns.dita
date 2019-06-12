@@ -12,7 +12,7 @@
         click selects the content of the tag and deleting will delete only the text (more text can
         then be typed to replace it). </p>
       <image placement="break"
-        href="http://beta.cwrc.ca/islandora/object/cwrc%3A6c3e996a-fd3b-49d1-9a69-c3f9411d1fac/datastream/OBJ/view"
+        href="https://cwrc.ca/islandora/object/cwrc%3A6c3e996a-fd3b-49d1-9a69-c3f9411d1fac/datastream/OBJ/view"
         id="image_h5v_kkp_hx" align="center" scalefit="yes"/>
     </section>
     <section>
@@ -20,7 +20,7 @@
       <p>The entities panel lets users see the entities that they have tagged in the document (date,
         organization, title, etc). You may view the items in this tab either sequentially or by
           category.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Abd5296d1-7a76-4063-aa97-c3bd8347b161/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3Abd5296d1-7a76-4063-aa97-c3bd8347b161/datastream/OBJ/view"
           id="image_pr3_skp_hx" align="center" scalefit="yes"/></p>
     </section>
     <section>
@@ -29,7 +29,7 @@
         entities. You can establish relationships through the <cmdname>Add Relations</cmdname>
         button in the toolbar at the top of the page or at the bottom of this panel. You can also
         delete relations at the bottom of the panel.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A11886a99-6abc-477d-b38e-8af1767d70ef/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A11886a99-6abc-477d-b38e-8af1767d70ef/datastream/OBJ/view"
           id="image_scn_gdj_np" align="center"/></p>
     </section>
   </refbody>

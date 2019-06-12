@@ -9,21 +9,21 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the <b>Workflow report admin</b> button in your dashboard (in the Workflow Reports column on the right side of the dashboard). <image id="image_tl1_qqf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A9c7ff2ce-d43a-49bf-b2b3-8a268523cf5b/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <b>Workflow report admin</b> button in your dashboard (in the Workflow Reports column on the right side of the dashboard). <image id="image_tl1_qqf_3db" href="https://cwrc.ca/islandora/object/cwrc%3A9c7ff2ce-d43a-49bf-b2b3-8a268523cf5b/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>This takes you to the <b>Workflow report form</b>. Fill out the form.</cmd>
                 <info>
-                    <p>The necessary fields are <b>Report Name</b>, <b>Report Project,</b> and selecting at least one of each permissions (<b>Edit Report role(s) and View Report role(s)</b>). <image id="image_bdd_2rf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A4355faed-28cb-4e88-a1bc-c96c1aa67247/datastream/OBJ/view"></image></p>
+                    <p>The necessary fields are <b>Report Name</b>, <b>Report Project,</b> and selecting at least one of each permissions (<b>Edit Report role(s) and View Report role(s)</b>). <image id="image_bdd_2rf_3db" href="https://cwrc.ca/islandora/object/cwrc%3A4355faed-28cb-4e88-a1bc-c96c1aa67247/datastream/OBJ/view"></image></p>
                 </info>
             </step>
             <step>
-                <cmd>Add any search terms you would like associated with your workflow report under the <b>Solr Report</b> section.<image id="image_otr_prf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A52fe8703-d3cb-4896-8b99-b81cfb3ef1eb/datastream/OBJ/view"></image></cmd>
+                <cmd>Add any search terms you would like associated with your workflow report under the <b>Solr Report</b> section.<image id="image_otr_prf_3db" href="https://cwrc.ca/islandora/object/cwrc%3A52fe8703-d3cb-4896-8b99-b81cfb3ef1eb/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Add any additional information you would like your workflow stamps to display when viewed under the <b>Displayed Report Fields</b> section. </cmd>
                 <info>
-                    <p>This defines what metadata is shown when you view the workflow stamps associated with your workflow report. By choosing to add more information within the SOLR fields, the report creator will populate the workflow report with additional information about the object.<image id="image_qz3_vrf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad01232da-acdf-4926-abe8-bc8fdb81c72e/datastream/OBJ/view"></image></p>
+                    <p>This defines what metadata is shown when you view the workflow stamps associated with your workflow report. By choosing to add more information within the SOLR fields, the report creator will populate the workflow report with additional information about the object.<image id="image_qz3_vrf_3db" href="https://cwrc.ca/islandora/object/cwrc%3Ad01232da-acdf-4926-abe8-bc8fdb81c72e/datastream/OBJ/view"></image></p>
                 </info>
             </step>
             <step>
