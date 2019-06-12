@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_e2r_1lh_b3b">
+    <title>Provide Your Own Dataset</title>
+    <shortdesc>Upload your own dataset to HuViz.</shortdesc>
+    <taskbody>
+        <context>You can load your own ontology and/or dataset to HuViz. External files need to be
+            in Turtle (.ttl) format. There are two ways to upload your data: 1) local file or 2)
+            URL.  All files must be in ttl format. <p/></context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
