@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_td3_g4k_tbb">
-    <title>Editing</title>
+    <title>Edit the Project Homepage</title>
     <shortdesc>If you would like to make changes to the project homepage, you can edit it from the project dashboard. This includes changing the project theme.</shortdesc>
     <taskbody>
         <context>
@@ -9,11 +9,11 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the <uicontrol>Edit project homepage</uicontrol> option located in the Utilities column.<image id="image_c1t_bpk_tbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Acb962588-af79-405d-b9a0-041f3ffaf786/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <uicontrol>Edit project homepage</uicontrol> option located in the Utilities column.<image id="image_c1t_bpk_tbb" href="https://cwrc.ca/islandora/object/cwrc%3Acb962588-af79-405d-b9a0-041f3ffaf786/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Fill out the Edit project homepage form.</cmd>
-                <info>This form lets you edit everything about your project homepage. Including changing the content, the theme (this is a limited Drupal feature), the sidebar information, etc. <image id="image_x44_3pk_tbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A065eb702-51b9-4648-bd6f-cfe8df883974/datastream/OBJ/view"></image><image id="image_vdz_4pk_tbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A28c72abd-7340-44f8-9c29-4e5a5f64bf80/datastream/OBJ/view"></image></info>
+                <info>This form lets you edit everything about your project homepage. Including changing the content, the theme (this is a limited Drupal feature), the sidebar information, etc. <image id="image_x44_3pk_tbb" href="https://cwrc.ca/islandora/object/cwrc%3A065eb702-51b9-4648-bd6f-cfe8df883974/datastream/OBJ/view"></image><image id="image_vdz_4pk_tbb" href="https://cwrc.ca/islandora/object/cwrc%3A28c72abd-7340-44f8-9c29-4e5a5f64bf80/datastream/OBJ/view"></image></info>
             </step>
             <step>
                 <cmd>You can preview the the changes you’ve made by clicking on <uicontrol>View changes</uicontrol>.</cmd>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jxl_bgk_tbb">
+    <title>Approve or Deny Project Membership Applications</title>
+    <shortdesc> Applications for project membership can be approved or denied by CWRC administrators
+        and project editors. </shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the <uicontrol>Approve/deny application</uicontrol> in the Pending applications in the project dashboard (on the right side of the page).<image id="image_s5s_jhk_tbb" href="https://cwrc.ca/islandora/object/cwrc%3A6d7ac77f-3ee4-44b8-9c98-32fca387e523/datastream/OBJ/view"></image> </cmd>
+            </step>
+            <step>
+                <cmd>Choose the State of the application you are considering. </cmd>
+                <info>The options are: Active is approving the pending application(S) Pending allows you to leave some applications as pending for further consideration. Blocked will deny a pending application. </info>
+            </step>
+            <step>
+                <cmd> Beside the State drop down menu write down the name or names of the people who have applied to join your project. </cmd>
+                <info>You can enter in multiple names (seperated by commas), but remember that the State you have selected will be applied to each of the names in the Name field. For example if you have chooses Blocked then all those people will be blocked from your project. <image id="image_ydf_yhk_tbb" href="https://cwrc.ca/islandora/object/cwrc%3A07c75ca2-1d80-4aef-9b53-6b52ad7ce616/datastream/OBJ/view"></image></info>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Approve/deny applications</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

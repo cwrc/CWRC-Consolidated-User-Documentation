@@ -9,17 +9,17 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the <uicontrol>Edit project menu</uicontrol> option in the <uicontrol>Utilities</uicontrol> column (on the right side of the dashboard). <image id="image_bsn_2rm_pbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af3fdc7ee-323e-4d13-96b9-64d61a9701cc/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <uicontrol>Edit project menu</uicontrol> option in the <uicontrol>Utilities</uicontrol> column (on the right side of the dashboard). <image id="image_bsn_2rm_pbb" href="https://cwrc.ca/islandora/object/cwrc%3Af3fdc7ee-323e-4d13-96b9-64d61a9701cc/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
-                <cmd>Click on the <uicontrol>Edit</uicontrol> option associated with the menu to which you would like to add a subsection. <image id="image_mbh_3sm_pbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A6d1ee199-81ee-4c4d-9e76-a593c78f4bee/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <uicontrol>Edit</uicontrol> option associated with the menu to which you would like to add a subsection. <image id="image_mbh_3sm_pbb" href="https://cwrc.ca/islandora/object/cwrc%3A6d1ee199-81ee-4c4d-9e76-a593c78f4bee/datastream/OBJ/view"></image></cmd>
                 <info>Alternatively, you can add a new link in order to nest a new menu under. See Editing/Adding links to the Project Menu.</info>
             </step>
             <step>
                 <cmd>Enter the required information. </cmd>
             </step>
             <step>
-                <cmd>From the Parent link choose the menu under which you would like to insert the link.<image id="image_s1t_ctm_pbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A92c3e88e-52a0-4cda-a7d1-bb83fe5b964f/datastream/OBJ/view"></image></cmd>
+                <cmd>From the Parent link choose the menu under which you would like to insert the link.<image id="image_s1t_ctm_pbb" href="https://cwrc.ca/islandora/object/cwrc%3A92c3e88e-52a0-4cda-a7d1-bb83fe5b964f/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Add the weight option to your link (for more information see below). </cmd>
