@@ -8,7 +8,7 @@
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="cmd:1;10:22">Select the type of events you would like to view.</cmd>
                 <info class="- topic/itemgroup task/info " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="info:1;11:23">
                     <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="p:1;12:24">Events are categorized into five different types: bibliographical,
-                        biographical, literary, political, social, and mixed. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A2e3452f0-3289-46c0-9e5f-e000e8b6d02a/datastream/OBJ/view" id="image_fyn_sbr_5r" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="image:1;16:67"/></p>
+                        biographical, literary, political, social, and mixed. <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A2e3452f0-3289-46c0-9e5f-e000e8b6d02a/datastream/OBJ/view" id="image_fyn_sbr_5r" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="image:1;16:67"/></p>
                 </info>
             </step>
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="step:2;19:19">
@@ -25,12 +25,12 @@
                 <info class="- topic/itemgroup task/info " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="info:3;30:23">
                     <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="p:3;31:24">Once the users checks one of these options, the timeline and map will
                         automatically narrow down the results to events that belong in that
-                            category(ies).<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Afd048c05-85f7-4751-91a3-514029be9b29/datastream/OBJ/view" id="image_ir2_5br_5r" align="center" scale="85" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="image:2;35:78"/></p>
+                            category(ies).<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3Afd048c05-85f7-4751-91a3-514029be9b29/datastream/OBJ/view" id="image_ir2_5br_5r" align="center" scale="85" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="image:2;35:78"/></p>
                 </info>
             </step>
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="step:4;38:19">
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="cmd:4;39:22">To reset the event type filter, uncheck the top checkbox (or individually
-                    selected boxes) or select “Reset All Filters” option above the map. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Adf43370d-cac6-4b6f-adee-43f38645b72a/datastream/OBJ/view" id="image_rxl_wbr_5r" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="image:3;43:63"/></cmd>
+                    selected boxes) or select “Reset All Filters” option above the map. <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3Adf43370d-cac6-4b6f-adee-43f38645b72a/datastream/OBJ/view" id="image_rxl_wbr_5r" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20by%20Event%20type.dita" xtrc="image:3;43:63"/></cmd>
             </step>
         </steps>
     </taskbody>

@@ -9,11 +9,11 @@
             <step>
                 <cmd>If you would like to unlock the object for this user, click on the link in the email.</cmd>
                 <info>Users receive the unlock request through email (the one you used to sign up to CWRC).</info>
-                <info>If you unlock this object, it will be available for editing by any CWRC member. <image id="image_gbl_3sj_tbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A7b143307-33ec-4171-aaaa-f272e4429d0d/datastream/OBJ/view"></image></info>
+                <info>If you unlock this object, it will be available for editing by any CWRC member. <image id="image_gbl_3sj_tbb" href="https://cwrc.ca/islandora/object/cwrc%3A7b143307-33ec-4171-aaaa-f272e4429d0d/datastream/OBJ/view"></image></info>
             </step>
             <step>
                 <cmd>Click on <uicontrol>Confirm</uicontrol> to unlock the object. </cmd>
-                <info>When you approve the release of a lock, the member who requested it will be informed in the CWRC notification system. <image id="image_gpf_5sj_tbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad8f6989d-a35b-4e5a-bba8-fc39635e804a/datastream/OBJ/view"></image><image id="image_yvc_vfk_tbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A02f6992e-8759-4e17-a9c5-a08fb8d105cf/datastream/OBJ/view"></image></info>
+                <info>When you approve the release of a lock, the member who requested it will be informed in the CWRC notification system. <image id="image_gpf_5sj_tbb" href="https://cwrc.ca/islandora/object/cwrc%3Ad8f6989d-a35b-4e5a-bba8-fc39635e804a/datastream/OBJ/view"></image><image id="image_yvc_vfk_tbb" href="https://cwrc.ca/islandora/object/cwrc%3A02f6992e-8759-4e17-a9c5-a08fb8d105cf/datastream/OBJ/view"></image></info>
             </step>
         </steps>
     </taskbody>

@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ox3_m2z_1v">
  <title>Settings Tab</title>
- <shortdesc>Adjust the appearance of the graph using the Settings Tab.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A44a9d41b-477a-404f-aefa-3518b47c3643/datastream/OBJ/view" id="image_xp5_ffn_2v" align="center"></image></shortdesc>
+ <shortdesc>Adjust the appearance of the graph using the Settings Tab.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A44a9d41b-477a-404f-aefa-3518b47c3643/datastream/OBJ/view" id="image_xp5_ffn_2v" align="center"></image></shortdesc>
  <conbody>
   <note>When working with large datasets, adjust the <b>Shelf Radius</b>, <b>Fisheye Zoom </b>and <b>Fisheye Radius</b> to separate the distance between nodes and "zoom in" on individual nodes.</note>
   <table frame="all" rowsep="1" colsep="1" id="table_oqv_x2z_1v">

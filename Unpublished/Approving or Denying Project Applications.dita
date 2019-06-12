@@ -9,7 +9,7 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the <b>Approve/deny application</b> in the <b>Pending applications</b> in the project dashboard (on the right side of the page).<image id="image_svn_33g_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A9851508e-8a4d-4caa-972b-cc25e62438ad/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <b>Approve/deny application</b> in the <b>Pending applications</b> in the project dashboard (on the right side of the page).<image id="image_svn_33g_3db" href="https://cwrc.ca/islandora/object/cwrc%3A9851508e-8a4d-4caa-972b-cc25e62438ad/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Choose the <b>State</b> of the application you are considering. The options are:</cmd>
@@ -26,7 +26,7 @@
             <step>
                 <cmd>Beside the <b>State</b> drop down menu write down the name or names of the people who have applied to join your project. </cmd>
                 <info>
-                    <p>You can enter in multiple names (seperated by commas), but remember that the <b>State</b> you have selected will be applied to each of the names in the <b>Name</b> field. For example if you have chooses <b>Blocked</b> then all those people will be blocked from your project. <image id="image_sdh_gjg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A07c75ca2-1d80-4aef-9b53-6b52ad7ce616/datastream/OBJ/view"></image></p>
+                    <p>You can enter in multiple names (seperated by commas), but remember that the <b>State</b> you have selected will be applied to each of the names in the <b>Name</b> field. For example if you have chooses <b>Blocked</b> then all those people will be blocked from your project. <image id="image_sdh_gjg_3db" href="https://cwrc.ca/islandora/object/cwrc%3A07c75ca2-1d80-4aef-9b53-6b52ad7ce616/datastream/OBJ/view"></image></p>
                 </info>
             </step>
             <step>

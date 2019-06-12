@@ -15,7 +15,7 @@
                 <cmd>Once logged in on GitHub, you will be prompted to authorize GitWriter.</cmd>
             </step>
             <step>
-                <cmd>After you have done so, you will be taken to the Git-Writer landing page, where you will be presented with three different options to load a document:<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A8c0a672f-12d5-44a4-b674-8b800e93daa3/datastream/OBJ/view" id="image_z3v_kyh_2db"></image></cmd>
+                <cmd>After you have done so, you will be taken to the Git-Writer landing page, where you will be presented with three different options to load a document:<image href="https://cwrc.ca/islandora/object/cwrc%3A8c0a672f-12d5-44a4-b674-8b800e93daa3/datastream/OBJ/view" id="image_z3v_kyh_2db"></image></cmd>
                 <choices id="choices_m4r_g5h_2db">
                     <choice>
                         <p>Load one of your own documents (this option does not apply if you are using Git-Writer for the first time, as you would not have any Git-Writer-produced documents. Blank Document option allows you to work in a blank TEI document. </p>

@@ -24,10 +24,10 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Select the <cmdname>Load </cmdname> button on the CWRC-Writer toolbar.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A731195ae-87f4-4658-beb5-088bb6a95424/datastream/OBJ/view" id="image_msd_gtm_jp" align="center"></image></cmd>
+                <cmd>Select the <cmdname>Load </cmdname> button on the CWRC-Writer toolbar.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A731195ae-87f4-4658-beb5-088bb6a95424/datastream/OBJ/view" id="image_msd_gtm_jp" align="center"></image></cmd>
             </step>
             <step>
-                <cmd>Click on the document/template you would like to open from the pop-up list. <?oxy_attributes height="&lt;change type=&quot;removed&quot; oldValue=&quot;4in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T173520-0700&quot; /&gt;" width="&lt;change type=&quot;removed&quot; oldValue=&quot;2in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T173521-0700&quot; /&gt;"?><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac22e7105-8146-4ac8-8594-579304b1f67d/datastream/OBJ/view" id="image_k44_ntm_jp" align="center"></image></cmd>
+                <cmd>Click on the document/template you would like to open from the pop-up list. <?oxy_attributes height="&lt;change type=&quot;removed&quot; oldValue=&quot;4in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T173520-0700&quot; /&gt;" width="&lt;change type=&quot;removed&quot; oldValue=&quot;2in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T173521-0700&quot; /&gt;"?><image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3Ac22e7105-8146-4ac8-8594-579304b1f67d/datastream/OBJ/view" id="image_k44_ntm_jp" align="center"></image></cmd>
             </step>
         </steps>
         <result>By selecting a document/template from the list in the pop-up a new page will be reloaded. <note>If you have <b>not saved</b> your information prior to opening a different document <b>you will lose any changes</b> that you have made. </note></result>

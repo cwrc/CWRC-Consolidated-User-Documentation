@@ -9,12 +9,12 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the <b>Add a page to project</b> under the <b>Utilities</b> column<image id="image_z2w_2jf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af3fdc7ee-323e-4d13-96b9-64d61a9701cc/datastream/OBJ/view"></image>.</cmd>
+                <cmd>Click on the <b>Add a page to project</b> under the <b>Utilities</b> column<image id="image_z2w_2jf_3db" href="https://cwrc.ca/islandora/object/cwrc%3Af3fdc7ee-323e-4d13-96b9-64d61a9701cc/datastream/OBJ/view"></image>.</cmd>
             </step>
             <step>
-                <cmd>Fill out the Add a page to project form. The title field is required. <image id="image_ifl_5jf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A73494c24-2f59-4584-959e-4280b714baf8/datastream/OBJ/view"></image></cmd>
+                <cmd>Fill out the Add a page to project form. The title field is required. <image id="image_ifl_5jf_3db" href="https://cwrc.ca/islandora/object/cwrc%3A73494c24-2f59-4584-959e-4280b714baf8/datastream/OBJ/view"></image></cmd>
                 <choices id="choices_nnt_kkf_3db">
-                    <choice><p><b id="docs-internal-guid-0623a4fe-7321-9657-1b20-5f1900b6bcff">You can choose to preview your new page, click on the Preview button (see screenshot below).</b></p><image id="image_dst_rkf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A148af5d4-75c0-4ffe-961b-72887dbfc47c/datastream/OBJ/view"></image></choice>
+                    <choice><p><b id="docs-internal-guid-0623a4fe-7321-9657-1b20-5f1900b6bcff">You can choose to preview your new page, click on the Preview button (see screenshot below).</b></p><image id="image_dst_rkf_3db" href="https://cwrc.ca/islandora/object/cwrc%3A148af5d4-75c0-4ffe-961b-72887dbfc47c/datastream/OBJ/view"></image></choice>
                 </choices>
             </step>
             <step>

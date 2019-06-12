@@ -15,14 +15,14 @@
         below, especially if you intend to work a lot with tags and entities.</p>
       <p>The lower half of the Settings pop-up allows users to select the editor mode and the schema
         associated with the current document (see more below).<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Acc391e56-fc77-42a7-92b4-a0843e55691c/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3Acc391e56-fc77-42a7-92b4-a0843e55691c/datastream/OBJ/view"
           id="image_cmr_xlp_hx" align="center" scalefit="yes"/></p>
-      <p>Currently, when you select <b>Add Schema</b> a pop-up appears. This allows you to add your <b>Schema Name</b> and <b>Schema URL</b>. Once you have filled in those fields, click on <b>Add Schema</b>. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A23caa2de-68da-4b8b-9f3a-669a1b06125d/datastream/OBJ/view" id="image_z4b_wnp_hx" align="center" scalefit="yes"></image></p>
+      <p>Currently, when you select <b>Add Schema</b> a pop-up appears. This allows you to add your <b>Schema Name</b> and <b>Schema URL</b>. Once you have filled in those fields, click on <b>Add Schema</b>. <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A23caa2de-68da-4b8b-9f3a-669a1b06125d/datastream/OBJ/view" id="image_z4b_wnp_hx" align="center" scalefit="yes"></image></p>
       <p>Now your schema is set in the drop-down menu. <note type="attention">Use this feature
           carefully! When you upload your XML document into CWR you must select your document
           schema. Any changes to your schema may impact your document. </note><image
           placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A6791fd2c-ee2a-4f9c-aa2b-00f9f4ec6954/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A6791fd2c-ee2a-4f9c-aa2b-00f9f4ec6954/datastream/OBJ/view"
           id="image_jtz_rmp_hx" align="center" scalefit="yes"/></p>
     </section>
     <section>
@@ -39,7 +39,7 @@
         da&lt;"Place">Vinci&lt;"/Place">&lt;"/Name">. XML does not allow the user to overlap tags so
         that only the "Name" tag could be used. To change between XML and RDF the user has to go to
         the <cmdname>Settings</cmdname> button in the top right corner.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A5ee1cf8c-5b02-43d1-be7d-5ac757a7638b/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A5ee1cf8c-5b02-43d1-be7d-5ac757a7638b/datastream/OBJ/view"
           id="image_d5b_znp_hx" align="center" scalefit="yes"/></p>
       <p>
         <ul id="ul_i4h_gc5_tp">

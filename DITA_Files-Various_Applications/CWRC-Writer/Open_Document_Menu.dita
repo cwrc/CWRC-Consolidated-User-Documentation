@@ -27,7 +27,7 @@
                 <cmd><?oxy_insert_end?>Click on the template that you would like to work with.</cmd>
                 <info>The title of the template is a button that will automatically load the
                     document you selected in CWRC-Writer. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A84a008e8-69be-4cd0-8d8d-fc8ffd62803f/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A84a008e8-69be-4cd0-8d8d-fc8ffd62803f/datastream/OBJ/view"
                         id="image_hk2_n5m_jp" align="center" height="4in" width="6in"/></info>
                 <stepresult>This will open a new document that you can begin working with.<note type="important">It may take a little time to load up the document.</note>
                     <!--                    <p>

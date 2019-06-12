@@ -4,18 +4,18 @@
   <title>Legend for Object Content Model Icons</title>
   <shortdesc>The icons for CWRC's object types explained.</shortdesc>
   <body>
-    <section><title>CWRC Document Content Model: </title><image id="image_bxd_d32_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A21f2b02c-ad78-46ae-84c9-e595dff82fd2/datastream/OBJ/view"></image></section>
-    <section><title>CWRC Document Template Model:</title><image id="image_sxh_n32_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A4c4722b6-e6ac-4b08-b0e3-ad527aae5d3c/datastream/OBJ/view"></image></section>
-    <section><title>CWRC Citation Model:</title><image id="image_pb2_gj2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aed5b6e4b-c688-4714-a2d7-032b57bc6a85/datastream/OBJ/view"></image></section>
-    <section><title>Entity Content Model:</title><image id="image_jsj_nj2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A4937dc53-fb94-48da-b5e6-61523600cd83/datastream/OBJ/view"></image></section>
-    <section><title>Islandora Internet Archive Book Content Model/Islandora Page Content Model:</title><image id="image_gnn_mk2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0a21a8a2-1dea-45fd-82be-0d4a5b994a00/datastream/OBJ/view"></image></section>
-    <section><title>Islandora Audio Content Model:</title><image id="image_tmn_ll2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A14dca96d-c742-4fa4-827f-0f730741db7d/datastream/OBJ/view"></image></section>
-    <section><title>Islandora Basic Image Content Model:</title><image id="image_rq4_bm2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae93ca978-df91-451b-877c-98f65430f0b3/datastream/OBJ/view"></image><note>A small thumbnail of the image. </note></section>
-    <section><title>Islandora Compound Object Content Model:</title><image id="image_pwl_nm2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A5132baf3-525d-4be6-b79a-d279c2a131e5/datastream/OBJ/view"></image></section>
-    <section><title>Islandora Large Image Content Model:</title><image id="image_x3n_c42_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae93ca978-df91-451b-877c-98f65430f0b3/datastream/OBJ/view"></image><note>A small thumbnail of the image.</note></section>
-    <section><title>Islandora PDF Content Model:</title><image id="image_cbk_s42_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A33fd6741-4921-49bd-902d-a9ffcf7ea6ea/datastream/OBJ/view"></image><note>A small thumbnail of the image.</note></section>
-    <section><title>Islandora Video Content Model:</title><image id="image_i24_cp2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A14587455-bfd3-4b17-8498-b5ca5e916922/datastream/OBJ/view"></image></section>
-    <section><title>Islandora Collection Content Model:</title><image id="image_mj2_2q2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A37aad67b-47d6-4c23-af4d-f8e3cdfdc672/datastream/OBJ/view"></image></section>
+    <section><title>CWRC Document Content Model: </title><image id="image_bxd_d32_kdb" href="https://cwrc.ca/islandora/object/cwrc%3A21f2b02c-ad78-46ae-84c9-e595dff82fd2/datastream/OBJ/view"></image></section>
+    <section><title>CWRC Document Template Model:</title><image id="image_sxh_n32_kdb" href="https://cwrc.ca/islandora/object/cwrc%3A4c4722b6-e6ac-4b08-b0e3-ad527aae5d3c/datastream/OBJ/view"></image></section>
+    <section><title>CWRC Citation Model:</title><image id="image_pb2_gj2_kdb" href="https://cwrc.ca/islandora/object/cwrc%3Aed5b6e4b-c688-4714-a2d7-032b57bc6a85/datastream/OBJ/view"></image></section>
+    <section><title>Entity Content Model:</title><image id="image_jsj_nj2_kdb" href="https://cwrc.ca/islandora/object/cwrc%3A4937dc53-fb94-48da-b5e6-61523600cd83/datastream/OBJ/view"></image></section>
+    <section><title>Islandora Internet Archive Book Content Model/Islandora Page Content Model:</title><image id="image_gnn_mk2_kdb" href="https://cwrc.ca/islandora/object/cwrc%3A0a21a8a2-1dea-45fd-82be-0d4a5b994a00/datastream/OBJ/view"></image></section>
+    <section><title>Islandora Audio Content Model:</title><image id="image_tmn_ll2_kdb" href="https://cwrc.ca/islandora/object/cwrc%3A14dca96d-c742-4fa4-827f-0f730741db7d/datastream/OBJ/view"></image></section>
+    <section><title>Islandora Basic Image Content Model:</title><image id="image_rq4_bm2_kdb" href="https://cwrc.ca/islandora/object/cwrc%3Ae93ca978-df91-451b-877c-98f65430f0b3/datastream/OBJ/view"></image><note>A small thumbnail of the image. </note></section>
+    <section><title>Islandora Compound Object Content Model:</title><image id="image_pwl_nm2_kdb" href="https://cwrc.ca/islandora/object/cwrc%3A5132baf3-525d-4be6-b79a-d279c2a131e5/datastream/OBJ/view"></image></section>
+    <section><title>Islandora Large Image Content Model:</title><image id="image_x3n_c42_kdb" href="https://cwrc.ca/islandora/object/cwrc%3Ae93ca978-df91-451b-877c-98f65430f0b3/datastream/OBJ/view"></image><note>A small thumbnail of the image.</note></section>
+    <section><title>Islandora PDF Content Model:</title><image id="image_cbk_s42_kdb" href="https://cwrc.ca/islandora/object/cwrc%3A33fd6741-4921-49bd-902d-a9ffcf7ea6ea/datastream/OBJ/view"></image><note>A small thumbnail of the image.</note></section>
+    <section><title>Islandora Video Content Model:</title><image id="image_i24_cp2_kdb" href="https://cwrc.ca/islandora/object/cwrc%3A14587455-bfd3-4b17-8498-b5ca5e916922/datastream/OBJ/view"></image></section>
+    <section><title>Islandora Collection Content Model:</title><image id="image_mj2_2q2_kdb" href="https://cwrc.ca/islandora/object/cwrc%3A37aad67b-47d6-4c23-af4d-f8e3cdfdc672/datastream/OBJ/view"></image></section>
   </body>
   <related-links>
     <link href="User_Roles.dita"></link>

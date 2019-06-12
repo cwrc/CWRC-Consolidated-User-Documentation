@@ -9,14 +9,14 @@
         </context>
         <steps>
             <step>
-                <cmd>From your account dashboard, expand the right <b>Workflow Reports </b>column<image id="image_yhs_tzf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A9c7ff2ce-d43a-49bf-b2b3-8a268523cf5b/datastream/OBJ/view"></image></cmd>
+                <cmd>From your account dashboard, expand the right <b>Workflow Reports </b>column<image id="image_yhs_tzf_3db" href="https://cwrc.ca/islandora/object/cwrc%3A9c7ff2ce-d43a-49bf-b2b3-8a268523cf5b/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Click on one of the <b>Workflow Reports</b> from the list.</cmd>
             </step>
             <step>
                 <cmd>This will take you to a new page with the list of objects in the selected <b>Workflow Report</b>.</cmd>
-                <info><p>The workflow objects are presented like the search results. You can scroll through them and filter the results. </p><image id="image_epk_d1g_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae940d14e-323d-4c7b-b46c-3546adbfeca4/datastream/OBJ/view"></image></info>
+                <info><p>The workflow objects are presented like the search results. You can scroll through them and filter the results. </p><image id="image_epk_d1g_3db" href="https://cwrc.ca/islandora/object/cwrc%3Ae940d14e-323d-4c7b-b46c-3546adbfeca4/datastream/OBJ/view"></image></info>
             </step>
         </steps>
     </taskbody>

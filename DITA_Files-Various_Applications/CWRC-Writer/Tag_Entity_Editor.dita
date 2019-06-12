@@ -27,14 +27,14 @@
             <step>
                 <cmd>Highlight the text that you would like to tag as a particular entity.</cmd>
                 <info><image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aeccc95ca-90b8-4bab-bc1a-f7381a1f79cd/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Aeccc95ca-90b8-4bab-bc1a-f7381a1f79cd/datastream/OBJ/view"
                         id="image_irv_53d_lp" align="center" scale="80" scalefit="yes"/></info>
             </step>
             <step>
                 <cmd>Right-click on the highlighted text and select the entity you would like to add
                     to the document. In this case we are adding a "Place" entity to the
                         document.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A40ab791e-b263-496d-bc45-2e5cdeefbb09/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A40ab791e-b263-496d-bc45-2e5cdeefbb09/datastream/OBJ/view"
                         id="image_z1n_qrv_tp" align="center"/></cmd>
             </step>
             <step>
@@ -50,7 +50,7 @@
                     persons. GeoNames is employed in a similar capacity for place entities.<note>You
                         can also create a new entry in the CWRC system, this will be covered in
                         alternate help pages.<image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A0d9488e3-f046-4707-8f26-f818de04b5d0/datastream/OBJ/view"
+                            href="https://cwrc.ca/islandora/object/cwrc%3A0d9488e3-f046-4707-8f26-f818de04b5d0/datastream/OBJ/view"
                             id="image_jk1_trv_tp" align="center" scalefit="yes"/></note></info>
             </step>
             <step>
@@ -58,14 +58,14 @@
                     and click <cmdname>Save</cmdname>.</cmd>
                 <info>The options that show up on this pop-up depends on what entity is being
                         tagged.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad68dcfac-9db5-4695-99bb-22be57d7d714/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ad68dcfac-9db5-4695-99bb-22be57d7d714/datastream/OBJ/view"
                         id="image_mz1_vrv_tp" align="center"/></info>
             </step>
         </steps>
         <result>The entity that you have added to your document (along with any additional
             information you have assigned to the entity) will appear in the entities column on the
             left side of CWRC-Writer. <image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3A525737fe-fb67-4e75-9f3c-412cabb166d0/datastream/OBJ/view"
+                href="https://cwrc.ca/islandora/object/cwrc%3A525737fe-fb67-4e75-9f3c-412cabb166d0/datastream/OBJ/view"
                 id="image_ovn_2jd_lp" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>

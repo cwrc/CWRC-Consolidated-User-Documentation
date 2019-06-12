@@ -9,20 +9,20 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the <uicontrol>Share</uicontrol> tab in the object navigation bar. <image id="image_k24_cjk_tbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A2c8d0689-a471-4703-8949-01ab4da7ac79/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <uicontrol>Share</uicontrol> tab in the object navigation bar. <image id="image_k24_cjk_tbb" href="https://cwrc.ca/islandora/object/cwrc%3A2c8d0689-a471-4703-8949-01ab4da7ac79/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Click on <uicontrol>Share with another collection</uicontrol>. </cmd>
             </step>
             <step>
-                <cmd>Add the name of the folder in the Share with another collection form.<image id="image_k4f_rjk_tbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A708fe7fc-d40a-4417-aafb-4e73d96d0695/datastream/OBJ/view"></image></cmd>
+                <cmd>Add the name of the folder in the Share with another collection form.<image id="image_k4f_rjk_tbb" href="https://cwrc.ca/islandora/object/cwrc%3A708fe7fc-d40a-4417-aafb-4e73d96d0695/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>If you would like to notify project members that you are sharing this object, check <uicontrol>Send notification?</uicontrol> And add the name of the user(s) that you would like to inform. </cmd>
                 <info>When you notify users, they will receive a message in their CWRC dashboard. </info>
             </step>
             <step>
-                <cmd>Click on <uicontrol>Share Object</uicontrol>.<image id="image_sms_ckk_tbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aaa55d09a-794b-466e-9dde-8988d71406b9/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on <uicontrol>Share Object</uicontrol>.<image id="image_sms_ckk_tbb" href="https://cwrc.ca/islandora/object/cwrc%3Aaa55d09a-794b-466e-9dde-8988d71406b9/datastream/OBJ/view"></image></cmd>
             </step>
         </steps>
     </taskbody>

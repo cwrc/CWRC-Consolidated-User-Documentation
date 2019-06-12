@@ -12,7 +12,7 @@
         TEMPLATE</b></xref></p>
       <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/XMLTemplatesRef.dita" xtrc="p:3;18:10">We have commented out instructions within the XML document. For example, we have identified
         three different options available in the index -- indexing terms, subsection, and cross
-        referencing index terms. Each method is found in this template. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A01961d94-97b8-4424-a58e-3d372c0247d2/datastream/OBJ/view" id="image_cyc_wpk_nt" align="center" scale="80" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/XMLTemplatesRef.dita" xtrc="image:1;22:60"/></p>
+        referencing index terms. Each method is found in this template. <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A01961d94-97b8-4424-a58e-3d372c0247d2/datastream/OBJ/view" id="image_cyc_wpk_nt" align="center" scale="80" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/XMLTemplatesRef.dita" xtrc="image:1;22:60"/></p>
       <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/DToC/XMLTemplatesRef.dita" xtrc="p:4;23:10">This template is a valid XML document. </p>
     </section>
   </refbody>

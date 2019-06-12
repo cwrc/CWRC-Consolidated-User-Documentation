@@ -41,7 +41,7 @@
                         <cmdname>Insert Options</cmdname>. Depending on which option you chose this
                     will insert a tag, before, after, or inside the tag you have selected. <image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab038d694-3d00-4279-aef4-2eae4b77f0ec/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ab038d694-3d00-4279-aef4-2eae4b77f0ec/datastream/OBJ/view"
                         id="image_rz2_n3n_jp" align="center" scale="80"/></cmd>
                 <info>To paste the tags in the document, we suggest first inserting a new tag into
                     which you can paste.</info>
@@ -53,16 +53,16 @@
         </steps>
         <result><lines>In the poem document you can click on a "lg" tag (until it is bolded and italicized) and use your keyboard shortcut (Command or Control C) to copy that tag.</lines><?oxy_attributes width="&lt;change type=&quot;removed&quot; oldValue=&quot;5in&quot; author=&quot;megan&quot; timestamp=&quot;20160919T125638-0700&quot; /&gt;"?><image
                 placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3A45610ba5-977d-468b-983c-88e64b0a5a58/datastream/OBJ/view"
+                href="https://cwrc.ca/islandora/object/cwrc%3A45610ba5-977d-468b-983c-88e64b0a5a58/datastream/OBJ/view"
                 id="image_i1x_t3n_jp" align="center" scale="80"/>
             <lines>
 Then insert a new "lg" tag by bolding the last one in the list and choosing the right-click option <cmdname>Insert Tag After</cmdname> (in this case choosing to insert a new "lg" tag).</lines>
             <image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3A1adebee4-7c06-424b-bff3-fa2ea5d263fb/datastream/OBJ/view"
+                href="https://cwrc.ca/islandora/object/cwrc%3A1adebee4-7c06-424b-bff3-fa2ea5d263fb/datastream/OBJ/view"
                 id="image_fgc_x3n_jp" align="center" scale="80"/><lines>
 When you choose to add a "lg" tag, this will create an empty tag that you can then paste the structure into; click on the tag (until it is bolded) and paste the information in.</lines>
             <image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3A40776b88-7e2c-4c9b-816f-18628e79e400/datastream/OBJ/view"
+                href="https://cwrc.ca/islandora/object/cwrc%3A40776b88-7e2c-4c9b-816f-18628e79e400/datastream/OBJ/view"
                 id="image_aqh_cjn_jp" align="center" scale="80"/> Success! You have pasted tags and
             text in the structure, creating a new "lg" tag with nested "l" tags.
             <!--<p>

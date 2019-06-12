@@ -9,20 +9,20 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the Manage tab and select the Datastreams option. <image id="image_vyc_yfk_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0bbfe469-2a08-4e80-b656-70834dcf3bd7/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the Manage tab and select the Datastreams option. <image id="image_vyc_yfk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A0bbfe469-2a08-4e80-b656-70834dcf3bd7/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
-                <cmd>Click on the form you would like to edit. <image id="image_wnz_mgk_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3970fac0-b184-4beb-ba1e-71f695a38bac/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the form you would like to edit. <image id="image_wnz_mgk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A3970fac0-b184-4beb-ba1e-71f695a38bac/datastream/OBJ/view"></image></cmd>
                 <info>The form options depend on the type of object you are editing. The example below are the options for an image. </info>
             </step>
             <step>
-                <cmd>Edit the MODS form. <image id="image_mcr_1hk_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A01ef99de-25f3-4dea-ac11-daa660240864/datastream/OBJ/view"></image></cmd>
+                <cmd>Edit the MODS form. <image id="image_mcr_1hk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A01ef99de-25f3-4dea-ac11-daa660240864/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Click on <uicontrol>Update</uicontrol>. </cmd>
             </step>
             <step>
-                <cmd>The Add Workflow Stamp popup appears. Add the <uicontrol>Activity</uicontrol> information that you would like associated with this object. <image id="image_vr4_rnk_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af4d3cf71-08ae-43ce-ae2a-ad909833a8d7/datastream/OBJ/view"></image></cmd>
+                <cmd>The Add Workflow Stamp popup appears. Add the <uicontrol>Activity</uicontrol> information that you would like associated with this object. <image id="image_vr4_rnk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3Af4d3cf71-08ae-43ce-ae2a-ad909833a8d7/datastream/OBJ/view"></image></cmd>
             </step>
         </steps>
     </taskbody>

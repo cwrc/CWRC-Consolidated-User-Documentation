@@ -24,7 +24,7 @@
         around the world, is used to link persons, organizations and titles, while GeoNames is
         employed in a similar capacity for place entities. More such authoritative sources will be
         added in future.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Adc5f2705-686a-4dfa-bbb8-9eb3e52dc1d5/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3Adc5f2705-686a-4dfa-bbb8-9eb3e52dc1d5/datastream/OBJ/view"
           id="image_c5p_1bd_zp" align="center"/></p>
    <p>RDF is useful for CWRC-Writer because it allows you to semantically add information between datasets. This allows users to
      travel through threads of information linked together by RDF. </p>

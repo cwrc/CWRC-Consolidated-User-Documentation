@@ -7,7 +7,7 @@
     etc). </shortdesc>
   <refbody>
     <section><title>Right click menu in the text area</title><p>
-        <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad5f64442-0dc1-4f71-a75a-52116603b2a6/datastream/OBJ/view" id="image_ojw_kct_3x" align="center"></image>
+        <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3Ad5f64442-0dc1-4f71-a75a-52116603b2a6/datastream/OBJ/view" id="image_ojw_kct_3x" align="center"></image>
         <lines><b>Tag Person</b> is for tagging people by name. It usually contains a proper noun or noun phrase, but can also contain pronouns or other ways of referring to someone.</lines>
         <lines><b>Tag Place</b> is for tagging a place. It can describe both a geographical location or a setting.</lines>
         <lines><b>Tag Date</b> is for tagging a date in the text. This tag can contain the year, month, day, or a combination of the three.</lines>
@@ -32,7 +32,7 @@
         structure panel, select a tag and then right-click. this will bring up a menu with eight
         options that allow you to either insert a tag, edit an existing tag, or remove tags. <image
           placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A87902ebb-8efa-41c4-b24b-ffa9c1753533/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A87902ebb-8efa-41c4-b24b-ffa9c1753533/datastream/OBJ/view"
           id="image_fdg_5yg_rp" align="center"
         /><lines><b>Convert to entity</b> appears only when you select a tag that is also a RDF annotation (like note, person, place, etc.). It will change the tag from the XML to RDF.</lines><lines><b>Insert Tag Before</b> allows you to insert a tag before the tag you have right-clicked on.</lines><lines><b>Insert Tag After</b> allows you to insert a tag after the tag you have right-clicked on (skipping over any nested tags within the tag you have clicked on).</lines><lines><b>Insert Tag Around</b> allows you to insert a tag that will surround the originally selected tag.</lines></p>.<b>Insert
         Tag Inside</b> this will insert a new tag nested within the initial tag you clicked
@@ -43,7 +43,7 @@
         of the editor.</p>
       <p>
         <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A7c027dc7-0ff4-47cc-8344-06b655796a7a/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A7c027dc7-0ff4-47cc-8344-06b655796a7a/datastream/OBJ/view"
           id="image_iry_n1h_rp" align="center"/>
         <lines><b>Edit Entity</b> allows you to edit the qualifying information of an entity. This will bring up a pop-up where you can change the settings.</lines>
         <lines><b>Remove Entity</b> allows you to remove an entity, this will also remove the text that is tagged.</lines>
@@ -55,7 +55,7 @@
       <p>The relations panel displays the relationships you've added between entities. To remove the
         entities, right-click on the relationship you would like to delete and choose the only
         option - Remove Relations.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae35fbb65-9a12-4a1c-8dc7-d700bdc5d134/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3Ae35fbb65-9a12-4a1c-8dc7-d700bdc5d134/datastream/OBJ/view"
           id="image_vzr_pbh_rp" align="center"/></p>
     </section>
     </refbody>

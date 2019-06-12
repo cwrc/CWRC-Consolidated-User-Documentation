@@ -9,7 +9,7 @@
             <step>
                 <cmd>Enter your search term in the search box at the top of the page.</cmd>
                 <info>You can refine your search results using a drop-down menu offered in the search bar. You can select from three options: <b>This Project</b>, <b>Collaboratory</b>, or <b>Website Content</b>. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Affc2c9b1-d242-4077-8a13-36c3b7d07127/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Affc2c9b1-d242-4077-8a13-36c3b7d07127/datastream/OBJ/view"
                         id="image_bfy_5v5_3x" align="center"/></info>
             </step>
             <step>
@@ -18,12 +18,12 @@
             <step importance="optional">
                 <cmd importance="optional">If you would like to narrow down your search results, you
                     can use the Advanced Search feature.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Adde14537-2f67-451e-97f4-f7a6731c6f50/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Adde14537-2f67-451e-97f4-f7a6731c6f50/datastream/OBJ/view"
                         id="image_s4s_xv5_3x" align="center"/></cmd>
                 <info>The Advanced Search function provides the opportunity to have multiple fields
                     and search terms. Click on the red "+" button to get more options. Alternatively, you may select the red "-" button to subtract terms from your search. These are
                     separated by Boolean operators (AND, OR, and NOT).<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aac373179-7f13-4311-a08d-94767bf00b42/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Aac373179-7f13-4311-a08d-94767bf00b42/datastream/OBJ/view"
                         id="image_llc_1w5_3x" align="center" scale="80"/></info>
             </step>
             <step importance="optional">
@@ -35,7 +35,7 @@
                     along the left side of the results. These filters narrow down the search results
                     by category. For more information about browsing CWRC see <b>Searching and
                         Browsing Reference</b>. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A30a30098-4750-4676-8f7e-89fb9332c4e4/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A30a30098-4750-4676-8f7e-89fb9332c4e4/datastream/OBJ/view"
                         scale="80" align="center" id="image_zgn_1hz_fy" scalefit="yes"/></info>
             </step>
         </steps>

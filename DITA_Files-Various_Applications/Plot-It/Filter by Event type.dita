@@ -12,7 +12,7 @@
                     <p>Events are categorized into five different types: bibliographical,
                         biographical, literary, political, social, and mixed. <image
                             placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A2e3452f0-3289-46c0-9e5f-e000e8b6d02a/datastream/OBJ/view"
+                            href="https://cwrc.ca/islandora/object/cwrc%3A2e3452f0-3289-46c0-9e5f-e000e8b6d02a/datastream/OBJ/view"
                             id="image_fyn_sbr_5r" align="center"/></p>
                 </info>
             </step>
@@ -31,7 +31,7 @@
                     <p>Once the users checks one of these options, the timeline and map will
                         automatically narrow down the results to events that belong in that
                             category(ies).<image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3Afd048c05-85f7-4751-91a3-514029be9b29/datastream/OBJ/view"
+                            href="https://cwrc.ca/islandora/object/cwrc%3Afd048c05-85f7-4751-91a3-514029be9b29/datastream/OBJ/view"
                             id="image_ir2_5br_5r" align="center" scale="85"/></p>
                 </info>
             </step>
@@ -39,7 +39,7 @@
                 <cmd>To reset the event type filter, uncheck the top checkbox (or individually
                     selected boxes) or select “Reset All Filters” option above the map. <image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Adf43370d-cac6-4b6f-adee-43f38645b72a/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Adf43370d-cac6-4b6f-adee-43f38645b72a/datastream/OBJ/view"
                         id="image_rxl_wbr_5r" align="center"/></cmd>
             </step>
         </steps>

@@ -25,27 +25,27 @@
         <steps>
             <step>
                 <cmd>Highlight the annotated text.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Afe1d4f61-d140-4eb2-811e-51091dd6f274/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Afe1d4f61-d140-4eb2-811e-51091dd6f274/datastream/OBJ/view"
                         id="image_utn_ptd_lp" align="center" scale="80"/></cmd>
             </step>
             <step>
                 <cmd>Click on the toolbar button <cmdname>Edit tag</cmdname> to edit the highlighted
                     entity annotation. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae6de98ea-f0e4-4ed7-8a28-c6623ca3db0f/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ae6de98ea-f0e4-4ed7-8a28-c6623ca3db0f/datastream/OBJ/view"
                         id="image_pnx_xws_3x" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Edit any information in the pop-up you would like and click
                         <cmdname>Save</cmdname>.</cmd>
                 <info>None of the information in the pop-up is required.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa4316dfd-bc45-4362-a5c5-23694d41b715/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Aa4316dfd-bc45-4362-a5c5-23694d41b715/datastream/OBJ/view"
                         id="image_wr1_jrv_tp" align="center"/></info>
             </step>
         </steps>
         <result>The edited information will appear in the left "Entities" column. Click on the entry
             to see the information attached to that particular entity annotation.<image
                 placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3A195793bb-4405-46af-8482-a078bb3b2744/datastream/OBJ/view"
+                href="https://cwrc.ca/islandora/object/cwrc%3A195793bb-4405-46af-8482-a078bb3b2744/datastream/OBJ/view"
                 id="image_rnq_mtd_lp" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>

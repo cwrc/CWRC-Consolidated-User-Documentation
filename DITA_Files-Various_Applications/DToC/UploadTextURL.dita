@@ -8,7 +8,7 @@
             <step>
                 <cmd>Paste your text or an URL into the text box located on the front page of DToC.
                         <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8d13452c-b9d6-420b-b47a-d851b3d60400/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A8d13452c-b9d6-420b-b47a-d851b3d60400/datastream/OBJ/view"
                         id="image_znb_bc5_ht" align="center" scale="85"/></cmd>
             </step>
             <step>
@@ -21,7 +21,7 @@
                     search functionality (even if you paste in an XML document). The table of
                     contents and the document model will also not work. However, you will be able to
                     see information in the stats column (term frequency).<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa16ad38e-869c-4383-8123-848e0fde03dc/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Aa16ad38e-869c-4383-8123-848e0fde03dc/datastream/OBJ/view"
                         id="image_xs4_fc5_ht" align="center" scale="85"/></info>
                 <info>This image displays the simple XML template uploaded using the copy and paste
                     text box (with tags) instead of the XPath method. </info>

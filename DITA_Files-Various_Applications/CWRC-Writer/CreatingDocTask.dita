@@ -32,7 +32,7 @@
                     </substep>
                     <substep>
                         <cmd>Select “Upload.”<image placement="break"
-                                href="http://beta.cwrc.ca/islandora/object/cwrc%3A3ad207c0-8b1c-45d3-9e7e-8a986bb19b9a/datastream/OBJ/view"
+                                href="https://cwrc.ca/islandora/object/cwrc%3A3ad207c0-8b1c-45d3-9e7e-8a986bb19b9a/datastream/OBJ/view"
                                 id="image_ehw_2cc_4v" align="center"/></cmd>
                         <info>Any documents that you are uploading must be well formed XML and end
                             in .xml. If the document is not a “well formed XML” document or does not
@@ -41,7 +41,7 @@
                     <substep>
                         <cmd>Select your document schema from the dropdown menu.<image
                                 placement="break"
-                                href="http://beta.cwrc.ca/islandora/object/cwrc%3A04d5e25a-69aa-457d-9351-6ad214f8a02d/datastream/OBJ/view"
+                                href="https://cwrc.ca/islandora/object/cwrc%3A04d5e25a-69aa-457d-9351-6ad214f8a02d/datastream/OBJ/view"
                                 id="image_rby_ncc_4v" align="center"/></cmd>
                     </substep>
                     <substep>
@@ -55,7 +55,7 @@
                     <substep>
                         <cmd>Choose the type of template you would like to work with. <image
                                 placement="break"
-                                href="http://beta.cwrc.ca/islandora/object/cwrc%3A69d3bfb4-d1d2-490e-9ae9-bbd60f17b829/datastream/OBJ/view"
+                                href="https://cwrc.ca/islandora/object/cwrc%3A69d3bfb4-d1d2-490e-9ae9-bbd60f17b829/datastream/OBJ/view"
                                 id="image_nqq_wcc_4v" align="center"/></cmd>
                         <info>The templates are already associated with schemas so you do not have
                             to select one. </info>

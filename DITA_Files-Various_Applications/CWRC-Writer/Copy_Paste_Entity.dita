@@ -10,20 +10,20 @@
             <step>
                 <cmd>Right-click on the entity that you wish to copy, either in the entities column
                     or within the document. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A104a4a39-3ac8-4192-997f-5a1d15436783/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A104a4a39-3ac8-4192-997f-5a1d15436783/datastream/OBJ/view"
                         id="image_x4k_tgv_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Place your cursor in the text editor (wherever you would like the new entity to
                     go) and right-click. Select the option to <cmdname>Paste Entity</cmdname>.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A12616028-15d7-4852-9936-a9da3be91076/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A12616028-15d7-4852-9936-a9da3be91076/datastream/OBJ/view"
                         id="image_hls_vgv_tp" align="center"/></cmd>
             </step>
         </steps>
         <result>This will add a new entity in the document (you may have to delete texts as the new
             entity inserts beside any selected text).<image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3Adac816e8-f109-40e9-a241-dfedcb7cc74c/datastream/OBJ/view"
+                href="https://cwrc.ca/islandora/object/cwrc%3Adac816e8-f109-40e9-a241-dfedcb7cc74c/datastream/OBJ/view"
                 id="image_opk_xb2_np" align="center" scale="80"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>

@@ -10,12 +10,12 @@
                 <info class="- topic/itemgroup task/info " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20Date%20by%20event%20range.dita" xtrc="info:1;12:23">
                     <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20Date%20by%20event%20range.dita" xtrc="p:1;13:24">When the user moves the white arrows along the date range, the years will
                         automatically change in the text boxes below. Additionally, users can type
-                        the years in manually (in the text boxes). <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A9dd97ccd-31ed-40fb-8c88-020cf7f7119a/datastream/OBJ/view" id="image_glz_zbr_5r" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20Date%20by%20event%20range.dita" xtrc="image:1;17:67"/></p>
+                        the years in manually (in the text boxes). <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A9dd97ccd-31ed-40fb-8c88-020cf7f7119a/datastream/OBJ/view" id="image_glz_zbr_5r" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20Date%20by%20event%20range.dita" xtrc="image:1;17:67"/></p>
                 </info>
             </step>
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20Date%20by%20event%20range.dita" xtrc="step:2;20:19">
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20Date%20by%20event%20range.dita" xtrc="cmd:2;21:22">View the events that are between that date range in the timeline or the map.
-                        <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A6782595b-521e-4ec4-b135-77da70d329b9/datastream/OBJ/view" id="image_jhj_bcr_5r" align="center" scale="85" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20Date%20by%20event%20range.dita" xtrc="image:2;24:74"/></cmd>
+                        <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A6782595b-521e-4ec4-b135-77da70d329b9/datastream/OBJ/view" id="image_jhj_bcr_5r" align="center" scale="85" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Filter%20Date%20by%20event%20range.dita" xtrc="image:2;24:74"/></cmd>
             </step>
         </steps>
     </taskbody>

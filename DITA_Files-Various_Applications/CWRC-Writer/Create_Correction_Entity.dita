@@ -25,19 +25,19 @@
             <step>
                 <cmd>Highlight the text that you would like to tag as a "Correction." Click on the
                     toolbar <cmdname>Correction</cmdname> icon.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A98957c73-7a64-402a-b58e-2e7baf72588e/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A98957c73-7a64-402a-b58e-2e7baf72588e/datastream/OBJ/view"
                         id="image_a5t_hws_3x" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Write the correction in the text bar, and click <cmdname>Save</cmdname>.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3e83464a-8bf9-4f76-8e52-511ead221dd0/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A3e83464a-8bf9-4f76-8e52-511ead221dd0/datastream/OBJ/view"
                         id="image_dwf_wnv_tp" align="center"/></cmd>
             </step>
         </steps>
         <result>You have added a correction to your document. You can access the correction for
             edits in either the document and the entities column.<image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3A1f3072d4-c73e-4473-a39a-ed019b34c116/datastream/OBJ/view"
+                href="https://cwrc.ca/islandora/object/cwrc%3A1f3072d4-c73e-4473-a39a-ed019b34c116/datastream/OBJ/view"
                 id="image_cfx_cyf_lp" align="center" height="4in" width="6in"/>
             <!--<p>
                 <lines><b>Related Links:</b></lines>

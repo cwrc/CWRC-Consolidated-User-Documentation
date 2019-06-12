@@ -36,7 +36,7 @@
             </step>
             <step>
                 <cmd>Enter your user name and password in the pop-up login box. </cmd>
-                <info>For the testing version of CWRC-Writer everyone has the same login information. <lines>User name: cwrc</lines><lines>Password: cwrcy</lines><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A76071195-f50c-4309-9ba0-efa7c4730b1f/datastream/OBJ/view" id="image_x1g_jsm_jp" align="center"></image>
+                <info>For the testing version of CWRC-Writer everyone has the same login information. <lines>User name: cwrc</lines><lines>Password: cwrcy</lines><image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A76071195-f50c-4309-9ba0-efa7c4730b1f/datastream/OBJ/view" id="image_x1g_jsm_jp" align="center"></image>
                     <!--                    <p>
                         <lines><b>Related Links:</b></lines>
                         <lines><xref href="Open_Document_Menu.dita"/></lines>

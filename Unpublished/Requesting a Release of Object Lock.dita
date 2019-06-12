@@ -4,11 +4,11 @@
     <title>Requesting a Release of Object Lock</title>
     <shortdesc>If an object is locked and you would like to edit it, you can request the release of an object lock. </shortdesc>
     <taskbody>
-        <context><p>When you click on a locked object, a banner appears stating that the object is locked by a CWRC member and that you have the option of request that they unlock the object.</p><image id="image_zvv_mgg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Abed2cf21-afcd-45ce-a800-489242557722/datastream/OBJ/view"></image></context>
+        <context><p>When you click on a locked object, a banner appears stating that the object is locked by a CWRC member and that you have the option of request that they unlock the object.</p><image id="image_zvv_mgg_3db" href="https://cwrc.ca/islandora/object/cwrc%3Abed2cf21-afcd-45ce-a800-489242557722/datastream/OBJ/view"></image></context>
         <steps>
             <step>
                 <cmd>Click on <b>request that they unlock the object</b>. </cmd>
-                <info><p>When you click on <b>request that they unlock the object</b> a message is sent to the person who has the lock on this object. </p><image id="image_nh5_tgg_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A36a45b21-d749-4342-a6f4-335ed0de60b8/datastream/OBJ/view"></image></info>
+                <info><p>When you click on <b>request that they unlock the object</b> a message is sent to the person who has the lock on this object. </p><image id="image_nh5_tgg_3db" href="https://cwrc.ca/islandora/object/cwrc%3A36a45b21-d749-4342-a6f4-335ed0de60b8/datastream/OBJ/view"></image></info>
             </step>
         </steps>
     </taskbody>

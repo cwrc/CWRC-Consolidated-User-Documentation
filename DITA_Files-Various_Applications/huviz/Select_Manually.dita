@@ -25,11 +25,11 @@
         </context>
         <steps id="steps_tdq_q2h_x5">
             <step>
-                <cmd>Hover over desired Node.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab0851b56-88ff-4195-9737-7dcb043c44c1/datastream/OBJ/view" id="image_gfh_rhh_x5" placement="break" align="center"></image></cmd>
+                <cmd>Hover over desired Node.<image href="https://cwrc.ca/islandora/object/cwrc%3Ab0851b56-88ff-4195-9737-7dcb043c44c1/datastream/OBJ/view" id="image_gfh_rhh_x5" placement="break" align="center"></image></cmd>
             </step>
             <step>
                 <cmd>Click node once to Select.</cmd>
-                <info>The node will turn Bold, indicated that it has been Selected.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac776fa91-826c-4cef-832a-778abb8fbe57/datastream/OBJ/view" id="image_iz1_dkh_x5" placement="break" align="center"></image></info>
+                <info>The node will turn Bold, indicated that it has been Selected.<image href="https://cwrc.ca/islandora/object/cwrc%3Ac776fa91-826c-4cef-832a-778abb8fbe57/datastream/OBJ/view" id="image_iz1_dkh_x5" placement="break" align="center"></image></info>
             </step>
         </steps>
         <postreq>

@@ -9,15 +9,15 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the <b>Edit project homepage</b> option located in the <b>Utilities</b> column.<image id="image_xrb_z42_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A47aec3f2-2bff-47a1-9d25-62fa4366ebd8/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <b>Edit project homepage</b> option located in the <b>Utilities</b> column.<image id="image_xrb_z42_kdb" href="https://cwrc.ca/islandora/object/cwrc%3A47aec3f2-2bff-47a1-9d25-62fa4366ebd8/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Fill out the <b>Edit project homepage</b> form.</cmd>
-                <info><p dir="ltr">This form lets you edit everything about your project homepage. Including changing the content, the theme (this is a limited Drupal feature), the sidebar information, etc. </p><image id="image_vly_kp2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac84a722e-5ec8-4741-a402-b47d9fc64fa1/datastream/OBJ/view"></image><image id="image_cmf_5p2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3f474b29-c963-4a7f-b71d-a3421ebcd8ea/datastream/OBJ/view"></image></info>
+                <info><p dir="ltr">This form lets you edit everything about your project homepage. Including changing the content, the theme (this is a limited Drupal feature), the sidebar information, etc. </p><image id="image_vly_kp2_kdb" href="https://cwrc.ca/islandora/object/cwrc%3Ac84a722e-5ec8-4741-a402-b47d9fc64fa1/datastream/OBJ/view"></image><image id="image_cmf_5p2_kdb" href="https://cwrc.ca/islandora/object/cwrc%3A3f474b29-c963-4a7f-b71d-a3421ebcd8ea/datastream/OBJ/view"></image></info>
             </step>
             <step>
                 <cmd>Optional: You can preview the the changes you’ve made by clicking on <b>View changes</b>. </cmd>
-                <info><p>Additionally, you can delete the project homepage by clicking on the <b>Delete</b> button.</p><image id="image_mzb_1q2_kdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A508fb572-5cd6-4fdb-b623-beb565095726/datastream/OBJ/view"></image></info>
+                <info><p>Additionally, you can delete the project homepage by clicking on the <b>Delete</b> button.</p><image id="image_mzb_1q2_kdb" href="https://cwrc.ca/islandora/object/cwrc%3A508fb572-5cd6-4fdb-b623-beb565095726/datastream/OBJ/view"></image></info>
             </step>
             <step>
                 <cmd>Click on <b>Save</b>.</cmd>

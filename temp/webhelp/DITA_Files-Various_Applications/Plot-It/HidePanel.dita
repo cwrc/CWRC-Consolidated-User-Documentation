@@ -6,7 +6,7 @@
         <steps class="- topic/ol task/steps " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/HidePanel.dita" xtrc="steps:1;8:16">
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/HidePanel.dita" xtrc="step:1;9:19">
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/HidePanel.dita" xtrc="cmd:1;10:22">Click on the “Hide Panel” option, above map/list/grid panel on the left side of
-                    the page.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A4e7eee5d-d32b-4721-b2b6-2348a2d89edf/datastream/OBJ/view" id="image_iqb_c3j_yr" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/HidePanel.dita" xtrc="image:1;13:63"/></cmd>
+                    the page.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A4e7eee5d-d32b-4721-b2b6-2348a2d89edf/datastream/OBJ/view" id="image_iqb_c3j_yr" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/HidePanel.dita" xtrc="image:1;13:63"/></cmd>
                 <info class="- topic/itemgroup task/info " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/HidePanel.dita" xtrc="info:1;14:23">
                     <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/HidePanel.dita" xtrc="p:1;15:24">Once you have hidden the panel, the legend that explains what the coloured
                         icons refer to disappears as well. </p>
@@ -14,7 +14,7 @@
             </step>
             <step importance="optional" class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/HidePanel.dita" xtrc="step:2;19:41">
                 <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/HidePanel.dita" xtrc="cmd:2;20:22">When you are ready to view the timeline again, select “Show Panel”. This is
-                    located below the timeline on the left side. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad796d4ba-fdb6-44a2-8973-762953909a72/datastream/OBJ/view" id="image_pmm_23j_yr" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/HidePanel.dita" xtrc="image:2;23:63"/></cmd>
+                    located below the timeline on the left side. <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3Ad796d4ba-fdb6-44a2-8973-762953909a72/datastream/OBJ/view" id="image_pmm_23j_yr" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/HidePanel.dita" xtrc="image:2;23:63"/></cmd>
             </step>
         </steps>
     </taskbody>

@@ -7,7 +7,7 @@
             <step>
                 <cmd>Nest a ‘list’ tag within an ‘item’ tag. </cmd>
                 <info>An example index:<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acf2f34c0-3eca-405d-b089-4f90e3a07902/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Acf2f34c0-3eca-405d-b089-4f90e3a07902/datastream/OBJ/view"
                         id="image_uqs_l4q_ht" align="center"/></info>
             </step>
             <step>
@@ -17,7 +17,7 @@
             </step>
             <step>
                 <cmd>Step 3: Add a &lt;ref> tag to the items in the list. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0a4ac238-ce00-44e2-be20-5a16873f9471/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A0a4ac238-ce00-44e2-be20-5a16873f9471/datastream/OBJ/view"
                         id="image_jvw_v4q_ht" align="center"/></cmd>
                 <info>The 'ref' tag has a target attribute, its value is a space separated list of
                     paragraph XML IDs. The 'ref' tag references the paragraphs in the body text. </info>
@@ -29,7 +29,7 @@
                 <cmd>Add the XML ids (from the paragraph(s) or other tags) in the target attribute
                     of the &lt;ref> tag. If there are multiple XML ids related to the index term,
                     separate these with a space. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8fbe56d7-7625-43f5-a6dd-5e76080987ee/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A8fbe56d7-7625-43f5-a6dd-5e76080987ee/datastream/OBJ/view"
                         id="image_yyr_gpq_ht" align="center"/></cmd>
             </step>
         </steps>

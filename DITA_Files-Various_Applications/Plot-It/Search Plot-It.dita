@@ -13,7 +13,7 @@
                     <p>As you type in the search box the results will narrow down automatically.
                         Currently, this search feature does not support Boolean searching. <image
                             placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A18fe788c-c8dd-4d57-bb6b-c45747420067/datastream/OBJ/view"
+                            href="https://cwrc.ca/islandora/object/cwrc%3A18fe788c-c8dd-4d57-bb6b-c45747420067/datastream/OBJ/view"
                             id="image_zwd_2wq_5r" align="center"/></p>
                 </info>
             </step>
@@ -31,12 +31,12 @@
         </steps>
         <example>
             <p>The user searches for the keyword "Turing."<image placement="break"
-                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A12e71999-81c6-4cad-a4f0-c77aba5817ef/datastream/OBJ/view"
+                    href="https://cwrc.ca/islandora/object/cwrc%3A12e71999-81c6-4cad-a4f0-c77aba5817ef/datastream/OBJ/view"
                     id="image_nqr_fwq_5r" align="center"/></p>
             <p>This narrows down the information to one entry. For more information about that
                 event, the user can click on the event in either the timeline or
                 the map. <image placement="break"
-                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A19c08abb-f5ba-49a3-a0e8-d4fad09a5a4d/datastream/OBJ/view"
+                    href="https://cwrc.ca/islandora/object/cwrc%3A19c08abb-f5ba-49a3-a0e8-d4fad09a5a4d/datastream/OBJ/view"
                     id="image_mty_gwq_5r" align="center" scale="85"/></p>
             
         </example>

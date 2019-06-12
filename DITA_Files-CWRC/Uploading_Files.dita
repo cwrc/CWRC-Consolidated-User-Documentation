@@ -8,7 +8,7 @@
             can be in your research space or within a project.</prereq>
         <steps>
             <step>
-                <cmd>Click on <b>Add a new item to this collection</b>.<image id="image_lcn_sjh_gdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A67d2db94-392f-4d46-b04e-76d71e43d9b7/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on <b>Add a new item to this collection</b>.<image id="image_lcn_sjh_gdb" href="https://cwrc.ca/islandora/object/cwrc%3A67d2db94-392f-4d46-b04e-76d71e43d9b7/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Choose the Content Model that your object belongs in. Click <b>Next</b>.</cmd>
@@ -16,7 +16,7 @@
                     collection policies must support what you are uploading. To see if your
                     collection has the policy necessary for the file you are uploading see “Changing
                     the collection policy of a collection.”<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A873ced73-af91-4633-91f3-398f2a1319d8/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A873ced73-af91-4633-91f3-398f2a1319d8/datastream/OBJ/view"
                         id="image_lz2_c55_3x" align="center"/></info>
             </step>
             <step>
@@ -25,7 +25,7 @@
                     below is there when you upload a “Basic Image.” The Book form is good if you are
                     transcribing a primary text or want bibliographical fields primarily related to
                     a monograph.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae07ad91f-8811-4025-837c-c4ebc018ea6b/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ae07ad91f-8811-4025-837c-c4ebc018ea6b/datastream/OBJ/view"
                         id="image_k3d_k55_3x" align="center"/></info>
             </step>
             <step>
@@ -34,7 +34,7 @@
                 <info>As with all MODS records, all that is required is a title. You can always come
                     back and add more links to related entities, topics, genres, etc.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A44b90b4a-5a88-432b-aa99-47f23d53e707/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A44b90b4a-5a88-432b-aa99-47f23d53e707/datastream/OBJ/view"
                         id="image_etd_155_3x" align="center"/></info>
             </step>
             <step>
@@ -42,7 +42,7 @@
                     button.</cmd>
                 <info>The file formats available to upload are listed beneath the <b>Browse</b>
                     button. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A4f11e1d7-392c-41d5-855a-ab755156a911/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A4f11e1d7-392c-41d5-855a-ab755156a911/datastream/OBJ/view"
                         id="image_orz_w55_3x" align="center"/></info>
             </step>
             <step>
@@ -51,7 +51,7 @@
             <step>
                 <cmd>Click <b>Ingest</b> to finish uploading the object to your CWRC
                         Collection.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac8cefc99-d96c-476c-821b-4f820fe38139/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ac8cefc99-d96c-476c-821b-4f820fe38139/datastream/OBJ/view"
                         scale="80" align="center" id="image_y5m_tgz_fy" scalefit="yes"/></cmd>
             </step>
         </steps>

@@ -9,7 +9,7 @@
                     search by typing dates, locations, or keyword into the search field. </cmd>
                 <info class="- topic/itemgroup task/info " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="info:1;12:23">
                     <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="p:1;13:24">As you type in the search box the results will narrow down automatically.
-                        Currently, this search feature does not support Boolean searching. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A18fe788c-c8dd-4d57-bb6b-c45747420067/datastream/OBJ/view" id="image_zwd_2wq_5r" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="image:1;17:67"/></p>
+                        Currently, this search feature does not support Boolean searching. <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A18fe788c-c8dd-4d57-bb6b-c45747420067/datastream/OBJ/view" id="image_zwd_2wq_5r" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="image:1;17:67"/></p>
                 </info>
             </step>
             <step class="- topic/li task/step " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="step:2;20:19">
@@ -25,10 +25,10 @@
             </step>
         </steps>
         <example class="- topic/example " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="example:1;32:18">
-            <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="p:3;33:16">The user searches for the keyword "Turing."<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A12e71999-81c6-4cad-a4f0-c77aba5817ef/datastream/OBJ/view" id="image_nqr_fwq_5r" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="image:2;35:59"/></p>
+            <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="p:3;33:16">The user searches for the keyword "Turing."<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A12e71999-81c6-4cad-a4f0-c77aba5817ef/datastream/OBJ/view" id="image_nqr_fwq_5r" align="center" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="image:2;35:59"/></p>
             <p class="- topic/p " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="p:4;36:16">This narrows down the information to one entry. For more information about that
                 event, the user can click on the event in either the timeline or
-                the map. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A19c08abb-f5ba-49a3-a0e8-d4fad09a5a4d/datastream/OBJ/view" id="image_mty_gwq_5r" align="center" scale="85" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="image:3;40:70"/></p>
+                the map. <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A19c08abb-f5ba-49a3-a0e8-d4fad09a5a4d/datastream/OBJ/view" id="image_mty_gwq_5r" align="center" scale="85" class="- topic/image " xtrf="file:/Users/ilovan/CWRC%20Documentation%20-%20everything/DITA_Files-Various_Applications/Plot-It/Search%20Plot-It.dita" xtrc="image:3;40:70"/></p>
             
         </example>
     </taskbody>

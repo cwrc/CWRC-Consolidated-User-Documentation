@@ -4,14 +4,14 @@
   <title>Working with CWRC-Writer</title>
   <shortdesc>CWRC-Writer provides three ways of interacting with their documents. Users can
     view, annotate, or edit documents.<image placement="break"
-      href="http://beta.cwrc.ca/islandora/object/cwrc%3A751f0451-c2b4-4e39-8582-b5a529d59c57/datastream/OBJ/view"
+      href="https://cwrc.ca/islandora/object/cwrc%3A751f0451-c2b4-4e39-8582-b5a529d59c57/datastream/OBJ/view"
       id="image_pvk_nsb_4v" align="center"/></shortdesc>
   <refbody>
     <section>
       <title>General Information</title>
       <p>When working with your document in the <b>Annotation>/b> or <b>Edit Content</b> options, other people cannot work
         with the document. This means that you will not be able to access a document if another user is annotating or editing it. Additionally, you will not be able to access a document that is locked.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A00c81e79-0537-4c5a-bded-15e2c1611fb9/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A00c81e79-0537-4c5a-bded-15e2c1611fb9/datastream/OBJ/view"
           id="image_kx2_nxb_4v" align="center"/></p>
       <p>If you are finished editing or annotating choose the “Save and Exit” option, this then
         frees up the document for other team members, so that they may work with it.</p>
@@ -20,7 +20,7 @@
       <title>Viewing your document</title>
       <p>CWRC-Writer provides a viewing option so that users can look at locked documents. This is the default view when users open
         CWRC-Writer. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A0ceac7fa-628b-44cd-a9f0-dcfbc590151f/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3A0ceac7fa-628b-44cd-a9f0-dcfbc590151f/datastream/OBJ/view"
           id="image_i4x_qxb_4v" align="center" scalefit="yes" scale="80"/></p>
       <p>While in view mode, CWRC-Writer does not allow you to change or add tags to the document.
       </p>
@@ -29,7 +29,7 @@
       <title>Annotating your document</title>
       <p>This option allows users to work with the RDF in the document. You can add RDF annotations
         (person, place, organization, etc.) using the toolbar. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab710b9cf-550c-4e97-84c1-b84f60a1cdad/datastream/OBJ/view"
+          href="https://cwrc.ca/islandora/object/cwrc%3Ab710b9cf-550c-4e97-84c1-b84f60a1cdad/datastream/OBJ/view"
           id="image_jwx_5xb_4v" align="center" scalefit="yes" scale="80"/></p>
       <p>If the document is unavailable to be annotated or someone is currently working with the
         document you will be unable to “Annotate” your document and you will receive an error

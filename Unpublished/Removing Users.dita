@@ -9,14 +9,14 @@
         </context>
         <steps>
             <step>
-                <cmd>Check the box of the user you would like to remove. <image id="image_izp_hpf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A4dccbcc8-53bd-4ce6-993c-76f4c19b9521/datastream/OBJ/view"></image></cmd>
+                <cmd>Check the box of the user you would like to remove. <image id="image_izp_hpf_3db" href="https://cwrc.ca/islandora/object/cwrc%3A4dccbcc8-53bd-4ce6-993c-76f4c19b9521/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>At the bottom of the page click on <b>Remove</b>.</cmd>
-                <info><p>If you do not have a user checked you are taken to the <b>Group overview</b> page. You then have an option of selecting an user name to <b>Remove</b> at the bottom of that page.</p><image id="image_dkh_4pf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A5c4c2980-bb1d-4d87-8f6b-f6f35cb429d6/datastream/OBJ/view"></image></info>
+                <info><p>If you do not have a user checked you are taken to the <b>Group overview</b> page. You then have an option of selecting an user name to <b>Remove</b> at the bottom of that page.</p><image id="image_dkh_4pf_3db" href="https://cwrc.ca/islandora/object/cwrc%3A5c4c2980-bb1d-4d87-8f6b-f6f35cb429d6/datastream/OBJ/view"></image></info>
             </step>
             <step>
-                <cmd>You will be asked for confirmation before the user is removed.<image id="image_vyp_3qf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad70797b5-0194-4fce-8053-0066668c7f28/datastream/OBJ/view"></image></cmd>
+                <cmd>You will be asked for confirmation before the user is removed.<image id="image_vyp_3qf_3db" href="https://cwrc.ca/islandora/object/cwrc%3Ad70797b5-0194-4fce-8053-0066668c7f28/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Click on <b>Confirm</b>. </cmd>

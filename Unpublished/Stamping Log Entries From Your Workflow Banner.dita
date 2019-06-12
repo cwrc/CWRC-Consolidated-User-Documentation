@@ -10,26 +10,26 @@
         <steps>
             <step>
                 <cmd>Click on the <b>Review these here</b> link in the workflow banner. This banner is persistently located in the CWRC page. </cmd>
-                <info><p>Please keep your unstamped log entries up-to-date (unlike the screenshot below).</p><image id="image_ptl_c5f_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A1d759fed-8e54-46ed-b178-80b9d6098731/datastream/OBJ/view"></image></info>
+                <info><p>Please keep your unstamped log entries up-to-date (unlike the screenshot below).</p><image id="image_ptl_c5f_3db" href="https://cwrc.ca/islandora/object/cwrc%3A1d759fed-8e54-46ed-b178-80b9d6098731/datastream/OBJ/view"></image></info>
             </step>
             <step>
-                <cmd>Click on the <b>Tag Workflow</b> you would like to stamp.<image id="image_g5p_m5f_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A89986aa6-30ea-4c73-bc11-bce5ff111523/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <b>Tag Workflow</b> you would like to stamp.<image id="image_g5p_m5f_3db" href="https://cwrc.ca/islandora/object/cwrc%3A89986aa6-30ea-4c73-bc11-bce5ff111523/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
-                <cmd>Fill out the <b>Workflow Activity</b> form.<image id="image_qkk_t5f_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3Adad43024-26cc-4faf-9d39-aedbe502f23b/datastream/OBJ/view"></image></cmd>
+                <cmd>Fill out the <b>Workflow Activity</b> form.<image id="image_qkk_t5f_3db" href="https://cwrc.ca/islandora/object/cwrc%3Adad43024-26cc-4faf-9d39-aedbe502f23b/datastream/OBJ/view"></image></cmd>
                 <substeps id="substeps_lq3_55f_3db">
                     <substep>
                         <cmd>Select a category.</cmd>
-                        <info><p>This defines where the stamp will belong. For example is this a published or unpublished object. Have you created the stamp or would you like it to be deleted. Choose the option that best fits the unstamped entry. </p><image id="image_i2r_w5f_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A072c2b4b-e211-4013-ae0e-982dfd54fb8f/datastream/OBJ/view"></image></info>
+                        <info><p>This defines where the stamp will belong. For example is this a published or unpublished object. Have you created the stamp or would you like it to be deleted. Choose the option that best fits the unstamped entry. </p><image id="image_i2r_w5f_3db" href="https://cwrc.ca/islandora/object/cwrc%3A072c2b4b-e211-4013-ae0e-982dfd54fb8f/datastream/OBJ/view"></image></info>
                     </substep>
                     <substep>
                         <cmd>Select a stamp to add to the object. </cmd>
-                        <info>The stamps define what project the entry belongs to and the status of that entry within a project. For example if this is an orlando object that you have checked for tagging, choose the <b>orl:CFT-Checked for tagging</b>. The stamps are unique for each project (created by project administrators). If you have a CWRC document that you have checked for tagging you would stamp it as <b>cwrc:cre-repository item created</b> and then add the status “In progress” or “Pending” (for more information see below). <image id="image_nlt_lwf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A8d5329ae-79bb-4814-8b52-d930b5ca71f1/datastream/OBJ/view"></image></info>
+                        <info>The stamps define what project the entry belongs to and the status of that entry within a project. For example if this is an orlando object that you have checked for tagging, choose the <b>orl:CFT-Checked for tagging</b>. The stamps are unique for each project (created by project administrators). If you have a CWRC document that you have checked for tagging you would stamp it as <b>cwrc:cre-repository item created</b> and then add the status “In progress” or “Pending” (for more information see below). <image id="image_nlt_lwf_3db" href="https://cwrc.ca/islandora/object/cwrc%3A8d5329ae-79bb-4814-8b52-d930b5ca71f1/datastream/OBJ/view"></image></info>
                     </substep>
                     <substep>
                         <cmd>Select the unlogged workflow status.</cmd>
-                        <info><p>This defines what the current status is of the unstamped log entry. Is it ready to be published? Select <b>Complete</b>. Does it need to be edited? Select <b>In Progress</b>. <image id="image_l1b_pwf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0fc1bf5f-f7e0-4826-a292-7d9c067e0662/datastream/OBJ/view"></image><option>When viewing a stamped entry you can add an additional stamp (you would do this if you further edited the object, for example). Click on See all workflow stamps.</option><image id="image_w3j_mxf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A16822768-aba2-48e9-8576-579b61cfe1a8/datastream/OBJ/view"></image></p><option>This brings up the same form (in a smaller size) below the the stamp History column on the right side of the page. Fill out the information (see above) and click on Save. </option></info>
-                        <info><p>In either option you can notify that you have stamped or assign the entry to another project user. For more information see ___ and ___. </p><image id="image_hkr_txf_3db" href="http://beta.cwrc.ca/islandora/object/cwrc%3A20893f18-8c8c-45e4-8bd2-1d559fadcf62/datastream/OBJ/view"></image></info>
+                        <info><p>This defines what the current status is of the unstamped log entry. Is it ready to be published? Select <b>Complete</b>. Does it need to be edited? Select <b>In Progress</b>. <image id="image_l1b_pwf_3db" href="https://cwrc.ca/islandora/object/cwrc%3A0fc1bf5f-f7e0-4826-a292-7d9c067e0662/datastream/OBJ/view"></image><option>When viewing a stamped entry you can add an additional stamp (you would do this if you further edited the object, for example). Click on See all workflow stamps.</option><image id="image_w3j_mxf_3db" href="https://cwrc.ca/islandora/object/cwrc%3A16822768-aba2-48e9-8576-579b61cfe1a8/datastream/OBJ/view"></image></p><option>This brings up the same form (in a smaller size) below the the stamp History column on the right side of the page. Fill out the information (see above) and click on Save. </option></info>
+                        <info><p>In either option you can notify that you have stamped or assign the entry to another project user. For more information see ___ and ___. </p><image id="image_hkr_txf_3db" href="https://cwrc.ca/islandora/object/cwrc%3A20893f18-8c8c-45e4-8bd2-1d559fadcf62/datastream/OBJ/view"></image></info>
                     </substep>
                 </substeps>
             </step>

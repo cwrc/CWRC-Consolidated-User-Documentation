@@ -10,17 +10,17 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the <b>Edit project menu</b> option in the <b>Utilities</b> column (on the right side of the dashboard).<image id="image_cjt_cdh_gdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af3fdc7ee-323e-4d13-96b9-64d61a9701cc/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <b>Edit project menu</b> option in the <b>Utilities</b> column (on the right side of the dashboard).<image id="image_cjt_cdh_gdb" href="https://cwrc.ca/islandora/object/cwrc%3Af3fdc7ee-323e-4d13-96b9-64d61a9701cc/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
-                <cmd>Alternative step 2: Click on the <b>Add link</b> button in the right corner. <?oxy_comment_start author="floresov" timestamp="20180322T151518-0600" comment="I don&apos;t remember how to add alternative steps. Also, they are both labeled as alternative"?>Alternat<?oxy_comment_end?>ive Step 2:Click on <b>Edit</b> option associated with the page you would like to work with (beneath the operations column).<image id="image_atp_rgh_gdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0bbaa301-03dc-49e2-a8e4-d98657215411/datastream/OBJ/view"></image></cmd>
+                <cmd>Alternative step 2: Click on the <b>Add link</b> button in the right corner. <?oxy_comment_start author="floresov" timestamp="20180322T151518-0600" comment="I don&apos;t remember how to add alternative steps. Also, they are both labeled as alternative"?>Alternat<?oxy_comment_end?>ive Step 2:Click on <b>Edit</b> option associated with the page you would like to work with (beneath the operations column).<image id="image_atp_rgh_gdb" href="https://cwrc.ca/islandora/object/cwrc%3A0bbaa301-03dc-49e2-a8e4-d98657215411/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
-                <cmd>Fill out the <b>Edit project menu</b> form. The title and path fields are required. <image id="image_xhg_5gh_gdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A6d1ee199-81ee-4c4d-9e76-a593c78f4bee/datastream/OBJ/view"></image></cmd>
+                <cmd>Fill out the <b>Edit project menu</b> form. The title and path fields are required. <image id="image_xhg_5gh_gdb" href="https://cwrc.ca/islandora/object/cwrc%3A6d1ee199-81ee-4c4d-9e76-a593c78f4bee/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Click on <b>Save</b> to ingest your new project menu. </cmd>
-                <info><p><b id="docs-internal-guid-0c99ce5b-4fa2-952f-0092-dc7e6ae08784">In the screenshot below, you can see the different project menu options. These are customized to that particular project. </b></p><image id="image_tcj_3hh_gdb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae70c7a97-a7d2-40f6-ad15-b8a993f712fb/datastream/OBJ/view"></image></info>
+                <info><p><b id="docs-internal-guid-0c99ce5b-4fa2-952f-0092-dc7e6ae08784">In the screenshot below, you can see the different project menu options. These are customized to that particular project. </b></p><image id="image_tcj_3hh_gdb" href="https://cwrc.ca/islandora/object/cwrc%3Ae70c7a97-a7d2-40f6-ad15-b8a993f712fb/datastream/OBJ/view"></image></info>
             </step>
         </steps>
     </taskbody>

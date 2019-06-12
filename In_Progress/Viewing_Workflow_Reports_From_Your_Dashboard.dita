@@ -7,14 +7,14 @@
         <context>You need to be logged in to your CWRC account. <p></p></context>
         <steps>
             <step>
-                <cmd>From your account dashboard, expand the right Workflow Reports column. <image id="image_c1v_jxk_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3A397eab36-3586-4cfb-9adc-26041df66aab/datastream/OBJ/view"></image></cmd>
+                <cmd>From your account dashboard, expand the right Workflow Reports column. <image id="image_c1v_jxk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A397eab36-3586-4cfb-9adc-26041df66aab/datastream/OBJ/view"></image></cmd>
             </step>
             <step>
                 <cmd>Click on one of the Workflow Reports from the list. </cmd>
             </step>
             <step>
                 <cmd>This will take you to a new page with the list of objects in the selected Workflow Report. </cmd>
-                <info>The workflow objects are presented like the search results. You can scroll through them and filter the results. <image id="image_swz_rxk_rbb" href="http://beta.cwrc.ca/islandora/object/cwrc%3Adb8a1671-d67c-4d3e-8559-fa400320405b/datastream/OBJ/view"></image></info>
+                <info>The workflow objects are presented like the search results. You can scroll through them and filter the results. <image id="image_swz_rxk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3Adb8a1671-d67c-4d3e-8559-fa400320405b/datastream/OBJ/view"></image></info>
             </step>
         </steps>
     </taskbody>

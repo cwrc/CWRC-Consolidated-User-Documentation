@@ -13,13 +13,13 @@
             </step>
             <step>
                 <cmd>Click on “Add item.”<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Abd9eba03-d2e3-46a1-80c5-cc0479a1d5bd/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Abd9eba03-d2e3-46a1-80c5-cc0479a1d5bd/datastream/OBJ/view"
                         id="image_dck_rfs_3x" align="center"/></cmd>
             </step>
             <step>
                 <cmd>This brings you to the page where you need to select your content model. For
                     XML documents choose "CWRC Document Content Model."<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A381c826d-1b55-4e73-b7ab-7a2cfe011d70/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A381c826d-1b55-4e73-b7ab-7a2cfe011d70/datastream/OBJ/view"
                         id="image_q5d_1hs_3x" align="center"/></cmd>
             </step>
             <step>
@@ -27,14 +27,14 @@
                 <info>We suggest you to use the "CWRC born digital" for uploading XML or creating a
                     document from a template (unless you are uploading a book).<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A351a2683-9dc7-4f83-ab75-e603ca5ac1f7/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A351a2683-9dc7-4f83-ab75-e603ca5ac1f7/datastream/OBJ/view"
                         id="image_vsw_3hs_3x" align="center"/></info>
             </step>
             <step>
                 <cmd>This brings you to a form that lets you add information about the document you
                     are either uploading or creating.</cmd>
                 <info>The only required field is the title.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A29df4318-e2dd-46ed-aaf4-7e8666f517cd/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A29df4318-e2dd-46ed-aaf4-7e8666f517cd/datastream/OBJ/view"
                         id="image_acw_c3s_3x" align="center" scale="80" scalefit="yes"/></info>
             </step>
             <step>
@@ -43,7 +43,7 @@
             <step>
                 <cmd>This is where you choose to either upload a file or begin from a template.
                     Choose your option. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A6d365626-c3be-4af6-a742-b80e32c452c4/datastream/OBJ/view"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A6d365626-c3be-4af6-a742-b80e32c452c4/datastream/OBJ/view"
                         id="image_fmv_shs_3x" align="center"/></cmd>
             </step>
             <step>
@@ -77,7 +77,7 @@
                     <substep>
                         <cmd>Click on “Ingest” and begin to work with your document.<image
                                 placement="break"
-                                href="http://beta.cwrc.ca/islandora/object/cwrc%3A3a106c60-21cf-4523-8e57-ecc18d4c26dd/datastream/OBJ/view"
+                                href="https://cwrc.ca/islandora/object/cwrc%3A3a106c60-21cf-4523-8e57-ecc18d4c26dd/datastream/OBJ/view"
                                 id="image_nxp_l3s_3x" align="center"/></cmd>
                     </substep>
                 </substeps>
