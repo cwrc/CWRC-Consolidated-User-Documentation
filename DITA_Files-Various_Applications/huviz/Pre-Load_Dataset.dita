@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_gkz_yfl_w5">
     <title> Choose a Pre-Loaded Dataset</title>
-    <shortdesc>To begin, choose a dataset.</shortdesc>
+    <shortdesc>Choose a pre-loaded dataset from the HuViz collection.</shortdesc>
     <prolog>
         <author>Chelsea Miya</author>
         <copyright>
@@ -40,4 +40,9 @@
         </steps>
         <result>Once the data has finished parsing, the process is complete. The dataset has sucessfully loaded and nodes are in orbit, ready for action.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A9e667f00-cbe4-4235-bab6-fae0dd6509f2/datastream/OBJ/view" id="image_wdv_sqs_w5" placement="break" align="center"></image></result>
     </taskbody>
+    <related-links>
+        <link href="Load_Concept.dita"/>
+        <link href="Provide_Dataset.dita"/>
+    
+    </related-links>
 </task>

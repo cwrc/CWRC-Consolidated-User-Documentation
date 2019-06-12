@@ -2,9 +2,13 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_b4z_fjh_b3b">
     <title>Load a Dataset</title>
-    <shortdesc>There are two ways to load a dataset: 1) select a pre-loaded dataset or 2) load your
-        own dataset from a file or URL.</shortdesc>
+    <shortdesc>To begin using HuViz, you must first load a dataset. You have the option to either 1)
+        choose a pre-loaded dataset or 2) upload your own data.</shortdesc>
     <conbody>
         <p></p>
     </conbody>
+    <related-links>
+        <link href="Pre-Load_Dataset.dita"/>
+        <link href="Provide_Dataset.dita"/>
+    </related-links>
 </concept>

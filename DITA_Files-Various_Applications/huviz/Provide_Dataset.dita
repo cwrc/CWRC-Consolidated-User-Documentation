@@ -3,14 +3,47 @@
 <task id="task_e2r_1lh_b3b">
     <title>Provide Your Own Dataset</title>
     <shortdesc>Upload your own dataset to HuViz.</shortdesc>
+    <prolog>
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata>
+            
+            
+        </metadata>
+    </prolog>
     <taskbody>
         <context>You can load your own ontology and/or dataset to HuViz. External files need to be
             in Turtle (.ttl) format. There are two ways to upload your data: 1) local file or 2)
             URL.  All files must be in ttl format. <p/></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Click the dropdown menu labelled "Dataset."</cmd>
+            </step>
+            <step>
+                <cmd>Scroll down to "Provide New Dataset."</cmd>
+            </step>
+            <step>
+                <cmd>A new option will appear, asking you to "Drop File or URL."</cmd>
+                <choices id="choices_a5z_nsh_b3b">
+                    <choice>Open your file in your desktop finder. Drag and drop the file into the
+                        window.</choice>
+                    <choice>OR copy and past the file URL into the window.</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd/>
             </step>
         </steps>
     </taskbody>
+    <related-links>
+        <link href="Load_Concept.dita"/>
+        <link href="Pre-Load_Dataset.dita"/>
+    </related-links>
 </task>
