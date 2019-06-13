@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="21.0">
+<project version="19.1">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="21.0" xml:space="preserve">
+            <serialized version="19.1" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>keys.context</String>
@@ -1987,12 +1987,6 @@
                                 <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
-                                <field name="publishingTemplateDataPO">
-                                    <null/>
-                                </field>
-                                <field name="oxygenFeedbackPO">
-                                    <null/>
-                                </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -2187,12 +2181,6 @@
                                     <null/>
                                 </field>
                                 <field name="webhelpResponsiveTemplate">
-                                    <null/>
-                                </field>
-                                <field name="publishingTemplateDataPO">
-                                    <null/>
-                                </field>
-                                <field name="oxygenFeedbackPO">
                                     <null/>
                                 </field>
                                 <field name="additionalAntArgs">
@@ -2391,12 +2379,6 @@
                                 <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
-                                <field name="publishingTemplateDataPO">
-                                    <null/>
-                                </field>
-                                <field name="oxygenFeedbackPO">
-                                    <null/>
-                                </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -2591,12 +2573,6 @@
                                     <null/>
                                 </field>
                                 <field name="webhelpResponsiveTemplate">
-                                    <null/>
-                                </field>
-                                <field name="publishingTemplateDataPO">
-                                    <null/>
-                                </field>
-                                <field name="oxygenFeedbackPO">
                                     <null/>
                                 </field>
                                 <field name="additionalAntArgs">
@@ -2795,12 +2771,6 @@
                                 <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
-                                <field name="publishingTemplateDataPO">
-                                    <null/>
-                                </field>
-                                <field name="oxygenFeedbackPO">
-                                    <null/>
-                                </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -2960,7 +2930,6 @@
         <folder path="Documentation/"/>
         <folder path="In_Progress/"/>
         <folder path="temp/"/>
-        <folder path="Unpublished/"/>
         <folder path="Utilities/"/>
         <file name="CWRC_User_Manual-MASTER_MAP.ditamap"/>
         <file name="LICENSE"/>
