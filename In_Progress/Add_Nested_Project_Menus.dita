@@ -16,15 +16,17 @@
                     /></cmd>
             </step>
             <step>
-                <cmd>Click on the <uicontrol>Edit</uicontrol> option associated with the menu to
-                    which you would like to add a subsection. <image id="image_mbh_3sm_pbb"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A6d1ee199-81ee-4c4d-9e76-a593c78f4bee/datastream/OBJ/view"
-                    /></cmd>
+                <cmd>Click on the <uicontrol>Edit</uicontrol> next to the menu item that you would
+                    to add as a subsection to another menu item. <image
+                        href="https://cwrc.ca/islandora/object/cwrc%3A434f5bf5-882e-4ced-a6a9-d0f80f234250/datastream/OBJ/view"
+                        id="image_uqb_zyn_b3b"/></cmd>
                 <info>Alternatively, you can add a new link in order to nest a new menu under. See
                     Editing/Adding links to the Project Menu.</info>
             </step>
             <step>
-                <cmd>Enter the required information. </cmd>
+                <cmd>Enter the required information. <image id="image_mbh_3sm_pbb"
+                    href="https://cwrc.ca/islandora/object/cwrc%3A6d1ee199-81ee-4c4d-9e76-a593c78f4bee/datastream/OBJ/view"
+                /></cmd>
             </step>
             <step>
                 <cmd>From the Parent link choose the menu under which you would like to insert the
