@@ -3,7 +3,7 @@
 <concept id="concept_b4z_fjh_b3b">
     <title>Load a Dataset</title>
     <shortdesc>To begin using HuViz, you must first load a dataset. You have the option to either 1)
-        choose a pre-loaded dataset or 2) upload your own data.</shortdesc>
+        choose a pre-loaded dataset or 2) upload your own dataset.</shortdesc>
     <conbody>
         <p></p>
     </conbody>

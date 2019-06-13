@@ -32,15 +32,35 @@
             <step>
                 <cmd>A new option will appear, asking you to "Drop File or URL."</cmd>
                 <choices id="choices_a5z_nsh_b3b">
-                    <choice>Open your file in your desktop finder. Drag and drop the file into the
+                    <choice>Copy and past the file URL into the window.</choice>
+                    <choice>OR open the file in your desktop finder. Drag and drop the file into the
                         window.</choice>
-                    <choice>OR copy and past the file URL into the window.</choice>
                 </choices>
+                <stepresult>Once you drag the correct file type (.ttl) to the box, it will light up
+                    green.</stepresult>
             </step>
             <step>
-                <cmd/>
+                <cmd>Click the dropdown menu labelled "Ontology."</cmd>
+                <substeps id="substeps_wqd_xjk_b3b">
+                    <substep>
+                        <cmd>Choose a pre-loaded ontology from the dropdown menu.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>OR scroll down to "Provide New Ontology" to load your own
+                            ontology.</cmd>
+                        <info>Just as with the dataset, you can upload your own ontology via local
+                            file or URL.</info>
+                 
+                    </substep>
+                    
+                </substeps>
+                <stepresult>Once you have chosen a dataset and an ontology, the "Load" button will appear.</stepresult>
+            </step>
+            <step>
+                <cmd>Click the "Load" button.</cmd>
             </step>
         </steps>
+    
     </taskbody>
     <related-links>
         <link href="Load_Concept.dita"/>
