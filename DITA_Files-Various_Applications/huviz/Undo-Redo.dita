@@ -13,8 +13,8 @@
                 <cmd>Click the History Tab to view the Command History.</cmd>
                 <stepresult>The History displays all of the user's previous actions.<image
                         id="image_dfw_jrr_b3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A4ffbf0b3-96a3-4007-9e49-1ab1baf5b143/datastream/OBJ/view"
-                        height="300"/></stepresult>
+                        href="https://cwrc.ca/islandora/object/cwrc%3A0ccde9e4-fd2a-46b4-8518-e9c9a75e3bed/datastream/OBJ/view"
+                        height="250"/></stepresult>
             </step>
             <step>
                 <cmd>Click the left arrow to go back one step. <image id="image_nym_4sr_b3b"
@@ -33,7 +33,7 @@
                 <cmd>Click the double arrows to jump to the beginning or end of the sequence.</cmd>
                 <info><image id="image_dwh_ttr_b3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Acd7dc697-6642-40fb-ab79-65f63269078e/datastream/OBJ/view"
-                    /></info>
+                        height="200"/></info>
                 <info>After undoing a step, executing a new command will reset the sequence from
                     that point.</info>
              
