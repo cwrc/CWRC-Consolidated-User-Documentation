@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="history_concept">
+    <title>History</title>
+    <shortdesc>Records the user's actions in the graph; can also be used to undo and redo
+        actions.</shortdesc>
+    <conbody>
+        <p>One of the main tabs in the navigation box, the Command History records every command
+            executed in the graph and the object it was performed on.</p>
+        <p>Users can undo and redo actions using the forward and back arrows.</p>
+        <p>The history can be exported as a .txt file.</p>
+    </conbody>
+    <related-links/>
+</concept>

@@ -2,7 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_gfy_xkd_w5">
  <title>Using the Commands Tab</title>
- <shortdesc>Working directly in the Graph using the "drag and drop" technique involves fewer steps. However, working from the Commands Tab has multiple benefits.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A3550c158-99dd-49a7-9313-72694d3672b6/datastream/OBJ/view" id="image_c5h_3wm_2v" align="center"></image></shortdesc>
+ 
+ <shortdesc>Working directly in the Graph using the "drag and drop" technique involves fewer steps.
+  However, working from the Commands Tab has multiple benefits.</shortdesc>
  <prolog>
   <author>Chelsea Miya</author>
   <copyright>
@@ -14,8 +16,6 @@
    <revised modified="2016-03-02"></revised>
   </critdates>
   <metadata>
-   
-   
   </metadata>
  </prolog>
  <conbody>
@@ -23,6 +23,9 @@
    <li>Certain commands, like Label and Hide, cannot be executed manually. The Commands Tab gives users access to the full range of tools.</li>
    <li>Users also have more control over how those tools are implemented. For example, when Working manually, only a single node or node cluster can be manipulated at a given time. In the Commands Tab, users have the option to filter nodes by type. </li>
   </ul>
+  <image id="image_w4g_kfp_b3b"
+   href="https://cwrc.ca/islandora/object/cwrc%3A2f3f5ab3-bc29-48b5-9ab4-b81cdafbba0d/datastream/MEDIUM_SIZE/view"
+  />
  </conbody>
  <related-links>
   <link href="Reference_Graph.dita"></link>

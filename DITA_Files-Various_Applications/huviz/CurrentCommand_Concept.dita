@@ -2,24 +2,27 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_oxr_pbh_x5">
  <title>Current Command</title>
- <shortdesc>If the user hovers over an element, the Current Command shows the user what will happen
-  if that element is clicked.</shortdesc>
+ <shortdesc>Displays what will happen if an element is clicked.</shortdesc>
  <conbody>
-  <p>Every command in HuViz has two parts: <b>Verb + Set/Class</b>. Both of these elements need to
-   be chosen, by clicking on them, to perform an action.</p>
-  <p>Hovering over element will show the user what will happen if that element is clicked.</p>
-  <p>If no elements have been chosen, the Current Command will display the greyed out formula 'Verb
-   + Set/Class' to indicate these elements are empty.</p>
-   <example>'Select Book' indicates that clicking the class 'Book' will Select it, drawing it into
-   the graph.<image id="image_mdv_b31_cv"
-    href="https://cwrc.ca/islandora/object/cwrc%3A73634dca-30d9-457b-839b-c8d24269de89/datastream/MEDIUM_SIZE/view"
+  <p>Every command in HuViz has two parts: <b>Verb + Set/Class</b>. To perform an action, you need
+   to choose both elements by clicking on them.</p>
+  <p>If no elements have been chosen, the Current Command box will display the greyed out formula
+   'Verb + Set/Class.'</p>
+  <p>If you hover over an element, the Current Command will indicate what will happen if that
+   element is clicked.</p>
+   <example>In this example, the user has clicked the Verb 'Select' and is hovering over the Class
+   'Book.' <p>The Current Command has updated to show that clicking 'Book' will 'Select' it,'
+    drawing it into the graph.</p>.<image id="image_mdv_b31_cv"
+    href="https://cwrc.ca/islandora/object/cwrc%3Ac108feb5-4c4c-43f0-9f6c-0ebb84f23cba/datastream/MEDIUM_SIZE/view"
     scope="external"/></example>
-  <example>Hovering over elements in the Graph works the same way.<p>Here, clicking the Verb 'Label'
-    and then hovering over the node 'D. H. Lawrence' shows what will happen if you click the
-     node.<image id="image_ajz_kbp_b3b"
+  <example>
+   <p>Hovering over elements in the Graph works the same way.</p>
+   <p>Here, clicking the Verb 'Label' and then hovering over the node 'D. H. Lawrence' shows what
+    will happen if you click the node.</p>
+   <p><image id="image_ajz_kbp_b3b"
      href="https://cwrc.ca/islandora/object/cwrc%3A6c1fa213-fb03-4884-9af6-8e377d14a212/datastream/MEDIUM_SIZE/view"
-    /></p></example>
- 
+     align="center"/></p>
+  </example>
   </conbody>
  <related-links>
   <link href="Reference_CommandsTab.dita"></link>
