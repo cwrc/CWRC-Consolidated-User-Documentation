@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="history_save">
+    <title>Save History to File</title>
+    <shortdesc>Exports a record of the user's actions.</shortdesc>
+    <taskbody>
+        <context>The Command History can be exported as a .txt file.<p/></context>
+        <steps>
+            <step>
+                <cmd>Click the History Tab to view the Command History.</cmd>
+            </step>
+            <step>
+                <cmd>Click the download arrow to export the History as a .txt file.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="history_menu.dita"/>
+        <link href="Undo-Redo.dita"/>
+        <link href="history_concept.dita"/>
+    </related-links>
+</task>

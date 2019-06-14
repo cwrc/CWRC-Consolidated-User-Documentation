@@ -14,4 +14,5 @@
  <topicref href="Label_Concept.dita"/>
  <topicref href="Command_Execute_Verbs.dita"/>
  <topicref href="Reset.dita"/>
+ <topichead navtitle="History"><topicref href="history.ditamap" format="ditamap"/></topichead>
 </map>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gp2_dmr_b3b">
+    <title>Save History to Menu</title>
+    <shortdesc>Saves a record of the user's actions to the menu.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="history_save.dita"/>
+        <link href="Undo-Redo.dita"/>
+        <link href="history_concept.dita"/>
+    </related-links>
+</task>

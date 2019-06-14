@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rdt_z3r_b3b">
+    <title>Undo/Redo</title>
+    <shortdesc>Reverses one or more of the previous commands; can also be used to re-perform a
+        move.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Users have the power to undo or redo moves using the Command History</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click the History Tab to view the Command History.</cmd>
+                <stepresult>The History displays all of the user's previous actions.<image
+                        id="image_dfw_jrr_b3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A4ffbf0b3-96a3-4007-9e49-1ab1baf5b143/datastream/OBJ/view"
+                        height="300"/></stepresult>
+            </step>
+            <step>
+                <cmd>Click the left arrow to go back one step. <image id="image_nym_4sr_b3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A5d0c0063-2809-413a-a779-69ed32309e7c/datastream/OBJ/view"
+                        height="300"/></cmd>
+            </step>
+            <step>
+                <cmd>Click the right arrow to go forward one step.</cmd>
+                <info>Once you have reversed past a step, it turns from yellow to blue. You can
+                    delete the blue steps by clicking the black "x." This allows you to remove steps
+                    from the sequence and edit out undesirable moves.<image id="image_pqq_ltr_b3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ae69228e7-1a61-4e71-abea-8143e6f7b49e/datastream/OBJ/view"
+                        height="300"/></info>
+            </step>
+            <step>
+                <cmd>Click the double arrows to jump to the beginning or end of the sequence.</cmd>
+                <info><image id="image_dwh_ttr_b3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Acd7dc697-6642-40fb-ab79-65f63269078e/datastream/OBJ/view"
+                    /></info>
+                <info>After undoing a step, executing a new command will reset the sequence from
+                    that point.</info>
+             
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="history_concept.dita"/>
+        <link href="history_save.dita"/>
+        <link href="history_menu.dita"/>
+    </related-links>
+</task>

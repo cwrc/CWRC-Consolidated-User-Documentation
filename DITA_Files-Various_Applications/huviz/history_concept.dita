@@ -2,13 +2,19 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="history_concept">
     <title>History</title>
-    <shortdesc>Records the user's actions in the graph; can also be used to undo and redo
-        actions.</shortdesc>
+    <shortdesc>A record of the user's actions; can be used to undo and redo previous
+        commands.</shortdesc>
     <conbody>
-        <p>One of the main tabs in the navigation box, the Command History records every command
-            executed in the graph and the object it was performed on.</p>
-        <p>Users can undo and redo actions using the forward and back arrows.</p>
-        <p>The history can be exported as a .txt file.</p>
+        <p>The Command History records every command the user executes. It can be used to undo and
+            redo actions.</p>
+        <p>The Command History can also be exported as a .txt file or saved to the menu.</p>
+        <image id="image_yvy_zqr_b3b"
+            href="https://cwrc.ca/islandora/object/cwrc%3A9ec05456-97df-44e3-b69f-8755de5e44b1/datastream/OBJ/view"
+            height="400"/>
     </conbody>
-    <related-links/>
+    <related-links>
+        <link href="Undo-Redo.dita"/>
+        <link href="history_save.dita"/>
+        <link href="history_menu.dita"/>
+    </related-links>
 </concept>
