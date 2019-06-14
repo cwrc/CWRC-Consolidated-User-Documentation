@@ -6,19 +6,48 @@
         and project editors. </shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p/>
         </context>
         <steps>
             <step>
-                <cmd>Click on the <uicontrol>Approve/deny application</uicontrol> in the Pending applications in the project dashboard (on the right side of the page).<image id="image_s5s_jhk_tbb" href="https://cwrc.ca/islandora/object/cwrc%3A6d7ac77f-3ee4-44b8-9c98-32fca387e523/datastream/OBJ/view"></image> </cmd>
+                <cmd>Click on the <uicontrol>Approve/deny application</uicontrol> button in the
+                    Pending applications column, on the right side of the project dashboard. <image
+                        id="image_s5s_jhk_tbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A6d7ac77f-3ee4-44b8-9c98-32fca387e523/datastream/OBJ/view"
+                    />
+                </cmd>
             </step>
             <step>
-                <cmd>Choose the State of the application you are considering. </cmd>
-                <info>The options are: Active is approving the pending application(S) Pending allows you to leave some applications as pending for further consideration. Blocked will deny a pending application. </info>
+                <cmd>In the State drop down menu, choose the State of the application you are
+                    considering among the following three: </cmd>
+                <choicetable>
+                    <chrow>
+                        <choption>Active</choption>
+                        <chdesc>Approves the pending application(s).</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Pending</choption>
+                        <chdesc>Allows you to leave some applications as pending for further
+                            consideration.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Blocked</choption>
+                        <chdesc>Denies a pending application.</chdesc>
+                    </chrow>
+                </choicetable>
+                <info><image
+                        href="https://cwrc.ca/islandora/object/cwrc%3A74117d5b-ca7b-4dce-835c-8049ea3d4e57/datastream/OBJ/view"
+                        id="image_r3j_1cv_b3b"/></info>
             </step>
             <step>
-                <cmd> Beside the State drop down menu write down the name or names of the people who have applied to join your project. </cmd>
-                <info>You can enter in multiple names (seperated by commas), but remember that the State you have selected will be applied to each of the names in the Name field. For example if you have chooses Blocked then all those people will be blocked from your project. <image id="image_ydf_yhk_tbb" href="https://cwrc.ca/islandora/object/cwrc%3A07c75ca2-1d80-4aef-9b53-6b52ad7ce616/datastream/OBJ/view"></image></info>
+                <cmd> Beside the State drop down menu, write down the name or names of the people
+                    who have applied to join your project. </cmd>
+                <info>You can enter in multiple names (seperated by commas), but remember that the
+                    State you have selected will be applied to each of the names in the Name field.
+                    For example if you have chooses Blocked then all those people will be blocked
+                    from your project. <image id="image_ydf_yhk_tbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A07c75ca2-1d80-4aef-9b53-6b52ad7ce616/datastream/OBJ/view"
+                    /></info>
             </step>
             <step>
                 <cmd>Click on <uicontrol>Approve/deny applications</uicontrol>.</cmd>
