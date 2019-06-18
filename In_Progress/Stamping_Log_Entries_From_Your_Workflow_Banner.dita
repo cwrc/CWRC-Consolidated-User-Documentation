@@ -9,8 +9,12 @@
         </context>
         <steps>
             <step>
-                <cmd>Click on the Review these here link in the workflow banner. This banner is persistently located in the CWRC page.</cmd>
-                <info>Please keep your unstamped log entries up-to-date (unlike the screenshot below).<image id="image_txn_qpk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A1d759fed-8e54-46ed-b178-80b9d6098731/datastream/OBJ/view"></image></info>
+                <cmd>Click on the <uicontrol>Review these here</uicontrol> link in the workflow
+                    banner. This banner is persistently located in the CWRC page.</cmd>
+                <info>Please keep your unstamped log entries up-to-date (unlike the screenshot
+                        below).<image id="image_txn_qpk_rbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A1d759fed-8e54-46ed-b178-80b9d6098731/datastream/OBJ/view"
+                    /></info>
             </step>
             <step>
                 <cmd>Click on the Tag Workflow you would like to stamp. <image id="image_wdy_rqk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A973b3cb0-c72e-4705-8f13-2b57fa715ab8/datastream/OBJ/view"></image></cmd>
@@ -37,13 +41,25 @@
                 </substeps>
             </step>
             <step>
-                <cmd>When viewing a stamped entry you can add an additional stamp (you would do this if you further edited the object, for example). Click on See all workflow stamps.<image id="image_m42_1tk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A16822768-aba2-48e9-8576-579b61cfe1a8/datastream/OBJ/view"></image></cmd>
+                <cmd>When viewing a stamped entry you can add an additional stamp (you would do this
+                    if you further edited the object, for example). Click on <uicontrol>See all
+                        workflow stamps</uicontrol>.<image id="image_m42_1tk_rbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A16822768-aba2-48e9-8576-579b61cfe1a8/datastream/OBJ/view"
+                    /></cmd>
+                <info>The <uicontrol>History</uicontrol> colunm only appears after you have added at
+                    least one stamp.</info>
                 <substeps id="substeps_jny_2pk_rbb">
                     <substep>
-                        <cmd>This brings up the same form (in a smaller size) below the the stamp History column on the right side of the page. Fill out the information (see above) and click on Save. </cmd>
+                        <cmd>This brings up the same form (in a smaller size) below the the stamp
+                            History column on the right side of the page. Fill out the information
+                            (see above) and click on Save. </cmd>
                     </substep>
                 </substeps>
-                <info>In either option you can notify that you have stamped or assign the entry to another project user. For more information see ___ and ___. <image id="image_pfc_ltk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A20893f18-8c8c-45e4-8bd2-1d559fadcf62/datastream/OBJ/view"></image></info>
+                <info>In either option you can notify that you have stamped or assign the entry to
+                    another project user. For more information see ___ and ___. <image
+                        id="image_pfc_ltk_rbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A20893f18-8c8c-45e4-8bd2-1d559fadcf62/datastream/OBJ/view"
+                    /></info>
             </step>
         </steps>
     </taskbody>

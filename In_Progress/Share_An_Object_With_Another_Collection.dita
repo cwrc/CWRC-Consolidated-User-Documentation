@@ -22,9 +22,25 @@
                         href="https://cwrc.ca/islandora/object/cwrc%3A708fe7fc-d40a-4417-aafb-4e73d96d0695/datastream/OBJ/view"
                     /></cmd>
             </step>
-            <step>
-                <cmd>If you would like to notify project members that you are sharing this object,
-                    check <uicontrol>Send notification?</uicontrol> and add the name of the user(s)
+            <step importance="optional">
+                <cmd>To apply the permissions of the destination collection to the object, make sure
+                    the <uicontrol>Update permissions?</uicontrol> box is checked. <image
+                        href="https://cwrc.ca/islandora/object/cwrc%3A161fff63-51f1-4911-9291-dab7759a4204/datastream/OBJ/view"
+                        id="image_iyn_zhy_c3b"/></cmd>
+                <info>If you uncheck the <uicontrol>Update permissions?</uicontrol> box, only the
+                    current permissions will be applied to the object, which might limit its access
+                    for members of the destination collection.</info>
+            </step>
+            <step importance="optional">
+                <cmd>To specificly grant permission to view or manage the object, open the
+                        <uicontrol>Additional Permissions</uicontrol> menu and choose who you want
+                    to grant viewing or managing access to.<image
+                        href="https://cwrc.ca/islandora/object/cwrc%3A03b39e5d-09a5-498e-b308-6b8e47115888/datastream/OBJ/view"
+                        id="image_h5t_w3y_c3b"/></cmd>
+            </step>
+            <step importance="optional">
+                <cmd>To notify project members that you are sharing this object, check
+                        <uicontrol>Send notification?</uicontrol> and add the name of the user(s)
                     that you would like to inform. <image id="image_sms_ckk_tbb"
                         href="https://cwrc.ca/islandora/object/cwrc%3Aaa55d09a-794b-466e-9dde-8988d71406b9/datastream/OBJ/view"
                     /></cmd>

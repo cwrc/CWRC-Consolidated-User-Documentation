@@ -7,18 +7,38 @@
         <context>You must be logged to perform this task.<p></p></context>
         <steps>
             <step>
-                <cmd>Click on the <uicontrol>Workflow report admin</uicontrol> button in your dashboard (in the Workflow Reports column on the right side of the dashboard). <image id="image_yzv_cdk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A0a1d7b07-4208-4748-8f9d-cc6da7e4c073/datastream/OBJ/view"></image></cmd>
+                <cmd>On the right side of your dashboard, open the Workflow Reports column, and
+                    click on the <uicontrol>Workflow report admin</uicontrol> button. <image
+                        id="image_yzv_cdk_rbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A0a1d7b07-4208-4748-8f9d-cc6da7e4c073/datastream/OBJ/view"
+                    /></cmd>
             </step>
             <step>
-                <cmd>This takes you to the Workflow report form. Fill out the form.</cmd>
-                <info>The necessary fields are Report Name, Report Project, and selecting at least one of each permissions (Edit Report role(s) and View Report role(s)). <image id="image_lnj_ldk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A4355faed-28cb-4e88-a1bc-c96c1aa67247/datastream/OBJ/view"></image></info>
+                <cmd>Fill out the Workflow report form.</cmd>
+                <info>The necessary fields are Report Name, Report Project, and selecting at least
+                    one of each permissions (Edit Report role(s) and View Report role(s)). <image
+                        id="image_lnj_ldk_rbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A4355faed-28cb-4e88-a1bc-c96c1aa67247/datastream/OBJ/view"
+                    /></info>
             </step>
-            <step>
+            <step importance="optional">
                 <cmd>Add any search terms you would like associated with your workflow report under the Solr Report section.<image id="image_nd3_5dk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A52fe8703-d3cb-4896-8b99-b81cfb3ef1eb/datastream/OBJ/view"></image></cmd>
+                <info>You can add several type of search terms by clicking on the
+                        <uicontrol>+</uicontrol> button.</info>
             </step>
-            <step>
-                <cmd>Add any additional information you would like your workflow stamps to display when viewed under the Displayed Report Fields section. </cmd>
-                <info> This defines what metadata is shown when you view the workflow stamps associated with your workflow report. By choosing to add more information within the SOLR fields, the report creator will populate the workflow report with additional information about the object.<image id="image_arv_d2k_rbb" href="https://cwrc.ca/islandora/object/cwrc%3Ad01232da-acdf-4926-abe8-bc8fdb81c72e/datastream/OBJ/view"></image></info>
+            <step importance="optional">
+                <cmd>Add any additional information you would like your workflow stamps to display
+                    when viewed under the <uicontrol>Displayed Report Fields</uicontrol> section. </cmd>
+                <info> This defines what metadata is shown when you view the workflow stamps
+                    associated with your workflow report. By choosing to add more information within
+                    the SOLR fields, the report creator will populate the workflow report with
+                    additional information about the object.<image id="image_arv_d2k_rbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ad01232da-acdf-4926-abe8-bc8fdb81c72e/datastream/OBJ/view"
+                    /></info>
+                <info>If the field you want does not appear, you can add one at the bottom of the
+                    section. <image
+                        href="https://cwrc.ca/islandora/object/cwrc%3A1c2704a2-3836-4a19-b665-88d0809c69c9/datastream/OBJ/view"
+                        id="image_gj1_j4y_c3b"/></info>
             </step>
             <step>
                 <cmd>Click on <uicontrol>Save Report</uicontrol>.</cmd>
