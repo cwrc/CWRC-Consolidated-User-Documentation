@@ -2,14 +2,24 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_wgz_3hg_sbb">
     <title>Requesting a Release of Object Lock </title>
-    <shortdesc> If an object is locked and you would like to edit it, you can request the release of an object lock. </shortdesc>
+    <shortdesc> If an object is locked and you would like to edit it, you can request the release of
+        an object lock. </shortdesc>
     <taskbody>
-        <context>When you click on a locked object, a banner appears stating that the object is locked by a CWRC member and that you have the option of request that they unlock the object.<p></p></context>
+        <context>When you click on a locked object, a banner appears stating that the object is
+            locked by a CWRC member and that you have the option of request that they unlock the
+            object.</context>
         <steps>
             <step>
-                <cmd>Click on <uicontrol>request that they unlock the object</uicontrol>. <image id="image_fwk_vhg_sbb" href="https://cwrc.ca/islandora/object/cwrc%3Abed2cf21-afcd-45ce-a800-489242557722/datastream/OBJ/view"></image></cmd>
-                <info>When you click on <uicontrol>request that they unlock the object</uicontrol> a message is sent to the person who has the lock on this object. <image id="image_j3h_d3g_sbb" href="https://cwrc.ca/islandora/object/cwrc%3A36a45b21-d749-4342-a6f4-335ed0de60b8/datastream/OBJ/view"></image></info>
+                <cmd>Click on <uicontrol>request that they unlock the object</uicontrol>. <image
+                        id="image_fwk_vhg_sbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Abed2cf21-afcd-45ce-a800-489242557722/datastream/OBJ/view"
+                    /></cmd>
+
             </step>
         </steps>
+        <result>A message is sent to the person who has the lock on this object. <image
+                id="image_j3h_d3g_sbb"
+                href="https://cwrc.ca/islandora/object/cwrc%3A36a45b21-d749-4342-a6f4-335ed0de60b8/datastream/OBJ/view"
+            /></result>
     </taskbody>
 </task>

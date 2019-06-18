@@ -2,32 +2,47 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_zwb_stk_rbb">
     <title>Assigning an object for further editing </title>
-    <shortdesc>When you stamp an object you have the option of assigning the entry to other users. You can do this, so that they know that the object is ready to be published or if you would like another user to edit the stamped object.</shortdesc>
+    <shortdesc>When you stamp an object you have the option of assigning the entry to other users.
+        You can do this, so that they know that the object is ready to be published or if you would
+        like another user to edit the stamped object.</shortdesc>
     <taskbody>
-        <context>The instruction proceed from the Stamping log entries. You must be logged in to assign work.<p></p></context>
+        <context>The instruction proceed from the Stamping log entries. You must be logged in to
+            assign work.<p/></context>
         <steps>
             <step>
-                <cmd>Click on the <uicontrol>Assign(optional) section</uicontrol> at the bottom of the workflow form. <image id="image_uf3_2vk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3Ac8f5350e-db1f-405c-b4f5-d7aa8de08f9d/datastream/OBJ/view"></image></cmd>
+                <cmd>Click on the <uicontrol>Assign (optional)</uicontrol> section at the bottom of
+                    the workflow form. <image id="image_uf3_2vk_rbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ac8f5350e-db1f-405c-b4f5-d7aa8de08f9d/datastream/OBJ/view"
+                    /></cmd>
             </step>
             <step>
-                <cmd>Add the member's name that you would like the assigned notification to go to.</cmd>
+                <cmd>Add the member's name that you would like the assigned notification to go
+                    to.</cmd>
             </step>
             <step>
                 <cmd>Provide a subject. </cmd>
-                <info>This assigned notification will go to the user's email, the necessary information reflects the email format. <image id="image_aht_1wk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A3aace8c5-d5ab-4ab7-97a0-1028392ae98c/datastream/OBJ/view"></image></info>
+                <info>This assigned notification will go to the user's email, the necessary
+                    information reflects the email format. <image id="image_aht_1wk_rbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A3aace8c5-d5ab-4ab7-97a0-1028392ae98c/datastream/OBJ/view"
+                    /></info>
             </step>
             <step>
                 <cmd>Provide a message. </cmd>
             </step>
             <step>
-                <cmd>Select a category for this assigned workflow task.<image id="image_e4l_jwk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A3f4ee399-b7fa-449b-98c0-e0cd3f82bd75/datastream/OBJ/view"></image></cmd>
+                <cmd>Select a category for this assigned workflow task.<image id="image_e4l_jwk_rbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A3f4ee399-b7fa-449b-98c0-e0cd3f82bd75/datastream/OBJ/view"
+                    /></cmd>
             </step>
             <step>
                 <cmd>Click <uicontrol>Send</uicontrol>.</cmd>
             </step>
-            <step>
-                <cmd>An email will be sent to the user you have assigned a workflow task (see below).<image id="image_flb_swk_rbb" href="https://cwrc.ca/islandora/object/cwrc%3Aa8ab5f4e-49b9-4cf0-831c-4c49bf22fe6c/datastream/OBJ/view"></image> </cmd>
-            </step>
+            
         </steps>
+        <result> An email will be sent to the user who you have assigned a workflow task to (see
+                below).<image id="image_flb_swk_rbb"
+                href="https://cwrc.ca/islandora/object/cwrc%3Aa8ab5f4e-49b9-4cf0-831c-4c49bf22fe6c/datastream/OBJ/view"
+            />
+        </result>
     </taskbody>
 </task>

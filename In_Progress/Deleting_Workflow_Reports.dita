@@ -4,16 +4,32 @@
     <title>Deleting Workflow Reports </title>
     <shortdesc>You can delete a workflow report from the the workflow report column in your (or a project) dashboard.</shortdesc>
     <taskbody>
-        <context>Please be careful when deleting Workflow Reports, this action cannot be undone.<p></p></context>
+        <context>Please be careful when deleting Workflow Reports, as this action cannot be
+            undone.<p/></context>
         <steps>
             <step>
-                <cmd>From your dashboard (or your project dashboard), click on the X button to the right of the workflow you would like to delete. <image id="image_rnn_z3l_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A5ca645c2-f656-455a-a242-7affe4fa49d1/datastream/OBJ/view"></image></cmd>
+                <cmd>On your dashboard (or your project dashboard), in the <uicontrol>Workflow
+                        Reports</uicontrol> section </cmd>
                 <choices id="choices_drd_j3l_rbb">
-                    <choice>Click on the Workflow Report to open the editing workflow form. Click on the Delete option to the right of the Workflow report you want to delete. <image id="image_j4n_hjl_rbb" href="https://cwrc.ca/islandora/object/cwrc%3A0a600fcd-430d-474b-a23e-60084a5ad204/datastream/OBJ/view"></image></choice>
+                    <choice> Clicking on the X button to the right of the workflow you would like to
+                        delete. <image id="image_rnn_z3l_rbb"
+                            href="https://cwrc.ca/islandora/object/cwrc%3A5ca645c2-f656-455a-a242-7affe4fa49d1/datastream/OBJ/view"
+                        /></choice>
+                    <choice>Clicking on the Workflow Report to open the editing workflow form. In
+                        the blue table, click on the <uicontrol>Delete</uicontrol> option to the
+                        right of the Workflow report you want to delete. <image
+                            id="image_j4n_hjl_rbb"
+                            href="https://cwrc.ca/islandora/object/cwrc%3A0a600fcd-430d-474b-a23e-60084a5ad204/datastream/OBJ/view"
+                        /></choice>
                 </choices>
             </step>
             <step>
-                <cmd>When you delete a workflow report you are taken to a prompt. Click on Delete report if you would like to proceed or Cancel if you want to go back. <image id="image_gsp_mjl_rbb" href="https://cwrc.ca/islandora/object/cwrc%3Ab0fa7f38-d15e-4da3-9b01-039320d13426/datastream/OBJ/view"></image></cmd>
+                <cmd>When you delete a workflow report you are taken to a prompt. Click on
+                        <uicontrol>Delete report</uicontrol> if you would like to proceed or
+                        <uicontrol>Cancel</uicontrol> if you want to go back. <image
+                        id="image_gsp_mjl_rbb"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ab0fa7f38-d15e-4da3-9b01-039320d13426/datastream/OBJ/view"
+                    /></cmd>
             </step>
         </steps>
     </taskbody>
