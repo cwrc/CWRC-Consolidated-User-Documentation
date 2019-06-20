@@ -79,7 +79,6 @@ When you choose to add a "lg" tag, this will create an empty tag that you can th
     <?oxy_insert_start author="megansellmer" timestamp="20141021T143311-0700"?>
     <related-links>
         <link href="Copy_Paste_Single_Tag.dita#task_gfg_fjd_dp"/>
-        <link href="Copy_Paste_Tags.dita#task_t1x_nfn_jp"/>
         <link href="Copy_Paste_Entity.dita#task_osz_cb2_np"/>
         <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
         <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>

@@ -2,7 +2,6 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gbq_vkd_nw">
   <title>CWRC-Voyant Bridge</title>
-  <body>
-    <p>The CWRC-Voyant bridge serves to make it easy to create visualizations in Voyant based on individual or collections of documents in CWRC.</p>
-  </body>
+  <shortdesc>The CWRC-Voyant bridge serves to make it easy to create visualizations in Voyant based on individual or collections of documents in CWRC.</shortdesc>
+  <body/>
 </topic>

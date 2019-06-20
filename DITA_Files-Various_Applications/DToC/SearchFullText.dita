@@ -2,14 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ubh_c45_ht">
     <title>Searching the full text</title>
-    <shortdesc>The search box is autocomplete-enabled. If you don't use that function (e.g. you
-        continue to type your word or phrase without selecting a term from the drop down list) your
-        search may not work if it has a spelling error, an extra space, or any other form of discrepancy with the tags and terms as they have been encoded into the document. </shortdesc>
+    <shortdesc>The search box is autocomplete-enabled.</shortdesc>
     <taskbody>
         <context>
-            <p>If you have selected a chapter from the Table of Contents, your search will only
-                be conducted within that chapter. If you would like to conduct a full text search
-                make sure that none of the chapters, sections, or articles are selected. </p>
+            <p>If you have selected a chapter from the Table of Contents, your search will only be
+                conducted within that chapter. If you would like to conduct a full text search make
+                sure that none of the chapters, sections, or articles are selected. </p>
         </context>
         <steps>
             <step>

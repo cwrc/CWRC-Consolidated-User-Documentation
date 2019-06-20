@@ -1,34 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map audience="admin member project-contributor project-editor public">
- <title>CWRC User manual</title>
  <topichead navtitle="Reference shelf">
-  <mapref href="DITA_Maps-Secondary/CWRC_Information.ditamap" format="ditamap"></mapref>
+  <mapref href="DITA_Maps-Secondary/CWRC_Information.ditamap" format="ditamap"/>
  </topichead>
  <topichead navtitle="Getting Started with CWRC">
-  <mapref href="DITA_Maps-Secondary/Getting_Started_with_CWRC.ditamap" format="ditamap"></mapref>
+  <mapref href="DITA_Maps-Secondary/Getting_Started_with_CWRC.ditamap" format="ditamap"/>
  </topichead>
  <topichead navtitle="Managing a CWRC Project">
-  <mapref href="DITA_Maps-Secondary/Project_Homepages.ditamap" format="ditamap"></mapref>
+  <mapref href="DITA_Maps-Secondary/Project_Homepages.ditamap" format="ditamap"/>
  </topichead>
  <topichead navtitle="CWRC-integrated applications">
-  <topichead navtitle="CWRC-Writer" product="CWRC-Writer_integrated">
-   <mapref href="DITA_Files-Various_Applications/CWRC-Writer/CWRCWriter_Documentation.ditamap" format="ditamap"></mapref>
+  <topichead navtitle="CWRC-Writer" product="CWRC-Writer CWRC-Writer_integrated">
+   <mapref href="DITA_Files-Various_Applications/CWRC-Writer/CWRCWriter_Documentation.ditamap"
+    format="ditamap" product="CWRC-Writer CWRC-Writer_integrated" platform="CWRC"/>
   </topichead>
   <topichead navtitle="Dynamic Table of Contexts">
-   <mapref href="DITA_Files-Various_Applications/DToC/Dynamic%20Table%20of%20Context.ditamap" format="ditamap"></mapref>
+   <mapref href="DITA_Files-Various_Applications/DToC/Dynamic%20Table%20of%20Context.ditamap"
+    format="ditamap"/>
   </topichead>
   <topichead navtitle="HuViz">
-   <mapref href="DITA_Files-Various_Applications/huviz/HuViz_Map.ditamap" format="ditamap"></mapref>
+   <mapref href="DITA_Files-Various_Applications/huviz/HuViz_Map.ditamap" format="ditamap"/>
   </topichead>
   <topichead navtitle="Plot-It">
-   <mapref href="DITA_Files-Various_Applications/Plot-It/PlotIt.ditamap" format="ditamap"></mapref>
+   <mapref href="DITA_Files-Various_Applications/Plot-It/PlotIt.ditamap" format="ditamap"/>
   </topichead>
   <topichead navtitle="Voyant">
-   <mapref href="DITA_Files-Various_Applications/Voyant/Voyant.ditamap" format="ditamap"></mapref>
+   <mapref href="DITA_Files-Various_Applications/Voyant/Voyant.ditamap" format="ditamap"/>
   </topichead>
  </topichead>
  <topichead toc="no" navtitle="Error message">
-  <topicref href="DITA_Files-CWRC/Error.dita"></topicref>
+  <topicref href="DITA_Files-CWRC/Error.dita"/>
  </topichead>
 </map>

@@ -66,7 +66,7 @@
             </step>
             <step>
                 <cmd>Once you have finished creating your note, click on
-                        <cmdname>Save</cmdname>.
+                        <cmdname>Save</cmdname>.</cmd>
             </step>
         </steps>
         <result>You have now created a note in your document. You can see in the image below that

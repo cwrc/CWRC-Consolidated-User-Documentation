@@ -2,13 +2,16 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_bfm_blm_lt">
   <title>Overview of Dynamic Table of Contexts</title>
-  <shortdesc>The Dynamic Table of Contexts (DToC) viewer is an in-browser e-reader that uses the
-    underlying structure of a document to allow different paths through the text to be discovered when
-    read. The corpus may be navigated via semantic tags, the index (if present), or the search function,
-    as well as through the frequency of terms used throughout the document. DToC allows readers to "curate" the
-    text they are reading by permitting the customization of tags, even if the text being "read" is not their own. It
-    is also possible to make one's own DToC edition by starting from one of our templates.</shortdesc>
   <refbody>
+    <section>
+      <title>What is DToC?</title>
+      <p>The Dynamic Table of Contexts (DToC) viewer is an in-browser e-reader that uses the
+        underlying structure of a document to allow different paths through the text to be discovered when
+        read. The corpus may be navigated via semantic tags, the index (if present), or the search function,
+        as well as through the frequency of terms used throughout the document. DToC allows readers to "curate" the
+        text they are reading by permitting the customization of tags, even if the text being "read" is not their own. It
+        is also possible to make one's own DToC edition by starting from one of our templates.</p>
+    </section>
     <section>
       <title>DToC Sample Edition</title>
       <p><b><q><xref href="http://cwrc.ca/voyant/regenerations" scope="external" format="html">Regenerations: Canadian Women's Writing / Régénérations: Écriture des femmes au Canada</xref></q></b> is a collection of essays organized as a DToC edition. Feel free to explore to get acquainted with the interface and affordances of the reader.</p>

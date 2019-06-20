@@ -32,9 +32,9 @@
             </step>
             <step>
                 <cmd>You can select which sources to use when looking up the highlighted entity. Simply click on the tab located next to your search engine. Since you’re finding an organization entity, VIAF, Wikidata, and DBPedia are probably your main priorities.<image placement="break"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A0ac2739a-41f5-4a93-a562-f89302951446/datastream/OBJ/view"<image placement="break"
+                    href="https://cwrc.ca/islandora/object/cwrc%3A0ac2739a-41f5-4a93-a562-f89302951446/datastream/OBJ/view"/><image placement="break"
                         href="https://cwrc.ca/islandora/object/cwrc%3A4f074eb1-e3ed-48cb-899b-4d81a99e7652/datastream/OBJ/view"
-                        id="image_od3_mmv_tp" align="center"/></cmd>
+                        align="center"/></cmd>
                       
             </step>
             <step>
@@ -47,18 +47,20 @@
                     create your own. To do this click on <cmdname>Create New</cmdname> button at the
                     bottom of that page.<image placement="break"
                         href="https://cwrc.ca/islandora/object/cwrc%3A2e182286-8595-4819-8aba-6259b1f7094e/datastream/OBJ/view"
-                        id="image_hbz_nmv_tp" align="center"/></cmd>
+                        align="center"/><image placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A2e182286-8595-4819-8aba-6259b1f7094e/datastream/OBJ/view"
+                        align="center"/></cmd>
             </step>
             <step>
                 <cmd>You will be prompted to choose a CWRC collection for your new entity. Your selection will be logged for future use in that collection.<image placement="break"
                         href="https://cwrc.ca/islandora/object/cwrc%3Ad689e84a-dab5-440f-bc64-9ec9a2529768/datastream/OBJ/view"
-                        id="image_hbz_nmv_tp" align="center"/></cmd> 
-                <cmd>An "Add Organization" pop-up appears, fill it out (see info) and click
-                    <cmdname>OK</cmdname>.</cmd>
-                <info>The only mandatory field is the "Organization Name," though there are many
+                        align="center"/></cmd> 
+                <stepresult>An "Add Organization" pop-up appears, fill it out (see info) and click
+                    <cmdname>OK</cmdname>. The only mandatory field is the "Organization Name," though there are many
                     other areas that you can fill out.<image placement="break"
                         href="https://cwrc.ca/islandora/object/cwrc%3Ae595f149-e830-4f48-ad2f-65795a41454b/datastream/OBJ/view"
-                        id="image_ozw_pmv_tp" align="center"/></info>
+                        id="image_ozw_pmv_tp" align="center"/></stepresult>
+                
             </step>
             <step>
                 <cmd>Once you have created an organization entry in the CWRC entity repository, you
@@ -67,8 +69,7 @@
             </step>
         </steps>
         <result>You have now created a new CWRC entity entry, you can use this creation the next
-            time that you go to tag this entry.<image placement="break"
-            
+            time that you go to tag this entry.
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Create_Person_Entity.dita"/></lines>

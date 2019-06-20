@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map audience="admin member project-contributor project-editor public"
- product="CWRC-Writer_integrated CWRC-Writer_standalone">
+ product="CWRC-Writer CWRC-Writer_standalone CWRC-Writer_integrated">
  <title>Getting started in CWRC-Writer</title>
  <topicref href="CWRCWriter_Started_Splash.dita"
   audience="admin member project-contributor project-editor public" product="CWRC-Writer_standalone"/>
@@ -9,12 +9,10 @@
   audience="admin member project-contributor project-editor public" product="CWRC-Writer_integrated"/>
  <topicref href="Embedded_View_Doc.dita" audience="admin member project-contributor public"
   product="CWRC-Writer_integrated"/>
- <topicref href="Embed_Annotate.dita"
-  audience="admin member project-contributor project-editor public" product="CWRC-Writer_integrated"/>
  <topicref href="Embed_Create_Doc.dita"
   audience="admin member project-contributor project-editor public" product="CWRC-Writer_integrated"/>
  <topicref href="Write_Editor.dita" audience="admin member public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+  product="CWRC-Writer CWRC-Writer_standalone CWRC-Writer_integrated"/>
  <topicref href="Write_Text_Area.dita" audience="admin member public"
   product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
  <topicref href="Delete_Text_Structure.dita"
@@ -34,8 +32,6 @@
   product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
  <topicref href="Edit_Header.dita" audience="admin member project-contributor project-editor public"
   product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
- <topicref href="CWRCWriter_Login_Instructions.dita" audience="admin public"
-  product="CWRC-Writer_standalone"/>
  <topicref href="Open_Document_Menu.dita" audience="admin member public"
   product="CWRC-Writer_standalone"/>
  <topicref href="Open_Document_Toolbar.dita" audience="admin member public"

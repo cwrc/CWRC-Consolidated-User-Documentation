@@ -2,28 +2,30 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ygk_wn5_3x">
     <title>Creating subcollections</title>
-    <shortdesc>When you upload files into CWRC you must have a place to put them. You need
-        subcollections or “folders” that will organize the files within a project (or “collection”).
-        A policy is then assigned to each subcollection. This determines which type of files will be in them. Follow these steps to create a subcolletion:</shortdesc>
+    <shortdesc>Objects in CWRC are organized in collections. You can nest collections within otehr
+        collections. A user-editable policy attached to each collection determines which type of
+        "children" will be permitted. Any collection can contain various object types,
+        sub-collections or both.</shortdesc>
     <taskbody>
         <steps>
             <step>
                 <cmd>Navigate to your <b>Research Space</b>. You can do this from your dashboard
-                    under <b>My Projects</b>, or by using the dropdown menu under the account icon in
-                    the top right corner of CWRC. <image placement="break"
+                    under <b>My Projects</b>, or by using the dropdown menu under the account icon
+                    in the top right corner of CWRC. <image placement="break"
                         href="https://cwrc.ca/islandora/object/cwrc%3Adc2b8627-6136-4ccd-9fad-85d92f774bbf/datastream/OBJ/view"
                         id="image_nnq_3p5_3x" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Select the project to which you would like to add a new subcollection. </cmd>
                 <info>Make sure that the parent collection in which you are creating a subcollection
-                    has one of the two following content models that allow you to create new subcollections:<p
-                        dir="ltr"><b>Islandora Collection Content Model</b> - creates a
-                        subcollection within a collection</p><b>Islandora Compound Object Content
-                        Model</b> - creates a shell object that allows users to group different
-                    files by adding “Child Objects” to it. However, the objects that populate this
-                    folder must have been previously uploaded to CWRC. <p>For more information on this, please refere to the "CWRC Content Models" link at the bottom of the page.
-                    </p></info>
+                    has one of the two following content models that allow you to create new
+                        subcollections:<p dir="ltr"><b>Islandora Collection Content Model</b> -
+                        creates a subcollection within a collection</p><b>Islandora Compound Object
+                        Content Model</b> - creates a shell object that allows users to group
+                    different files by adding “Child Objects” to it. However, the objects that
+                    populate this folder must have been previously uploaded to CWRC. <p>For more
+                        information on this, please refere to the "CWRC Content Models" link at the
+                        bottom of the page. </p></info>
             </step>
             <step>
                 <cmd>To create a subcollection you need to click on <b>Add an object to this
@@ -47,9 +49,9 @@
             <step>
                 <cmd>Choose your <b>Inherit XACML policy</b>. The options will be “None” or the
                     collection that you are adding the subcollection to. Click <b>Next</b>.</cmd>
-                <info>The inherit eXtensible Access Control Markup Language (<b>XACML</b>) policy defines
-                    who can access the subcollection. For example, who can edit or annotate a
-                    document rather simply view its contents. <image placement="break"
+                <info>The inherit eXtensible Access Control Markup Language (<b>XACML</b>) policy
+                    defines who can access the subcollection. For example, who can edit or annotate
+                    a document rather simply view its contents. <image placement="break"
                         href="https://cwrc.ca/islandora/object/cwrc%3A859d203c-caee-4e3e-89d0-f7425ffa0882/datastream/OBJ/view"
                         id="image_flb_xp5_3x" align="center"/></info>
             </step>

@@ -36,9 +36,6 @@
                         placement="break"
                         href="https://cwrc.ca/islandora/object/cwrc%3A43f8df90-a6f7-4a24-98ee-96ce01948703/datastream/OBJ/view"
                         id="image_rjd_vws_pr" align="center"/></cmd>
-                        placement="break"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A4f074eb1-e3ed-48cb-899b-4d81a99e7652/datastream/OBJ/view"
-                        id="image_rjd_vws_pr" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Once you have selected your sources, a list of links will pop-up and you can choose the correct one that corresponds to the place you wish to tag.
@@ -52,10 +49,10 @@
         <step>
                 <cmd>If your entry is not in the CWRC entity lookup system you have the option to
                     create your own. To do this click on <cmdname>Create New</cmdname> button at the bottom of
-                    that page.</cmd>
-                    placement="break"
+                    that page.
+                    <image placement="break"
                     href="https://cwrc.ca/islandora/object/cwrc%3A462b697c-e486-4f22-bd8e-93d96015a28e/datastream/OBJ/view"
-                    id="image_rjd_vws_pr" align="center"/></cmd>
+                     align="center"/></cmd>
             </step>
             <step>
                 <cmd>An "Add Place" pop-up appears, fill it out (see note) and click <cmdname>OK</cmdname>.</cmd>
@@ -67,11 +64,11 @@
             <step>
                 <cmd>Once you have created a place entry in the CWRC entity repository, you can now
                     add more information about the tag (precision, person type, etc.). Click on
-                        <cmdname>Save</cmdname>.<image placement="break"
+                        <cmdname>Save</cmdname>.</cmd>
             </step>
         </steps>
         <result>You have now created a new CWRC entity entry, you can use this creation the next
-            time that you go to tag this person.<image placement="break"
+            time that you go to tag this person.
             <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Create_Person_Entity.dita"/></lines>

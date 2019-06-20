@@ -82,7 +82,7 @@
     <link href="User_Roles.dita"></link>
     <link href="User_Account.dita"></link>
     <link href="Searching_Browsing_CWRC.dita"></link>
-    <link href="Creating_CWRC_Account.dita"></link>
+    <link href="Creating_CWRC_Account.dita" audience="public"></link>
   </related-links>
 </reference>
 <?oxy_options track_changes="on"?>

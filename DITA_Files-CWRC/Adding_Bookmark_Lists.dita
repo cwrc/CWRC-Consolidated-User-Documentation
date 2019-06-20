@@ -2,8 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_uy5_ty5_3x">
     <title>Adding bookmark lists</title>
-    <shortdesc>Once you have collected one or more bookmarks, you may create separate lists for them. This also allows
-        you to describe what the list includes. Additionally, you can use your bookmark lists in the visualization tool PlotIt (for more
+    <shortdesc>You can ogranize your bookmarks into named lists, which, you can visualize using PlotIt (for more
         information on PlotIt, refer to the link at the bottom of the page)</shortdesc>
     <taskbody>
         <steps>

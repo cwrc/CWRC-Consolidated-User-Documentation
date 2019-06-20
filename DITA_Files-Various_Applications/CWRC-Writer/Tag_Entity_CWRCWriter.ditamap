@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map audience="admin member project-contributor project-editor public"
- product="CWRC-Writer_integrated CWRC-Writer_standalone">
+<map product="CWRC-Writer_integrated CWRC-Writer_standalone">
  <title>Tagging RDF Entities in CWRC-Writer</title>
  <topicref href="CWRCWriter_Entity_Splash.dita" audience="admin member public"
   product="CWRC-Writer_integrated CWRC-Writer_standalone"/>

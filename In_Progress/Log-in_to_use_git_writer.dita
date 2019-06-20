@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="start_using_git_writer">
+    <title>Log in to Use Git-Writer</title>
+    <shortdesc>Git-Writer uses </shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to <xref href="https://cwrc-writer.cwrc.ca" format="html" scope="external"
+                    /></cmd>
+                <stepresult>Once there, you will be prompted to authenticate with GitHub (if not
+                    authenticated already); if you do not have a GitHub account yet, you can easily
+                    sign up for one at  <xref href="https://github.com/join?source=header-home"
+                        format="html" scope="external"
+                        >https://github.com/join?source=header-home</xref>
+                </stepresult>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol/></cmd>
+            </step>
+            <step>
+                <cmd>Auhtorize Git-Writer</cmd>
+                <stepresult>Git-Hub Landing Page</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links/>
+</task>

@@ -85,8 +85,8 @@
     <link href="CWRC_Content_Models.dita"/>
     <link href="User_Account.dita"/>
     <link href="Searching_Browsing_CWRC.dita"/>
-    <link href="Creating_CWRC_Account.dita"/>
-    <link href="Request_Project_Membership.dita"/>
+    <link href="Creating_CWRC_Account.dita" audience="public"/>
+    <link  audience="public member" href="Request_Project_Membership.dita"/>
     <link href="Edit_User_Profile.dita"/>
   </related-links>
 </reference>

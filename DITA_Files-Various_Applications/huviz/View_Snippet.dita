@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_gl2_tc2_lp">
+<task id="task_gl2_tc2_lq">
     <title>View Snippet Window</title>
     <shortdesc>Snippet windows allow users to explore the relationships between nodes in more detail. In the HuViz prototype, the "snippet" of text is extracted from the source entry on the Orlando Project.</shortdesc>
     <prolog>
