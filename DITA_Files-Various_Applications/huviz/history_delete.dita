@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sq1_qjh_f3b">
+    <title>Delete Saved Session</title>
+    <shortdesc>Delete saved session.</shortdesc>
+    <taskbody>
+        <context>Sessions that have been saved in the HuViz main menu can also be deleted.<p>To
+                delete a saved session:</p></context>
+        <steps>
+            <step>
+                <cmd>Click the <b>Commands Tab</b>.</cmd>
+                <info><i>Note: If you have an existing session already open, the Commands Tab will
+                        not display the main menu. You need to restart the app (refresh the page or
+                        open a new window) to open a new session.</i></info>
+            </step>
+            <step>
+                <cmd>Under "Script" click the <b>Pick or Provide</b> dropdown menu.</cmd>
+            </step>
+            <step>
+                <cmd>Select the session name from the dropdown menu.<image placement="break"
+                        id="image_ttc_2kh_f3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ad0c034fa-ee30-46f0-8ba4-d3a5cb494f45/datastream/OBJ/view"
+                        height="250"/></cmd>
+            </step>
+            <step>
+                <cmd>Click the <b>trash icon</b> to delete.<image placement="break"
+                        id="image_htx_skh_f3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ab3ecb7c6-e302-4dcb-a866-c88873ab8bfb/datastream/OBJ/view"
+                        height="150"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="history_save.dita"/>
+        <link href="history_menu.dita"/>
+        <link href="history_open.dita"/>
+        <link href="Undo-Redo.dita"/>
+        <link href="history_concept.dita"/>
+    </related-links>
+</task>

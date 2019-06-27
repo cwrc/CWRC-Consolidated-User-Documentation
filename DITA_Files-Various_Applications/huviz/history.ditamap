@@ -6,4 +6,6 @@
     <topicref href="Undo-Redo.dita"/>
     <topicref href="history_save.dita"/>
     <topicref href="history_menu.dita"/>
+    <topicref href="history_open.dita"/>
+    <topicref href="history_delete.dita"/>
 </map>

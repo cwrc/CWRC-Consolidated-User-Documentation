@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="history_save">
-    <title>Save History to File</title>
+    <title>Save Session to File</title>
     <shortdesc>Exports a record of the user's actions.</shortdesc>
     <taskbody>
         <context>The Command History can be exported as a .txt file.<p/></context>
@@ -19,11 +19,14 @@
             </step>
             <step>
                 <cmd>Choose a filename and click "OK."</cmd>
+                <stepresult>Your session is downloaded as a .txt file.</stepresult>
             </step>
         </steps>
     </taskbody>
     <related-links>
         <link href="history_menu.dita"/>
+        <link href="history_open.dita"/>
+        <link href="history_delete.dita"/>
         <link href="Undo-Redo.dita"/>
         <link href="history_concept.dita"/>
     </related-links>

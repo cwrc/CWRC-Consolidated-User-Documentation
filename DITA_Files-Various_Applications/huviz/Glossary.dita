@@ -58,10 +58,8 @@
   </glossentry>
   <glossentry id="id_cxl_gmk_b3b">
     <glossterm>History</glossterm>
-    <glossdef>Keeps a record of the user's actions in the graph. One of the main tabs in the
-      navigation box, the Command History lists every command and the object it was performed on.
-      Users can undo and redo actions using the forward and back arrows. The history can also be
-      exported as a .txt file.</glossdef>
+    <glossdef>A record of the user's actions in the graph. The Command History can be used to undo
+      and redo actions, as well as save and re-open previous sessions.</glossdef>
   </glossentry>
   <glossentry id="glossentry_xz2_nlh_x5">
     <glossterm>Label</glossterm>

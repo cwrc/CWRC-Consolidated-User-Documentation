@@ -10,39 +10,49 @@
         </context>
         <steps>
             <step>
-                <cmd>Click the History Tab to view the Command History.</cmd>
+                <cmd>Click the <b>History Tab</b> to view the Command History.</cmd>
                 <stepresult>The History displays all of the user's previous actions.<image
                         id="image_dfw_jrr_b3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A0ccde9e4-fd2a-46b4-8518-e9c9a75e3bed/datastream/OBJ/view"
-                        height="250"/></stepresult>
+                        height="250" placement="break"/></stepresult>
             </step>
             <step>
-                <cmd>Click the left arrow to go back one step. <image id="image_nym_4sr_b3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A5d0c0063-2809-413a-a779-69ed32309e7c/datastream/OBJ/view"
-                        height="300"/></cmd>
+                <cmd>Click the <b>left arrow</b> to undo an action. <image id="image_nym_4sr_b3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Af3d5c41c-4cb7-49ac-92e4-6ea739457caf/datastream/OBJ/view"
+                        height="350" placement="break"/></cmd>
             </step>
             <step>
-                <cmd>Click the right arrow to go forward one step.</cmd>
-                <info>Once you have reversed past a step, it turns from yellow to blue. You can
-                    delete the blue steps by clicking the black "x." This allows you to remove steps
-                    from the sequence and edit out undesirable moves.<image id="image_pqq_ltr_b3b"
+                <cmd>Click the <b>right arrow</b> to redo an action.</cmd>
+                <info>
+                    <image placement="break" id="image_tl2_fyg_f3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A60c5ff83-049b-4283-bf14-38b4c262e716/datastream/OBJ/view"
+                        height="350"/>
+                </info>
+                <info><i>NOTE: Once you have reversed past a step, it turns from yellow to blue. You
+                        can delete the blue steps by clicking the black "x." This allows you to
+                        remove steps from the sequence and edit out undesirable moves.</i><image
+                        id="image_pqq_ltr_b3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Ae69228e7-1a61-4e71-abea-8143e6f7b49e/datastream/OBJ/view"
-                        height="300"/></info>
+                        height="300" placement="break"/></info>
             </step>
             <step>
-                <cmd>Click the double arrows to jump to the beginning or end of the sequence.</cmd>
-                <info><image id="image_dwh_ttr_b3b"
+                <cmd>Click the <b>double arrows</b> to jump to the beginning or end of the
+                    sequence.</cmd>
+                <info>
+                    <image id="image_dwh_ttr_b3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Acd7dc697-6642-40fb-ab79-65f63269078e/datastream/OBJ/view"
-                        height="200"/></info>
-                <info>After undoing a step, executing a new command will reset the sequence from
-                    that point.</info>
-             
+                        height="200" placement="break"/>
+                </info>
+                <info><i>NOTE: A new action will reset the sequence from that point. In other words,
+                        it will no longer be possible to "undo" actions before this.</i></info>
             </step>
         </steps>
     </taskbody>
     <related-links>
-        <link href="history_concept.dita"/>
         <link href="history_save.dita"/>
         <link href="history_menu.dita"/>
+        <link href="history_open.dita"/>
+        <link href="history_delete.dita"/>
+        <link href="history_concept.dita"/>
     </related-links>
 </task>

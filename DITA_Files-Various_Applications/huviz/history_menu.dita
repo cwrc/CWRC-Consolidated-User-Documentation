@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_gp2_dmr_b3b">
-    <title>Save History to Menu</title>
-    <shortdesc>Saves a record of the user's actions to the menu.</shortdesc>
+    <title>Save Session to Menu</title>
+    <shortdesc>Saves user's progress.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>The user's progress is saved to the browser and can be accessed again from the
+            app's main menu.<p/></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Click the <b>History Tab</b> to view the Command History.<image
+                        placement="break" id="image_rt3_vfg_f3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A0ccde9e4-fd2a-46b4-8518-e9c9a75e3bed/datastream/OBJ/view"
+                        height="250"/></cmd>
+            </step>
+            <step>
+                <cmd>Click the <b>triple bar icon</b> to save your progress.<image placement="break"
+                        id="image_c5r_nrg_f3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Adc1df37e-1670-4acb-b563-bebddffd89da/datastream/OBJ/view"
+                        height="150"/></cmd>
+            </step>
+            <step>
+                <cmd>Choose a name and click "OK."<image placement="break" id="image_j5m_xrg_f3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A59f0dfd9-7caa-423e-a2cf-026d7a8a54b0/datastream/OBJ/view"
+                        height="150"/></cmd>
+                <stepresult>Your session is saved into the HuViz homepage menu.</stepresult>
             </step>
         </steps>
     </taskbody>
     <related-links>
         <link href="history_save.dita"/>
+        <link href="history_open.dita"/>
+        <link href="history_delete.dita"/>
         <link href="Undo-Redo.dita"/>
         <link href="history_concept.dita"/>
     </related-links>
