@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="wander_concept">
+    <title>Wander Mode</title>
+    <shortdesc>Pulls connected nodes into the graph.</shortdesc>
+    <conbody>
+        <p>In "wander-mode," every node you click becomes the central node in the graph. Nodes
+            immediately connected to it will be drawn into the graph. All other nodes will be
+            re-shelved. </p>
+        <p>Unlike in "walk-mode," the pathway is not preserved.</p>
+    </conbody>
+    <related-links>
+        <link href="wander.dita"/>
+        <link href="Walk.dita"/>
+        <link href="walk_concept.dita"/>
+    </related-links>
+</concept>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="wander">
+    <title>Wander</title>
+    <shortdesc>Pulls connected nodes into the graph.</shortdesc>
+    <taskbody>
+        <context>In wander mode, every node you click becomes the central node in the graph. Nodes
+            immediately connected to it will be drawn into the graph. All other nodes will be
+            re-shelved. </context>
+        <steps>
+            <step>
+                <cmd>Load a dataset.</cmd>
+            </step>
+            <step>
+                <cmd>Click the <b>Commands Tab</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Click the verb <b>wander</b>.<image placement="break" id="image_pjh_kxm_f3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ad22b8246-0343-4784-8638-c2928f5145d5/datastream/OBJ/view"
+                        height="300"/></cmd>
+                <stepresult>The wander button turns dark to show that it is active.</stepresult>
+            </step>
+            <step>
+                <cmd>Click a node.</cmd>
+                <info>In this example, the user clicked Sophia King.<image placement="break"
+                        id="image_llc_qxm_f3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ac4d3b235-2def-4478-8e68-fd1f909c4afe/datastream/OBJ/view"
+                        height="450"/></info>
+                <stepresult>Nodes immediately connected to Sophia King are drawn into the central
+                    graph.</stepresult>
+            </step>
+            <step>
+                <cmd>Continue clicking nodes to activate new connections.</cmd>
+                <info>The next node clicked was the location England.<image placement="break"
+                        id="image_qlm_1ym_f3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ac5315682-b574-491b-9a55-efb9cb305067/datastream/OBJ/view"
+                        height="450"/></info>
+                <stepresult>Nodes connected to England are pulled into the graph. </stepresult>
+            </step>
+            <step>
+                <cmd>To exit wander mode, click the verb <b>wander </b>again.</cmd>
+                <stepresult>The walk button is no longer dark, showing that it not
+                    active.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="wander_concept.dita"/>
+        <link href="walk_concept.dita"/>
+        <link href="wander.dita"/>
+    </related-links>
+</task>
