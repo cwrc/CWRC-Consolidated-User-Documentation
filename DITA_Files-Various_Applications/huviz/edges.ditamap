@@ -3,7 +3,7 @@
 <map>
     <title>Edges</title>
     <topicref href="Edges_Concept.dita"/>
-    <topicref navtitle="ViewEdges.dita"/>
-    <topicref navtitle="View_Snippet.dita"/>
-    <topicref navtitle="Graph_EdgeType.dita"/>
+    <topicref href="ViewEdges.dita"/>
+    <topicref href="EdgeSource.dita"/>
+    <topicref href="Graph_EdgeType.dita"/>
 </map>

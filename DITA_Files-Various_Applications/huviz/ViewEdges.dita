@@ -5,12 +5,21 @@
     <shortdesc>Edges are displayed both in the Graph and in the Commands Tab.</shortdesc>
     <taskbody>
         <context>
-            <p>When a user hovers overtop of a connective line, a label appears indicating the nature of the relationship and the number of connections in this category.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A5a67caf4-2cb2-449b-ae66-4c8710647661/datastream/OBJ/view" id="image_xfx_511_2v" align="center"></image></p>
-            <p>Edge can also be viewed in the Commands Tab. The Edges of Selected Nodes bin contains the names of Edges (or relationship types) associated with any nodes in a Selected state.</p>
+            <p>When a user hovers overtop of a connective line, a label appears indicating the
+                nature of the relationship and the number of connections in this category.<image
+                    placement="break"
+                    href="https://cwrc.ca/islandora/object/cwrc%3A9449e03b-732c-460e-a4ba-ddb56b4a1023/datastream/OBJ/view"
+                    id="image_xfx_511_2v" align="center" height="300"/></p>
+            <p>Edge can also be viewed in the Commands Tab. The Edges of Selected Nodes bin contains
+                the names of Edges (or relationship types) associated with any nodes in a Selected
+                    state.<image placement="break" id="image_cct_2zm_f3b"
+                    href="https://cwrc.ca/islandora/object/cwrc%3Ab6ad58f7-5a69-4b72-b130-e6551b40b6be/datastream/OBJ/view"
+                    height="300"/></p>
         </context>
     </taskbody>
     <related-links>
-        <link href="View_Snippet.dita"></link>
+        <link href="EdgeSource.dita"/>
         <link href="Graph_EdgeType.dita"></link>
+        <link href="Edges_Concept.dita"/>
     </related-links>
 </task>

@@ -30,7 +30,7 @@
                     graph.</stepresult>
             </step>
             <step>
-                <cmd>Continue clicking nodes to activate new connections.</cmd>
+                <cmd>Click another node.</cmd>
                 <info>The next node clicked was the location England. <image placement="break"
                         id="image_qrq_mtm_f3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Aeaa7f111-cee6-44c5-8173-f31b44236dca/datastream/OBJ/view"
@@ -40,9 +40,7 @@
                     re-shelved.</stepresult>
             </step>
             <step>
-                <cmd>To exit walk mode, click the verb <b>walk</b> again.</cmd>
-                <stepresult>The walk button is no longer dark, showing that it not
-                    active.</stepresult>
+                <cmd>Continue clicking nodes to activate new connections.</cmd>
             </step>
         </steps>
         <result id="result_sgy_c4m_f3b">The black nodes are a record of the user's actions, showing
@@ -50,6 +48,8 @@
                 placement="break" id="image_brz_5tm_f3b"
                 href="https://cwrc.ca/islandora/object/cwrc%3A115ed08d-e6a0-467f-8839-3943b7a1c07d/datastream/OBJ/view"
                 height="450"/></result>
+        <postreq id="postreq_qn3_rcn_f3b">To exit walk mode, click the verb <b>walk</b> again. The
+            walk button will lighten, indicating that it is no longer active.</postreq>
     </taskbody>
     <related-links>
         <link href="walk_concept.dita"/>

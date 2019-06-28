@@ -37,12 +37,9 @@
                         height="450"/></info>
                 <stepresult>Nodes connected to England are pulled into the graph. </stepresult>
             </step>
-            <step>
-                <cmd>To exit wander mode, click the verb <b>wander </b>again.</cmd>
-                <stepresult>The walk button is no longer dark, showing that it not
-                    active.</stepresult>
-            </step>
         </steps>
+        <postreq id="postreq_qn3_rcn_f3b">To exit walk mode, click the verb <b>wander</b> again. The
+            wander button will lighten, indicating that it is no longer active.</postreq>
     </taskbody>
     <related-links>
         <link href="wander_concept.dita"/>
