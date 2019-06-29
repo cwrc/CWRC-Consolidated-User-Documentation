@@ -9,23 +9,35 @@
             <step>
                 <cmd>Select somes nodes. Remember, nodes can be Selected either by clicking on
                         <b>nodes in the graph</b> or clicking on a <b>Class</b> in the Commands
-                        Tab.<image
-                        href="https://cwrc.ca/islandora/object/cwrc%3A2c0032f3-86d0-41e7-8b8a-335ad404ee1e/datastream/OBJ/view"
-                        id="image_lj1_xzy_1v" placement="break" align="center"/></cmd>
-                <info><i>NOTE: When no nodes are Selected, the Edges of Selected Nodes bin will
-                        appear empty.</i></info>
-                <stepresult>After Selecting nodes, the Edges of Selected nodes bin will fill up with
-                    associated Edges. In this example, clicking on the node </stepresult>
+                        Tab.<image placement="break" id="image_u23_msb_g3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A7a4cce48-aa7f-4a40-9288-1a45d9bca4aa/datastream/OBJ/view"
+                        height="500"/></cmd>
+                <info><i>NOTE: When no nodes have been Selected, the Edges of the Selected Nodes bin
+                        will appear empty.</i></info>
+                <stepresult>Once you have Selected your nodes, the Edges of the Selected Nodes bin
+                    at the bottom of the Commands Tab will fill up with associated Edges. In this
+                    example, clicking on the class "relgion" to Select it has two effects. First, in
+                    the graph nodes classed as religions turn bold to show that  they have been
+                    selected. Second, the Edges of the Selected Nodes bin shows two relationship
+                    types connected to "religion."<image id="image_ypj_45b_g3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A74108efe-1e57-4a0a-9874-d25db796fb51/datastream/OBJ/view"
+                    /></stepresult>
             </step>
             <step>
-                <cmd>Select a type of connection. Click on an Edge in the Edges of Selected nodes
-                        bin.<image
-                        href="https://cwrc.ca/islandora/object/cwrc%3Ad2737f88-d459-4ccb-be90-60615b98eb7b/datastream/OBJ/view"
-                        id="image_gbg_f1z_1v" placement="break" align="center"/></cmd>
+                <cmd>Choose a type of connection by clicking on an Edge in the Edges of the Selected
+                    Nodes bin.<image placement="break" id="image_i3k_ptb_g3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Aca422c17-307e-41c8-ab0d-fba0a2dd5418/datastream/OBJ/view"
+                        height="500"/></cmd>
             </step>
         </steps>
         <result>Nodes that share this Edge type will be dragged into the central Graph.</result>
-        <example>In the Ada Byron dataset, selecting the "SpatialThing" Class type revealed that Ada Byron was connected to two Regions by death. Clicking on the "deathConnectionToRegion" drawer in the EdgesofSelectedNodes bin dragged those regions (Nottinghamshire and Middlesex) into the central Graph.</example>
+        <example>In this example, Selecting the class "Religion" shows the various religious
+            organizations associated with the Virginia Woolf dataset. Clicking on the "hasReligion"
+            predicate type in the Edges of the Selected Nodes bin further reveals the persons with
+            religious affiliations. Viriginia Woolf, for instance, is affiliated with three
+            religious groups.<image placement="break" id="image_p5p_hvb_g3b"
+                href="https://cwrc.ca/islandora/object/cwrc%3A298ee89d-f152-47a0-be8a-7b2a43aec889/datastream/OBJ/view"
+                height="300" align="center"/></example>
     </taskbody>
     <related-links>
         <link href="Edges_Concept.dita"></link>
