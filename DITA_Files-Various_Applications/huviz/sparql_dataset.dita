@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="sparql_dataset">
+    <title>Generate Dataset Using SPARQL</title>
+    <shortdesc>Generate a dataset from a SPARQL Query.</shortdesc>
+    <taskbody>
+        <context>SPARQL is a query language used to search for and generate a dataset from a
+            database, as opposed to using a dataset that has been pre-loaded from a turtle
+            file.<p/></context>
+        <steps>
+            <step>
+                <cmd>Click the <b>Commands</b> tab to open the main control panel.</cmd>
+            </step>
+            <step>
+                <cmd>At the top of the panel, click the drop down menu labelled <b>SPARQL</b>.<image
+                        placement="break" id="image_szb_t5k_g3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A711a366a-cc62-4eac-91ef-a103e09d4365/datastream/OBJ/view"
+                        height="300"/></cmd>
+            </step>
+            <step>
+                <cmd>Choose a database to query.<image placement="break" id="image_tbn_3wk_g3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Aa7ab31bf-35b0-401d-b194-0addb5b439ec/datastream/OBJ/view"
+                        height="250"/></cmd>
+                <info><i>NOTE: In this exampe, the user chose the CWRC SPARQL database. You can also
+                        search public databases that use RDF linked data like DBpedia. Or, you can
+                        upload a database from a file or URL (must be formatted as a .ttl
+                    file).</i></info>
+            </step>
+            <step>
+                <cmd>Enter your query in the Find box.<image placement="break"
+                        id="image_mbh_cvk_g3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A7085cec2-546c-4981-a34e-38713829f30d/datastream/OBJ/view"
+                        height="150"/></cmd>
+                <stepresult>If the search turns up matches, the text box will turn green. Matching
+                    terms will then appear in a pop-up window. If the search has zero matches, the
+                    text box will remain grey.</stepresult>
+            </step>
+            <step>
+                <cmd>Select a matching term from the pop-up window.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the number of nodes to to load in your initial dataset.<image
+                        placement="break" id="image_ctv_xwk_g3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A31e286a0-3e93-42fa-b91e-dc549602719a/datastream/OBJ/view"
+                        height="200"/></cmd>
+                <info>NOTE: Datasets generated from a SPARQL query are updated live. Activating a
+                    node, by dragging it into the centre of the graph for example, will generate
+                    another query and retrieve additional matches from the database.</info>
+            </step>
+            <step>
+                <cmd>Click the <b>Load</b> button.<image placement="break" id="image_lws_kvk_g3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A55b01e75-5612-43f5-a6c4-17f62692a60b/datastream/OBJ/view"
+                        height="175"/></cmd>
+            </step>
+        </steps>
+        <example>In this example, the user searched the CWRC SPARQL biography database. After
+            searching for the term "Elizabeth I," the user found a match and generated a dataset of
+            nodes connected to this subject.</example>
+    </taskbody>
+    <related-links>
+        <link href="Load_Concept.dita"/>
+        <link href="Provide_Dataset.dita"/>
+        <link href="Load_Concept.dita"/>
+    </related-links>
+</task>

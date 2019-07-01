@@ -48,7 +48,7 @@
                     <substep>
                         <cmd>OR scroll down to "Provide New Ontology" to load your own
                             ontology.</cmd>
-                        <info>Just as with the dataset, you can upload your own ontology via local
+                        <info>Just like with a dataset you can upload your own ontology via local
                             file or URL.</info>
                  
                     </substep>
@@ -65,5 +65,6 @@
     <related-links>
         <link href="Load_Concept.dita"/>
         <link href="Pre-Load_Dataset.dita"/>
+        <link href="sparql_dataset.dita"/>
     </related-links>
 </task>

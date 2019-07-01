@@ -101,11 +101,6 @@
     <glossterm>Select</glossterm>
     <glossdef>Selects node to execute a command when used in combination with a Verb.</glossdef>
   </glossentry>
-  <glossentry id="glossentry_qp3_hlh_x5">
-    <glossterm>Snippet</glossterm>
-    <glossdef>Contextualizes the relationship between two nodes by giving users access to relevant
-      information from the source text.</glossdef>
-  </glossentry>
   <glossentry id="glossentry_xrt_flh_x5">
     <glossterm>Stage</glossterm>
     <glossdef>Visual representation of the dataset, containing the three main areas: central Graph,
@@ -129,6 +124,11 @@
     <glossdef>Classifies nodes according to current state, such as: Activated, Discarded,
       Graphed.</glossdef>
   </glossentry>
+  <glossentry id="glossentry_nrc_cmk_g3b">
+    <glossterm>SPARQL</glossterm>
+    <glossdef>A query language used to search for and generate a dataset from a database; as opposed
+      to using a dataset that has been pre-loaded from a turtle file.</glossdef>
+  </glossentry>
   <glossentry id="glossentry_gk2_5qh_x5">
     <glossterm>Triple</glossterm>
     <glossdef>Formal statement describing a relationship in terms of a
@@ -137,15 +137,13 @@
   <glossentry id="id_s3w_vnk_b3b">
     <glossterm>Walk</glossterm>
     <glossdef>In "walk-mode," every node you click becomes the central node in the graph. Nodes
-      immediately connected to it will be draw into the graph. This mode preserves the user's
-      "pathway," in that previously clicked nodes (the central node) will turn black and remain in
-      the graph. All other periferral nodes will be re-shelved, once a new central node has been
-      chosen.</glossdef>
+      immediately connected to it will be draw into the graph. Previously clicked nodes will turn
+      black and remain in the graph, preserving a record of the user's "pathway."</glossdef>
   </glossentry>
   <glossentry id="id_lgs_xnk_b3b">
     <glossterm>Wander</glossterm>
     <glossdef>In "wander-mode," every node you click becomes the central node in the graph. Nodes
       immediately connected to it will be drawn into the graph. All other nodes will be shelved.
-      Unlike in "walk-mode," the pathway is not preserved.</glossdef>
+      Unlike in "walk-mode," the user's pathway is not preserved.</glossdef>
   </glossentry>
 </glossgroup>

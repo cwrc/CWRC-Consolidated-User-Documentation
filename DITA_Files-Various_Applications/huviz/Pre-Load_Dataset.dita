@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_gkz_yfl_w5">
-    <title> Choose a Pre-Loaded Dataset</title>
+    <title>Choose a Pre-Loaded Dataset</title>
     <shortdesc>Choose a pre-loaded dataset from the HuViz collection.</shortdesc>
     <prolog>
         <author>Chelsea Miya</author>
@@ -27,7 +27,10 @@
                 <cmd>Click the Commands tab to open the main control panel.</cmd>
             </step>
             <step>
-                <cmd>At the top of the panel, click the drop down menu labelled "Pick a Dataset."<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Af4ef8a39-5d38-4605-b01e-af619065f53e/datastream/OBJ/view" id="image_llq_5hw_1v" placement="break" align="center"></image></cmd>
+                <cmd>At the top of the panel, click the drop down menu labelled <b>Pick a
+                        Dataset</b>.<image
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af4ef8a39-5d38-4605-b01e-af619065f53e/datastream/OBJ/view"
+                        id="image_llq_5hw_1v" placement="break" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Hover over specific datasets to view a list of attributes.</cmd>
@@ -35,7 +38,6 @@
             </step>
             <step>
                 <cmd>Click on the dataset to load.</cmd>
-                <info>The size of a dataset (i.e. number of nodes and predicates it contains) will effect the loading time. </info>
             </step>
         </steps>
         <result>Once the data has finished parsing, the process is complete. The dataset has sucessfully loaded and nodes are in orbit, ready for action.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A9e667f00-cbe4-4235-bab6-fae0dd6509f2/datastream/OBJ/view" id="image_wdv_sqs_w5" placement="break" align="center"></image></result>
@@ -43,6 +45,7 @@
     <related-links>
         <link href="Load_Concept.dita"/>
         <link href="Provide_Dataset.dita"/>
+        <link href="sparql_dataset.dita"/>
     
     </related-links>
 </task>

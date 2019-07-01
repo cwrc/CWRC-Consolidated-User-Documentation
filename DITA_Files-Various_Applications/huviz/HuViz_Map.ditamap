@@ -8,7 +8,7 @@
   <topicref href="Getting_Started_HuViz.ditamap" format="ditamap"></topicref></topichead>
  <topichead navtitle="Explore Connections">
   <topicref href="ExploreConnections.ditamap" format="ditamap"></topicref></topichead>
- <topichead navtitle="Customize Appearance">
-  <topicref href="SettingsGuide.dita"></topicref>
+ <topichead navtitle="Graph Settings">
+  <topicref href="Settings.ditamap" format="ditamap"/>
  </topichead>
 </map>

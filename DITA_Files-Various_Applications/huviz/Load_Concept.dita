@@ -10,5 +10,6 @@
     <related-links>
         <link href="Pre-Load_Dataset.dita"/>
         <link href="Provide_Dataset.dita"/>
+        <link href="sparql_dataset.dita"/>
     </related-links>
 </concept>

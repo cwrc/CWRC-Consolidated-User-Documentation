@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="settingsadjust">
+    <title>Adjust Settings</title>
+    <shortdesc>Adjust graph settings.</shortdesc>
+    <taskbody>
+        <context>An introduction to the various ways to customize the graph.<p>
+                <table frame="all" rowsep="1" colsep="1" id="table_mgm_pzb_g3b">
+                    <title>Intro to Settings</title>
+                    <tgroup cols="3">
+                        <colspec colname="c1" colnum="1" colwidth="1*"/>
+                        <colspec colname="newCol2" colnum="2" colwidth="2.29*"/>
+                        <colspec colname="c2" colnum="3" colwidth="2.4*"/>
+                        <thead>
+                            <row>
+                                <entry>Feature</entry>
+                                <entry>Description</entry>
+                                <entry>Example</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row valign="top">
+                                <entry><b>Reset</b></entry>
+                                <entry valign="top">
+                                    <p>Reset settings to default mode.</p>
+                                </entry>
+                                <entry><image id="image_trf_g1c_g3b"
+                                        href="https://cwrc.ca/islandora/object/cwrc%3A378e594f-e87f-4670-83ff-aac83a9071a7/datastream/OBJ/view"
+                                        height="200"/></entry>
+                            </row>
+                            <row>
+                                <entry valign="top"><b>Labels:</b><ul id="ul_jnv_vc3_g3b">
+                                        <li>Label Size</li>
+                                        <li>Boxed Labels</li>
+                                        <li>Edge Labels</li>
+                                        <li>etc.</li>
+                                    </ul></entry>
+                                <entry valign="top">Adjust node and edge labels.</entry>
+                                <entry><image id="image_hhf_hxj_g3b"
+                                        href="https://cwrc.ca/islandora/object/cwrc%3A5492a9a9-18e0-49cb-83b5-96646221793a/datastream/OBJ/view"
+                                        height="275" align="center"/><image placement="break"
+                                        id="image_ezw_pxj_g3b"
+                                        href="https://cwrc.ca/islandora/object/cwrc%3Ae77052b9-369e-4249-8c00-961d2663115c/datastream/OBJ/view"
+                                        height="215" align="center"/></entry>
+                            </row>
+                            <row>
+                                <entry valign="top"><b>Layout:</b><ul id="ul_ipb_l13_g3b">
+                                        <li>Charge</li>
+                                        <li>Gravity</li>
+                                        <li>Link Distance</li>
+                                    </ul></entry>
+                                <entry valign="top">Adjust node configuration:<ul
+                                        id="ul_mtv_kb3_g3b">
+                                        <li>repulsion between nodes (charge),</li>
+                                        <li>attraction to the centre of the graph (gravity)</li>
+                                        <li>length of links (link distance)</li>
+                                    </ul></entry>
+                                <entry>
+                                    <image placement="break" id="image_vtv_tb3_g3b"
+                                        href="https://cwrc.ca/islandora/object/cwrc%3A0e095e51-e553-4670-abdb-24e029ebd097/datastream/OBJ/view"
+                                        height="250" align="center"/>
+                                    <image placement="break" id="image_kjw_wb3_g3b"
+                                        href="https://cwrc.ca/islandora/object/cwrc%3A62a0101e-9abb-4391-aebd-34ad9e42f4e9/datastream/OBJ/view"
+                                        height="250" align="center"/>
+                                </entry>
+                            </row>
+                            <row>
+                                <entry valign="top"><b>Sizing:</b><ul id="ul_ndy_f2k_g3b">
+                                        <li>Shelf Radius</li>
+                                        <li>Fisheye Zoom</li>
+                                        <li>Fisheye Radius</li>
+                                        <li>etc.</li>
+                                    </ul></entry>
+                                <entry valign="top">Control size and proportion of visual elements
+                                    like shelf, nodes, edges, etc.<p/><i> **Tip: Fisheye Zoom and
+                                        Fisheye Radius act as a magnifying glass to make large
+                                        datasets easier to comprehend.</i></entry>
+                                <entry>
+                                    <image placement="break" id="image_azg_wfk_g3b"
+                                        href="https://cwrc.ca/islandora/object/cwrc%3A452ec4fb-5cbc-4a19-89fd-53980aaf1664/datastream/OBJ/view"
+                                        height="325" align="center"/>
+                                </entry>
+                            </row>
+                            <row>
+                                <entry valign="top"><b>Styling:</b><ul id="ul_ay2_ygk_g3b">
+                                        <li>Dark Theme</li>
+                                        <li>Drop Shadows</li>
+                                        <li>Display Angle</li>
+                                        <li>etc.</li>
+                                    </ul></entry>
+                                <entry valign="top">Additional ways to stylize the graph.</entry>
+                                <entry>
+                                    <image placement="break" id="image_sxs_3hk_g3b"
+                                        href="https://cwrc.ca/islandora/object/cwrc%3A08cbf933-0a12-49a5-bc45-ee60473dbea6/datastream/OBJ/view"
+                                        height="325" align="center"/>
+                                </entry>
+                            </row>
+                            <row valign="top">
+                                <entry valign="top"><b>Captions</b></entry>
+                                <entry>Add a title to the graph.<p><i>**Tip: The filename of the
+                                            dataset is the default title. To edit the title/subtitle
+                                            choose "Custom Captions" in the dropdown
+                                    menu.</i></p></entry>
+                                <entry>
+                                    <image placement="break" id="image_p54_cjk_g3b"
+                                        href="https://cwrc.ca/islandora/object/cwrc%3A49f0c80a-1205-4510-8839-86c43f7cfe28/datastream/OBJ/view"
+                                        height="150" align="center"/>
+                                </entry>
+                            </row>
+                            <row>
+                                <entry valign="top"><b>SPARQL</b></entry>
+                                <entry valign="top">Adjust SPARQL query settings; used to search for
+                                    and generate a dataset from a database, as opposed to using a
+                                    dataset that has been pre-loaded from a turtle file.<p><i>**Tip:
+                                            SPARQL queries can generate enormous datasets. To limit
+                                            the graph size adjust the "Default Node
+                                    Limit."</i></p></entry>
+                                <entry>
+                                    <image placement="break" id="image_ut3_jlk_g3b"
+                                        href="https://cwrc.ca/islandora/object/cwrc%3Aeddd0938-a262-4110-bac9-bee2ce2c78cc/datastream/OBJ/view"
+                                        height="225" align="center"/>
+                                </entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p></context>
+    </taskbody>
+    <related-links>
+        <link href="SettingsGuide.dita"/>
+    </related-links>
+</task>
