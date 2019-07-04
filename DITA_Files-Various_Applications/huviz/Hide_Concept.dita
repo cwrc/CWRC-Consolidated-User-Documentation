@@ -11,7 +11,7 @@
   </copyright>
   <critdates>
    <created date="2016-02-03"></created>
-   <revised modified="2016-02-03"></revised>
+   <revised modified="2018-07-04"/>
   </critdates>
   <metadata>
    
@@ -19,8 +19,17 @@
   </metadata>
  </prolog>
  <conbody>
-  <p>Once removed, Hidden nodes will be no longer appear in either the central Graph, Shelf or Discard bin.<note>However, Hidden nodes are not permanently deleted from the dataset and can be retrieved using the Commands Tab.</note><note>Unlike most other Verbs, this function cannot be executed directly in the Graph. To Hide nodes, the user must execute the Verb in the Commands Tab.</note></p>
-  <p></p>
+  <p>Once removed, Hidden nodes will be no longer appear in either the central Graph, Shelf or
+   Discard bin.</p>
+  <p>
+   <image placement="break" id="image_g5x_f5h_h3b"
+    href="https://cwrc.ca/islandora/object/cwrc%3A29b992d3-87a9-45dc-b5e9-c31fc662b2f5/datastream/OBJ/view"
+    height="250" align="center"/>
+   <note>Hidden nodes are not permanently deleted from the dataset and can be Retrieved using the
+    Commands Tab.</note>
+   <note>Unlike most other Verbs, this function cannot be executed directly in the Graph. To Hide
+    nodes, the user must execute the Verb in the Commands Tab.</note>
+  </p>
  </conbody>
  <related-links>
   <link href="Command_Execute_Verbs.dita"></link>

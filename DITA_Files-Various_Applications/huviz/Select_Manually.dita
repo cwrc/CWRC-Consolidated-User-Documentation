@@ -11,7 +11,7 @@
         </copyright>
         <critdates>
             <created date="2016-02-03"></created>
-            <revised modified="2016-02-03"></revised>
+            <revised modified="2018-07-02"/>
         </critdates>
         <metadata>
             
@@ -25,11 +25,15 @@
         </context>
         <steps id="steps_tdq_q2h_x5">
             <step>
-                <cmd>Hover over desired Node.<image href="https://cwrc.ca/islandora/object/cwrc%3Ab0851b56-88ff-4195-9737-7dcb043c44c1/datastream/OBJ/view" id="image_gfh_rhh_x5" placement="break" align="center"></image></cmd>
+                <cmd>Hover over desired Node.<image
+                        href="https://cwrc.ca/islandora/object/cwrc%3Abc7f0517-ea1a-4004-9e26-8ba07a087a44/datastream/OBJ/view"
+                        id="image_gfh_rhh_x5" placement="break" align="center" height="200"/></cmd>
             </step>
             <step>
                 <cmd>Click node once to Select.</cmd>
-                <info>The node will turn Bold, indicated that it has been Selected.<image href="https://cwrc.ca/islandora/object/cwrc%3Ac776fa91-826c-4cef-832a-778abb8fbe57/datastream/OBJ/view" id="image_iz1_dkh_x5" placement="break" align="center"></image></info>
+                <info>The node will turn Bold, indicated that it has been Selected.<image
+                        href="https://cwrc.ca/islandora/object/cwrc%3Af7a17f16-f99f-4404-928b-a88a381b3a24/datastream/OBJ/view"
+                        id="image_iz1_dkh_x5" placement="break" align="center" height="200"/></info>
             </step>
         </steps>
         <postreq>

@@ -2,7 +2,20 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_lfh_pbn_2v">
  <title>How to Identify Selected Nodes</title>
- <shortdesc>It is easy to tell the difference between Selected from Unselected nodes.</shortdesc>
+ <shortdesc>Differentiating between Selected and Unselected nodes.</shortdesc>
+ <prolog>
+  <author>Chelsea Miya</author>
+  <copyright>
+   <copyryear year="2014"/>
+   <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+    Attribution-NonCommercial 4.0 International License</copyrholder>
+  </copyright>
+  <critdates>
+   <created date="2016-02-03"/>
+   <revised modified="2018-07-03"/>
+  </critdates>
+  <metadata/>
+ </prolog>
  <conbody>
   <p>
    <table frame="all" rowsep="1" colsep="1" id="table_ypr_vxk_w5">
@@ -23,31 +36,40 @@
        <entry>Set/Class Bins</entry>
        <entry>
         <ul id="ul_hf2_31h_x5">
-         <li>Selected Set types are brown</li>
-         <li>Selected Class types have a darker shade.</li>
+         <li>Selected Sets and Classes turn a darker shade.</li>
         </ul>
        </entry>
-       <entry><image href="https://cwrc.ca/islandora/object/cwrc%3A288c3dba-d8ed-4e2e-8885-756a50920eea/datastream/OBJ/view" id="image_rpj_szm_2v" align="center" placement="break"></image></entry>
+       <entry>
+        <image
+         href="https://cwrc.ca/islandora/object/cwrc%3A3a18d9fe-0351-4dc1-ab4b-b94e7af63785/datastream/OBJ/view"
+         id="image_rpj_szm_2v" align="center" placement="break" height="200"/>
+        <image placement="break" id="image_xwy_3qx_g3b"
+         href="https://cwrc.ca/islandora/object/cwrc%3A8385f0e0-fc14-42af-be41-89b2ac340c1a/datastream/OBJ/view"
+         height="250" align="center"/>
+       </entry>
       </row>
       <row>
        <entry>Current Command Line</entry>
        <entry>
         <ul id="ul_g11_gyk_w5">
-         <li>If nodes were selected by type, the name of the Set or Class type will be listed.</li>
-         <li>If nodes were selected in the Graph (by manually clicking the nodes), an abreviated version of the node names will be listed.</li>
+         <li>The names of Selected nodes appear in the Current Command.</li>
         </ul>
        </entry>
-       <entry><image href="https://cwrc.ca/islandora/object/cwrc%3A5ad16609-033f-400b-aa15-559ef9ba0686/datastream/OBJ/view" id="image_b34_t1n_2v" align="center" placement="break"></image></entry>
+       <entry><image
+         href="https://cwrc.ca/islandora/object/cwrc%3A1bf3db75-6fac-4113-8923-859a816258a0/datastream/OBJ/view"
+         id="image_b34_t1n_2v" align="center" placement="break" height="200"/></entry>
       </row>
       <row>
        <entry>Graph</entry>
        <entry>
         <ul id="ul_akx_31h_x5">
-         <li>Selected nodes will be bolded.</li>
+         <li>Selected nodes are bolded in the Graph.</li>
         </ul>
        </entry>
        <entry>
-        <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A4cb84867-e759-43ed-9dac-d976b5ee7ae5/datastream/OBJ/view" id="image_vb4_gcn_2v" align="center"></image>
+        <image placement="break"
+         href="https://cwrc.ca/islandora/object/cwrc%3A34d8044f-75de-4ad2-bf10-cfe7bcc6bfa6/datastream/OBJ/view"
+         id="image_vb4_gcn_2v" align="center" height="200"/>
        </entry>
       </row>
      </tbody>

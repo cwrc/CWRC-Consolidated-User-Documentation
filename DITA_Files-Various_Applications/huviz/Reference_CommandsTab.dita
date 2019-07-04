@@ -20,8 +20,9 @@
  </prolog>
  <conbody>
   <ul id="ul_ly3_5nd_w5">
-   <li>Certain commands, like Label and Hide, cannot be executed manually. The Commands Tab gives users access to the full range of tools.</li>
-   <li>Users also have more control over how those tools are implemented. For example, when Working manually, only a single node or node cluster can be manipulated at a given time. In the Commands Tab, users have the option to filter nodes by type. </li>
+   <li>The Commands Tab gives you access to the full range of tools.</li>
+   <li>You can also perform actions on groups of nodes, filtering them by Set, Class or Predicate
+    type.</li>
   </ul>
   <image id="image_w4g_kfp_b3b"
    href="https://cwrc.ca/islandora/object/cwrc%3A2f3f5ab3-bc29-48b5-9ab4-b81cdafbba0d/datastream/MEDIUM_SIZE/view"

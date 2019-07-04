@@ -11,7 +11,7 @@
         </copyright>
         <critdates>
             <created date="2016-02-03"></created>
-            <revised modified="2016-02-03"></revised>
+            <revised modified="2018-07-04"/>
         </critdates>
         <metadata>
             
@@ -22,16 +22,26 @@
         <context></context>
         <steps>
             <step>
-                <cmd>Click and hold the node, illuminating the green Shelf.<image href="https://cwrc.ca/islandora/object/cwrc%3Ae7c8c005-9c42-49b8-a15b-a211a8588ff4/datastream/OBJ/view" id="image_kkb_3l1_cv" placement="break" align="left" width="6in"></image></cmd>
+                <cmd>Click and hold the node, illuminating the green Shelf.<image
+                        href="https://cwrc.ca/islandora/object/cwrc%3A5ed422c5-7794-4626-b20a-a77ef5664597/datastream/OBJ/view"
+                        id="image_kkb_3l1_cv" placement="break" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Drag the node to the Shelf.<image href="https://cwrc.ca/islandora/object/cwrc%3A36607fd7-7c20-4b9b-8503-735e30a34904/datastream/OBJ/view" id="image_hrb_cm1_cv" placement="break" align="left" width="7.5in"></image></cmd>
+                <cmd>Drag the node to the Shelf.<image
+                        href="https://cwrc.ca/islandora/object/cwrc%3A411f0a86-61ac-4a46-a3fd-f84ec5a01b34/datastream/OBJ/view"
+                        id="image_hrb_cm1_cv" placement="break" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Release the clicker to drop the node.<image href="https://cwrc.ca/islandora/object/cwrc%3A4b16a314-40dd-45b0-9c5e-3d26eb112d37/datastream/OBJ/view" id="image_orm_km1_cv" placement="break" align="left" width="7in"></image></cmd>
+                <cmd>Release the clicker to drop the node.<image
+                        href="https://cwrc.ca/islandora/object/cwrc%3Afd0de238-7b17-48ed-b4dc-d2dd260c528f/datastream/OBJ/view"
+                        id="image_orm_km1_cv" placement="break" align="center"/></cmd>
             </step>
         </steps>
-        <example>The node "Quebec" has been returned to the Shelf and is no longer in the central Graph.<note>In the previous example, the node was dragged to the Shelf from the central Graph. However, nodes can also be shelved from the Discard bin.<image href="https://cwrc.ca/islandora/object/cwrc%3A143fa573-bca9-4d59-857b-662dd81674e4/datastream/OBJ/view" id="image_b5x_jn1_cv" placement="break" align="left" width="9in"></image></note></example>
+        <example>The node "Quebec" has been returned to the Shelf and is no longer in the central Graph.<note>In the
+                previous example, the node was dragged to the Shelf from the central Graph. However,
+                nodes can also be shelved from the Discard bin.<image
+                    href="https://cwrc.ca/islandora/object/cwrc%3A1203ce9c-a3a6-4b2c-a167-03e62285c04c/datastream/OBJ/view"
+                    id="image_b5x_jn1_cv" placement="break" align="left" height="550"/></note></example>
     </taskbody>
     <related-links>
         <link href="Shelve_Concept.dita"></link>

@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_xmf_kzd_w5">
     <title>Execute Verbs in Commands Tab</title>
-    <shortdesc>In the Commands Tab, actions are automatically executed when a selected Set or Class type is combined with a Verb.</shortdesc>
+    <shortdesc>Work in the Commands Tab instead of directly in the Graph.</shortdesc>
     <prolog>
         <author>Chelsea Miya</author>
         <copyright>
@@ -19,18 +19,34 @@
         </metadata>
     </prolog>
     <taskbody>
-        <context></context>
+        <context>Execute Commands by combining a Set or Class Type with a Verb.</context>
         <steps id="steps_elp_lb2_w5">
             <step>
-                <cmd>Select nodes, either manually or by clicking on a Set or Class type.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3Ae78bc233-b502-4e88-9d90-54426625c8b1/datastream/OBJ/view" id="image_ssb_s5z_dv" align="center" width="11in"></image></cmd>
+                <cmd>Select nodes, either manually or by clicking on a Set or Class type.<image
+                        placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A0fd8a4fd-b6b5-454a-b23d-ab6e1eaa1e22/datastream/OBJ/view"
+                        id="image_ssb_s5z_dv" align="center"/><image placement="break"
+                        id="image_ygh_wyh_h3b"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ad52ae389-8d7a-4b8f-aad8-d251139647e2/datastream/OBJ/view"
+                        align="center" height="500"/></cmd>
             </step>
             <step>
-                <cmd>Click on a Verb to complete the formula and execute the action.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A0c1613b3-513e-4c94-b540-eb88e5782cd2/datastream/OBJ/view" id="image_xvs_bvz_dv" align="center" width="11in"></image></cmd>
+                <cmd>Click on a Verb to complete the formula and execute the action.<image
+                        placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A510b3ad3-f0a8-428e-9177-03c489c7e15a/datastream/OBJ/view"
+                        id="image_xvs_bvz_dv" align="center" height="300"/></cmd>
                 <info>Continue clicking on Verbs to execute a sequence of actions.</info>
             </step>
         </steps>
-        <example>In this case,  choosing the Set "Graphed" and then clicking the Verb "Label" resulted in the graphed nodes being labelled.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3Af876eba6-e64c-42ab-b449-5f68707b5b55/datastream/OBJ/view" id="image_fwn_lvz_dv" align="center" width="11in"></image></example>
-        <postreq>Note that the Verb in the Commands Tab is still blank. This is because, once a Set or Class type has been chosen, the user can continue to execute a series of Verbs.</postreq>
+        <example>In this example, choosing the Set "Graphed" and then clicking the Verb "Label"
+            resulted in the Graphed nodes being labelled.<image placement="break"
+                id="image_pfr_kzh_h3b"
+                href="https://cwrc.ca/islandora/object/cwrc%3Ac04a94d8-9cf7-4e26-9e7b-11bcb1d64d49/datastream/OBJ/view"
+                height="600" align="center"/></example>
+        <postreq>Once a Set or Class type has been Selected, you can click on multiple Verbs to
+            execute a series of actions. For example, you could choose to Activate → Label → Pin a
+            group of nodes. <p>Finally, click the nodes manually (or unclick the Set or Class bin)
+                to Unselect.</p></postreq>
     </taskbody>
     <related-links>
         <link href="Reference_CommandsTab.dita"></link>

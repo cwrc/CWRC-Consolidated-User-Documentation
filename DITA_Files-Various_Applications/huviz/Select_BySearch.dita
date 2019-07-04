@@ -11,7 +11,7 @@
         </copyright>
         <critdates>
             <created date="2016-02-03"></created>
-            <revised modified="2016-02-18"></revised>
+            <revised modified="2018-07-03"/>
         </critdates>
         <metadata>
             
@@ -20,22 +20,38 @@
     </prolog>
     <taskbody>
         <context>
-            <p>The Like function searches the node names in the Dataset for textual matches. Matching nodes are then selected to execute a Command.<note>The Like bar offers full Regex power. For example, searching "19\d\d" will return matches for numbers in the range 1900-1999.</note><note>ONLY the <i>node names</i> are searched. The Like function does NOT perform searches on other features like Set/Class types or Snippet text.</note></p>
+            <p>The Matching function searches the node names in the Dataset for matches. Matching
+                nodes are then Selected to execute a Command.<note>The Like bar offers full Regex
+                    power. For example, searching "19\d\d" will return matches for numbers in the
+                    range 1900-1999.</note><note>ONLY the <i>node names</i> are searched. The Like
+                    function does NOT perform searches on other features like Set/Class types or
+                    Snippet text.</note></p>
         </context>
         <steps id="steps_syp_vgt_w5">
             <step>
-                <cmd>Type a search term into the Like bar.<image href="https://cwrc.ca/islandora/object/cwrc%3Ac4db991e-b0bc-411b-902b-d58f292bc19b/datastream/OBJ/view" id="image_rpj_smw_1v" placement="break" align="center"></image></cmd>
-            </step>
-            <step>
-                <cmd>Click a Set or Class type to choose a category of nodes to perform the search on. <image href="https://cwrc.ca/islandora/object/cwrc%3A678f800d-b3f8-4248-8581-f1b395f08fc4/datastream/OBJ/view" id="image_qtx_bnw_1v" placement="break" align="center"></image></cmd>
-                <info>To search <i>all</i> nodes for matches, click All under Sets.</info>
-                <info>Notice that the Current Command will update to reflect the Search term and selected Set/Class type.<image href="https://cwrc.ca/islandora/object/cwrc%3A0e376a9a-defb-4ef1-9ef0-9b458b4aa397/datastream/OBJ/view" id="image_vn5_rnw_1v" placement="break" align="center"></image></info>
+                <cmd>Type a term into the search bar.<image
+                        href="https://cwrc.ca/islandora/object/cwrc%3A23102e2f-138c-452b-bde5-18be93c6a963/datastream/OBJ/view"
+                        id="image_rpj_smw_1v" placement="break" align="center" height="400"/></cmd>
+                <info><i>By default, All nodes are searched for matches. But you can narrow the
+                        search to certain Sets or Classes by clicking on them.</i></info>
+                <stepresult>After typing in a search, the Current Command will update to contain the
+                    search term and selected Set/Class type.<image id="image_b53_jp2_h3b"/><image
+                        id="image_gkw_jp2_h3b"/><image
+                        href="https://cwrc.ca/islandora/object/cwrc%3A2b1442bf-a1a9-4e56-8c11-cbe8e7e002c7/datastream/OBJ/view"
+                        id="image_qtx_bnw_1v" placement="break" align="center" height="150"/><image
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ad53524d6-4f2f-4b13-92a4-56e624f08daf/datastream/OBJ/view"
+                        id="image_vn5_rnw_1v" placement="break" align="center" height="400"
+                    /></stepresult>
             </step>
             <step>
                 <cmd>Click on the desired Verb to choose an action.<image href="https://cwrc.ca/islandora/object/cwrc%3Ae18c6ae6-ca3a-4c7a-8a8a-8202297bfcff/datastream/OBJ/view" id="image_d2l_bpw_1v" placement="break" align="center"></image></cmd>
             </step>
         </steps>
-        <result>In this example, the user searched for ALL nodes LIKE "University" and then executed the VERB Activate. As a result, nodes with names containing "University" were pulled into the graph.<image href="https://cwrc.ca/islandora/object/cwrc%3A56f17ece-2ccc-4ec3-a2ae-6d8663ce27e4/datastream/OBJ/view" id="image_tkk_qpw_1v" placement="break" align="center"></image></result>
+        <result>In this example, the user searched for <b>ALL</b> nodes <b>MATCHING</b> "University"
+            and then executed the VERB <b>Activate</b>. As a result, nodes with names containing
+            "University" were pulled into the graph.<image
+                href="https://cwrc.ca/islandora/object/cwrc%3Ad525907b-94f7-4820-8d0a-d3a5184cb20a/datastream/OBJ/view"
+                id="image_tkk_qpw_1v" placement="break" align="center" height="400"/></result>
     </taskbody>
     <related-links>
         <link href="Select_Concept.dita"></link>

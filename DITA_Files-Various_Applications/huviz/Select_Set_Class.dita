@@ -11,7 +11,7 @@
         </copyright>
         <critdates>
             <created date="2016-02-03"></created>
-            <revised modified="2016-02-18"></revised>
+            <revised modified="2018-07-03"/>
         </critdates>
         <metadata>
             
@@ -24,20 +24,27 @@
         </context>
         <steps id="steps_r4v_d4z_dv">
             <step>
-                <cmd>Click on the individual drawer of the desired Set or Class type to select contents. </cmd>
+                <cmd>Click on a Set or Class type to select contents. <image placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A756e2a1b-7ea4-4523-9236-53531d9b59ee/datastream/OBJ/view"
+                        height="300" align="center" id="image_zm5_gxx_g3b"/></cmd>
             </step>
             <step>
-                <cmd>Click on a Verb to execute action.</cmd>
+                <cmd>Then, click on a Verb to execute action.</cmd>
                 <info>
                     <ul id="ul_sg1_ynz_dv">
-                        <li>Actions can be performed on multiple Set or Class types. Select as many drawers as needed before executing the action by clicking a Verb.</li>
+                        <li>Actions can be performed on multiple Sets or Classes. Select as many as
+                            needed before executing the action by clicking a Verb.</li>
                     </ul>
                 </info>
             </step>
         </steps>
-        <result>The drawer will turn a darker shade and the name of the Set or Class type will appear under the Current Command. <image href="https://cwrc.ca/islandora/object/cwrc%3A38f6849c-9aca-45b4-b7ab-8a6e34b14333/datastream/OBJ/view" id="image_ery_fvw_1v" placement="break" align="center" width="8in"></image><ul id="ul_i1n_csw_1v">
-            <li>If a Class type was selected, the Edge types associated with that Class will appear as drawers in the Edges of Selected Nodes bin.</li>
-            </ul><image href="https://cwrc.ca/islandora/object/cwrc%3A6d4fc1bc-f40c-4225-b337-159cd56bd0a5/datastream/OBJ/view" id="image_lkq_5vw_1v" placement="break" align="center" width="4in"></image></result>
+        <result>The drawer will turn a darker shade and the name of the Set or Class type will
+            appear under the Current Command. <ul id="ul_i1n_csw_1v">
+                <li>If a Class type was selected, the Edge types associated with that Class will
+                    appear as drawers in the Edges of Selected Nodes bin.</li>
+            </ul><image
+                href="https://cwrc.ca/islandora/object/cwrc%3Acf5025a0-eadc-48ac-90b3-6ad24b738c4d/datastream/OBJ/view"
+                id="image_lkq_5vw_1v" placement="break" align="center" height="500"/></result>
         <postreq>Set or Class types in a Selected state will remain so until either:<ul id="ul_o4j_t12_w5">
             <li>The drawer of the Set or Class type is clicked a second time to Deselect it.</li>
             <li>The nodes are Discarded.</li>
