@@ -11,10 +11,12 @@
                 </ul>To open a saved session:</p></context>
         <steps id="steps_zsd_xyg_f3b">
             <step>
-                <cmd>First, click the <b>Commands Tab</b>.</cmd>
-                <info><i>Note: If you have an existing session already open, the Commands Tab will
-                        not display the main menu. You need to restart the app (refresh the page or
-                        open a new window) to open a new session.</i></info>
+                <cmd>Click the <b>Commands Tab</b>.</cmd>
+                <info>
+                    <note>If you have an existing session already open, the Commands Tab will not
+                        display the main menu. You need to restart the app (refresh the page or open
+                        a new window) to open a new session.</note>
+                </info>
             </step>
             <step>
                 <cmd>Under "Script" click the <b>Pick or Provide</b> dropdown menu.</cmd>
@@ -43,7 +45,7 @@
                         back arrows in the History Tab to see the latest changes.</i><image
                         placement="break" id="image_mtl_tvg_f3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A67f105bf-8e85-46ed-8e01-a0d0376f9e7e/datastream/OBJ/view"
-                        height="350"/></info>
+                        height="450"/></info>
             </step>
         </steps>
         <result id="result_kdq_zsg_f3b">The saved session is ready to use.</result>

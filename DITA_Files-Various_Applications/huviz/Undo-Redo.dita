@@ -11,7 +11,7 @@
         <steps>
             <step>
                 <cmd>Click the <b>History Tab</b> to view the Command History.</cmd>
-                <stepresult>The History displays all of the user's previous actions.<image
+                <stepresult>The History displays a record of the user's actions.<image
                         id="image_dfw_jrr_b3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A0ccde9e4-fd2a-46b4-8518-e9c9a75e3bed/datastream/OBJ/view"
                         height="250" placement="break"/></stepresult>
@@ -26,14 +26,16 @@
                 <info>
                     <image placement="break" id="image_tl2_fyg_f3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A60c5ff83-049b-4283-bf14-38b4c262e716/datastream/OBJ/view"
-                        height="350"/>
+                        height="380"/>
                 </info>
-                <info><i>NOTE: Once you have reversed past a step, it turns from yellow to blue. You
-                        can delete the blue steps by clicking the black "x." This allows you to
-                        remove steps from the sequence and edit out undesirable moves.</i><image
-                        id="image_pqq_ltr_b3b"
+                <info>
+                    <note>Once you have reversed past a step, it turns from yellow to blue. You can
+                        delete the blue steps by clicking the black "x." This allows you to remove
+                        steps from the sequence and edit out undesirable moves.</note>
+                    <image id="image_pqq_ltr_b3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Ae69228e7-1a61-4e71-abea-8143e6f7b49e/datastream/OBJ/view"
-                        height="300" placement="break"/></info>
+                        height="300" placement="break"/>
+                </info>
             </step>
             <step>
                 <cmd>Click the <b>double arrows</b> to jump to the beginning or end of the
@@ -43,8 +45,10 @@
                         href="https://cwrc.ca/islandora/object/cwrc%3Acd7dc697-6642-40fb-ab79-65f63269078e/datastream/OBJ/view"
                         height="200" placement="break"/>
                 </info>
-                <info><i>NOTE: A new action will reset the sequence from that point. In other words,
-                        it will no longer be possible to "undo" actions before this.</i></info>
+                <info>
+                    <note>A new action will reset the sequence from that point. In other words, it
+                        will no longer be possible to "undo" actions before this.</note>
+                </info>
             </step>
         </steps>
     </taskbody>

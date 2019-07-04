@@ -9,9 +9,11 @@
         <steps>
             <step>
                 <cmd>Click the <b>Commands Tab</b>.</cmd>
-                <info><i>Note: If you have an existing session already open, the Commands Tab will
-                        not display the main menu. You need to restart the app (refresh the page or
-                        open a new window) to open a new session.</i></info>
+                <info>
+                    <note>If you have an existing session already open, the Commands Tab will not
+                        display the main menu. You need to restart the app (refresh the page or open
+                        a new window) to open a new session.</note>
+                </info>
             </step>
             <step>
                 <cmd>Under "Script" click the <b>Pick or Provide</b> dropdown menu.</cmd>
