@@ -24,14 +24,14 @@
                     <choice>If the session is saved to the menu, select the session name from the
                         dropdown menu.<image placement="break" id="image_oym_hsg_f3b"
                             href="https://cwrc.ca/islandora/object/cwrc%3Ad0c034fa-ee30-46f0-8ba4-d3a5cb494f45/datastream/OBJ/view"
-                            height="250"/></choice>
+                            align="center"/></choice>
                     <choice>OR if the session is saved as a file, select <b>Provide New Script</b>.
                             <image placement="break" id="image_ccz_gfh_f3b"
                             href="https://cwrc.ca/islandora/object/cwrc%3A8ccb0bd0-4a85-4b43-b18d-cbd656621e18/datastream/OBJ/view"
-                            height="250"/><p>Then, drag the URL or file into the highlighted
+                            align="center"/><p>Then, drag the URL or file into the highlighted
                             box.</p><image placement="break" id="image_f2p_kgh_f3b"
                             href="https://cwrc.ca/islandora/object/cwrc%3Acdf6a228-61b1-494d-81cd-677720597315/datastream/OBJ/view"
-                            height="150"/></choice>
+                            align="center"/></choice>
                 </choices>
             </step>
             <step>
@@ -39,13 +39,13 @@
                 <info>
                     <image placement="break" id="image_acs_vhh_f3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A886c420d-2c97-4648-888e-c5bf2dd03ae3/datastream/OBJ/view"
-                        height="300"/>
+                        align="center"/>
                 </info>
                 <info><i>NOTE: The saved session defaults to the first step. Click the forward and
                         back arrows in the History Tab to see the latest changes.</i><image
                         placement="break" id="image_mtl_tvg_f3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A67f105bf-8e85-46ed-8e01-a0d0376f9e7e/datastream/OBJ/view"
-                        height="450"/></info>
+                        align="center"/></info>
             </step>
         </steps>
         <result id="result_kdq_zsg_f3b">The saved session is ready to use.</result>

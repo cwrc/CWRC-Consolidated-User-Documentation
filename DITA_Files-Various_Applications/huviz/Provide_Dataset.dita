@@ -2,7 +2,6 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_e2r_1lh_b3b">
     <title>Provide Your Own Dataset</title>
-    <shortdesc>Upload your own dataset to HuViz.</shortdesc>
     <prolog>
         <author>Chelsea Miya</author>
         <copyright>
@@ -11,7 +10,7 @@
         </copyright>
         <critdates>
             <created date="2016-02-03"></created>
-            <revised modified="2016-02-03"></revised>
+            <revised modified="2018-07-04"/>
         </critdates>
         <metadata>
             
@@ -27,25 +26,25 @@
                 <cmd>Click the <b>Commands</b> tab to open the main control panel.<image
                         id="image_p5l_fcx_g3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Ac7d84db8-5a47-49f0-bac5-1f0b890035d6/datastream/OBJ/view"
-                        placement="break" height="75"/></cmd>
+                        placement="break" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Click the dropdown menu labelled <b>Dataset</b>.<image placement="break"
                         id="image_opy_4mv_g3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A2b0e651e-0f4f-402f-89e1-3d51b236d423/datastream/OBJ/view"
-                        height="200"/></cmd>
+                        align="center"/></cmd>
             </step>
             <step>
                 <cmd>Click <b>Provide New Dataset</b>.<image placement="break"
                         id="image_hgn_dkv_g3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Ae48dc96d-93ed-466c-a193-e0f1440ee94b/datastream/OBJ/view"
-                        height="150"/></cmd>
+                        align="center"/></cmd>
             </step>
             <step>
                 <cmd>A new option will appear, asking you to "Drop File or URL."<image
                         placement="break" id="image_a3f_kkv_g3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Afafe2e28-70bf-45e6-a2e6-4dc5959cafdd/datastream/OBJ/view"
-                        height="150"/></cmd>
+                        align="center"/></cmd>
                 <choices id="choices_a5z_nsh_b3b">
                     <choice>Copy and past the file URL into the window.</choice>
                     <choice>OR open the file in your desktop finder. Drag and drop the file into the
@@ -54,13 +53,13 @@
                 <stepresult>Once you drag the correct file type (.ttl) to the box, it will light up
                         green<image id="image_bjc_1nv_g3b"/><image placement="break"
                         href="https://cwrc.ca/islandora/object/cwrc%3Accea01ce-4f42-40bf-bd11-aea19ea2f1d0/datastream/OBJ/view"
-                        height="200" id="image_izh_1nv_g3b"/>.</stepresult>
+                        id="image_izh_1nv_g3b" align="center"/>.</stepresult>
             </step>
             <step>
                 <cmd>Click the dropdown menu labelled "Ontology."<image placement="break"
                         id="image_tdd_clv_g3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Ab696b1b7-7739-46f8-be2d-68661c09b329/datastream/OBJ/view"
-                        height="200"/></cmd>
+                        align="center"/></cmd>
                 <substeps id="substeps_wqd_xjk_b3b">
                     <substep>
                         <cmd>Choose a pre-loaded ontology from the dropdown menu.</cmd>
@@ -77,13 +76,14 @@
             </step>
             <step>
                 <cmd>Click the "Load" button.<image placement="break" id="image_tqq_xlv_g3b"
+                        align="center"
                         href="https://cwrc.ca/islandora/object/cwrc%3A0225080c-0d81-4dc0-a9de-eaab4fcc6c01/datastream/OBJ/view"
-                        height="310"/></cmd>
+                    /></cmd>
             </step>
         </steps>
         <result>The dataset has sucessfully loaded and nodes are in orbit, ready for action.<image
                 href="https://cwrc.ca/islandora/object/cwrc%3A7613ab42-76cb-480e-8918-a0d15991e773/datastream/OBJ/view"
-                placement="break" align="left" height="500" id="image_m4m_qcx_g3b"/></result>
+                placement="break" align="center" id="image_m4m_qcx_g3b"/></result>
     
     </taskbody>
     <related-links>

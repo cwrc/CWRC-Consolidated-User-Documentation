@@ -19,7 +19,7 @@
     <taskbody>
         <context>Move nodes from the Discard bin back to the Shelf using the Commands Tab.<image
                 href="https://cwrc.ca/islandora/object/cwrc%3A5757e648-fd2b-407e-8c92-01e945350bc8/datastream/OBJ/view"
-                id="image_l5b_3fx_1v" placement="break" align="center" height="575"/></context>
+                id="image_l5b_3fx_1v" placement="break" align="center"/></context>
         <steps id="steps_xjb_gfx_1v">
             <step>
                 <cmd>Under Sets, click <i><b>Discarded</b></i>. <image placement="break"
@@ -30,15 +30,15 @@
             <step>
                 <cmd>Under Verbs, click <b>Retrieve</b>.<image placement="break"
                         id="image_e4z_smh_h3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A747c1a81-79e8-4d99-a057-60bf26072d43/datastream/OBJ/view"
-                        height="250" align="center"/></cmd>
+                        href="https://cwrc.ca/islandora/object/cwrc%3A747c1a81-79e8-4d99-a057-60bf26072d43/datastream/MEDIUM_SIZE/view"
+                        align="center"/></cmd>
             </step>
         </steps>
         
         <result>The nodes in the Discard bin have returned to the Shelf <image placement="break"
                 id="image_oh5_cnh_h3b"
                 href="https://cwrc.ca/islandora/object/cwrc%3Aae22bdf3-cc7b-407c-a692-cd482b96c6a1/datastream/OBJ/view"
-                height="575"/>.</result>
+            />.</result>
         <example><note>To Retrieve only a <i>specific Class</i> of nodes (instead of <i>all
                     </i>nodes):<ul id="ul_dcn_qnh_h3b">
                     <li>Under Classes, click a <b>Class Type</b></li>
@@ -46,11 +46,11 @@
                 </ul></note><image id="image_p1r_bth_h3b"/><image placement="break"
                 id="image_ism_gsh_h3b"
                 href="https://cwrc.ca/islandora/object/cwrc%3A1db4807f-6880-4fc9-aa96-3f0dbd958056/datastream/OBJ/view"
-                height="300" align="center"/><image placement="break" id="image_dj1_dth_h3b"
+                align="center"/><image placement="break" id="image_dj1_dth_h3b"
                 href="https://cwrc.ca/islandora/object/cwrc%3Add3310e8-8adf-489c-a011-235b48b85c18/datastream/OBJ/view"
-                height="500" align="center"/>In this example, the Verb Retrieve was executed on the
-            Class Type "Geography." As a result, the Geographic locations "England" and "Germany"
-            returned to the Shelf. However, the Person nodes remained in the Discard Bin.</example>
+                align="center"/>In this example, the Verb Retrieve was executed on the Class Type
+            "Geography." As a result, the Geographic locations "England" and "Germany" returned to
+            the Shelf. However, the Person nodes remained in the Discard Bin.</example>
     </taskbody>
     <related-links>
         <link href="Retrieve_Concept.dita"></link>

@@ -14,19 +14,19 @@
                 <stepresult>The History displays a record of the user's actions.<image
                         id="image_dfw_jrr_b3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A0ccde9e4-fd2a-46b4-8518-e9c9a75e3bed/datastream/OBJ/view"
-                        height="250" placement="break"/></stepresult>
+                        placement="break" align="center"/></stepresult>
             </step>
             <step>
                 <cmd>Click the <b>left arrow</b> to undo an action. <image id="image_nym_4sr_b3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Af3d5c41c-4cb7-49ac-92e4-6ea739457caf/datastream/OBJ/view"
-                        height="350" placement="break"/></cmd>
+                        placement="break" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Click the <b>right arrow</b> to redo an action.</cmd>
                 <info>
                     <image placement="break" id="image_tl2_fyg_f3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A60c5ff83-049b-4283-bf14-38b4c262e716/datastream/OBJ/view"
-                        height="380"/>
+                        align="center"/>
                 </info>
                 <info>
                     <note>Once you have reversed past a step, it turns from yellow to blue. You can
@@ -34,7 +34,7 @@
                         steps from the sequence and edit out undesirable moves.</note>
                     <image id="image_pqq_ltr_b3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Ae69228e7-1a61-4e71-abea-8143e6f7b49e/datastream/OBJ/view"
-                        height="300" placement="break"/>
+                        placement="break" align="center"/>
                 </info>
             </step>
             <step>
@@ -43,7 +43,7 @@
                 <info>
                     <image id="image_dwh_ttr_b3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Acd7dc697-6642-40fb-ab79-65f63269078e/datastream/OBJ/view"
-                        height="200" placement="break"/>
+                        placement="break" align="center"/>
                 </info>
                 <info>
                     <note>A new action will reset the sequence from that point. In other words, it

@@ -10,13 +10,13 @@
                 <cmd>Click the <b>History Tab</b> to view the Command History.<image
                         id="image_a5x_4xr_b3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A0ccde9e4-fd2a-46b4-8518-e9c9a75e3bed/datastream/OBJ/view"
-                        height="250" placement="break"/></cmd>
+                        placement="break" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Click the download arrow to export the History as a .txt file.<image
                         id="image_emh_bwr_b3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A90bcbf5a-7e8e-4291-8eeb-a36382b7b76d/datastream/OBJ/view"
-                        height="200" placement="break"/></cmd>
+                        placement="break" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Choose a filename and click "OK."</cmd>

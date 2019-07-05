@@ -31,27 +31,28 @@
             <step>
                 <cmd>Type a term into the search bar.<image
                         href="https://cwrc.ca/islandora/object/cwrc%3A23102e2f-138c-452b-bde5-18be93c6a963/datastream/OBJ/view"
-                        id="image_rpj_smw_1v" placement="break" align="center" height="400"/></cmd>
+                        id="image_rpj_smw_1v" placement="break" align="center"/></cmd>
                 <info><i>By default, All nodes are searched for matches. But you can narrow the
                         search to certain Sets or Classes by clicking on them.</i></info>
                 <stepresult>After typing in a search, the Current Command will update to contain the
                     search term and selected Set/Class type.<image id="image_b53_jp2_h3b"/><image
                         id="image_gkw_jp2_h3b"/><image
-                        href="https://cwrc.ca/islandora/object/cwrc%3A2b1442bf-a1a9-4e56-8c11-cbe8e7e002c7/datastream/OBJ/view"
-                        id="image_qtx_bnw_1v" placement="break" align="center" height="150"/><image
+                        href="https://cwrc.ca/islandora/object/cwrc%3A2b1442bf-a1a9-4e56-8c11-cbe8e7e002c7/datastream/MEDIUM_SIZE/view"
+                        id="image_qtx_bnw_1v" placement="break" align="center"/><image
                         href="https://cwrc.ca/islandora/object/cwrc%3Ad53524d6-4f2f-4b13-92a4-56e624f08daf/datastream/OBJ/view"
-                        id="image_vn5_rnw_1v" placement="break" align="center" height="400"
-                    /></stepresult>
+                        id="image_vn5_rnw_1v" placement="break" align="center"/></stepresult>
             </step>
             <step>
-                <cmd>Click on the desired Verb to choose an action.<image href="https://cwrc.ca/islandora/object/cwrc%3Ae18c6ae6-ca3a-4c7a-8a8a-8202297bfcff/datastream/OBJ/view" id="image_d2l_bpw_1v" placement="break" align="center"></image></cmd>
+                <cmd>Click on the desired Verb to choose an action.<image
+                        href="https://cwrc.ca/islandora/object/cwrc%3Aaece2419-7207-4dd0-a146-7b8103b21b12/datastream/OBJ/view"
+                        id="image_d2l_bpw_1v" placement="break" align="center"/></cmd>
             </step>
         </steps>
         <result>In this example, the user searched for <b>ALL</b> nodes <b>MATCHING</b> "University"
             and then executed the VERB <b>Activate</b>. As a result, nodes with names containing
             "University" were pulled into the graph.<image
                 href="https://cwrc.ca/islandora/object/cwrc%3Ad525907b-94f7-4820-8d0a-d3a5184cb20a/datastream/OBJ/view"
-                id="image_tkk_qpw_1v" placement="break" align="center" height="400"/></result>
+                id="image_tkk_qpw_1v" placement="break" align="center"/></result>
     </taskbody>
     <related-links>
         <link href="Select_Concept.dita"></link>

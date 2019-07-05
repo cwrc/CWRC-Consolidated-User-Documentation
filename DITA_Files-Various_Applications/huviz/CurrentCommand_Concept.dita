@@ -4,24 +4,28 @@
  <title>Current Command</title>
  <shortdesc>Displays what will happen if an element is clicked.</shortdesc>
  <conbody>
-  <p>Every command in HuViz has two parts: <b>Verb + Set/Class</b>. To perform an action, you need
-   to choose both elements by clicking on them.</p>
-  <p>If no elements have been chosen, the Current Command box will display the greyed out formula
-   'Verb + Set/Class.'</p>
-  <p>If you hover over an element, the Current Command will indicate what will happen if that
-   element is clicked.</p>
-   <example>In this example, the user has clicked the Verb 'Select' and is hovering over the Class
-   'Book.' <p>The Current Command has updated to show that clicking 'Book' will 'Select' it,'
-    drawing it into the graph.</p>.<image id="image_mdv_b31_cv"
+  <p>
+   <ul id="ul_hbj_1r4_h3b">
+    <li>Every command in HuViz has two parts: <b>Verb + Set/Class</b>. To perform an action, you
+     need to choose both elements by clicking on them.</li>
+    <li>If no elements have been chosen, the Current Command box will display the greyed out formula
+     'Verb + Set/Class.'</li>
+    <li>If you hover over an element, the Current Command will indicate what will happen if that
+     element is clicked.</li>
+   </ul>
+  </p>
+   <example><p/>In this example, the user has clicked the Verb 'Select' and is hovering over the
+   Class 'Book.' The Current Command has updated to show that clicking 'Book' will 'Select' it,'
+   drawing it into the graph.<p/><image id="image_mdv_b31_cv"
     href="https://cwrc.ca/islandora/object/cwrc%3Ac108feb5-4c4c-43f0-9f6c-0ebb84f23cba/datastream/MEDIUM_SIZE/view"
-    scope="external"/></example>
+    scope="external" placement="break" align="center"/></example>
   <example>
-   <p>Hovering over elements in the Graph works the same way.</p>
-   <p>Here, clicking the Verb 'Label' and then hovering over the node 'D. H. Lawrence' shows what
-    will happen if you click the node.</p>
+   <p/>
+   <p>Hovering over elements in the Graph works the same way. Here, clicking the Verb 'Label' and
+    then hovering over the node 'D. H. Lawrence' shows what will happen if you click the node.</p>
    <p><image id="image_ajz_kbp_b3b"
      href="https://cwrc.ca/islandora/object/cwrc%3A6c1fa213-fb03-4884-9af6-8e377d14a212/datastream/MEDIUM_SIZE/view"
-     align="center"/></p>
+     align="center" placement="break"/></p>
   </example>
   </conbody>
  <related-links>

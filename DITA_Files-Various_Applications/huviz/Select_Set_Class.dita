@@ -26,7 +26,7 @@
             <step>
                 <cmd>Click on a Set or Class type to select contents. <image placement="break"
                         href="https://cwrc.ca/islandora/object/cwrc%3A756e2a1b-7ea4-4523-9236-53531d9b59ee/datastream/OBJ/view"
-                        height="300" align="center" id="image_zm5_gxx_g3b"/></cmd>
+                        align="center" id="image_zm5_gxx_g3b"/></cmd>
             </step>
             <step>
                 <cmd>Then, click on a Verb to execute action.</cmd>
@@ -44,7 +44,7 @@
                     appear as drawers in the Edges of Selected Nodes bin.</li>
             </ul><image
                 href="https://cwrc.ca/islandora/object/cwrc%3Acf5025a0-eadc-48ac-90b3-6ad24b738c4d/datastream/OBJ/view"
-                id="image_lkq_5vw_1v" placement="break" align="center" height="500"/></result>
+                id="image_lkq_5vw_1v" placement="break" align="center"/></result>
         <postreq>Set or Class types in a Selected state will remain so until either:<ul id="ul_o4j_t12_w5">
             <li>The drawer of the Set or Class type is clicked a second time to Deselect it.</li>
             <li>The nodes are Discarded.</li>

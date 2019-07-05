@@ -2,12 +2,13 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Explore Connections</title>
- <topichead navtitle="Edges"><topicref href="edges.ditamap" format="ditamap"/></topichead>
-  <topichead navtitle="Walk">
-   <topicref href="walk.ditamap" format="ditamap"/>
-  </topichead>
-  <topichead navtitle="Wander">
-   <topicref href="wander.ditamap" format="ditamap"/>
-  </topichead>
- 
+ <topichead navtitle="Edges">
+  <topicref href="edges.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="Walk">
+  <topicref href="walk.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="Wander">
+  <topicref href="wander.ditamap" format="ditamap"/>
+ </topichead>
 </map>

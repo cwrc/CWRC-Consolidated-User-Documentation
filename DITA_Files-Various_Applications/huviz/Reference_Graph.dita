@@ -19,17 +19,17 @@
   </metadata>
  </prolog>
  <conbody>
+  <p>Most actions can be performed directly in the graph, either through a single click or a "drag
+   and drop."</p>
   <p/>
-  <note>Most actions can be performed directly in the graph, either through a single click or a
-   "drag and drop."</note>
   <p><b>Navigating the Graph:</b><ol id="ol_y2k_vtm_2v">
     <li><b>central Graph</b></li>
     <li><b>Shelf</b></li>
     <li><b>Discard Bin</b></li>
    </ol><image id="image_ws3_fkx_g3b"
     href="https://cwrc.ca/islandora/object/cwrc%3A174fc647-3114-4292-aaf8-17218dfe0c89/datastream/OBJ/view"
-    placement="break" height="650"/><note>Nodes can be dragged between any of the three main areas:
-    1) central Graph, 2) Shelf and 3) Discard Bin.</note></p>
+    placement="break" align="center"/><note>Nodes can be dragged between any of the three main
+    areas: 1) central Graph, 2) Shelf and 3) Discard Bin.</note></p>
  </conbody>
  <related-links>
   <link href="Reference_CommandsTab.dita"></link>

@@ -2,16 +2,16 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="history_concept">
     <title>History</title>
-    <shortdesc>Used to undo and redo commands and to save and re-open a previous
-        session.</shortdesc>
+    <shortdesc>Save and undo actions.</shortdesc>
     <conbody>
-        <p>The Command History is a record of the user's actions. It can be used to undo and redo
-            actions.</p>
-        <p>The user can also use the Command Histor to save their progress and re-open a saved
-            session.</p>
+        <p>The Command History is a record of the user's actions. </p>
+        <p>It can be used to:<ul id="ul_zmw_hz4_h3b">
+                <li>Undo and redo actions</li>
+                <li>Save and re-open a session</li>
+            </ul></p>
         <image id="image_yvy_zqr_b3b"
             href="https://cwrc.ca/islandora/object/cwrc%3A9ec05456-97df-44e3-b69f-8755de5e44b1/datastream/OBJ/view"
-            height="400"/>
+            placement="break" align="center"/>
     </conbody>
     <related-links>
         <link href="Undo-Redo.dita"/>

@@ -10,30 +10,31 @@
             <step>
                 <cmd>Hover over an edge linking two nodes together. <image placement="break"
                         id="image_vh5_hgn_f3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A9449e03b-732c-460e-a4ba-ddb56b4a1023/datastream/OBJ/view"
-                        height="300"/></cmd>
+                        href="https://cwrc.ca/islandora/object/cwrc%3A9449e03b-732c-460e-a4ba-ddb56b4a1023/datastream/MEDIUM_SIZE/view"
+                        align="center"/></cmd>
                 <stepresult>The predicate label appears. The predicate describes the relationship
                     between two nodes. In this example, <b>"hasPoliticalAffiliation"</b> indicates
-                    that <b>Sophia King</b> is affiliated with <b>Radical </b>politics.</stepresult>
+                    that <b>Sophia King</b> is affiliated with <b>Radical
+                    </b>politics.<p/></stepresult>
             </step>
             <step>
                 <cmd>Click on the edge to open the Edge Inspector. <image placement="break"
                         id="image_rr2_fjn_f3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3Adfe678d7-f15e-4e93-8c1e-b59842bda5d7/datastream/OBJ/view"
-                        height="450"/></cmd>
+                        align="center"/></cmd>
                 <stepresult>The Edge Inspector pop-up window shows the source of the label names,
-                    ontology and file.</stepresult>
+                    ontology and file.<p/></stepresult>
             </step>
             <step>
-                <cmd>Click on the <b>URI for predicate</b> to learn more about the relationship type
-                    and how it functions within the given ontology.<image placement="break"
+                <cmd>Click on the <b>predicate URI</b> to learn more about the relationship type and
+                    how it functions within the given ontology.<image placement="break"
                         id="image_xgp_fjn_f3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A9ef3be47-3918-464c-b0e6-5eb5db965bd0/datastream/OBJ/view"
-                        height="250"/><image placement="break" id="image_nbh_w4n_f3b"
+                        align="center"/><image placement="break" id="image_nbh_w4n_f3b"
                         href="https://cwrc.ca/islandora/object/cwrc%3A765b9c98-50e1-41a1-83a8-c29e64ce1412/datastream/OBJ/view"
-                        height="400"/></cmd>
+                        align="center"/></cmd>
                 <stepresult>The link takes the user to the CWRC ontology documentation, which
-                    describes the various properties of the predicate.</stepresult>
+                    describes the various properties of the predicate.<p/></stepresult>
             </step>
         </steps>
         <example>In this case, the tag <b>"hasPoliticalAffliation"</b> is associated with the
@@ -43,7 +44,7 @@
         <postreq id="postreq_hlb_4cn_f3b">To close the window, click the button at the top
                 right.<image placement="break" id="image_onw_bpn_f3b"
                 href="https://cwrc.ca/islandora/object/cwrc%3A9891ada0-14f8-40b3-a280-b2026d58073b/datastream/OBJ/view"
-                height="250"/>
+                align="center"/>
         </postreq>
     </taskbody>
     <related-links>
