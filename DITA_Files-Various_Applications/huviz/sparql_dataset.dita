@@ -10,18 +10,18 @@
         <steps>
             <step>
                 <cmd>Click the <b>Commands</b> tab to open the main control panel.<image
-                        id="image_p5l_fcx_g3b"
+                        id="image_p5l_fcx_g3b" scope="external"
                         href="https://cwrc.ca/islandora/object/cwrc%3Ac7d84db8-5a47-49f0-bac5-1f0b890035d6/datastream/OBJ/view"
                         placement="break" height="75"/></cmd>
             </step>
             <step>
                 <cmd>At the top of the panel, click the drop down menu labelled <b>SPARQL</b>.<image
-                        placement="break" id="image_szb_t5k_g3b"
+                        placement="break" id="image_szb_t5k_g3b" scope="external"
                         href="https://cwrc.ca/islandora/object/cwrc%3A711a366a-cc62-4eac-91ef-a103e09d4365/datastream/OBJ/view"
                         height="300"/></cmd>
             </step>
             <step>
-                <cmd>Choose a database to query.<image placement="break" id="image_tbn_3wk_g3b"
+                <cmd>Choose a database to query.<image placement="break" id="image_tbn_3wk_g3b" scope="external"
                         href="https://cwrc.ca/islandora/object/cwrc%3Aa7ab31bf-35b0-401d-b194-0addb5b439ec/datastream/OBJ/view"
                         height="250"/></cmd>
                 <info><i>NOTE: In this exampe, the user chose the CWRC SPARQL database. You can also
@@ -31,7 +31,7 @@
             </step>
             <step>
                 <cmd>Enter your query in the Find box.<image placement="break"
-                        id="image_jyh_p2x_g3b"
+                        id="image_jyh_p2x_g3b" scope="external"
                         href="https://cwrc.ca/islandora/object/cwrc%3A74e8d720-bab6-400e-aa0e-0ad27b9d7838/datastream/OBJ/view"
                         height="180"/></cmd>
                 <stepresult>If the search turns up matches, the text box will turn green. Matching
@@ -40,13 +40,13 @@
             </step>
             <step>
                 <cmd>Select a matching term from the pop-up window.<image placement="break"
-                        id="image_mbh_cvk_g3b"
+                        id="image_mbh_cvk_g3b" scope="external"
                         href="https://cwrc.ca/islandora/object/cwrc%3A7085cec2-546c-4981-a34e-38713829f30d/datastream/OBJ/view"
                         height="150"/></cmd>
             </step>
             <step>
                 <cmd>Choose the number of nodes to to load in your initial dataset.<image
-                        placement="break" id="image_ctv_xwk_g3b"
+                        placement="break" id="image_ctv_xwk_g3b" scope="external"
                         href="https://cwrc.ca/islandora/object/cwrc%3A31e286a0-3e93-42fa-b91e-dc549602719a/datastream/OBJ/view"
                         height="200"/></cmd>
                 <info>NOTE: Datasets generated from a SPARQL query are updated live. Activating a
@@ -54,13 +54,13 @@
                     another query and retrieve additional matches from the database.</info>
             </step>
             <step>
-                <cmd>Click the <b>Load</b> button.<image placement="break" id="image_lws_kvk_g3b"
+                <cmd>Click the <b>Load</b> button.<image placement="break" id="image_lws_kvk_g3b" scope="external"
                         href="https://cwrc.ca/islandora/object/cwrc%3A55b01e75-5612-43f5-a6c4-17f62692a60b/datastream/OBJ/view"
                         height="175"/></cmd>
             </step>
         </steps>
         <result id="result_m21_s2x_g3b">The dataset has sucessfully loaded and nodes are in orbit,
-            ready for action.<image placement="break" id="image_ibg_1fx_g3b"
+            ready for action.<image placement="break" id="image_ibg_1fx_g3b" scope="external"
                 href="https://cwrc.ca/islandora/object/cwrc%3A9e032a0e-dcbe-4e3b-88e0-2987ef0bd898/datastream/OBJ/view"
                 height="500"/></result>
         <example>In this example, the user searched the CWRC SPARQL biography database. After

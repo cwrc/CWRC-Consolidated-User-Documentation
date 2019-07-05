@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map platform="stand-alone" product="CWRC-Writer">
+<map platform="stand-alone" product="HuViz">
  <title>Pin Nodes</title>
  <topicref href="Pin_Concept.dita"/>
  <topicref href="Pin_Manually.dita"/>

@@ -1,0 +1,142 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:whc="http://www.oxygenxml.com/webhelp/components" xml:lang="en" lang="en" whc:version="21.0">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta charset="UTF-8" /><meta name="copyright" content="(C) Copyright 2019" /><meta name="DC.rights.owner" content="(C) Copyright 2019" /><meta name="DC.type" content="task" /><meta name="description" content="Generate a dataset from a SPARQL Query." /><meta name="DC.relation" scheme="URI" content="Load_Concept.html" /><meta name="DC.relation" scheme="URI" content="Provide_Dataset.html" /><meta name="DC.relation" scheme="URI" content="Load_Concept.html" /><meta name="DC.format" content="HTML5" /><meta name="DC.identifier" content="sparql_dataset" />        
+      <title>Generate Dataset Using SPARQL</title><!--  Generated with Oxygen version 21.0, build number 2019032912.  --><meta name="wh-path2root" content="" /><link rel="stylesheet" type="text/css" href="./oxygen-webhelp/lib/bootstrap/css/bootstrap.min.css" /><link rel="stylesheet" href="./oxygen-webhelp/lib/jquery-ui/jquery-ui.min.css" /><link rel="stylesheet" type="text/css" href="./oxygen-webhelp/app/topic-page.css?buildId=2019032912" /><script type="text/javascript" src="./oxygen-webhelp/lib/jquery/jquery-3.1.1.min.js"><!----></script><script data-main="./oxygen-webhelp/app/topic-page.js" src="./oxygen-webhelp/lib/requirejs/require.js"></script><link rel="stylesheet" type="text/css" href="oxygen-webhelp/template/light.css?buildId=2019032912" /></head>
+
+    <body id="sparql_dataset" class="wh_topic_page frmBody">
+        <a href="#wh_topic_body" class="sr-only sr-only-focusable">Jump to main content</a>
+        <!-- EXM-36950 - Expand the args.hdr parameter here -->
+        
+        
+        
+        <header class="navbar navbar-default wh_header" whc:version="21.0">
+    <div class="container-fluid">
+        <div class="wh_header_flex_container navbar-nav navbar-expand-md navbar-dark">
+            <div class="wh_logo_and_publication_title_container">
+                <div class="wh_logo_and_publication_title">
+                    
+                    <!--
+                            This component will be generated when the next parameters are specified in the transformation scenario:
+                            'webhelp.logo.image' and 'webhelp.logo.image.target.url'.
+                            See: http://oxygenxml.com/doc/versions/17.1/ug-editor/#topics/dita_webhelp_output.html.
+                    -->
+                    
+                    <div class=" wh_publication_title "><a href="index.html"><span class="title">HuViz Documentation</span></a></div>
+                    
+                </div>
+                
+                <!-- The menu button for mobile devices is copied in the output only when the 'webhelp.show.top.menu' parameter is set to 'yes' -->
+                <button type="button" data-target="#wh_top_menu_and_indexterms_link" id="wh_menu_mobile_button" data-toggle="collapse" class="navbar-toggler collapsed wh_toggle_button" aria-expanded="false" aria-label="Toggle menu" aria-controls="wh_top_menu_and_indexterms_link">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+
+            <div class="wh_top_menu_and_indexterms_link collapse navbar-collapse" id="wh_top_menu_and_indexterms_link">
+                
+                <nav class=" wh_top_menu "><ul xmlns:xhtml="http://www.w3.org/1999/xhtml" role="menubar" aria-label="Menu"><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="tocId-d62e11-mi" data-tocid="tocId-d62e11" data-state="not-ready" class=" topicref "><span class="title"><a href="HuViz_Concept.html">Welcome to HuViz</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="tocId-d62e67-mi" data-tocid="tocId-d62e67" data-state="not-ready" class=" topicref "><span class="title"><a href="Load_Concept.html">Getting Started</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="tocId-d62e399-mi" data-tocid="tocId-d62e399" data-state="not-ready" class=" topicref "><span class="title"><a href="Edges_Concept.html">Explore Connections</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="tocId-d62e492-mi" data-tocid="tocId-d62e492" data-state="not-ready" class=" topicref "><span class="title"><a href="SettingsGuide.html">Graph Settings</a></span></span></li></ul></nav>
+                
+                
+            </div>
+        </div>
+    </div>
+</header>
+        
+        <div class=" wh_search_input "><form id="searchForm" method="get" role="search" action="search.html"><div><input type="search" placeholder="Search " class="wh_search_textfield" id="textToSearch" name="searchQuery" aria-label="Search query" required="required" /><button type="submit" class="wh_search_button" aria-label="Search"><span>Search</span></button></div></form></div>
+        
+        <div class="container-fluid">
+            <div class="row">
+
+                <nav class="wh_tools d-print-none">
+                    <div data-tooltip-position="bottom" class=" wh_breadcrumb "></div>
+
+                    <div class="wh_right_tools">
+                        <button class="wh_hide_highlight" aria-label="Toggle search highlights" title="Toggle search highlights"></button>
+                        <button class="webhelp_expand_collapse_sections" data-next-state="collapsed" aria-label="Collapse sections" title="Collapse sections"></button>
+                        <div class=" wh_navigation_links "><span id="topic_navigation_links" class="navheader"></span></div>
+                        <div class=" wh_print_link print d-none d-md-inline-block "><button onClick="window.print()" title="Print this page" aria-label="Print this page"></button></div>
+                    </div>
+                </nav>
+            </div>
+
+            <div class="wh_content_area">
+                <div class="row">
+                    
+                    
+                    <div class="col-12" id="wh_topic_body">
+                        <div class=" wh_topic_content body "><main role="main"><article role="article" aria-labelledby="ariaid-title1">
+    <h1 class="title topictitle1" id="ariaid-title1">Generate Dataset Using SPARQL</h1>
+    
+    <div class="body taskbody"><p class="shortdesc">Generate a dataset from a SPARQL Query.</p>
+        <section class="section context">SPARQL is a query language used to search for and generate a dataset from a
+            database, as opposed to using a dataset that has been pre-loaded from a turtle
+            file.<p class="p"></p></section>
+        <ol class="ol steps"><li class="li step stepexpand">
+                <span class="ph cmd">Click the <strong class="ph b">Commands</strong> tab to open the main control panel.<br /><img class="image" id="sparql_dataset__image_p5l_fcx_g3b" src="https://cwrc.ca/islandora/object/cwrc%3Ac7d84db8-5a47-49f0-bac5-1f0b890035d6/datastream/OBJ/view" height="75" /><br /></span>
+            </li><li class="li step stepexpand">
+                <span class="ph cmd">At the top of the panel, click the drop down menu labelled <strong class="ph b">SPARQL</strong>.<br /><img class="image" id="sparql_dataset__image_szb_t5k_g3b" src="https://cwrc.ca/islandora/object/cwrc%3A711a366a-cc62-4eac-91ef-a103e09d4365/datastream/OBJ/view" height="300" /><br /></span>
+            </li><li class="li step stepexpand">
+                <span class="ph cmd">Choose a database to query.<br /><img class="image" id="sparql_dataset__image_tbn_3wk_g3b" src="https://cwrc.ca/islandora/object/cwrc%3Aa7ab31bf-35b0-401d-b194-0addb5b439ec/datastream/OBJ/view" height="250" /><br /></span>
+                <div class="itemgroup info"><em class="ph i">NOTE: In this exampe, the user chose the CWRC SPARQL database. You can also
+                        search public databases that use RDF linked data like DBpedia. Or, you can
+                        upload a database from a file or URL (must be formatted as a .ttl
+                    file).</em></div>
+            </li><li class="li step stepexpand">
+                <span class="ph cmd">Enter your query in the Find box.<br /><img class="image" id="sparql_dataset__image_jyh_p2x_g3b" src="https://cwrc.ca/islandora/object/cwrc%3A74e8d720-bab6-400e-aa0e-0ad27b9d7838/datastream/OBJ/view" height="180" /><br /></span>
+                <div class="itemgroup stepresult">If the search turns up matches, the text box will turn green. Matching
+                    terms will appear in a pop-up window. If the search has zero matches, the text
+                    box will remain grey.</div>
+            </li><li class="li step stepexpand">
+                <span class="ph cmd">Select a matching term from the pop-up window.<br /><img class="image" id="sparql_dataset__image_mbh_cvk_g3b" src="https://cwrc.ca/islandora/object/cwrc%3A7085cec2-546c-4981-a34e-38713829f30d/datastream/OBJ/view" height="150" /><br /></span>
+            </li><li class="li step stepexpand">
+                <span class="ph cmd">Choose the number of nodes to to load in your initial dataset.<br /><img class="image" id="sparql_dataset__image_ctv_xwk_g3b" src="https://cwrc.ca/islandora/object/cwrc%3A31e286a0-3e93-42fa-b91e-dc549602719a/datastream/OBJ/view" height="200" /><br /></span>
+                <div class="itemgroup info">NOTE: Datasets generated from a SPARQL query are updated live. Activating a
+                    node, for example by dragging it into the centre of the graph, will generate
+                    another query and retrieve additional matches from the database.</div>
+            </li><li class="li step stepexpand">
+                <span class="ph cmd">Click the <strong class="ph b">Load</strong> button.<br /><img class="image" id="sparql_dataset__image_lws_kvk_g3b" src="https://cwrc.ca/islandora/object/cwrc%3A55b01e75-5612-43f5-a6c4-17f62692a60b/datastream/OBJ/view" height="175" /><br /></span>
+            </li></ol>
+        <section class="section result" id="sparql_dataset__result_m21_s2x_g3b">The dataset has sucessfully loaded and nodes are in orbit,
+            ready for action.<br /><img class="image" id="sparql_dataset__image_ibg_1fx_g3b" src="https://cwrc.ca/islandora/object/cwrc%3A9e032a0e-dcbe-4e3b-88e0-2987ef0bd898/datastream/OBJ/view" height="500" /><br /></section>
+        <div class="example">In this example, the user searched the CWRC SPARQL biography database. After
+            searching for the term "Elizabeth I," the user found a match and generated a dataset of
+            nodes connected to this subject.</div>
+    </div>
+    
+</article></main></div>
+                        
+                        <div class=" wh_related_links "><nav role="navigation" class="related-links"><div class="linklist relinfo relconcepts"><strong>Related concepts</strong><br /><ul class="linklist related_link"><li class="linklist"><a class="navheader_parent_path" href="Load_Concept.html" title="To begin using HuViz, you first have to load a dataset. You have the option to 1) choose a pre-loaded dataset, 2) upload your own dataset, or 3) generate a dataset using a SPARQL query.">Load a Dataset</a></li></ul></div><div class="linklist relinfo reltasks"><strong>Related tasks</strong><br /><ul class="linklist related_link"><li class="linklist"><a class="navheader_parent_path" href="Provide_Dataset.html" title="Upload your own dataset to HuViz.">Provide Your Own Dataset</a></li></ul></div></nav></div>
+                        
+                        
+                    </div>
+                    
+                </div>
+            </div>
+        </div> 
+        <footer class="navbar navbar-default wh_footer" whc:version="21.0">
+  <div class=" footer-container mx-auto ">
+    
+            Generated by <a class="oxyFooter" href="http://www.oxygenxml.com/xml_webhelp.html" target="_blank">
+            &lt;oXygen/&gt; XML WebHelp
+            </a>
+        
+  </div>
+</footer>
+        
+        <div id="go2top">
+            <span class="oxy-icon oxy-icon-up"></span>
+        </div>
+        
+        <!-- The modal container for images -->
+        <div id="modal_img_large" class="modal">
+            <span class="close oxy-icon oxy-icon-remove"></span>
+            <!-- Modal Content (The Image) -->
+            <img class="modal-content" id="modal-img" />
+            <!-- Modal Caption (Image Text) -->
+            <div id="caption"></div>
+        </div>
+        
+        
+    </body>
+</html>

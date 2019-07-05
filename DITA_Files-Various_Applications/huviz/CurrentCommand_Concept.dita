@@ -13,7 +13,7 @@
    <example>In this example, the user has clicked the Verb 'Select' and is hovering over the Class
    'Book.' <p>The Current Command has updated to show that clicking 'Book' will 'Select' it,'
     drawing it into the graph.</p>.<image id="image_mdv_b31_cv"
-    scope="external" href="https://cwrc.ca/islandora/object/cwrc%3Ac108feb5-4c4c-43f0-9f6c-0ebb84f23cba/datastream/MEDIUM_SIZE/view"
+    href="https://cwrc.ca/islandora/object/cwrc%3Ac108feb5-4c4c-43f0-9f6c-0ebb84f23cba/datastream/MEDIUM_SIZE/view"
     scope="external"/></example>
   <example>
    <p>Hovering over elements in the Graph works the same way.</p>
