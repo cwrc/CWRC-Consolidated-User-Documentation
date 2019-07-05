@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map product="HuViz" platform="stand-alone">
     <title>Settings</title>
-    <topicref href="SettingsGuide.dita"/>
+    <topicref href="SettingsGuide.dita" platform="stand-alone" product="HuViz"/>
     <topicref href="settingsadjust.dita"/>
 </map>

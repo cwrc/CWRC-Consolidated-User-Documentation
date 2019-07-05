@@ -5,7 +5,7 @@
  <shortdesc>When two nodes in the central Graph are linked together by a line this indicates that they share a relationship. The nature of this relationship is represented as an Edge. </shortdesc>
  <conbody>
   <p>RDF-syntax distinguishes between the <i>visual representation</i> of a relationship in a graph and the <i>textual representation</i> as it is encoded in XML. The term "Edge" refers exclusively to graphs, while the term "Predicate" refers to a relationship as it is expressed through a Subject-Predicate-Object RDF triple-statement.</p>
-  <example>In this case, Augusta Ada Byron is connected to Lord Byron by the Edge hasFather.<p>This is a visual representation of the RDF triple statement: &lt;Byron, Augusta Ada> &lt;hasFather> &lt;LordByron>.</p><image href="https://cwrc.ca/islandora/object/cwrc%3A4dfb7144-4646-414d-941e-c8cbb899cea3/datastream/OBJ/view" id="image_xcy_wt1_cv" placement="break" align="center"></image></example>
+  <example>In this case, Augusta Ada Byron is connected to Lord Byron by the Edge hasFather.<p>This is a visual representation of the RDF triple statement: &lt;Byron, Augusta Ada> &lt;hasFather> &lt;LordByron>.</p><image scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A4dfb7144-4646-414d-941e-c8cbb899cea3/datastream/OBJ/view" id="image_xcy_wt1_cv" placement="break" align="center"></image></example>
  </conbody>
  <related-links>
   <link href="ViewEdges.dita"></link>

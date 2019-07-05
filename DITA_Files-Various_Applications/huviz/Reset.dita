@@ -22,15 +22,15 @@
         <context>Use the Commands Tab to <b>Reload</b> the dataset OR to <b>Restart</b> the app from
             the hompage. Both buttons are located at the top of the Commands Tab beside the titles
             of the dataset and the ontology.<image placement="break" id="image_vgs_sf3_h3b"
-                href="https://cwrc.ca/islandora/object/cwrc%3A1e6a1ce7-cf14-4947-8f93-23befe28f828/datastream/OBJ/view"
+                scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A1e6a1ce7-cf14-4947-8f93-23befe28f828/datastream/OBJ/view"
                 height="200"/><ul id="ul_ocs_4c3_h3b">
                 <li>Click the "cycle" sign to <b>Reload</b> the dataset.<image placement="break"
                         id="image_il1_jf3_h3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3Aa4f9a3d4-c2d2-4103-a3b5-dd8c0b1d9a7c/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3Aa4f9a3d4-c2d2-4103-a3b5-dd8c0b1d9a7c/datastream/OBJ/view"
                         height="150"/></li>
                 <li>Click the "x" to<b> Restart </b>and clear the graph and return to home.<image
                         placement="break" id="image_ip1_lf3_h3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A1ad646b4-e218-4b30-abc1-013a0a22f396/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A1ad646b4-e218-4b30-abc1-013a0a22f396/datastream/OBJ/view"
                         height="150"/></li>
             </ul><note>Reloading or Restarting the app will automatically erase all progress.To save
                 your work use the "Save Script" functions in the History Tab. </note></context>

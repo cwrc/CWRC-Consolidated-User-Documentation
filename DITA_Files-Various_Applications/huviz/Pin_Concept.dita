@@ -22,7 +22,7 @@
     <p>By default, networks of graphed nodes float freely within the central stage. However, there are times when working with a static graph is preferable.</p>
     <p>Using the Pin function, the branches of a node network can be stretched out and fixed in
         place.<image placement="break" id="image_hyt_jvh_h3b"
-        href="https://cwrc.ca/islandora/object/cwrc%3A4b20ce62-55f8-4d7e-b80e-971fe63535b2/datastream/OBJ/view"
+        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A4b20ce62-55f8-4d7e-b80e-971fe63535b2/datastream/OBJ/view"
         height="275" align="center"/></p>
     <note>Only graphed nodes can be pinned. The Pin function cannot be executed on nodes that are in a shelved or discarded state.</note>
     <note>Graphed nodes can be Pinned in any area that is not designated as part of the Shelf or Discard Bin. This includes the area both inside and outside the central ring.</note>

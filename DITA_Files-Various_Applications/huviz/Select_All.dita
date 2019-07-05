@@ -25,7 +25,7 @@
         <steps-unordered id="steps-unordered_a1s_bqc_w5">
             <step>
                 <cmd>Click All, located at the top of the Sets bar. <image
-                        href="https://cwrc.ca/islandora/object/cwrc%3A4cea7dc4-40b3-4b7c-a2de-28d20e68da31/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A4cea7dc4-40b3-4b7c-a2de-28d20e68da31/datastream/OBJ/view"
                         id="image_adc_s4t_w5" placement="break" align="center" height="450"/></cmd>
                 <info>The Sets bar will highlight in full, indicating that all nodes will be affected. Under Current Command, the "Sets/Classes" element will change to "All."</info>
             </step>

@@ -24,19 +24,19 @@
             <step>
                 <cmd>Click and hold the node, illuminating the circular green shelf.<image
                         placement="break"
-                        href="https://cwrc.ca/islandora/object/cwrc%3Ae551d3f1-370b-4b0c-b8ef-d1bd008b84e8/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3Ae551d3f1-370b-4b0c-b8ef-d1bd008b84e8/datastream/OBJ/view"
                         id="image_vw5_spm_2v" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Drag and drop the node inside the circle.<image placement="break"
-                        href="https://cwrc.ca/islandora/object/cwrc%3Afaf3510f-d100-48cc-bd97-2ef4fd853b44/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3Afaf3510f-d100-48cc-bd97-2ef4fd853b44/datastream/OBJ/view"
                         id="image_qfm_bqm_2v" align="center"/></cmd>
             </step>
         </steps>
         <result>Node has linked with a Hub and is now in an Active state.<image placement="break"
                 id="image_pqg_3qm_2v" align="center"
-                href="https://cwrc.ca/islandora/object/cwrc%3Aecd9c0ff-0320-44ec-9516-deb89e4c5348/datastream/OBJ/view"
-                /><note>In the previous example, the node was dragged into the central Graph from
+                 href="https://cwrc.ca/islandora/object/cwrc%3Aecd9c0ff-0320-44ec-9516-deb89e4c5348/datastream/OBJ/view"
+                 scope="external"/><note>In the previous example, the node was dragged into the central Graph from
                 the Shelf. However, a node can also be Activated by dragging it from the Discard
                 bin.</note></result>
     </taskbody>

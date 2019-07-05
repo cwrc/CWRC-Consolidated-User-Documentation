@@ -21,13 +21,13 @@
             <step>
                 <cmd>Select the session name from the dropdown menu.<image placement="break"
                         id="image_ttc_2kh_f3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3Ad0c034fa-ee30-46f0-8ba4-d3a5cb494f45/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3Ad0c034fa-ee30-46f0-8ba4-d3a5cb494f45/datastream/OBJ/view"
                         height="250"/></cmd>
             </step>
             <step>
                 <cmd>Click the <b>trash icon</b> to delete.<image placement="break"
                         id="image_htx_skh_f3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3Ab3ecb7c6-e302-4dcb-a866-c88873ab8bfb/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3Ab3ecb7c6-e302-4dcb-a866-c88873ab8bfb/datastream/OBJ/view"
                         height="150"/></cmd>
             </step>
         </steps>

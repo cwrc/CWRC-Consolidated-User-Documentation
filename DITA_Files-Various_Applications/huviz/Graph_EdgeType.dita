@@ -10,7 +10,7 @@
                 <cmd>Select somes nodes. Remember, nodes can be Selected either by clicking on
                         <b>nodes in the graph</b> or clicking on a <b>Class</b> in the Commands
                         Tab.<image placement="break" id="image_u23_msb_g3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A7a4cce48-aa7f-4a40-9288-1a45d9bca4aa/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A7a4cce48-aa7f-4a40-9288-1a45d9bca4aa/datastream/OBJ/view"
                         height="500"/></cmd>
                 <info><i>NOTE: When no nodes have been Selected, the Edges of the Selected Nodes bin
                         will appear empty.</i></info>
@@ -20,13 +20,13 @@
                     the graph nodes classed as religions turn bold to show that  they have been
                     selected. Second, the Edges of the Selected Nodes bin shows two relationship
                     types connected to "religion."<image id="image_ypj_45b_g3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A74108efe-1e57-4a0a-9874-d25db796fb51/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A74108efe-1e57-4a0a-9874-d25db796fb51/datastream/OBJ/view"
                     /></stepresult>
             </step>
             <step>
                 <cmd>Choose a type of connection by clicking on an Edge in the Edges of the Selected
                     Nodes bin.<image placement="break" id="image_i3k_ptb_g3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3Aca422c17-307e-41c8-ab0d-fba0a2dd5418/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3Aca422c17-307e-41c8-ab0d-fba0a2dd5418/datastream/OBJ/view"
                         height="500"/></cmd>
             </step>
         </steps>
@@ -36,7 +36,7 @@
             predicate type in the Edges of the Selected Nodes bin further reveals the persons with
             religious affiliations. Viriginia Woolf, for instance, is affiliated with three
             religious groups.<image placement="break" id="image_p5p_hvb_g3b"
-                href="https://cwrc.ca/islandora/object/cwrc%3A298ee89d-f152-47a0-be8a-7b2a43aec889/datastream/OBJ/view"
+                scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A298ee89d-f152-47a0-be8a-7b2a43aec889/datastream/OBJ/view"
                 height="300" align="center"/></example>
     </taskbody>
     <related-links>

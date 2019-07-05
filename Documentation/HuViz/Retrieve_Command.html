@@ -1,0 +1,125 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:whc="http://www.oxygenxml.com/webhelp/components" xml:lang="en" lang="en" whc:version="21.0">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta charset="UTF-8" /><meta name="DC.type" content="task" /><meta name="description" content="Use Commands to return Discarded nodes." /><meta name="DC.relation" scheme="URI" content="Retrieve_Concept.html" /><meta name="DC.relation" scheme="URI" content="Discard_Concept.html" /><meta name="DC.relation" scheme="URI" content="Discard_Manually.html" /><meta name="DC.relation" scheme="URI" content="Command_Execute_Verbs.html" /><meta name="DC.creator" content="Chelsea Miya" /><meta name="rights" content="© 2014 Use of this public-domain resource is governed by the Creative Commons&#xA;                Attribution-NonCommercial 4.0 International License" /><meta name="DC.date.created" content="2016-02-03" /><meta name="DC.date.modified" content="2018-07-04" /><meta name="DC.format" content="HTML5" /><meta name="DC.identifier" content="task_ftn_czw_1v" />        
+      <title>Retrieve in Commands Tab</title><!--  Generated with Oxygen version 21.0, build number 2019032912.  --><meta name="wh-path2root" content="" /><link rel="stylesheet" type="text/css" href="./oxygen-webhelp/lib/bootstrap/css/bootstrap.min.css" /><link rel="stylesheet" href="./oxygen-webhelp/lib/jquery-ui/jquery-ui.min.css" /><link rel="stylesheet" type="text/css" href="./oxygen-webhelp/app/topic-page.css?buildId=2019032912" /><script type="text/javascript" src="./oxygen-webhelp/lib/jquery/jquery-3.1.1.min.js"><!----></script><script data-main="./oxygen-webhelp/app/topic-page.js" src="./oxygen-webhelp/lib/requirejs/require.js"></script><link rel="stylesheet" type="text/css" href="oxygen-webhelp/template/light.css?buildId=2019032912" /></head>
+
+    <body id="task_ftn_czw_1v" class="wh_topic_page frmBody">
+        <a href="#wh_topic_body" class="sr-only sr-only-focusable">Jump to main content</a>
+        <!-- EXM-36950 - Expand the args.hdr parameter here -->
+        
+        
+        
+        <header class="navbar navbar-default wh_header" whc:version="21.0">
+    <div class="container-fluid">
+        <div class="wh_header_flex_container navbar-nav navbar-expand-md navbar-dark">
+            <div class="wh_logo_and_publication_title_container">
+                <div class="wh_logo_and_publication_title">
+                    
+                    <!--
+                            This component will be generated when the next parameters are specified in the transformation scenario:
+                            'webhelp.logo.image' and 'webhelp.logo.image.target.url'.
+                            See: http://oxygenxml.com/doc/versions/17.1/ug-editor/#topics/dita_webhelp_output.html.
+                    -->
+                    
+                    <div class=" wh_publication_title "><a href="index.html"><span class="title">HuViz Documentation</span></a></div>
+                    
+                </div>
+                
+                <!-- The menu button for mobile devices is copied in the output only when the 'webhelp.show.top.menu' parameter is set to 'yes' -->
+                <button type="button" data-target="#wh_top_menu_and_indexterms_link" id="wh_menu_mobile_button" data-toggle="collapse" class="navbar-toggler collapsed wh_toggle_button" aria-expanded="false" aria-label="Toggle menu" aria-controls="wh_top_menu_and_indexterms_link">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+
+            <div class="wh_top_menu_and_indexterms_link collapse navbar-collapse" id="wh_top_menu_and_indexterms_link">
+                
+                <nav class=" wh_top_menu "><ul xmlns:xhtml="http://www.w3.org/1999/xhtml" role="menubar" aria-label="Menu"><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="tocId-d62e11-mi" data-tocid="tocId-d62e11" data-state="not-ready" class=" topicref "><span class="title"><a href="HuViz_Concept.html">Welcome to HuViz</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="tocId-d62e59-mi" data-tocid="tocId-d62e59" data-state="not-ready" class=" topicref "><span class="title"><a href="Hide_Concept.html">Getting Started</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="tocId-d62e112-mi" data-tocid="tocId-d62e112" data-state="not-ready" class=" topicref "><span class="title"><a href="Edges_Concept.html">Explore Connections</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="tocId-d62e205-mi" data-tocid="tocId-d62e205" data-state="not-ready" class=" topicref "><span class="title"><a href="SettingsGuide.html">Graph Settings</a></span></span></li></ul></nav>
+                
+                
+            </div>
+        </div>
+    </div>
+</header>
+        
+        <div class=" wh_search_input "><form id="searchForm" method="get" role="search" action="search.html"><div><input type="search" placeholder="Search " class="wh_search_textfield" id="textToSearch" name="searchQuery" aria-label="Search query" required="required" /><button type="submit" class="wh_search_button" aria-label="Search"><span>Search</span></button></div></form></div>
+        
+        <div class="container-fluid">
+            <div class="row">
+
+                <nav class="wh_tools d-print-none">
+                    <div data-tooltip-position="bottom" class=" wh_breadcrumb "></div>
+
+                    <div class="wh_right_tools">
+                        <button class="wh_hide_highlight" aria-label="Toggle search highlights" title="Toggle search highlights"></button>
+                        <button class="webhelp_expand_collapse_sections" data-next-state="collapsed" aria-label="Collapse sections" title="Collapse sections"></button>
+                        <div class=" wh_navigation_links "><span id="topic_navigation_links" class="navheader"></span></div>
+                        <div class=" wh_print_link print d-none d-md-inline-block "><button onClick="window.print()" title="Print this page" aria-label="Print this page"></button></div>
+                    </div>
+                </nav>
+            </div>
+
+            <div class="wh_content_area">
+                <div class="row">
+                    
+                    
+                    <div class="col-12" id="wh_topic_body">
+                        <div class=" wh_topic_content body "><main role="main"><article role="article" aria-labelledby="ariaid-title1">
+    <h1 class="title topictitle1" id="ariaid-title1">Retrieve in Commands Tab</h1>
+    
+    
+    <div class="body taskbody"><p class="shortdesc">Use Commands to return Discarded nodes.</p>
+        <section class="section context">Move nodes from the Discard bin back to the Shelf using the Commands Tab.<br /><div class="imagecenter"><img class="image imagecenter" id="task_ftn_czw_1v__image_l5b_3fx_1v" src="https://cwrc.ca/islandora/object/cwrc%3A5757e648-fd2b-407e-8c92-01e945350bc8/datastream/OBJ/view" height="575" /></div><br /></section>
+        <ol class="ol steps" id="task_ftn_czw_1v__steps_xjb_gfx_1v"><li class="li step">
+                <span class="ph cmd">Under Sets, click <em class="ph i"><strong class="ph b">Discarded</strong></em>. <br /><div class="imagecenter"><img class="image imagecenter" id="task_ftn_czw_1v__image_tcm_pmh_h3b" src="https://cwrc.ca/islandora/object/cwrc%3Afd9fbfe1-8890-43ae-947e-92dbd9ef7c92/datastream/OBJ/view" /></div><br /></span>
+            </li><li class="li step">
+                <span class="ph cmd">Under Verbs, click <strong class="ph b">Retrieve</strong>.<br /><div class="imagecenter"><img class="image imagecenter" id="task_ftn_czw_1v__image_e4z_smh_h3b" src="https://cwrc.ca/islandora/object/cwrc%3A747c1a81-79e8-4d99-a057-60bf26072d43/datastream/OBJ/view" height="250" /></div><br /></span>
+            </li></ol>
+        
+        <section class="section result">The nodes in the Discard bin have returned to the Shelf <br /><img class="image" id="task_ftn_czw_1v__image_oh5_cnh_h3b" src="https://cwrc.ca/islandora/object/cwrc%3Aae22bdf3-cc7b-407c-a692-cd482b96c6a1/datastream/OBJ/view" height="575" /><br />.</section>
+        <div class="example"><div class="note note note_note"><span class="note__title">Note:</span> To Retrieve only a <em class="ph i">specific Class</em> of nodes (instead of <em class="ph i">all
+                    </em>nodes):<ul class="ul" id="task_ftn_czw_1v__ul_dcn_qnh_h3b">
+                    <li class="li">Under Classes, click a <strong class="ph b">Class Type</strong></li>
+                    <li class="li">Under Verbs, click <strong class="ph b">Retrieve</strong></li>
+                </ul></div><img class="image" id="task_ftn_czw_1v__image_p1r_bth_h3b" /><br /><div class="imagecenter"><img class="image imagecenter" id="task_ftn_czw_1v__image_ism_gsh_h3b" src="https://cwrc.ca/islandora/object/cwrc%3A1db4807f-6880-4fc9-aa96-3f0dbd958056/datastream/OBJ/view" height="300" /></div><br /><br /><div class="imagecenter"><img class="image imagecenter" id="task_ftn_czw_1v__image_dj1_dth_h3b" src="https://cwrc.ca/islandora/object/cwrc%3Add3310e8-8adf-489c-a011-235b48b85c18/datastream/OBJ/view" height="500" /></div><br />In this example, the Verb Retrieve was executed on the
+            Class Type "Geography." As a result, the Geographic locations "England" and "Germany"
+            returned to the Shelf. However, the Person nodes remained in the Discard Bin.</div>
+    </div>
+    
+</article></main></div>
+                        
+                        <div class=" wh_related_links "><nav role="navigation" class="related-links"><div class="linklist relinfo relconcepts"><strong>Related concepts</strong><br /><ul class="linklist related_link"><li class="linklist"><a class="navheader_parent_path" href="Retrieve_Concept.html" title="Use the Retrieve function to return only Discarded nodes to the Shelf.">Retrieve</a></li><li class="linklist"><a class="navheader_parent_path" href="Discard_Concept.html" title="The Discard function removes nodes from the central Graph or Shelf and sends them to the Discard bin.">Discard</a></li></ul></div><div class="linklist relinfo reltasks"><strong>Related tasks</strong><br /><ul class="linklist related_link"><li class="linklist"><a class="navheader_parent_path" href="Discard_Manually.html" title="Discard nodes using the &#34;drag and drop&#34; method with the following steps.">Discard Manually</a></li><li class="linklist"><a class="navheader_parent_path" href="Command_Execute_Verbs.html" title="Work in the Commands Tab instead of directly in the Graph.">Execute Verbs in Commands Tab</a></li></ul></div></nav></div>
+                        
+                        
+                    </div>
+                    
+                </div>
+            </div>
+        </div> 
+        <footer class="navbar navbar-default wh_footer" whc:version="21.0">
+  <div class=" footer-container mx-auto ">
+    
+            Generated by <a class="oxyFooter" href="http://www.oxygenxml.com/xml_webhelp.html" target="_blank">
+            &lt;oXygen/&gt; XML WebHelp
+            </a>
+        
+  </div>
+</footer>
+        
+        <div id="go2top">
+            <span class="oxy-icon oxy-icon-up"></span>
+        </div>
+        
+        <!-- The modal container for images -->
+        <div id="modal_img_large" class="modal">
+            <span class="close oxy-icon oxy-icon-remove"></span>
+            <!-- Modal Content (The Image) -->
+            <img class="modal-content" id="modal-img" />
+            <!-- Modal Caption (Image Text) -->
+            <div id="caption"></div>
+        </div>
+        
+        
+    </body>
+</html>

@@ -26,28 +26,28 @@
             <step>
                 <cmd>Click the <b>Commands</b> tab to open the main control panel.<image
                         id="image_p5l_fcx_g3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3Ac7d84db8-5a47-49f0-bac5-1f0b890035d6/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3Ac7d84db8-5a47-49f0-bac5-1f0b890035d6/datastream/OBJ/view"
                         placement="break" height="75"/></cmd>
             </step>
             <step>
                 <cmd>At the top of the panel, click the drop down menu labelled
                         <b>Dataset</b>.<image placement="break" id="image_opy_4mv_g3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A2b0e651e-0f4f-402f-89e1-3d51b236d423/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A2b0e651e-0f4f-402f-89e1-3d51b236d423/datastream/OBJ/view"
                         height="200"/></cmd>
             </step>
             <step>
                 <cmd>Choose a dataset.<image placement="break" id="image_chf_31x_g3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A09d37a51-264c-427c-a217-36307a76c3f6/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A09d37a51-264c-427c-a217-36307a76c3f6/datastream/OBJ/view"
                         height="225"/></cmd>
             </step>
             <step>
                 <cmd>Click the <b>Load</b> button.<image placement="break" id="image_ycp_s1x_g3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3Abcb5bbcd-f49d-47fe-b908-dfe388c35965/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3Abcb5bbcd-f49d-47fe-b908-dfe388c35965/datastream/OBJ/view"
                         height="275"/></cmd>
             </step>
         </steps>
         <result>The dataset has sucessfully loaded and nodes are in orbit, ready for action.<image
-                href="https://cwrc.ca/islandora/object/cwrc%3A7613ab42-76cb-480e-8918-a0d15991e773/datastream/OBJ/view"
+                scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A7613ab42-76cb-480e-8918-a0d15991e773/datastream/OBJ/view"
                 id="image_wdv_sqs_w5" placement="break" align="left" height="500"/></result>
     </taskbody>
     <related-links>

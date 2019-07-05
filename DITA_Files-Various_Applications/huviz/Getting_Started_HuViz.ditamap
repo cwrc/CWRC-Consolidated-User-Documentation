@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map product="HuViz" platform="stand-alone">
  <title>Getting Started in HuViz</title>
- <topichead navtitle="Load a Dataset"><topicref href="Load.ditamap" format="ditamap"/></topichead>
- <topichead navtitle="Select a Node"> <topicref href="Select.ditamap" format="ditamap"/></topichead>
- <topichead navtitle="Activate a Node"><topicref href="Activate.ditamap" format="ditamap"/></topichead>
- <topichead navtitle="Shelve a Node"><topicref href="Shelve.ditamap" format="ditamap"/></topichead>
- <topichead navtitle="Discard and Retrieve a Node"><topicref href="Discard_Retrieve.ditamap" format="ditamap"/></topichead>
-<topicref href="Hide_Concept.dita" format="dita"/>
+ <topichead navtitle="Load a Dataset">
+  <topicref href="Load.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="Select a Node">
+  <topicref href="Select.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="Activate a Node">
+  <topicref href="Activate.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="Shelve a Node">
+  <topicref href="Shelve.ditamap" format="ditamap"/>
+ </topichead>
+ <topichead navtitle="Discard and Retrieve a Node">
+  <topicref href="Discard_Retrieve.ditamap" format="ditamap"/>
+ </topichead>
+ <topicref href="Hide_Concept.dita" format="dita"/>
  <topichead navtitle="Pin a Node">
-  <topicref href="Pin.ditamap" format="ditamap"></topicref>
+  <topicref href="Pin.ditamap" format="ditamap"/>
  </topichead>
  <topicref href="Label_Concept.dita"/>
  <topicref href="Command_Execute_Verbs.dita"/>
  <topicref href="Reset.dita"/>
- <topichead navtitle="History"><topicref href="history.ditamap" format="ditamap"/></topichead>
+ <topichead navtitle="History">
+  <topicref href="history.ditamap" format="ditamap"/>
+ </topichead>
 </map>

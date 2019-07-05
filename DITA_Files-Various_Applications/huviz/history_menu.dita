@@ -10,18 +10,18 @@
             <step>
                 <cmd>Click the <b>History Tab</b> to view the Command History.<image
                         placement="break" id="image_rt3_vfg_f3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A0ccde9e4-fd2a-46b4-8518-e9c9a75e3bed/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A0ccde9e4-fd2a-46b4-8518-e9c9a75e3bed/datastream/OBJ/view"
                         height="250"/></cmd>
             </step>
             <step>
                 <cmd>Click the <b>triple bar icon</b> to save your progress.<image placement="break"
                         id="image_c5r_nrg_f3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3Adc1df37e-1670-4acb-b563-bebddffd89da/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3Adc1df37e-1670-4acb-b563-bebddffd89da/datastream/OBJ/view"
                         height="150"/></cmd>
             </step>
             <step>
                 <cmd>Choose a name and click "OK."<image placement="break" id="image_j5m_xrg_f3b"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A59f0dfd9-7caa-423e-a2cf-026d7a8a54b0/datastream/OBJ/view"
+                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A59f0dfd9-7caa-423e-a2cf-026d7a8a54b0/datastream/OBJ/view"
                         height="150"/></cmd>
                 <stepresult>Your session is saved into the HuViz homepage menu.</stepresult>
             </step>
