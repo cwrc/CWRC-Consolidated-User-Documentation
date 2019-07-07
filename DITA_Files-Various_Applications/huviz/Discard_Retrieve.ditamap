@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map platform="stand-alone" product="CWRC-Writer">
+<map platform="stand-alone" product="HuViz">
  <title>Discard and Retrieve Nodes</title>
  <topicref href="Discard_Concept.dita"/>
  <topicref href="Discard_Manually.dita"/>

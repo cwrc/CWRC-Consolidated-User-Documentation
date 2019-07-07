@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map platform="stand-alone" product="CWRC-Writer">
+<map platform="stand-alone" product="HuViz">
     <title>History</title>
     <topicref href="history_concept.dita"/>
     <topicref href="Undo-Redo.dita"/>
