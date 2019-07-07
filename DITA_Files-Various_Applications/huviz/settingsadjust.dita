@@ -25,7 +25,7 @@
                                     <p>Reset settings to default mode.</p>
                                 </entry>
                                 <entry><image id="image_trf_g1c_g3b"
-                                        href="https://cwrc.ca/islandora/object/cwrc%3A378e594f-e87f-4670-83ff-aac83a9071a7/datastream/OBJ/view"
+                                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A378e594f-e87f-4670-83ff-aac83a9071a7/datastream/OBJ/view"
                                         height="200"/></entry>
                             </row>
                             <row>
@@ -37,10 +37,10 @@
                                     </ul></entry>
                                 <entry valign="top">Adjust node and edge labels.</entry>
                                 <entry><image id="image_hhf_hxj_g3b"
-                                        href="https://cwrc.ca/islandora/object/cwrc%3A5492a9a9-18e0-49cb-83b5-96646221793a/datastream/OBJ/view"
+                                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A5492a9a9-18e0-49cb-83b5-96646221793a/datastream/OBJ/view"
                                         height="275" align="center"/><image placement="break"
                                         id="image_ezw_pxj_g3b"
-                                        href="https://cwrc.ca/islandora/object/cwrc%3Ae77052b9-369e-4249-8c00-961d2663115c/datastream/OBJ/view"
+                                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3Ae77052b9-369e-4249-8c00-961d2663115c/datastream/OBJ/view"
                                         height="215" align="center"/></entry>
                             </row>
                             <row>
@@ -57,10 +57,10 @@
                                     </ul></entry>
                                 <entry>
                                     <image placement="break" id="image_vtv_tb3_g3b"
-                                        href="https://cwrc.ca/islandora/object/cwrc%3A0e095e51-e553-4670-abdb-24e029ebd097/datastream/OBJ/view"
+                                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A0e095e51-e553-4670-abdb-24e029ebd097/datastream/OBJ/view"
                                         height="250" align="center"/>
                                     <image placement="break" id="image_kjw_wb3_g3b"
-                                        href="https://cwrc.ca/islandora/object/cwrc%3A62a0101e-9abb-4391-aebd-34ad9e42f4e9/datastream/OBJ/view"
+                                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A62a0101e-9abb-4391-aebd-34ad9e42f4e9/datastream/OBJ/view"
                                         height="250" align="center"/>
                                 </entry>
                             </row>
@@ -77,7 +77,7 @@
                                         datasets easier to comprehend.</i></entry>
                                 <entry>
                                     <image placement="break" id="image_azg_wfk_g3b"
-                                        href="https://cwrc.ca/islandora/object/cwrc%3A452ec4fb-5cbc-4a19-89fd-53980aaf1664/datastream/OBJ/view"
+                                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A452ec4fb-5cbc-4a19-89fd-53980aaf1664/datastream/OBJ/view"
                                         height="325" align="center"/>
                                 </entry>
                             </row>
@@ -91,7 +91,7 @@
                                 <entry valign="top">Additional ways to stylize the graph.</entry>
                                 <entry>
                                     <image placement="break" id="image_sxs_3hk_g3b"
-                                        href="https://cwrc.ca/islandora/object/cwrc%3A08cbf933-0a12-49a5-bc45-ee60473dbea6/datastream/OBJ/view"
+                                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A08cbf933-0a12-49a5-bc45-ee60473dbea6/datastream/OBJ/view"
                                         height="325" align="center"/>
                                 </entry>
                             </row>
@@ -103,7 +103,7 @@
                                     menu.</i></p></entry>
                                 <entry>
                                     <image placement="break" id="image_p54_cjk_g3b"
-                                        href="https://cwrc.ca/islandora/object/cwrc%3A49f0c80a-1205-4510-8839-86c43f7cfe28/datastream/OBJ/view"
+                                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A49f0c80a-1205-4510-8839-86c43f7cfe28/datastream/OBJ/view"
                                         height="150" align="center"/>
                                 </entry>
                             </row>
@@ -117,7 +117,7 @@
                                     Limit."</i></p></entry>
                                 <entry>
                                     <image placement="break" id="image_ut3_jlk_g3b"
-                                        href="https://cwrc.ca/islandora/object/cwrc%3Aeddd0938-a262-4110-bac9-bee2ce2c78cc/datastream/OBJ/view"
+                                        scope="external" href="https://cwrc.ca/islandora/object/cwrc%3Aeddd0938-a262-4110-bac9-bee2ce2c78cc/datastream/OBJ/view"
                                         height="225" align="center"/>
                                 </entry>
                             </row>

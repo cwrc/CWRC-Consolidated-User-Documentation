@@ -34,17 +34,9 @@
                         align="center"/></li>
             </ul><note>Reloading or Restarting the app will automatically erase all progress.To save
                 your work use the "Save Script" functions in the History Tab. </note></context>
-        <steps-unordered id="steps-unordered_pbj_sbt_w5">
-            <step>
-                <cmd/>
-            </step>
-        </steps-unordered>
     </taskbody>
     <related-links>
         <link href="Reference_CommandsTab.dita"></link>
         <link href="Command_Execute_Verbs.dita"></link>
-        <link href="history_concept.dita"></link>
-        <link href="history_save.dita"></link>
-        <link href="history_menu.dita"></link>
     </related-links>
 </task>

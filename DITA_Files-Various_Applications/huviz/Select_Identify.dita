@@ -41,10 +41,10 @@
        </entry>
        <entry>
         <image
-         href="https://cwrc.ca/islandora/object/cwrc%3A3a18d9fe-0351-4dc1-ab4b-b94e7af63785/datastream/OBJ/view"
+         scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A3a18d9fe-0351-4dc1-ab4b-b94e7af63785/datastream/OBJ/view"
          id="image_rpj_szm_2v" align="center" placement="break" height="200"/>
         <image placement="break" id="image_xwy_3qx_g3b"
-         href="https://cwrc.ca/islandora/object/cwrc%3A8385f0e0-fc14-42af-be41-89b2ac340c1a/datastream/OBJ/view"
+         scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A8385f0e0-fc14-42af-be41-89b2ac340c1a/datastream/OBJ/view"
          height="250" align="center"/>
        </entry>
       </row>
@@ -56,7 +56,7 @@
         </ul>
        </entry>
        <entry><image
-         href="https://cwrc.ca/islandora/object/cwrc%3A1bf3db75-6fac-4113-8923-859a816258a0/datastream/OBJ/view"
+         scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A1bf3db75-6fac-4113-8923-859a816258a0/datastream/OBJ/view"
          id="image_b34_t1n_2v" align="center" placement="break" height="200"/></entry>
       </row>
       <row>
@@ -68,7 +68,7 @@
        </entry>
        <entry>
         <image placement="break"
-         href="https://cwrc.ca/islandora/object/cwrc%3A34d8044f-75de-4ad2-bf10-cfe7bcc6bfa6/datastream/OBJ/view"
+         scope="external" href="https://cwrc.ca/islandora/object/cwrc%3A34d8044f-75de-4ad2-bf10-cfe7bcc6bfa6/datastream/OBJ/view"
          id="image_vb4_gcn_2v" align="center" height="200"/>
        </entry>
       </row>

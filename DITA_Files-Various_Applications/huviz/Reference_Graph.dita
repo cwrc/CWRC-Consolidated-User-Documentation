@@ -32,9 +32,9 @@
     areas: 1) central Graph, 2) Shelf and 3) Discard Bin.</note></p>
  </conbody>
  <related-links>
-  <link href="Reference_CommandsTab.dita"></link>
   <link href="Activate_Manually.dita"></link>
-  <link href="Shelve_Manually.dita"></link>
-  <link href="Discard_Manually.dita"></link>
+  <link href="Reference_CommandsTab.dita"/>
+  <link href="Reference_Graph.dita"></link>
+  <link href="CurrentCommand_Concept.dita"></link>
  </related-links>
 </concept>

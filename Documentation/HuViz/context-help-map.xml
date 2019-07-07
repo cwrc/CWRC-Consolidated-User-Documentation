@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_zcz_wxx_1v" path="HuViz_Concept.html"/>
+   <appContext helpID="concept_o2x_vqd_w5" path="Reference_Graph.html"/>
+   <appContext helpID="concept_gfy_xkd_w5" path="Reference_CommandsTab.html"/>
+   <appContext helpID="" path="CurrentCommand_Concept.html"/>
+   <appContext helpID="glossgroup_mmc_vkh_x5" path="Glossary.html"/>
+   <appContext helpID="concept_gjd_yxc_w5" path="Hide_Concept.html"/>
+   <appContext helpID="concept_nz4_tth_x5" path="Label_Concept.html"/>
+   <appContext helpID="task_xmf_kzd_w5" path="Command_Execute_Verbs.html"/>
+   <appContext helpID="task_ljw_f1t_w5" path="Reset.html"/>
+   <appContext helpID="concept_trr_wmy_1v" path="Edges_Concept.html"/>
+   <appContext helpID="task_h1w_1dz_1v" path="ViewEdges.html"/>
+   <appContext helpID="showedgesource" path="EdgeSource.html"/>
+   <appContext helpID="task_ulv_sly_1v" path="Graph_EdgeType.html"/>
+   <appContext helpID="walk_concept" path="walk_concept.html"/>
+   <appContext helpID="task_jj3_thm_f3b" path="Walk.html"/>
+   <appContext helpID="wander_concept" path="wander_concept.html"/>
+   <appContext helpID="wander" path="wander.html"/>
+   <appContext helpID="concept_ox3_m2z_1v" path="SettingsGuide.html"/>
+   <appContext helpID="settingsadjust" path="settingsadjust.html"/>
+</map>

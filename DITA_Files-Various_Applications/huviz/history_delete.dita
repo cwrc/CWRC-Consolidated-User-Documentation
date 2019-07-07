@@ -33,10 +33,7 @@
         </steps>
     </taskbody>
     <related-links>
-        <link href="history_save.dita"/>
-        <link href="history_menu.dita"/>
-        <link href="history_open.dita"/>
-        <link href="Undo-Redo.dita"/>
         <link href="history_concept.dita"/>
+        <link href="Undo-Redo.dita"/>
     </related-links>
 </task>

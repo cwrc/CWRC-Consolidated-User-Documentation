@@ -8,15 +8,15 @@
   <p>The test datasets for the HuViz prototype are generated from the Orlando Project textbase.
    However, the tool is compatible with any RDF-styled data. Researchers can upload and explore
    their own datasets, as long as the file is in turtle (.ttl) format.</p>
-  <p>
-   <image id="image_bl1_t2q_b3b"
-    href="https://cwrc.ca/islandora/object/cwrc%3Aac5f3171-4135-4965-8f8e-25e9a03536ea/datastream/OBJ/view"
-    align="center" placement="break"/>
-  </p>
+
+  <p>The HuViz prograamming team is continually improving the tool's features. We are currently
+   working on new "editing" capabilities will allow researchers to process and refine their datasets
+   from within the tool, exporting their work as a new file.</p>
+  <p><image id="image_bl1_t2q_b3b" scope="external"
+        href="https://cwrc.ca/islandora/object/cwrc%3Aac5f3171-4135-4965-8f8e-25e9a03536ea/datastream/OBJ/view"
+        height="600" align="center" placement="break"/></p>
  </conbody>
  <related-links>
-  <link href="Reference_Graph.dita"></link>
-  <link href="Reference_CommandsTab.dita"></link>
   <link href="Glossary.dita"></link>
  </related-links>
 </concept>

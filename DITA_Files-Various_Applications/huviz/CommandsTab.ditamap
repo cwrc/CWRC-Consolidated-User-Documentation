@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map platform="stand-alone" product="HuViz">
  <title>Using the Commands Tab</title>
- <topicref href="Reference_CommandsTab.dita"></topicref>
- <topicref href="CurrentCommand_Concept.dita"></topicref>
+ <topicref href="Reference_CommandsTab.dita"/>
+ <topicref href="CurrentCommand_Concept.dita"/>
 </map>

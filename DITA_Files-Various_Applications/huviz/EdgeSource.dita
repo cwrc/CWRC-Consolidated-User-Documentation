@@ -48,7 +48,6 @@
         </postreq>
     </taskbody>
     <related-links>
-        <link href="ViewEdges.dita"/>
         <link href="Graph_EdgeType.dita"/>
         <link href="Edges_Concept.dita"/>
     </related-links>
