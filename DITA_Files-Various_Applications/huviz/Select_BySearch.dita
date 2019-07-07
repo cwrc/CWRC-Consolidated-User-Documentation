@@ -20,10 +20,10 @@
     </prolog>
     <taskbody>
         <context>
-            <p>The Matching function searches the node names in the Dataset for matches. Matching
-                nodes are then Selected to execute a Command.<note>The Like bar offers full Regex
-                    power. For example, searching "19\d\d" will return matches for numbers in the
-                    range 1900-1999.</note><note>ONLY the <i>node names</i> are searched. The Like
+            <p>The Match function searches the node names in the Dataset for matches. Matching nodes
+                are then Selected to execute a Command.<note>The search offers full Regex power. For
+                    example, searching "19\d\d" will return matches for numbers in the range
+                    1900-1999.</note><note>ONLY the <i>node names</i> are searched. The Match
                     function does NOT perform searches on other features like Set/Class types or
                     Snippet text.</note></p>
         </context>
