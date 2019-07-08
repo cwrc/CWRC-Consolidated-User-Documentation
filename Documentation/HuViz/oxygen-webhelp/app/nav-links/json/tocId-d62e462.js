@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Settings Tab","href":"SettingsGuide.html","attributes": {"data-id":"concept_ox3_m2z_1v",},"menu": {"hasChildren":false,},"tocID":"concept_ox3_m2z_1v-d62e463","topics":[]},{"title":"Adjust Settings","href":"settingsadjust.html","attributes": {"data-id":"settingsadjust",},"menu": {"hasChildren":false,},"tocID":"settingsadjust-d62e471","topics":[]}]});
