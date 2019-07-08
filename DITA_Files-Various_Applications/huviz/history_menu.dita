@@ -2,10 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_gp2_dmr_b3b">
     <title>Save Session to Menu</title>
-    <shortdesc>Saves user's progress.</shortdesc>
     <taskbody>
-        <context>The user's progress is saved to the browser and can be accessed again from the
-            app's main menu.<p/></context>
+        <context>The user's progress can be saved to the browser and re-opened from the HuViz main
+            menu.<p/></context>
         <steps>
             <step>
                 <cmd>Click the <b>History Tab</b> to view the Command History.<image

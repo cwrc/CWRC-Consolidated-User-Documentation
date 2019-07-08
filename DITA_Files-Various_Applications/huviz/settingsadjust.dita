@@ -2,7 +2,6 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="settingsadjust">
     <title>Adjust Settings</title>
-    <shortdesc>Adjust graph settings.</shortdesc>
     <taskbody>
         <context>An introduction to the various ways to customize the graph.<p>
                 <table frame="all" rowsep="1" colsep="1" id="table_mgm_pzb_g3b">

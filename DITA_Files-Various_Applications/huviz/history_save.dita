@@ -2,7 +2,6 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="history_save">
     <title>Save Session to File</title>
-    <shortdesc>Exports a record of the user's actions.</shortdesc>
     <taskbody>
         <context>The Command History can be exported as a .txt file.<p/></context>
         <steps>

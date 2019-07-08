@@ -2,7 +2,6 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="history_open">
     <title>Open Saved Session</title>
-    <shortdesc>Open saved session.</shortdesc>
     <taskbody>
         <context>Saved sessions can be opened from the HuViz main menu.<p>There are two types of
                 saved sessions:<ul id="ul_agp_5bh_f3b">

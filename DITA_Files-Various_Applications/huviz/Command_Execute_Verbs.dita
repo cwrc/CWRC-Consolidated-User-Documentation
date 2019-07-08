@@ -2,7 +2,6 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_xmf_kzd_w5">
     <title>Execute Verbs in Commands Tab</title>
-    <shortdesc>Work in the Commands Tab instead of directly in the Graph.</shortdesc>
     <prolog>
         <author>Chelsea Miya</author>
         <copyright>
@@ -19,7 +18,8 @@
         </metadata>
     </prolog>
     <taskbody>
-        <context>Execute Commands by combining a Set or Class Type with a Verb.</context>
+        <context>Use the Commands Tab to perform actions in the graph. Commands are executed by
+            combining a Set or Class Type with a Verb.</context>
         <steps id="steps_elp_lb2_w5">
             <step>
                 <cmd>Select nodes, either manually or by clicking on a Set or Class type.<image

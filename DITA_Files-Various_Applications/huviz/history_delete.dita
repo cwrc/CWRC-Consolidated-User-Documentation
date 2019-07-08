@@ -2,7 +2,6 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_sq1_qjh_f3b">
     <title>Delete Saved Session</title>
-    <shortdesc>Delete saved session.</shortdesc>
     <taskbody>
         <context>Sessions that have been saved in the HuViz main menu can also be deleted.<p>To
                 delete a saved session:</p></context>

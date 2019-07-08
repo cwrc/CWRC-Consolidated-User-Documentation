@@ -2,10 +2,9 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="history_concept">
     <title>History</title>
-    <shortdesc>Save and undo actions.</shortdesc>
     <conbody>
         <p>The Command History is a record of the user's actions. </p>
-        <p>It can be used to:<ul id="ul_zmw_hz4_h3b">
+        <p>Use the History feature to:<ul id="ul_zmw_hz4_h3b">
                 <li>Undo and redo actions</li>
                 <li>Save and re-open a session</li>
             </ul></p>

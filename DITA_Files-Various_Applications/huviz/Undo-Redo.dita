@@ -2,12 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_rdt_z3r_b3b">
     <title>Undo/Redo</title>
-    <shortdesc>Reverses one or more of the previous commands; can also be used to re-perform a
-        move.</shortdesc>
     <taskbody>
-        <context>
-            <p>Users have the power to undo or redo moves using the Command History</p>
-        </context>
+        <context>The Command History can be used to undo or redo actions.</context>
         <steps>
             <step>
                 <cmd>Click the <b>History Tab</b> to view the Command History.</cmd>
