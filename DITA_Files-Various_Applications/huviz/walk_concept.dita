@@ -6,7 +6,7 @@
         <p>In walk mode, every node you click becomes the central node in the graph. Nodes
             immediately connected it will be drawn into the graph. </p>
         <p>Walk mode illustrates the user's "pathway." Previously clicked nodes will turn black and
-            remain in the graph; all other periferral nodes will be re-shelved.<image
+            remain in the graph; all other peripheral nodes will be re-shelved.<image
                 placement="break" id="image_nkb_zmm_f3b"
                 href="https://cwrc.ca/islandora/object/cwrc%3Abbb1449c-f359-426f-8524-4ee607725ca2/datastream/MEDIUM_SIZE/view"
                 align="center"/></p>

@@ -2,8 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_zcz_wxx_1v">
  <title>What is HuViz?</title>
- <shortdesc>Humanities Visualizer (HuViz) is a browser-based tool for visualizing linked
-  data.</shortdesc>
+ <shortdesc><xref href="http://huviz.dev.nooron.com/" format="html" scope="external">Humanities
+   Visualizer</xref> (HuViz) is a browser-based tool for visualizing linked data.</shortdesc>
  <conbody>
   <p>HuViz allows researchers to explore RDF datasets and ontologies in the form of an interactive graph. The user can discover connections between entities -- such as: people, places and organizations -- either by clicking and dragging nodes directly into the Graph or by executing commands in the Commands Tab.</p>
   <p>The test datasets for the HuViz prototype are generated from the Orlando Project textbase.
