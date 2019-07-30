@@ -8,25 +8,22 @@
     <taskbody>
         <context>When modifying the metadata of an object (i.e. editing the MODS datastream) and
             when editing an XML document in CWRC Writer, the lock is automatically added by the
-            system. </context>
+            system. <note>If the lock is required and has not been automatically added, this message
+                will appear. <image placement="break"
+                    href="https://cwrc.ca/islandora/object/cwrc%3Aa1e1b6d4-e16d-4ab5-bb6c-d2b177cc813e/datastream/OBJ/view"
+                    id="image_aww_m3r_43b"/></note>
+        </context>
         <steps>
             <step>
-                <cmd> Hover over the <uicontrol>Manage</uicontrol> tab of the object you would like
-                    to lock and select <uicontrol>Properties</uicontrol> from the dropdown list.
-                        <image id="image_igw_yfg_sbb"
-                        href="https://cwrc.ca/islandora/object/cwrc%3A7971b53e-a6d2-4577-9241-85eef84aca41/datastream/OBJ/view"
-                    /></cmd>
-            </step>
-            <step>
-                <cmd>Click on <uicontrol>acquire the lock</uicontrol>, located in the banner below the menu bar (see below).<image id="image_xss_4gg_sbb" href="https://cwrc.ca/islandora/object/cwrc%3Aa1e1b6d4-e16d-4ab5-bb6c-d2b177cc813e/datastream/OBJ/view"></image></cmd>
-            </step>
-            <step>
-                <cmd> Click on <uicontrol>Confirm</uicontrol>. </cmd>
-            </step>
+                <cmd>Click on the <uicontrol>Lock</uicontrol> button in the menu bar.</cmd> <info><image placement="break"
+                    href="https://cwrc.ca/islandora/object/cwrc%3A7971b53e-a6d2-4577-9241-85eef84aca41/datastream/OBJ/view"
+                    id="image_kcb_dkr_43b"/></info>
+             </step>
         </steps>
-        <result id="result_w1n_chz_c3b">This takes you back to the object page with a banner that
-            informs the user that they have set the lock and an option to remove the lock. <image
-                id="image_wgf_xgg_sbb"
+        <result id="result_w1n_chz_c3b">This takes you back to the datastream page where a banner
+            informs the user that they have set the lock. If you would like to unlock this object or
+            have accidentally added a lock, you can click on the <uicontrol>Unlock</uicontrol>
+            button in the menu bar. <image id="image_wgf_xgg_sbb"
                 href="https://cwrc.ca/islandora/object/cwrc%3A9e9554bf-cc26-4c90-89f1-fa76c72dd461/datastream/OBJ/view"
             /></result>
     </taskbody>
