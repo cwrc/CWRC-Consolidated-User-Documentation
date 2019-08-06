@@ -1,39 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map audience="admin member project-contributor project-editor public"
- product="CWRC-Writer CWRC-Writer_standalone CWRC-Writer_integrated">
+<map audience="admin member project-contributor project-editor public" product="CWRC-Writer"
+ platform="CWRC stand-alone">
  <title>Getting started in CWRC-Writer</title>
  <topicref href="CWRCWriter_Started_Splash.dita"
-  audience="admin member project-contributor project-editor public" product="CWRC-Writer_standalone"/>
- <topicref href="Embed_Ref_Splash.dita"
-  audience="admin member project-contributor project-editor public" product="CWRC-Writer_integrated"/>
- <topicref href="Embedded_View_Doc.dita" audience="admin member project-contributor public"
-  product="CWRC-Writer_integrated"/>
- <topicref href="Embed_Create_Doc.dita"
-  audience="admin member project-contributor project-editor public" product="CWRC-Writer_integrated"/>
- <topicref href="Write_Editor.dita" audience="admin member public"
-  product="CWRC-Writer CWRC-Writer_standalone CWRC-Writer_integrated"/>
- <topicref href="Write_Text_Area.dita" audience="admin member public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+  audience="admin member project-contributor project-editor public" product="CWRC-Writer"
+  platform="CWRC stand-alone"/>
+ <topicref href="Connect%20to%20Git-Writer.dita"/>
+ <topicref href="Load%20a%20document%20in%20Git-Writer.dita"/>
+ <topicref href="Creating_a_Doc_in_GitWriter.dita"/>
+ <topicref href="Save%20a%20Document%20in%20Git-Writer.dita"/>
+ <topicref href="Embed_Ref_Splash.dita" audience="admin member project-contributor project-editor"
+  product="CWRC-Writer" platform="CWRC"/>
+ <topicref href="Embedded_View_Doc.dita"
+  audience="admin member project-contributor project-editor public" product="CWRC-Writer"
+  platform="CWRC"/>
+ <topicref href="Embed_Create_Doc.dita" audience="admin member project-contributor project-editor"
+  product="CWRC-Writer" platform="CWRC"/>
+ <topicref href="Write_Editor.dita" audience="admin member project-contributor project-editor"
+  product="CWRC-Writer" platform="CWRC stand-alone"/>
+ <topicref href="Write_Text_Area.dita" audience="admin member project-contributor project-editor"
+  product="CWRC-Writer" platform="CWRC stand-alone"/>
  <topicref href="Delete_Text_Structure.dita"
-  audience="admin member project-contributor project-editor public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
- <topicref href="Embed_Save_Exit.dita"
-  audience="admin member project-contributor project-editor public" product="CWRC-Writer_integrated"/>
- <topicref href="Save_Document.dita" audience="admin member public" product="CWRC-Writer_standalone"/>
- <topicref href="Validate_Document.dita"
-  audience="admin member project-contributor project-editor public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
- <topicref href="Switch_Mode.dita" audience="admin member project-contributor project-editor public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
- <topicref href="Show_Tags.dita" audience="admin member project-contributor project-editor public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
- <topicref href="Edit_Source.dita" audience="admin member project-contributor project-editor public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
- <topicref href="Edit_Header.dita" audience="admin member project-contributor project-editor public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
- <topicref href="Open_Document_Menu.dita" audience="admin member public"
-  product="CWRC-Writer_standalone"/>
- <topicref href="Open_Document_Toolbar.dita" audience="admin member public"
-  product="CWRC-Writer_standalone"/>
+  audience="admin member project-contributor project-editor" product="CWRC-Writer"
+  platform="CWRC stand-alone"/>
+ <topicref href="Validate_Document.dita" audience="admin member project-contributor project-editor"
+  product="CWRC-Writer" platform="CWRC stand-alone"/>
+ <topicref href="Switch_Mode.dita" audience="admin member project-contributor project-editor"
+  product="CWRC-Writer" platform="CWRC stand-alone"/>
+ <topicref href="Show_Tags.dita" audience="admin member project-contributor project-editor"
+  product="CWRC-Writer" platform="CWRC stand-alone"/>
+ <topicref href="Edit_Source.dita" audience="admin member project-contributor project-editor"
+  product="CWRC-Writer" platform="CWRC stand-alone"/>
+ <topicref href="Edit_Header.dita" audience="admin member project-contributor project-editor"
+  product="CWRC-Writer" platform="CWRC stand-alone"/>
+ <topicref href="Open_Document_Toolbar.dita" product="CWRC-Writer" platform="stand-alone"/>
 </map>

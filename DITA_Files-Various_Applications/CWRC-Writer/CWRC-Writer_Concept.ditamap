@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map audience="admin member project-contributor project-editor public"
- product="CWRC-Writer_integrated CWRC-Writer_standalone">
+<map audience="admin member project-contributor project-editor public" product="CWRC-Writer"
+ platform="CWRC stand-alone">
  <title>CWRC-Writer Concepts</title>
  <topicref href="CWRCWriter_Concept_Splash.dita"
-  audience="admin member project-contributor project-editor public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
- <topicref href="Concept_XML.dita" audience="admin member project-contributor project-editor public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
- <topicref href="Concept_RDF.dita" audience="admin member project-contributor project-editor public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+ <topicref href="Concept_XML.dita" audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+ <topicref href="Concept_RDF.dita" audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
  <topicref href="Concept_Named_Entity_Annotation.dita"
-  audience="admin member project-contributor project-editor public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
  <topicref href="Concept_Triples.dita"
-  audience="admin member project-contributor project-editor public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
 </map>

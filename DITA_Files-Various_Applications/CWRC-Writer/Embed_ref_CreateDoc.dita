@@ -6,21 +6,6 @@
     using a pre existing template (provided by CWRC). Additionally, these options are customizable
     to you and your project because you select which schema to use.</shortdesc>
   <refbody>
-    <refsyn>
-      <synph>
-        <var>object</var>
-        <delim>.</delim>
-        <kwd>property</kwd>
-        <delim> = </delim>
-        <var>trueorfalse</var>
-      </synph>
-    </refsyn>
-    <properties>
-      <property>
-        <proptype>Prop name</proptype>
-        <propvalue>Prop value</propvalue>
-      </property>
-    </properties>
     <section>
       <title>General information</title>
       <p>To upload a document you need to first create a folder in CWRC (please see instruction here

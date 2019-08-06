@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>Load a document in Git-Writer</title>
+    <shortdesc>In order to edit a document in Git-Writer, you must load it first. You can load a
+        documnet from GitHub or you local machine. You can also start editing from one of the
+        templates provided.</shortdesc>
+    <taskbody>
+        <steps-unordered>
+            <step>
+                <cmd>Load one of the TEI templates provided</cmd>
+                <info>Available templates allow you to work on <b>well formed</b> XML documents,
+                    that validate against a fully supported schema<image placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A1b2ddcdc-0c48-4096-9783-84e84e22e936/datastream/OBJ/view"
+                        align="center" id="image_grh_nq5_j3b"/></info>
+            </step>
+            <step>
+                <cmd/>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

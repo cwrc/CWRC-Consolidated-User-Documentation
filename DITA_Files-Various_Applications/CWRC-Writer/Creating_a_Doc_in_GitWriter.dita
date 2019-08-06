@@ -1,37 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_zsx_ysh_2db">
-    <title>Creating a Document in Git-Writer</title>
+    <title>Creating/opening a Document in Git-Writer</title>
     <shortdesc>How to create a document in Git-Writer.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
         <steps>
             <step>
-                <cmd>Go to https://cwrc-writer.cwrc.ca. Once there, you will be prompted to authenticate with GitHub (if not authenticated already); if you do not have a GitHub account yet, you can easily sign up for one: https://github.com/join?source=header-home.  </cmd>
+                <cmd>Go to <xref format="html" scope="external" href="https://cwrc-writer.cwrc.ca"
+                        >https://cwrc-writer.cwrc.ca</xref>.</cmd>
+            </step>
+            <step importance="optional">
+                <cmd>Authenticate with GitHub</cmd>
+                <info>If you do not have a GitHub account yet, you can easily sign up for one at <xref
+                    href="https://github.com/join?source=header-home" scope="external"
+                    format="html">https://github.com/join?source=header-home</xref></info>
             </step>
             <step>
-                <cmd>Once logged in on GitHub, you will be prompted to authorize GitWriter.</cmd>
+                <cmd>Authorize GitWriter.</cmd>
+                <info>CWRC does not keep any of your GitHub information. The GitHub token issued by GitHub is not stored on a CWRC server, but is only submitted as a <xref href="https://jwt.io/" format="html" scope="external">JSON Web Token</xref> for each request you make.</info>
             </step>
             <step>
-                <cmd>After you have done so, you will be taken to the Git-Writer landing page, where you will be presented with three different options to load a document:<image href="https://cwrc.ca/islandora/object/cwrc%3A8c0a672f-12d5-44a4-b674-8b800e93daa3/datastream/OBJ/view" id="image_z3v_kyh_2db"></image></cmd>
+                <cmd>After you have done so, you will be taken to the Git-Writer landing page, where
+                    you will be presented with three different options to load a document:</cmd>
                 <choices id="choices_m4r_g5h_2db">
                     <choice>
-                        <p>Load one of your own documents (this option does not apply if you are using Git-Writer for the first time, as you would not have any Git-Writer-produced documents. Blank Document option allows you to work in a blank TEI document. </p>
+                        <p>Load or paste one of your own documents (this option does not apply if
+                            you are using Git-Writer for the first time, as you would not have any
+                            Git-Writer-produced documents. Blank Document option allows you to work
+                            in a blank TEI document. </p>
                     </choice>
+                    <choice>Search and load any public Git-Writer-enabled documents/repositories
+                        (with an option to sort by GitHub organization or user ID). <note>In order
+                            to save changes to a repository you do not own, the repository owner
+                            should have added you as a collaborator to that repository from the
+                            GitHub repository settings (If you are not a collaborator on the
+                            external repository, you can still save a version of the document with
+                            the changes you have made as a new Git-Writer-enabled repository that
+                            you own.</note></choice>
+                    <choice>Load one of the TEI templates provided. Available templates allow you to
+                        work on “well formed” XML documents. Additionally, these templates already
+                        have an associated schema attached (making it easier for XML
+                        beginners).<image href="https://cwrc.ca/islandora/object/cwrc%3A1b2ddcdc-0c48-4096-9783-84e84e22e936/datastream/OBJ/view" ></image></choice>
                 </choices>
-                <choices id="choices_i5p_h5h_2db">
-                    <choice>Search and load any public Git-Writer-enabled documents/repositories (with an option to sort by GitHub organization or user ID). <note>In order to save changes to a repository you do not own, the repository owner should have added you as a collaborator to that repository from the GitHub repository settings (If you are not a collaborator on the external repository, you can still save a version of the document with the changes you have made as a new Git-Writer-enabled repository that you own.</note></choice>
-                </choices>
-                <choices id="choices_th5_l5h_2db">
-                    <choice>Load one of the TEI templates provided. Available templates allow you to work on “well formed” XML documents. Additionally, these templates already have an associated schema attached (making it easier for XML beginners).</choice>
-                </choices>
+               
             </step>
         </steps>
     </taskbody>
     <related-links>
-        <link href="Saving_your_Document_in_Git-Writer.dita#task_dvv_2zh_2db"></link>
-        <link href="Opening_a_New_Doc_in_GitWriter.dita#task_dyk_gzh_2db"></link>
+        <link href="Save%20a%20Document%20in%20Git-Writer.dita"/>
+        <link href="Opening_a_New_Doc_in_GitWriter.dita#task_dyk_gzh_2db"/>
     </related-links>
 </task>

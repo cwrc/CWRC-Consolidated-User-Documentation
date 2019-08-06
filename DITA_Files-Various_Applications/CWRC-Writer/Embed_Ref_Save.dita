@@ -5,21 +5,6 @@
   <shortdesc>CWRC-Writer provides two options to save your changes and document. The first is a
     general save action, but the second allows users to save and then exit the document.</shortdesc>
   <refbody>
-    <refsyn>
-      <synph>
-        <var>object</var>
-        <delim>.</delim>
-        <kwd>property</kwd>
-        <delim> = </delim>
-        <var>trueorfalse</var>
-      </synph>
-    </refsyn>
-    <properties>
-      <property>
-        <proptype>Prop name</proptype>
-        <propvalue>Prop value</propvalue>
-      </property>
-    </properties>
     <section>
       <title>Saving your document</title>
       <p>While you are working with your document periodically save any changes you have made by

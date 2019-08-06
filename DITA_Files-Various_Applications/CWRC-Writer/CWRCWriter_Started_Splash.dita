@@ -14,10 +14,7 @@
       <created date="2014-09-30"></created>
       <revised modified="2016-09-15"/>
     </critdates>
-    <metadata product="">
-      
-      
-    </metadata>
+    <metadata product="CWRC-Writer"/>
   </prolog>
   <refbody>
     <section>
@@ -26,45 +23,13 @@
         sample document first, and then moving on to trying to create a new document if you
           wish.<image placement="break"
           href="https://cwrc.ca/islandora/object/cwrc%3A3e04a035-5cae-4f40-a7cd-cd9a0a7c80bc/datastream/OBJ/view"
-          id="image_vgj_dl4_hx" align="center" scale="80" scalefit="yes"/></p><note type="caution">Please, handle with care:<ul>
-        <li>For the moment, CWRC-Writer is optimized for Firefox and Chrome.</li>
-        <li>Allow CWRC-Writer a few seconds to load each page. <note type="tip">If you interrupt the loading process you may have to shut down and reopen CWRC_Writer to continue working with this tool. You can open a saved document or a new template using the "Load" button on the toolbar. The CWRC logo in the upper left corner will take you outside the CWRC-Writer to the CWRC website (www.cwrc.ca). The new entity data option VIAF and GeoNames also take a few seconds to load. Thank you for your patience.</note></li>
-        <!--<li>Currently when you open the edit mode of CWRC-Writer you need to manually expand the structure panel to see the tags.</li>-->
-            <li>
-            <ul>
-              <li>Chrome: <xref format="html"
-                  href="https://support.google.com/chrome/answer/95582?hl=en"
-                  >https://support.google.com/chrome/answer/95582?hl=en</xref></li>
-              <li>Firefox: <xref format="html"
-                  href="https://support.mozilla.org/en-US/kb/how-clear-firefox-cache"
-                  >https://support.mozilla.org/en-US/kb/how-clear-firefox-cache</xref></li>
-            </ul>
-          </li>
-        <li>If the problem persists, please email <xref href="mailto:cwrc@ualberta.ca" format="html">cwrc@ualberta.ca</xref></li>
-        </ul>If you are having problems with CWRC-Writer, please clear your browser cache. If the problem persists, please email cwrc@ualberta.ca</note>
-<!--      <p>
-        <lines><b>Related Links:</b></lines>
-        <lines><xref href="CWRCWriter_Login_Instructions.dita"/></lines>
-        <lines><xref href="Open_Document_Menu.dita"/></lines>
-        <lines><xref href="Open_Document_Toolbar.dita"/></lines>
-        <lines><xref href="Write_Editor.dita"></xref></lines>
-        <lines><xref href="Write_Text_Area.dita"/></lines>
-        <lines><xref href="Delete_Text_Structure.dita"/></lines>
-        <lines><xref href="Save_Document.dita"></xref></lines>
-        <lines><xref href="Validate_Document.dita"/></lines>
-        <lines><xref href="Switch_Mode.dita"></xref></lines>
-        <lines><xref href="Show_Tags.dita"></xref></lines>
-        <lines><xref href="View_Source.dita"></xref></lines>
-        <lines><xref href="Edit_Source.dita"></xref></lines>
-        <lines><xref href="Edit_Header.dita"></xref></lines>
-      </p>-->
+          id="image_vgj_dl4_hx" align="center" scale="80" scalefit="yes"/></p>
     </section>
   </refbody>
   <related-links>
     <link href="Write_Editor.dita#task_mbh_fxm_jp"/>
     <link href="Write_Text_Area.dita#task_fbh_vjc_dp"/>
     <link href="Delete_Text_Structure.dita#task_mpf_x3l_jp"/>
-    <link href="Save_Document.dita#task_gl2_tc2_lp"/>
     <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
     <link href="Switch_Mode.dita#task_rzm_jl2_np"/>
     <link href="Show_Tags.dita#task_mkg_gn2_np"/>

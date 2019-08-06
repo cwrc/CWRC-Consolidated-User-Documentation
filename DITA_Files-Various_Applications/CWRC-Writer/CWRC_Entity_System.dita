@@ -27,22 +27,10 @@
         the entity lookup pop-up, you can click on the button to create a new entity and you will be
         taken to a pop-up that allows you to enter the appropriate information. Once created, the
         new entity will be a reference in your tag/annotations and thereafter you will be able to
-        select it from the CWRC entity list for future tags/annotations.<image placement="break"
-          href="https://cwrc.ca/islandora/object/cwrc%3A6d6b2d9d-a948-424f-b387-9e7ea49b6a3b/datastream/OBJ/view"
-          id="image_qzj_r3p_hx" align="center" scalefit="yes"/></p>
-      <p>This new feature of CWRC Writer allows you to seamlessly integrate your documents with the
-        semantic web, which is described in more detail in the documents reference below. To avoid
-        ambiguities when tagging named entities, you can also look up and see exactly what linked
-        data you are adding to your document. Clicking on the small black information circle beside
-        an entity option creates a pop-up with a URL. If you open that URL in a new tab you can now
-        see exactly what information you are adding to your document.<image placement="break"
-          href="https://cwrc.ca/islandora/object/cwrc%3A72d62eaf-9189-49ce-bf32-d7d848cc0cd5/datastream/OBJ/view"
-          id="image_gls_rtg_rp" align="center" scale="80" scalefit="yes"/></p>
-      <p>For more information on the lookups available in CWRC-Writer, see the links below. </p>
-      <p>VIAF: <xref href="https://viaf.org" format="html" scope="external"/></p>
-      <p>GeoNames: <xref href="http://www.geonames.org" format="html" scope="external"/></p>
-      <p>GoogleGeocode: <xref href="https://developers.google.com/maps/documentation/geocoding/"
-          format="html" scope="external"/></p>
+        select it from the CWRC entity list for future tags/annotations.</p>
+      <image placement="break"
+        href="https://cwrc.ca/islandora/object/cwrc%3A6d6b2d9d-a948-424f-b387-9e7ea49b6a3b/datastream/OBJ/view"
+        id="image_qzj_r3p_hx" align="center" scalefit="yes"/>
     </section>
   </refbody>
   <related-links>

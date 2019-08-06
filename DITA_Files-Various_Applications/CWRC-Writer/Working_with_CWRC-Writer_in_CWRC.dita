@@ -9,10 +9,10 @@
   <refbody>
     <section>
       <title>General Information</title>
-      <p>When working with your document in the <b>Annotation>/b> or <b>Edit Content</b> options, other people cannot work
-        with the document. This means that you will not be able to access a document if another user is annotating or editing it. Additionally, you will not be able to access a document that is locked.<image placement="break"
+      <p>When working with your document in the <b>Annotation</b> or <b>Edit Content</b> options, other people cannot work
+        with the document. This means that you will not be able to access a document if another user is annotating or editing it. Additionally, you will not be able to access a document that is locked.</p><image placement="break"
           href="https://cwrc.ca/islandora/object/cwrc%3A00c81e79-0537-4c5a-bded-15e2c1611fb9/datastream/OBJ/view"
-          id="image_kx2_nxb_4v" align="center"/></p>
+          id="image_kx2_nxb_4v" align="center" scope="external"/>
       <p>If you are finished editing or annotating choose the “Save and Exit” option, this then
         frees up the document for other team members, so that they may work with it.</p>
     </section>

@@ -3,17 +3,21 @@
 <task id="task_ahl_mxj_hx">
     <title>Annotating Your Document</title>
     <shortdesc>CWRC-Writer provides users with the opportunity to annotate documents. This feature
-        is only available to users who are in the same project as the document or if the document is
-        unlocked. </shortdesc>
+        is only available when: the current user has editing priviledges and when the current
+        document is not being edited by someone else. </shortdesc>
     <taskbody>
         <steps>
             <step>
-                <cmd>Click on the "Annotate" tab.</cmd>
-                <info>You cannot annotate your document if someone else is editing/annotating it or
-                    if it is locked (unavailable to non project members). You will see error
-                    messages (and you will remain on “View” mode).<image placement="break"
-                        href="https://cwrc.ca/islandora/object/cwrc%3Ac9ed31c0-4f36-4190-9390-296c8a49bfe3/datastream/OBJ/view"
-                        id="image_zv2_yfs_3x" align="center" scale="80"/></info>
+                <cmd>Click on the "Edit Content" button.</cmd>
+                <stepresult>The structure tab displays the XML tree and the <xref
+                        href="Toolbar.dita">CWRC-Writer toolbar</xref> becomes available for
+                    editing. <note>If the document you are trying to edit is locked by someone else
+                        you will not be able to switch away from the default view and a warning
+                        message will notify you that the document is locked. You will also have the
+                        option to request that the other user unlock the document.</note><image
+                        placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A72d62eaf-9189-49ce-bf32-d7d848cc0cd5/datastream/OBJ/view"
+                        id="image_zv2_yfs_3x" align="center" scale="80"/></stepresult>
             </step>
             <step>
                 <cmd>Begin to annotate your document by adding person, place, organization (etc.)

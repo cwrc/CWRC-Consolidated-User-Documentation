@@ -16,32 +16,35 @@
             <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112442-0700&quot; /&gt;"?>
             <revised modified="2014-09-21"/>
         </critdates>
-        <metadata>
-            
-            
-        </metadata>
+        <metadata/>
     </prolog>
     <taskbody>
         <steps>
             <step>
-                <cmd>Select the <cmdname>Load </cmdname> button on the CWRC-Writer toolbar.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3A731195ae-87f4-4658-beb5-088bb6a95424/datastream/OBJ/view" id="image_msd_gtm_jp" align="center"></image></cmd>
+                <cmd>Select the <cmdname>Load </cmdname> button on the CWRC-Writer toolbar.<image
+                        placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A731195ae-87f4-4658-beb5-088bb6a95424/datastream/OBJ/view"
+                        id="image_msd_gtm_jp" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Click on the document/template you would like to open from the pop-up list. <?oxy_attributes height="&lt;change type=&quot;removed&quot; oldValue=&quot;4in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T173520-0700&quot; /&gt;" width="&lt;change type=&quot;removed&quot; oldValue=&quot;2in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T173521-0700&quot; /&gt;"?><image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3Ac22e7105-8146-4ac8-8594-579304b1f67d/datastream/OBJ/view" id="image_k44_ntm_jp" align="center"></image></cmd>
+                <cmd>Click on the document/template you would like to open from the pop-up list.
+                        <?oxy_attributes height="&lt;change type=&quot;removed&quot; oldValue=&quot;4in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T173520-0700&quot; /&gt;" width="&lt;change type=&quot;removed&quot; oldValue=&quot;2in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T173521-0700&quot; /&gt;"?><image
+                        placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Ac22e7105-8146-4ac8-8594-579304b1f67d/datastream/OBJ/view"
+                        id="image_k44_ntm_jp" align="center"/></cmd>
             </step>
         </steps>
-        <result>By selecting a document/template from the list in the pop-up a new page will be reloaded. <note>If you have <b>not saved</b> your information prior to opening a different document <b>you will lose any changes</b> that you have made. </note></result>
+        <result>By selecting a document/template from the list in the pop-up a new page will be
+            reloaded. <note>If you have <b>not saved</b> your information prior to opening a
+                different document <b>you will lose any changes</b> that you have made.
+            </note></result>
     </taskbody>
     <?oxy_insert_start author="megansellmer" timestamp="20141021T135521-0700"?>
     <related-links>
         <link href="Open_Document_Menu.dita#task_lth_ysb_dp"/>
-        <link href="Save_Document.dita#task_gl2_tc2_lp"/>
         <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
-        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+        <link href="Save%20a%20Document%20in%20Git-Writer.dita" platform="stand-alone"
+            product="CWRC-Writer"/>
     </related-links>
     <?oxy_insert_end?>
 </task>
-
-
-
-

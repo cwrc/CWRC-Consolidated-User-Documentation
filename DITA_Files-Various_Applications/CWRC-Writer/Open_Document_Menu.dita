@@ -42,7 +42,8 @@
     </taskbody>
     <related-links>
         <link href="Open_Document_Toolbar.dita#task_pg2_1tm_jp"/>
-        <link href="Save_Document.dita#task_gl2_tc2_lp"/>
         <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
+        <link href="Save%20a%20Document%20in%20Git-Writer.dita" platform="stand-alone"
+            product="CWRC-Writer"/>
     </related-links>
 </task>

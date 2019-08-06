@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="How_to_connect_to_CWRC-Writer">
+    <title>Connect to Git-Writer</title>
+    <shortdesc>Git-Writer is a web-based XML&amp;LOD editor that supports editing of XML documents storred in GitHub. </shortdesc>
+    <taskbody>
+        <steps><step>
+            <cmd>Go to <xref format="html" scope="external" href="https://cwrc-writer.cwrc.ca"
+                >https://cwrc-writer.cwrc.ca</xref>.</cmd>
+        </step>
+        <step importance="optional">
+            <cmd>Authenticate with GitHub</cmd>
+            <info>If you do not have a GitHub account yet, you can easily sign up for one at <xref
+                href="https://github.com/join?source=header-home" scope="external"
+                format="html">https://github.com/join?source=header-home</xref></info>
+        </step>
+        <step>
+            <cmd>Authorize GitWriter.</cmd>
+            <info>CWRC does not keep any of your GitHub information. The GitHub token issued by GitHub is not stored on a CWRC server, but is only submitted as a <xref href="https://jwt.io/" format="html" scope="external">JSON Web Token</xref> for each request you make.</info>
+        <stepresult>Once authenticated to GitHub, you will be prompted to <xref
+                        href="Load%20a%20document%20in%20Git-Writer.dita">load a
+                    document</xref></stepresult></step></steps>
+    </taskbody>
+</task>
