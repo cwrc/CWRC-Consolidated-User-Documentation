@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_nx4_kjr_q3b">
+    <title>Uploading PDFs as multi-page texts onto CWRC</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps id="steps_asw_24r_q3b">
+            <step>
+                <cmd>Open your document on Adobe Acrobat Pro</cmd>
+            </step>
+            <step>
+                <cmd>Extract the first page and save it as a separate PDF document.</cmd>
+                <info>
+                    <image placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A0c1b8d2c-d8d7-4e17-bec7-4198b179b7a2/datastream/OBJ/view"
+                        id="image_e3w_m5r_q3b"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Save the remaining pages as a TIFF document</cmd>
+                <info>
+                    <image placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A546f1b9d-3afa-4cec-b496-264d96d82c0a/datastream/OBJ/view"
+                        id="image_myg_s5r_q3b"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Archive all TIFF files into a single zip file</cmd>
+                <info>
+                    <image placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A07e3852a-4ec6-4762-a625-5e009717e7c5/datastream/OBJ/view"
+                        id="image_glb_v5r_q3b"/>
+                </info>
+            </step>
+            <step>
+                <cmd>OPen up CWRC</cmd>
+            </step>
+            <step>
+                <cmd>Create an Islandora Internet Archive Book content model.</cmd>
+                <info>
+                    <image placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A0df73bd4-e03d-4354-8b8a-3b8a399b4c5c/datastream/OBJ/view"
+                        id="image_y2z_z5r_q3b"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Select the form you would like to use. In this case, we will be uploading a
+                    book.</cmd>
+                <info>
+                    <image placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Af5d4a778-4c6a-4a5d-98bd-bfc15b8b8bb8/datastream/OBJ/view"
+                        id="image_rld_dvr_q3b"/>
+                </info>
+            </step>
+            <step>
+                <cmd>
+                                Enter your information as necessary. Remember that all
+                                    you need is a title. If you’re unsure of the information, you can always go back and modify
+                            the form.
+                    </cmd>
+                <info>
+                    <image placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3Aeccda48d-e40d-46ad-89d3-a485965ed0ef/datastream/OBJ/view"
+                        id="image_nly_1wr_q3b"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Only upload your title page PDF.</cmd>
+                <info>
+                    <image placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A524ca7b7-5ff7-4fa7-a71c-3d87cf829ecb/datastream/OBJ/view"
+                        id="image_ig5_cwr_q3b"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Change the resolution and extraction information as desired. Once the document
+                    is finished uploading, ingest your document.</cmd>
+            </step>
+            <step>
+                <cmd>Go to Manage > Add Zipped Pages.</cmd>
+                <info>
+                    <image placement="break"
+                        href="https://cwrc.ca/islandora/object/cwrc%3A74887bb1-f9fd-409d-82c3-b334e2261c39/datastream/OBJ/view"
+                        id="image_dtp_fwr_q3b"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Upload the zipped file for upload. Once finished, select “Add Files”.</cmd>
+                <info>
+                    <note>Because the ingestion process can take longer for larger files (e.g. 90+
+                        pps), you can always upload smaller archives at a time.</note>
+                </info>
+            </step>
+        </steps>
+    
+    </taskbody>
+</task>
