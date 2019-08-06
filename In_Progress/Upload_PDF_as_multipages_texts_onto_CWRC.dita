@@ -5,7 +5,10 @@
     <shortdesc></shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>To complete this task, you will need to have installed on your device the program
+                Adobe Acrobat Pro, which can be bought <xref
+                    href="https://acrobat.adobe.com/ca/en/acrobat/acrobat-pro.html" format="html"
+                    scope="external">here</xref>.</p>
         </context>
         <steps id="steps_asw_24r_q3b">
             <step>
