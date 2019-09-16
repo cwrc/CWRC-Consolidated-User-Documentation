@@ -27,7 +27,7 @@
           id="image_byv_txy_3x" align="center"/></p>
       <p>Your <b>Messages</b> page is where you access your new and sent messages. Additionally,
         this is where you write and send new messages (for more information see <xref
-          href="Messaging_Project_Members.dita"/>). <image placement="break"
+          href="Messaging_Other_CWRC_Members.dita"/>). <image placement="break"
           href="https://cwrc.ca/islandora/object/cwrc%3A2c0fe2fc-4447-40ab-83c1-74c4d7a4c3c7/datastream/OBJ/view"
           scale="80" align="center" id="image_h24_dfz_fy" scalefit="yes"/></p>
       <p>Project administrators and editors can assign projects to team members. The <b>Assign to
@@ -129,7 +129,7 @@
     <link href="Creating_CWRC_Account.dita" audience="public"/>
     <link href="Edit_User_Profile.dita"/>
     <link href="Sharing_Bookmark_List.dita"/>
-    <link href="Messaging_Project_Members.dita"/>
+    <link href="Messaging_Other_CWRC_Members.dita"/>
     <link href="About_CWRC.dita"/>
     <link href="CWRC_Content_Models.dita"/>
     <link href="User_Roles.dita"/>

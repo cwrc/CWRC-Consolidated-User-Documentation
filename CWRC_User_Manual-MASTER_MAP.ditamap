@@ -11,9 +11,9 @@
   <mapref href="DITA_Maps-Secondary/Project_Homepages.ditamap" format="ditamap"/>
  </topichead>
  <topichead navtitle="CWRC-integrated applications">
-  <topichead navtitle="CWRC-Writer" product="CWRC-Writer CWRC-Writer_integrated">
+  <topichead navtitle="CWRC-Writer" product="CWRC-Writer">
    <mapref href="DITA_Files-Various_Applications/CWRC-Writer/CWRCWriter_Documentation.ditamap"
-    format="ditamap" product="CWRC-Writer CWRC-Writer_integrated" platform="CWRC"/>
+    format="ditamap" product="CWRC-Writer" platform="CWRC"/>
   </topichead>
   <topichead navtitle="Dynamic Table of Contexts">
    <mapref href="DITA_Files-Various_Applications/DToC/Dynamic%20Table%20of%20Context.ditamap"

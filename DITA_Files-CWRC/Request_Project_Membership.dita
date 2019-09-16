@@ -26,14 +26,14 @@
     </taskbody>
     <related-links>
         <link href="About_CWRC.dita"/>
-        <link href="Create_Subcollections.dita"/>
-        <link href="Changing_Collection_Policy.dita"/>
-        <link href="Uploading_Files.dita"/>
+        <link href="Create_Subcollections.dita" audience="admin member project-contributor project-editor"/>
+        <link href="Changing_Collection_Policy.dita" audience="admin member project-contributor project-editor"/>
+        <link href="Uploading_Files.dita" audience="admin member project-contributor project-editor"/>
         <link href="Searching_CWRC.dita"/>
         <link href="Viewing_Objects.dita"/>
         <link href="CWRC_Content_Models.dita"/>
         <link href="User_Roles.dita"/>
-        <link href="User_Account.dita"/>
+        <link href="User_Account.dita" audience="admin member project-contributor project-editor"/>
         <link href="Searching_Browsing_CWRC.dita"/>
     </related-links>
 </task>

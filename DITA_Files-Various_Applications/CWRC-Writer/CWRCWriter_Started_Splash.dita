@@ -27,13 +27,13 @@
     </section>
   </refbody>
   <related-links>
-    <link href="Write_Editor.dita#task_mbh_fxm_jp"/>
-    <link href="Write_Text_Area.dita#task_fbh_vjc_dp"/>
-    <link href="Delete_Text_Structure.dita#task_mpf_x3l_jp"/>
-    <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
-    <link href="Switch_Mode.dita#task_rzm_jl2_np"/>
-    <link href="Show_Tags.dita#task_mkg_gn2_np"/>
-    <link href="Edit_Source.dita#task_chh_dp2_np"/>
-    <link href="Edit_Header.dita#task_sd5_tj2_np"/>
+    <link href="Write_Editor.dita#task_mbh_fxm_jp" audience="admin member project-contributor project-editor"/>
+    <link href="Write_Text_Area.dita#task_fbh_vjc_dp" audience="admin member project-contributor project-editor"/>
+    <link href="Delete_Text_Structure.dita#task_mpf_x3l_jp" audience="admin member project-contributor project-editor"/>
+    <link href="Validate_Document.dita#task_rlb_rf2_lp" audience="admin member project-contributor project-editor"/>
+    <link href="Switch_Mode.dita#task_rzm_jl2_np" audience="admin member project-contributor project-editor"/>
+    <link href="Show_Tags.dita#task_mkg_gn2_np" audience="admin member project-contributor project-editor"/>
+    <link href="Edit_Source.dita#task_chh_dp2_np" audience="admin member project-contributor project-editor"/>
+    <link href="Edit_Header.dita#task_sd5_tj2_np" audience="admin member project-contributor project-editor"/>
   </related-links>
 </reference>

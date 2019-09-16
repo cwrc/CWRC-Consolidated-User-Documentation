@@ -7,14 +7,15 @@
   <refbody>
     <section>
       <title>General Description</title>
-      <p>CWRC-Writer provides three options for users to work with their documents. Users can view,
-        annotate or edit documents.</p>
-      <p>When working with your document in the Annotation or Edit options other people cannot work
-        with the document. If the document is locked (you don’t have permission to work with) or
-        someone is currently working with the document you will be unable to “Annotate” or “Edit”
-        and receive error messages.</p>
-      <p>If you are finished editing or annotating choose the “Save and Exit” option, this then
-        frees up the document for other team members, so that they may work with it.</p>
+      <p>CWRC-Writer provides two options for users . Users can viewor edit XML documents in
+        CWRC-Writer.</p>
+      <p>When working with your document in the <cmdname>Edit</cmdname> mode other people cannot
+        work with the document. If the document is locked (you don’t have permission to work with
+        it), someone is currently working with the document and you won't be able to go to the
+          <cmdname>Edit Content</cmdname> view of the document.</p>
+      <p>If you are finished editing or annotating choose the <cmdname>Save and Exit</cmdname>
+        option, this then frees up the document for other team members, so that they may work with
+        it.</p>
     </section>
     <section>
       <title>Viewing a document in CWRC-Writer</title>
@@ -28,7 +29,7 @@
           href="https://cwrc.ca/islandora/object/cwrc%3A28f660b2-0ea3-4768-98fd-9560ed1c1773/datastream/OBJ/view"
           scale="80" align="center" id="image_xqp_z3z_fy"/></p>
     </section>
-    <section>
+    <section status="deleted" audience="admin" platform="CWRC">
       <title>Annotating a document</title>
       <p>This option allows users to work with the RDF in the document. You can add RDF annotations
         (person, place, organization, etc.) using the toolbar.</p>

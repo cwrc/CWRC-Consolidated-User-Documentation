@@ -24,10 +24,10 @@
         <link href="About_CWRC.dita"/>
         <link href="Request_Project_Membership.dita"/>
         <link href="Searching_CWRC.dita"/>
-        <link href="Edit_User_Profile.dita"/>
+        <link href="Edit_User_Profile.dita" audience="admin member project-contributor project-editor"/>
         <link href="Viewing_Objects.dita"/>
         <link href="User_Roles.dita"/>
-        <link href="User_Account.dita"/>
+        <link href="User_Account.dita" audience="admin member project-contributor project-editor"/>
         <link href="Searching_Browsing_CWRC.dita"/>
     </related-links>
 </task>

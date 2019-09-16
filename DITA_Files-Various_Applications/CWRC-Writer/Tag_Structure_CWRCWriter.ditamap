@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map audience="admin member project-contributor project-editor public" product="CWRC-Writer"
+<map audience="admin member project-contributor project-editor" product="CWRC-Writer"
  platform="CWRC stand-alone">
  <title>Embedding Semantic Tags with CWRC-Writer</title>
- <topicref href="CWRCWriter_Tag_Splash.dita" audience="admin member project-contributor public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="CWRCWriter_Tag_Splash.dita"
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
  <topicref href="Tag_Selecting_Text.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
  <topicref href="Tag_Structural.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
  <topicref href="Delete_Tags_Editor.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
  <topicref href="Delete_Tags_Toolbar.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
  <topicref href="Edit_Tag_Editor.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
  <topicref href="Edit_Tag_Structure.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
  <topicref href="Edit_Tag_Toolbar.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
 </map>

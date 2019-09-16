@@ -45,9 +45,9 @@
     <li><xref href="Concept_RDF.dita"></xref></li>
     <li><xref href="Concept_Named_Entity_Annotation.dita"></xref></li>
     <li><xref href="Concept_XML.dita"></xref></li>
-    <li><xref href="CWRC_Entity_System.dita"></xref></li>
-    <li><xref href="Toolbar.dita"></xref></li>
-    <li><xref href="CWRCWriter_Entity_Splash.dita"></xref></li>
+     <li><xref href="CWRC_Entity_System.dita"  audience="admin member project-contributor project-editor"/></li>
+     <li><xref href="Toolbar.dita" audience="admin member project-contributor project-editor"/></li>
+     <li><xref href="CWRCWriter_Entity_Splash.dita"  audience="admin member project-contributor project-editor"/></li>
    </ul></p>
    <p><b>Further Reading:</b><ul id="ul_jsp_tlc_zp">
     <li>Miller, E. (1998). An Introduction to the Resource Description Framework. D-Lib Magazine,

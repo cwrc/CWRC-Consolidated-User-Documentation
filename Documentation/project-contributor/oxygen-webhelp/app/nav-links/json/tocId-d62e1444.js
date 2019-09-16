@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Visualize a Collection (manual)","shortdesc":"<p class=\"shortdesc\"></p>","href":"DITA_Files-Various_Applications\/Voyant\/Visualize_a_Collection-manual.html","attributes": {"data-id":"task_nxj_cmd_nw",},"menu": {"hasChildren":false,},"tocID":"task_nxj_cmd_nw-d62e1445","topics":[]}]});

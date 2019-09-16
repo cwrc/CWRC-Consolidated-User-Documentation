@@ -94,6 +94,6 @@
     <link href="About_CWRC.dita"/>
     <link href="CWRC_Content_Models.dita"/>
     <link href="User_Roles.dita"/>
-    <link href="User_Account.dita"/>
+    <link href="User_Account.dita" audience="admin member project-contributor project-editor"/>
   </related-links>
 </reference>

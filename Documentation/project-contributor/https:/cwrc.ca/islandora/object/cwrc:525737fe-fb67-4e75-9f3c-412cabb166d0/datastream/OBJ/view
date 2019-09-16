@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="no-js lt-ie7" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js ie9" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 9]> <html class="no-js ie9" lang="en" dir="ltr"> <![endif]-->
+
+
+<!--[if lt IE 9 ]>    <html class="lt-ie9 no-js"  lang="en" dir="ltr"> <![endif]-->
+<!--[if gte IE 9]><!--> <html class="no-js"  lang="en" dir="ltr"  prefix="content: http://purl.org/rss/1.0/modules/content/
+ dc: http://purl.org/dc/terms/
+ foaf: http://xmlns.com/foaf/0.1/
+ og: http://ogp.me/ns#
+ rdfs: http://www.w3.org/2000/01/rdf-schema#
+ sioc: http://rdfs.org/sioc/ns#
+ sioct: http://rdfs.org/sioc/types#
+ skos: http://www.w3.org/2004/02/skos/core#
+ xsd: http://www.w3.org/2001/XMLSchema#
+ schema: http://schema.org/
+"> <!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8" />
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async="async" defer="defer"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-Yadis-Location" content="https://cwrc.ca/xrds" />
+<meta http-equiv="X-XRDS-Location" content="https://cwrc.ca/xrds" />
+<link rel="openid2.provider" href="https://cwrc.ca/openid/provider" />
+<link rel="openid.server" href="https://cwrc.ca/openid/provider" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://cwrc.ca/user/login" />
+<link rel="shortlink" href="https://cwrc.ca/user/login" />
+    <title>
+      Log in | CWRC/CSEC    </title>
+    <meta name="theme-color" content="#78001E">
+    <meta http-equiv="X-UA-Compatible" content="IE=8">
+
+    <link rel="stylesheet" href="https://cwrc.ca/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" />
+<link rel="stylesheet" href="https://cwrc.ca/sites/default/files/css/css_Z5eWvWzvvhANwdiNzmy7HqC_LZTGbziZ41S9Z908K-A.css" />
+<link rel="stylesheet" href="https://cwrc.ca/sites/default/files/css/css_XQeeE9hP4VW6SVnGxAPgh6rqKFaydAuF8OkpG8qh9Lw.css" />
+<link rel="stylesheet" href="https://cwrc.ca/sites/default/files/css/css_MPMISEeGHaAZk5hwns-7QkVj50JfXdacgz0nVKl5UzI.css" />
+<link rel="stylesheet" href="https://cwrc.ca/sites/default/files/css/css_uAk5sX6mSK9A3mKy0VfpnRmNrNh1f_qGnBwtxAFZWp4.css" />
+<link rel="stylesheet" href="https://cwrc.ca/sites/default/files/css/css_g-QuLDz3Sl0_0BkUyg5fE4ykmQmGkxqhtqPAQZk3MNo.css" media="print" />
+
+    <!--[if LT IE 10]>
+    <script src="/sites/all/themes/custom/de_theme/bower_components/respond/dest/respond.min.js"></script>
+    <script src="/sites/all/themes/custom/de_theme/bower_components/respond/dest/respond.matchmedia.addListener.min.js"></script>
+    <![endif]-->
+
+    <script src="https://cwrc.ca/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1"></script>
+<script src="https://cwrc.ca/misc/jquery-extend-3.4.0.js?v=1.9.1"></script>
+<script src="https://cwrc.ca/misc/jquery.once.js?v=1.2"></script>
+<script src="https://cwrc.ca/misc/drupal.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="https://cwrc.ca/sites/all/libraries/chosen/chosen.jquery.min.js?v=1.1.0"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"de_theme","theme_token":"6Dw-Thj4bDSbXGWfjLIaF804AhqPiRNZcS7yDIB168g","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/chosen\/chosen.css":1,"sites\/default\/modules\/contrib\/chosen\/css\/chosen-drupal.css":1,"sites\/default\/modules\/contrib\/collapsiblock\/collapsiblock.css":1,"sites\/default\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/default\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/islandora\/css\/islandora.base.css":1,"sites\/all\/modules\/islandora\/css\/islandora.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_audio\/css\/islandora_audio.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_collection\/css\/islandora_basic_collection.base.css":1,"sites\/all\/modules\/islandora_solution_pack_collection\/css\/islandora_basic_collection.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_image\/css\/islandora_basic_image.theme.css":1,"sites\/all\/modules\/islandora_batch\/css\/views_table_contextual_links_fix.css":1,"sites\/all\/modules\/islandora_bookmark\/css\/islandora_bookmark.css":1,"sites\/all\/modules\/islandora_fits\/css\/islandora_fits.css":1,"sites\/all\/modules\/islandora_solution_pack_large_image\/css\/islandora_large_image.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_pdf\/css\/islandora_pdf.theme.css":1,"sites\/all\/modules\/islandora_solr_search\/css\/islandora_solr.base.css":1,"sites\/all\/modules\/islandora_solr_metadata\/css\/islandora_solr_metadata.css":1,"sites\/all\/modules\/islandora_solution_pack_video\/css\/islandora_video.theme.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/default\/modules\/contrib\/typogrify\/typogrify.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/custom\/de_theme\/system.menus.css":1,"sites\/all\/themes\/custom\/de_theme\/comment.css":1,"sites\/all\/themes\/custom\/de_theme\/field_collection.theme.css":1,"sites\/all\/themes\/custom\/de_theme\/css\/de_theme.css":1,"sites\/all\/themes\/custom\/de_theme\/css\/print.css":1},"js":{"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/libraries\/modernizr\/modernizr.min.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/default\/modules\/contrib\/collapsiblock\/collapsiblock.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/captcha\/captcha.js":1,"sites\/default\/modules\/contrib\/chosen\/chosen.js":1,"sites\/all\/themes\/custom\/de_theme\/bower_components\/slick-carousel\/slick\/slick.min.js":1,"sites\/all\/themes\/custom\/de_theme\/bower_components\/SimpleStateManager\/dist\/ssm.min.js":1,"sites\/all\/themes\/custom\/de_theme\/bower_components\/matchHeight\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/custom\/de_theme\/dist\/vendor\/appendAround.min.js":1,"sites\/all\/themes\/custom\/de_theme\/dist\/vendor\/jquery.flexverticalcenter.min.js":1,"sites\/all\/themes\/custom\/de_theme\/dist\/script.min.js":1,"sites\/all\/themes\/custom\/de_theme\/dist\/header.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/libraries\/chosen\/chosen.jquery.min.js":1}},"collapsiblock":{"blocks":{"block-user-online":"3","block-views-my-projects-block":"2","block-cwrc-dashboards-user-bookmark-lists":"3","block-cwrc-dashboards-user-workflow-reports":"3","block-cwrc-dashboards-user-assigned-to-me":"2","block-cwrc-dashboards-user-privatemsg":"2","block-cwrc-dashboards-user-recently-edited":"2","block-cwrc-dashboards-project-recently-edited":"2","block-cwrc-dashboards-project-utilities":"1","block-views-project-members-block":"3","block-views-pending-applications-block":"3","block-cwrc-dashboards-project-workflow-reports":"3","block-cwrc-dashboards-project-locked-objects":"2","block-cwrc-workflow-recent-stamps":"3","block-cwrc-workflow-stamp-form":"1","block-cwrc-notification-rules-notification-icon":"1","block-islandora-solr-current-query":"1","block-islandora-solr-display-switch":"1","block-menu-block-5":"1","block-islandora-solr-sort":"1","block-islandora-bookmark-islandora-bookmark":"1","block-islandora-saved-searches-save-search":"1","block-islandora-saved-searches-saved-searches":"2","block-blockify-blockify-tabs":"1","block-menu-block-7":"1","block-block-2":"3","block-cwrc-menu-links-login-link":"1","block-de-contextual-help-help-drop-down":"1","block-fieldblock-874a8e164b51a4d1eddd5b90118eb12f":"1","block-views-dd0cd778927866856aefa269a3cfc970":"1","block-views-66553d96d3282749a55e20a1851a2cac":"1","block-views-project-featured-object-block":1,"block-islandora-blocks-metadata":"3","block-islandora-blocks-datastreams":"3","block-block-4":"3","block-block-3":"3","block-cwrc-homepage-slider-collecting":"1","block-cwrc-homepage-slider-writing":"1","block-blockify-blockify-page-title":"1","block-views-what-we-are-sharing-block":"1","block-islandora-blocks-citation":"1","block-cwrc-theme-compat-sponsors-homepage-block":"1","block-islandora-solr-cwrc-basic-facets":"1","block-islandora-solr-simple":"1","block-islandora-solr-advanced":"1","block-masquerade-masquerade":"1","block-islandora-collection-search-islandora-collection-search":"1","block-islandora-solr-basic-facets":"1","block-block-1":"3","block-menu-block-8":"1","block-menu-block-9":"1","block-menu-block-2":"1","block-cwrc-dashboards-user-locked-objects":"1"},"default_state":"1","slide_type":"1","slide_speed":"200","block_title":":header:first","block":"div.block","block_content":"div.content"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"chosen":{"selector":"","minimum_single":20,"minimum_multiple":20,"minimum_width":200,"options":{"allow_single_deselect":false,"disable_search":false,"disable_search_threshold":0,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","inherit_select_classes":true,"include_group_label_in_selected":true}},"urlIsAjaxTrusted":{"\/user\/login?destination=islandora\/object\/cwrc%3A525737fe-fb67-4e75-9f3c-412cabb166d0\/datastream\/OBJ\/view":true}});</script>
+
+   <!--[if IE 7]>
+    <script src="/sites/all/themes/custom/de_theme/dist/ie.min.js"></script>
+   <![endif]-->
+
+    <script type="text/javascript">if (!$ && jQuery) { var $ = jQuery; }</script>
+
+<link rel="apple-touch-icon" sizes="57x57" href="/sites/all/themes/custom/de_theme/img/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/sites/all/themes/custom/de_theme/img/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/sites/all/themes/custom/de_theme/img/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/custom/de_theme/img/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/custom/de_theme/img/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/sites/all/themes/custom/de_theme/img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/sites/all/themes/custom/de_theme/img/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/custom/de_theme/img/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/sites/all/themes/custom/de_theme/img/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/sites/all/themes/custom/de_theme/img/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/sites/all/themes/custom/de_theme/img/favicons/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/sites/all/themes/custom/de_theme/img/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/sites/all/themes/custom/de_theme/img/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/sites/all/themes/custom/de_theme/img/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/sites/all/themes/custom/de_theme/img/favicons/manifest.json">
+<link rel="mask-icon" href="/sites/all/themes/custom/de_theme/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/sites/all/themes/custom/de_theme/img/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/sites/all/themes/custom/de_theme/img/favicons/mstile-144x144.png">
+<meta name="msapplication-config" content="/sites/all/themes/custom/de_theme/img/favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+
+
+  </head>
+  <body class="html not-front not-logged-in no-sidebars page-user page-user-login i18n-en" >
+
+    <div id="skip-link">
+      <a href="#main" class="element-invisible element-focusable" role="link">Skip to main content</a>
+      <a href="/sitemap.xml" class="element-invisible element-focusable" role ="link">View sitemap</a>
+    </div>
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MM752Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>    
+
+  <header id="de-header" role="banner">
+    <div class="section-header">
+        <div class="region region-masthead" id="masthead">
+    <div class="container clearfix">
+
+      <div class="logo-hamburger">
+        <a href="/" id="logo" rel="home" title="Return to the CWRC/CSEC home page"><img typeof="foaf:Image" src="https://cwrc.ca/sites/all/themes/custom/de_theme/logo.png" alt="CWRC/CSEC logo" /></a>      </div>
+
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="main-navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <ul class="navbar collapsed" id="main-navbar">
+      <li class="logo navbar-left"><a href="/" id="logo" rel="home" title="Return to the CWRC/CSEC home page"><img typeof="foaf:Image" src="https://cwrc.ca/sites/all/themes/custom/de_theme/logo.png" alt="CWRC/CSEC logo" /></a></li>
+
+<li class="navbar-left main-menu-link"><a href="/islandora" title="">Collaboratory</a></li>
+<li class="navbar-left main-menu-link"><a href="/projects" title="A list of all projects">Projects</a></li>
+<li class="navbar-left main-menu-link"><a href="/news" title="News related to CWRC and CWRC projects">News</a></li>
+<li class="navbar-left main-menu-link"><a href="/about" title="General information about CWRC">About</a></li>
+<li class="navbar-left main-menu-link"><a href="/islandora/object/cwrc%253Ac77055c0-78c0-4764-a1f3-c101c4f7a62d/datastream/OBJ/view" title="Terms of Use for the Collaboratory">Terms of Use</a></li>
+<div id="block-cwrc-menu-links-login-link" class="block block-cwrc-menu-links">
+
+    
+  <div class="content">
+    <a href="/user">Login/Join</a>  </div>
+</div>
+
+<li class='navbar-right nav-language-switcher'><a class='dropdown-toggle' href='#' role='button'>EN</a><div class="item-list"><ul class="language-switcher dropdown-menu"><li class="list-item-language active first"><a href="/user/login" class="language-link active">EN</a></li>
+<li class="list-item-language last"><a href="/fr/user/login" class="language-link">FR</a></li>
+</ul></div></li><li class="navbar-right nav-help">
+  <a href="/#help" role="button" class="dropdown-toggle"><span class="help-menu">Help and Bug Reporting</span></a><ul class="dropdown-menu"><li class="first"><a href="http://cwrc.ca/Documentation/public/">Help Documentation</a></li>
+<li class="last"><a href="/content/bug-reporting">Report a Bug</a></li>
+</ul></li>
+      </ul>
+    </div>
+  </div>
+        <div class="region region-masthead-secondary" id="masthead-secondary">
+    <div class="container clearfix">
+      <div id="block-cwrc-search-bar-search" class="block block-cwrc-search-bar">
+      <header>
+                    <h2>Search</h2>
+          </header>
+    
+  <form action="/user/login?destination=islandora/object/cwrc%3A525737fe-fb67-4e75-9f3c-412cabb166d0/datastream/OBJ/view" method="post" id="cwrc-search-bar-search" accept-charset="UTF-8"><div><div class="basic_query_wrapper form-wrapper" id="edit-basic-query"><div class="form-item form-type-textfield form-item-query">
+  <label class="element-invisible" for="edit-query">Search terms </label>
+ <input title="Enter the terms you wish to search for." placeholder="search for..." type="text" id="edit-query" name="query" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-select form-item-scope">
+  <label class="element-invisible" for="edit-scope">Search scope </label>
+ <select id="edit-scope" name="scope" class="form-select"><option value="islandora" selected="selected">Collaboratory</option><option value="site">Website content</option></select>
+</div>
+<input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div><a href="/cwrc_search" class="advanced_search_button" id="edit-advanced-search">Advanced search</a><input type="hidden" name="form_build_id" value="form-hFZaPjN2GQQyb00361PAd22DwE3FZmAnhlMNMeY2Nr0" />
+<input type="hidden" name="form_id" value="cwrc_search_bar_search" />
+</div></form></div>
+    </div>
+  </div>
+          </div>
+  </header>
+
+
+<div class="main-prefix-section-wrapper">
+  <div class="container">
+            <div class="region region-main-prefix clearfix">
+    <div class="container clearfix">
+      <h1 id="page-title" class="title">
+    Log in</h1>
+    </div>
+  </div>
+    
+      </div>
+</div>
+
+
+
+
+    <div class="region region-user-menu clearfix">
+    <div class="container clearfix">
+      <div id="tabs">
+  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="local-tasks-menu">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <h2 class="element-invisible">Primary tabs</h2><ul class="tabs primary collapsed" id="local-tasks-menu"><li><a href="/user/register" class="">Create new account</a></li>
+<li class="active"><a href="/user" class="active">Log in<span class="element-invisible">(active tab)</span></a></li>
+<li><a href="/user/password" class="">Request new password</a></li>
+</ul></div>    </div>
+  </div>
+
+<div class="section-content">
+
+    <div class="container clearfix">
+
+      
+      
+  <main id="main" role="main" class="column">
+      <div class="region region-content clearfix" id="content">
+    <div id="block-system-main" class="block block-system">
+    
+  <form action="/user/login?destination=islandora/object/cwrc%3A525737fe-fb67-4e75-9f3c-412cabb166d0/datastream/OBJ/view" method="post" id="user-login" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="60" maxlength="60" class="form-text required" />
+<div class="description">Enter your CWRC/CSEC username.</div>
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" />
+<div class="description">Enter the password that accompanies your username.</div>
+</div>
+<input type="hidden" name="form_build_id" value="form-zfkwmidF9rE6kK82V3CtGdMyDhFnq4Nkn5zMYgLNfPY" />
+<input type="hidden" name="form_id" value="user_login" />
+<fieldset class="captcha form-wrapper"><legend><span class="fieldset-legend">CAPTCHA</span></legend><div class="fieldset-wrapper"><div class="fieldset-description">This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.</div><input type="hidden" name="captcha_sid" value="103211" />
+<input type="hidden" name="captcha_token" value="4b52554dacb40edc9d057df5f3eb1c6b" />
+<input type="hidden" name="captcha_response" value="Google no captcha" />
+<div class="g-recaptcha" data-sitekey="6Le_ICETAAAAAO_Z9TcDXn0-bab-nYAeIqtbVy8S" data-theme="light" data-type="image"></div></div></fieldset>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form></div>
+  </div>
+  </main>
+
+
+
+</div>
+</div>
+
+
+
+  <footer id="footer" role="contentinfo">
+      <div class="region region-footer clearfix">
+    <div class="container clearfix">
+      <div id="block-block-3" class="block block-block">
+
+    
+  <div class="content">
+    <h3 class="rtecenter">Canadian Writing Research Collaboratory</h3>
+<p class="rtecenter"><strong>Email</strong>: <a href="mailto:cwrc@ualberta.ca">cwrc@ualberta.ca</a> - <strong>Twitter</strong>: <a href="https://twitter.com/cwrcproject">@CWRCproject</a></p>
+<div class="rtecenter"><span style="font-size:12px">If not otherwise specified, all works are licensed under the Creative Commons Attribution - Noncommercial 4.0 International License.</span></div>
+<p class="rtecenter"><strong><a href="/terms-and-conditions"><span style="font-size:12px">Terms and Conditions</span></a></strong></p>
+  </div>
+</div>
+    </div>
+  </div>
+  </footer>
+    <script src="https://cwrc.ca/sites/default/files/google_tag/google_tag.script.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/libraries/modernizr/modernizr.min.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/modules/admin_menu/admin_devel/admin_devel.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/default/modules/contrib/collapsiblock/collapsiblock.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/libraries/colorbox/jquery.colorbox-min.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/modules/contrib/colorbox/js/colorbox.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/modules/contrib/captcha/captcha.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/default/modules/contrib/chosen/chosen.js?v=1.1.0"></script>
+<script src="https://cwrc.ca/sites/all/themes/custom/de_theme/bower_components/slick-carousel/slick/slick.min.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/themes/custom/de_theme/bower_components/SimpleStateManager/dist/ssm.min.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/themes/custom/de_theme/bower_components/matchHeight/jquery.matchHeight-min.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/themes/custom/de_theme/dist/vendor/appendAround.min.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/themes/custom/de_theme/dist/vendor/jquery.flexverticalcenter.min.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/themes/custom/de_theme/dist/script.min.js?pvxlqi"></script>
+<script src="https://cwrc.ca/sites/all/themes/custom/de_theme/dist/header.js?pvxlqi"></script>
+  </body>
+</html>

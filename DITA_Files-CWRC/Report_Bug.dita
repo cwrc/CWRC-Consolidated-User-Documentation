@@ -30,7 +30,7 @@
         <link href="Viewing_Objects.dita"/>
         <link href="CWRC_Content_Models.dita"/>
         <link href="User_Roles.dita"/>
-        <link href="User_Account.dita"/>
+        <link href="User_Account.dita" audience="admin member project-contributor project-editor"/>
         <link href="Searching_Browsing_CWRC.dita"/>
     </related-links>
 </task>

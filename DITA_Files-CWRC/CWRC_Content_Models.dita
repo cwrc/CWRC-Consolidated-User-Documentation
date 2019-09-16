@@ -17,7 +17,7 @@
         have a certain cModel associated with them (the collection cModel). It should be noted that the
         information on what cModel is associated with an object is recorded in the RELSEXT
         datastream of the object. </p>
-      <p>For more information about changing your cModel collection policy or adding an object to
+      <p  audience="admin member project-contributor project-editor">For more information about changing your cModel collection policy or adding an object to
         you collection see <xref href="Changing_Collection_Policy.dita"
           >ChangingCollectionPolicy</xref>.<image placement="break"
           href="https://cwrc.ca/islandora/object/cwrc%3A013bb98c-9243-4fd1-a137-24d167f7d558/datastream/OBJ/view"
@@ -221,10 +221,10 @@
   <related-links>
     <link href="About_CWRC.dita"/>
     <link href="User_Roles.dita"/>
-    <link href="User_Account.dita"/>
+    <link href="User_Account.dita" audience="admin member project-contributor project-editor"/>
     <link href="Searching_Browsing_CWRC.dita"/>
-    <link href="Create_Subcollections.dita"/>
-    <link href="Changing_Collection_Policy.dita"/>
-    <link href="Uploading_Files.dita"/>
+    <link href="Create_Subcollections.dita" audience="admin member project-contributor project-editor"/>
+    <link href="Changing_Collection_Policy.dita" audience="admin member project-contributor project-editor"/>
+    <link href="Uploading_Files.dita" audience="admin member project-contributor project-editor"/>
   </related-links>
 </reference>

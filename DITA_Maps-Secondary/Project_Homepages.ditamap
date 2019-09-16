@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map audience="admin member project-contributor project-editor public">
+<map audience="admin member project-contributor project-editor public" platform="CWRC">
  <title>Project Homepages</title>
  <topicref href="../DITA_Files-CWRC/View_Project_Homepage.dita"
   audience="admin member project-contributor project-editor public"/>
  <topicref href="../DITA_Files-CWRC/Create_Project_Homepages.dita" audience="admin project-editor"/>
  <topicref href="../DITA_Files-CWRC/Make_Changes_to_Project_Homepages.dita"
   audience="admin project-contributor project-editor"/>
- <topicref href="../DITA_Files-CWRC/Messaging_Project_Members.dita"></topicref>
 </map>

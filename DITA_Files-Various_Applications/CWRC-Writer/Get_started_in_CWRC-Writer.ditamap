@@ -8,7 +8,7 @@
   platform="CWRC stand-alone"/>
  <topicref href="Connect%20to%20Git-Writer.dita"/>
  <topicref href="Load%20a%20document%20in%20Git-Writer.dita"/>
- <topicref href="Creating_a_Doc_in_GitWriter.dita"/>
+ <topicref href="Creating_a_Doc_in_GitWriter.dita" platform="stand-alone" product="CWRC-Writer"/>
  <topicref href="Save%20a%20Document%20in%20Git-Writer.dita"/>
  <topicref href="Embed_Ref_Splash.dita" audience="admin member project-contributor project-editor"
   product="CWRC-Writer" platform="CWRC"/>
@@ -35,4 +35,6 @@
  <topicref href="Edit_Header.dita" audience="admin member project-contributor project-editor"
   product="CWRC-Writer" platform="CWRC stand-alone"/>
  <topicref href="Open_Document_Toolbar.dita" product="CWRC-Writer" platform="stand-alone"/>
+ <topicref href="Embed_Ref_Save.dita" audience="admin member project-contributor project-editor"
+  platform="CWRC" product="CWRC-Writer"/>
 </map>

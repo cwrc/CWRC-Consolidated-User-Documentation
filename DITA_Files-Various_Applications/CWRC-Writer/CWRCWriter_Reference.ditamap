@@ -4,19 +4,15 @@
  platform="CWRC stand-alone">
  <title>CWRC-Writer features</title>
  <topicref href="CWRCWriter_Reference_Splash.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone"
-  product="CWRC-Writer"/>
- <topicref href="Settings.dita" audience="admin member project-contributor project-editor public"
+  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+ <topicref href="Settings.dita" audience="admin member project-contributor project-editor"
   platform="CWRC stand-alone" product="CWRC-Writer"/>
  <topicref href="Navigation_Columns.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone"
-  product="CWRC-Writer"/>
- <topicref href="Toolbar.dita" audience="admin member project-contributor project-editor public"
+  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+ <topicref href="Toolbar.dita" audience="admin member project-contributor project-editor"
   platform="CWRC stand-alone" product="CWRC-Writer"/>
- <topicref href="CWRC_Entity_System.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone"
-  product="CWRC-Writer"/>
- <topicref href="Right_Click_Menu.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone"
-  product="CWRC-Writer"/>
+ <topicref href="CWRC_Entity_System.dita" audience="admin member project-contributor project-editor"
+  platform="CWRC stand-alone" product="CWRC-Writer"/>
+ <topicref href="Right_Click_Menu.dita" audience="admin member project-contributor project-editor"
+  platform="CWRC stand-alone" product="CWRC-Writer"/>
 </map>

@@ -41,7 +41,7 @@
         of the CWRC Drupal interface.<image placement="break"
           href="https://cwrc.ca/islandora/object/cwrc%3A305fd261-de7d-4070-87d0-506052e240ec/datastream/OBJ/view"
           id="image_uby_tlt_fy" align="center" scalefit="yes" scale="80"/></p>
-      <p>To find out how to create, edit, or view Project Homepages, visit <xref href="Make_Changes_to_Project_Homepages.dita">Making Changes to Project Homepages</xref>.</p>
+      <p audience="admin project-contributor project-editor">To find out how to create, edit, or view Project Homepages, visit <xref href="Make_Changes_to_Project_Homepages.dita">Making Changes to Project Homepages</xref>.</p>
     </section>
     <section><title>Visualization Tools</title><p>CWRC provides visualization tools for users to explore texts within the site. The tools include <cmdname>Voyant</cmdname> and <cmdname>PlotIt</cmdname>.</p><p><b>CWRC-Writer</b></p><p>CWRC-Writer is a WYSIWYG XML/RDF editor. Users can use CWRC-Writer to view XML documents (uploaded or born-digital within CWRC), annotated with RDF entities and edit the XML/RDF tags. The options available depend on whether the creator has “locked” it from public editing. CWRC-Writer is accessed whenever you open an XML document.</p><p>The below screenshot shows the <cmdname>Edit</cmdname> option of CWRC-Writer. <image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3Abfc3d042-be02-40b1-b5b7-3afa70ca3684/datastream/OBJ/view" id="image_az4_lpv_3x" align="center" scale="80"></image></p>For more information see <xref href="http://cwrc.ca/Documentation/project-editor/#CWRC-Writer/CWRCWriter_Started_Splash.html" format="html" scope="external">http://cwrc.ca/Documentation/project-editor/#CWRC-Writer/CWRCWriter_Started_Splash.html</xref></section>
     <section>
@@ -55,7 +55,14 @@
     </section>
     <section>
       <title>PlotIt</title>
-      <p>PlotIt is a visualization tool that plots items according to the place and date metadata attached to it. When you collect different files within a Bookmark List (for more information see <xref href="Adding_Bookmark_Lists.dita#task_uy5_ty5_3x">Adding Bookmark Lists</xref>) you can use the PlotIt feature to provide the context of their creation. However, if the materials do not have the place and date metadata fields filled in they will not appear in the visualization tool.<image placement="break" href="https://cwrc.ca/islandora/object/cwrc%3Af58e2b57-6acb-48fc-85c2-fc58ee2e3f63/datastream/OBJ/view" id="image_ev3_1qv_3x" align="center"></image></p>
+      <p>PlotIt is a visualization tool that plots items according to the place and date metadata
+        attached to it. When you collect different files within a Bookmark List
+          <ph audience="admin member project-contributor project-editor">(for more information see <xref href="Adding_Bookmark_Lists.dita#task_uy5_ty5_3x">Adding
+            Bookmark Lists</xref>)</ph> you can use the PlotIt feature to provide the context of
+        their creation. However, if the materials do not have the place and date metadata fields
+        filled in they will not appear in the visualization tool.<image placement="break"
+          href="https://cwrc.ca/islandora/object/cwrc%3Af58e2b57-6acb-48fc-85c2-fc58ee2e3f63/datastream/OBJ/view"
+          id="image_ev3_1qv_3x" align="center"/></p>
       <p>For more information see <xref href="Accessing_PlotIt.dita#task_rv3_rbv_3x">Accessing PlotIt in CWRC</xref></p>
     </section>
     <section>
@@ -80,9 +87,9 @@
   <related-links>
     <link href="CWRC_Content_Models.dita"></link>
     <link href="User_Roles.dita"></link>
-    <link href="User_Account.dita"></link>
+    <link href="User_Account.dita" audience="admin member project-contributor project-editor"/>
     <link href="Searching_Browsing_CWRC.dita"></link>
     <link href="Creating_CWRC_Account.dita" audience="public"></link>
   </related-links>
 </reference>
-<?oxy_options track_changes="on"?>
+

@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map audience="admin member project-contributor project-editor public" product="CWRC-Writer"
+<map audience="admin member project-contributor project-editor" product="CWRC-Writer"
  platform="CWRC stand-alone">
  <title>Copying and Pasting in CWRC-Writer</title>
- <topicref href="CWRCWriter_Copy_Splash.dita" audience="admin member public"
-  product="CWRC-Writer_integrated CWRC-Writer_standalone"/>
+ <topicref href="CWRCWriter_Copy_Splash.dita"
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
  <topicref href="Copy_Paste_Text.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
  <topicref href="Copy_Paste_Single_Tag.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
  <topicref href="Copy_Paste_Multiple_Tags.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
  <topicref href="View_Copied_Text.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
  <topicref href="Copy_Paste_Entity.dita"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer"/>
+  audience="admin member project-contributor project-editor" platform="CWRC stand-alone"
+  product="CWRC-Writer"/>
 </map>

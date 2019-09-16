@@ -52,11 +52,11 @@
     <li><xref href="Concept_RDF.dita"></xref></li>
     <li><xref href="Concept_Triples.dita"></xref></li>
     <li><xref href="Concept_Named_Entity_Annotation.dita"></xref></li>
-    <li><xref href="CWRC_Entity_System.dita"></xref></li>
-    <li><xref href="Toolbar.dita"></xref></li>
-    <li><xref href="CWRCWriter_Tag_Splash.dita"></xref></li>
-    <li><xref href="Settings.dita"></xref></li>
-    <li><xref href="Show_Tags.dita"></xref></li>
+     <li><xref href="CWRC_Entity_System.dita"  audience="admin member project-contributor project-editor"/></li>
+     <li><xref href="Toolbar.dita" audience="admin member project-contributor project-editor"/></li>
+    <li><xref href="CWRCWriter_Tag_Splash.dita" audience="admin member project-contributor project-editor"/></li>
+     <li><xref href="Settings.dita" audience="admin member project-contributor project-editor"/></li>
+     <li><xref href="Show_Tags.dita" audience="admin member project-contributor project-editor"/></li>
    </ul></p>
   </section>
  </conbody>

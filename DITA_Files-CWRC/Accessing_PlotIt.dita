@@ -29,14 +29,14 @@
     </taskbody>
     <related-links>
         <link href="About_CWRC.dita"/>
-        <link href="Adding_Bookmark.dita"/>
-        <link href="Adding_Bookmark_Lists.dita"/>
-        <link href="Sharing_Bookmark_List.dita"/>
+        <link href="Adding_Bookmark.dita" audience="admin member project-contributor project-editor"/>
+        <link href="Adding_Bookmark_Lists.dita" audience="admin member project-contributor project-editor"/>
+        <link href="Sharing_Bookmark_List.dita" audience="admin member project-contributor project-editor"/>
         <link href="Searching_CWRC.dita"/>
         <link href="Viewing_Objects.dita"/>
         <link href="CWRC_Content_Models.dita"/>
         <link href="User_Roles.dita"/>
-        <link href="User_Account.dita"/>
+        <link href="User_Account.dita"  audience="admin member project-contributor project-editor"/>
         <link href="Searching_Browsing_CWRC.dita"/>
     </related-links>
 </task>

@@ -4,8 +4,7 @@
  platform="CWRC stand-alone">
  <title>CWRC-Writer Documentation</title>
  <topichead navtitle="Getting started in CWRC-Writer"
-  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone"
-  product="CWRC-Writer">
+  audience="admin member project-contributor project-editor public" platform="CWRC stand-alone" product="CWRC-Writer">
   <topicref href="Get_started_in_CWRC-Writer.ditamap" format="ditamap"/>
  </topichead>
  <topichead navtitle="CWRC-Writer features">

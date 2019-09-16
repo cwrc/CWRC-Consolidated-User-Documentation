@@ -181,20 +181,6 @@
                                         </profileConditionValue>
                                         <profileConditionValue>
                                             <field name="value">
-                                                <String>CWRC-Writer_standalone</String>
-                                            </field>
-                                            <field name="description">
-                                                <String>instructions apply to the standalone version of CWRC-Writer</String>
-                                            </field>
-                                            <field name="level">
-                                                <Integer>0</Integer>
-                                            </field>
-                                            <field name="renderName">
-                                                <null/>
-                                            </field>
-                                        </profileConditionValue>
-                                        <profileConditionValue>
-                                            <field name="value">
                                                 <String>DToC</String>
                                             </field>
                                             <field name="description">
@@ -247,20 +233,6 @@
                                             </field>
                                             <field name="renderName">
                                                 <String>Voyant</String>
-                                            </field>
-                                        </profileConditionValue>
-                                        <profileConditionValue>
-                                            <field name="value">
-                                                <String>CWRC-Writer_integrated</String>
-                                            </field>
-                                            <field name="description">
-                                                <null/>
-                                            </field>
-                                            <field name="level">
-                                                <Integer>0</Integer>
-                                            </field>
-                                            <field name="renderName">
-                                                <null/>
                                             </field>
                                         </profileConditionValue>
                                     </profileConditionValue-array>
@@ -1137,9 +1109,18 @@
                                             </String-array>
                                         </entry>
                                         <entry>
+                                            <String>platform</String>
+                                            <String-array>
+                                                <String>CWRC</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
                                             <String>product</String>
                                             <String-array>
-                                                <String>CWRC-Writer_integrated</String>
+                                                <String>CWRC-Writer</String>
+                                                <String>DToC</String>
+                                                <String>PlotIt</String>
+                                                <String>Voyant</String>
                                             </String-array>
                                         </entry>
                                     </serializableOrderedMap>
@@ -1170,9 +1151,18 @@
                                             </String-array>
                                         </entry>
                                         <entry>
+                                            <String>platform</String>
+                                            <String-array>
+                                                <String>CWRC</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
                                             <String>product</String>
                                             <String-array>
-                                                <String>CWRC-Writer_integrated</String>
+                                                <String>CWRC-Writer</String>
+                                                <String>DToC</String>
+                                                <String>PlotIt</String>
+                                                <String>Voyant</String>
                                             </String-array>
                                         </entry>
                                     </serializableOrderedMap>
@@ -1203,9 +1193,18 @@
                                             </String-array>
                                         </entry>
                                         <entry>
+                                            <String>platform</String>
+                                            <String-array>
+                                                <String>CWRC</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
                                             <String>product</String>
                                             <String-array>
-                                                <String>CWRC-Writer_integrated</String>
+                                                <String>CWRC-Writer</String>
+                                                <String>DToC</String>
+                                                <String>PlotIt</String>
+                                                <String>Voyant</String>
                                             </String-array>
                                         </entry>
                                     </serializableOrderedMap>
@@ -1244,7 +1243,10 @@
                                         <entry>
                                             <String>product</String>
                                             <String-array>
-                                                <String>CWRC-Writer_integrated</String>
+                                                <String>CWRC-Writer</String>
+                                                <String>DToC</String>
+                                                <String>PlotIt</String>
+                                                <String>Voyant</String>
                                             </String-array>
                                         </entry>
                                     </serializableOrderedMap>
@@ -1275,9 +1277,18 @@
                                             </String-array>
                                         </entry>
                                         <entry>
+                                            <String>platform</String>
+                                            <String-array>
+                                                <String>CWRC</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
                                             <String>product</String>
                                             <String-array>
-                                                <String>CWRC-Writer_integrated</String>
+                                                <String>CWRC-Writer</String>
+                                                <String>DToC</String>
+                                                <String>PlotIt</String>
+                                                <String>Voyant</String>
                                             </String-array>
                                         </entry>
                                     </serializableOrderedMap>
@@ -1319,7 +1330,7 @@
                                     <String>DITA*</String>
                                 </field>
                                 <field name="conditionSetName">
-                                    <String>Stand-alone CWRC-Writer (GitWriter)</String>
+                                    <String>CWRC(Git)-Writer</String>
                                 </field>
                                 <field name="ditavalFile">
                                     <String></String>
@@ -1365,6 +1376,10 @@
                                 </field>
                             </profileConditionsSetInfo>
                         </profileConditionsSetInfo-array>
+                    </entry>
+                    <entry>
+                        <String>report.invalid.attr.vals.found.in.doc</String>
+                        <Boolean>true</Boolean>
                     </entry>
                     <entry>
                         <String>scenario.associations</String>

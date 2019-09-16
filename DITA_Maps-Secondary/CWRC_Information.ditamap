@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map audience="admin member project-contributor project-editor public">
+<map audience="admin member project-contributor project-editor public" platform="CWRC">
  <title>CWRC information</title>
- <topicref href="../DITA_Files-CWRC/About_CWRC.dita" audience="admin member project-contributor project-editor public"></topicref>
+ <topicref href="../DITA_Files-CWRC/About_CWRC.dita"
+  audience="admin member project-contributor project-editor public"/>
  <topicref href="../DITA_Files-CWRC/CWRC_Content_Models.dita"
   audience="admin member project-contributor project-editor public"/>
- <topicref href="../DITA_Files-CWRC/User_Roles.dita" audience="admin member project-contributor project-editor public"/>
- <topicref href="../DITA_Files-CWRC/User_Account.dita" audience="admin member project-contributor project-editor public"/>
+ <topicref href="../DITA_Files-CWRC/User_Roles.dita"
+  audience="admin member project-contributor project-editor public"/>
+ <topicref href="../DITA_Files-CWRC/User_Account.dita"
+  audience="admin member project-contributor project-editor" platform="CWRC"/>
  <topicref href="../DITA_Files-CWRC/Searching_Browsing_CWRC.dita"
   audience="admin member project-contributor project-editor public"/>
- <topicref href="../DITA_Files-CWRC/Menu_Bar.dita"></topicref>
+ <topicref href="../DITA_Files-CWRC/Menu_Bar.dita" platform="CWRC"
+  audience="admin member project-contributor project-editor public"/>
 </map>

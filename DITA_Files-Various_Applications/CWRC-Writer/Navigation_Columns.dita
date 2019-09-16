@@ -35,11 +35,11 @@
   </refbody>
   <related-links>
     <link href="CWRCWriter_Reference_Splash.dita"/>
-    <link href="Settings.dita"/>
-    <link href="Embed_ref_CreateDoc.dita"/>
-    <link href="Toolbar.dita"/>
-    <link href="CWRC_Entity_System.dita"/>
-    <link href="Right_Click_Menu.dita"/>
-    <link href="Embed_Ref_Save.dita"/>
+    <link href="Settings.dita" audience="admin member project-contributor project-editor"/>
+    <link href="Embed_Create_Doc.dita"  audience="admin member project-contributor project-editor"/>
+    <link href="Toolbar.dita" audience="admin member project-contributor project-editor"/>
+    <link href="CWRC_Entity_System.dita"  audience="admin member project-contributor project-editor"/>
+    <link href="Right_Click_Menu.dita" audience="admin member project-contributor project-editor"/>
+    <link href="Embed_Ref_Save.dita"  audience="admin member project-contributor project-editor"/>
   </related-links>
 </reference>

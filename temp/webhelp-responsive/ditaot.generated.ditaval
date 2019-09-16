@@ -1,0 +1,11 @@
+<?xml version="1.0" ?><val xmlns:dita-ot="http://dita-ot.sourceforge.net">
+  <prop action="exclude" att="audience"></prop>
+  <prop action="include" att="audience" val="admin"></prop>
+  <prop action="exclude" att="platform"></prop>
+  <prop action="include" att="platform" val="CWRC"></prop>
+  <prop action="exclude" att="product"></prop>
+  <prop action="include" att="product" val="CWRC-Writer"></prop>
+  <prop action="include" att="product" val="DToC"></prop>
+  <prop action="include" att="product" val="PlotIt"></prop>
+  <prop action="include" att="product" val="Voyant"></prop>
+</val>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project basedir="/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/light" name="Copy template resources" default="copy-template-resources">
+    <target name="copy-template-resources">
+        <mkdir dir="/Users/milovan/User Documentation/Documentation-all-user-documentation/Documentation/administrator/oxygen-webhelp/template"/>
+        <copy todir="/Users/milovan/User Documentation/Documentation-all-user-documentation/Documentation/administrator/oxygen-webhelp/template" overwrite="yes" failonerror="yes" verbose="yes">
+            <fileset dir=".">
+                <include name="light.css"/>
+            </fileset>
+        </copy>
+    </target>
+</project>

@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map audience="admin member project-contributor project-editor public"
- product="CWRC-Writer_integrated CWRC-Writer_standalone">
+<map audience="admin member project-contributor project-editor public" platform="CWRC">
  <title>Getting started with CWRC</title>
- <topicref href="../DITA_Files-CWRC/Creating_CWRC_Account.dita" audience="admin public"/>
- <topicref href="../DITA_Files-CWRC/Request_Project_Membership.dita" audience="admin member public"/>
- <topicref href="../DITA_Files-CWRC/Create_Subcollections.dita"
-  audience="admin member project-contributor project-editor public"/>
- <topicref href="../DITA_Files-CWRC/Changing_Collection_Policy.dita"
-  audience="admin member project-contributor project-editor public"/>
- <topicref href="../DITA_Files-CWRC/Uploading_Files.dita"
-  audience="admin member project-contributor project-editor public"/>
- <topicref href="../DITA_Files-CWRC/Searching_CWRC.dita" audience="admin member public"/>
- <topicref href="../DITA_Files-CWRC/Report_Bug.dita" audience="admin member project-contributor project-editor public"/>
+ <topicref href="../DITA_Files-CWRC/Viewing_Objects.dita"
+  audience="admin member project-contributor project-editor public" platform="CWRC"/>
+ <topicref href="../DITA_Files-CWRC/Searching_CWRC.dita"
+  audience="admin member project-contributor project-editor public" platform="CWRC"/>
+ <topicref href="../DITA_Files-CWRC/Report_Bug.dita"
+  audience="admin member project-contributor project-editor public" platform="CWRC"/>
+ <topicref href="../DITA_Files-CWRC/Creating_CWRC_Account.dita"
+  audience="admin member project-contributor project-editor public" platform="CWRC"/>
  <topicref href="../DITA_Files-CWRC/Edit_User_Profile.dita"
-  audience="admin member project-contributor project-editor public"/>
+  audience="admin member project-contributor project-editor" platform="CWRC"/>
+ <topicref href="../DITA_Files-CWRC/Messaging_Other_CWRC_Members.dita"
+  audience="admin member project-contributor project-editor" platform="CWRC"/>
+ <topicref href="../DITA_Files-CWRC/Request_Project_Membership.dita"
+  audience="admin member project-contributor project-editor public" platform="CWRC"/>
+ <topicref href="../DITA_Files-CWRC/Create_Subcollections.dita"
+  audience="admin member project-contributor project-editor" platform="CWRC"/>
+ <topicref href="../DITA_Files-CWRC/Changing_Collection_Policy.dita"
+  audience="admin member project-contributor project-editor" platform="CWRC"/>
+ <topicref href="../DITA_Files-CWRC/Uploading_Files.dita"
+  audience="admin member project-contributor project-editor" platform="CWRC"/>
+ <topicref href="../DITA_Files-CWRC/Sharing_Migrating_Objects.dita"
+  audience="admin member project-contributor project-editor" platform="CWRC"/>
  <topicref href="../DITA_Files-CWRC/Adding_Bookmark.dita"
-  audience="admin member project-contributor project-editor"/>
+  audience="admin member project-contributor project-editor" platform="CWRC"/>
  <topicref href="../DITA_Files-CWRC/Adding_Bookmark_Lists.dita"
   audience="admin member project-contributor project-editor"/>
  <topicref href="../DITA_Files-CWRC/Sharing_Bookmark_List.dita"
-  audience="admin member project-contributor project-editor public"/>
+  audience="admin member project-contributor project-editor" platform="CWRC"/>
  <topicref href="../DITA_Files-CWRC/Accessing_PlotIt.dita"
-  audience="admin member project-contributor project-editor public"/>
- <topicref href="../DITA_Files-CWRC/Viewing_Objects.dita" audience="admin member public"/>
- <topicref href="../DITA_Files-CWRC/Sharing_Migrating_Objects.dita"
   audience="admin member project-contributor project-editor public"/>
 </map>
